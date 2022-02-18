@@ -1,5 +1,6 @@
 ---
-permalink: /404.html
+title: Search
+permalink: /search/
 layout: default
 ---
 
@@ -7,19 +8,24 @@ layout: default
   .container {
     margin: 10px auto;
     max-width: 600px;
-    text-align: center;
+  }
+  input {
+    font-size: 30px;
+    display: block;
+    margin: auto;
+    width: 400px
   }
   h1 {
     margin: 30px 0;
     font-size: 4em;
     line-height: 1;
     letter-spacing: -1px;
+    text-align: center;
   }
 </style>
 
 <div class="container">
-  <h1>404</h1>
+  <h1>Search</h1>
 
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found. Maybe try <a href="/search/">searching?</a></p>
+  {% include custom/search.html %}
 </div>
