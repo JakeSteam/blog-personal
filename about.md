@@ -6,6 +6,10 @@ layout: default
 
 # About 
 
+Hello! 
+
+This used to be a [more traditional portfolio site](https://jakesteam.github.io/Portfolio/), but I wanted to start writing non-programming blogs.
+
 ## Links
 
 | Professional | Personal | Tracking | Gaming | Wishlist |
