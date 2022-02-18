@@ -63,6 +63,6 @@ layout: default
 
 I actually started Android development making games of varying quality!
 
-**[Pixel Blacksmith](https://play.google.com/store/apps/details?id=uk.co.jakelee.blacksmith)**: 200k downloads, and my first app. Craft items for visitors, heavily inspired by RuneScape.<br>
+**[Pixel Blacksmith](https://play.google.com/store/apps/details?id=uk.co.jakelee.blacksmith)**: 200k downloads on my first app! Craft items for visitors, inspired by RuneScape.<br>
 **[Blacksmith Slots](https://play.google.com/store/apps/details?id=uk.co.jakelee.blacksmithslots)**: A semi-sequel, with a unique slot machine crafting system.<br>
 **[Connect Quest](https://play.google.com/store/apps/details?id=uk.co.jakelee.cityflow)**: A 2.5D puzzle game about aligning tiles, with innovative QR-code based level sharing.
