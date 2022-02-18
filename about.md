@@ -12,8 +12,6 @@ layout: default
 | -- | -- | -- | -- | -- |
 | [LinkedIn](https://www.linkedin.com/in/jake-lee)<br>[GitHub](https://github.com/JakeSteam)<br>[StackOverflow](https://stackoverflow.com/u/608312) | [Twitter](https://www.twitter.com/jakeleeuk/)<br>[Reddit](https://www.reddit.com/user/JakeSteam/)<br>[Instagram](https://www.instagram.com/jakeleeuk/) | [Spotify](https://open.spotify.com/user/1158672316)<br>[Goodreads](https://www.goodreads.com/JakeSteam) | [Xbox](https://account.xbox.com/en-gb/profile?gamertag=JakeLeeUK)<br>[Steam](https://steamcommunity.com/id/jakethemedic) | [Amazon](https://www.amazon.co.uk/gp/registry/wishlist/25U6KHU9XCK4B) |
 
-*Icons coming soon!*
-
 <!--<table class="demo">
 	<thead>
 	<tr>
@@ -59,10 +57,9 @@ layout: default
 | **Languages** | Git, Kotlin | CSS, HTML, Java, JavaScript, SQL | C#, ColdFusion, PHP, Swift, Visual Basic |
 | **Technologies** | Android, Firebase, GitHub Actions, GraphQL, Jekyll | Cloudflare | ActionScript, Apache, Azure, Flutter, iOS, jQuery, Virtual Machines, WordPress | 
 
-## Games
+## Created Apps
 
-I actually started Android development making games of varying quality!
-
-**[Pixel Blacksmith](https://play.google.com/store/apps/details?id=uk.co.jakelee.blacksmith)**: 200k downloads on my first app! Craft items for visitors, inspired by RuneScape.<br>
+**[Pixel Blacksmith](https://play.google.com/store/apps/details?id=uk.co.jakelee.blacksmith)**: 250k downloads on my first app! Craft items for visitors, inspired by RuneScape.<br>
 **[Blacksmith Slots](https://play.google.com/store/apps/details?id=uk.co.jakelee.blacksmithslots)**: A semi-sequel, with a unique slot machine crafting system.<br>
-**[Connect Quest](https://play.google.com/store/apps/details?id=uk.co.jakelee.cityflow)**: A 2.5D puzzle game about aligning tiles, with innovative QR-code based level sharing.
+**[Connect Quest](https://play.google.com/store/apps/details?id=uk.co.jakelee.cityflow)**: A 2.5D puzzle game about aligning tiles, with innovative QR-code based level sharing.<br>
+**[Daily APOD Wallpaper](https://play.google.com/store/apps/details?id=uk.co.jakelee.apodwallpaper)**: An app to automatically change your wallpaper to NASA's picture of the day.
