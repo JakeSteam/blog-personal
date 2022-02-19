@@ -8,34 +8,13 @@ layout: default
 
 Hello! 
 
-This used to be a [more traditional portfolio site](https://jakesteam.github.io/Portfolio/), but I wanted to start writing non-programming blogs.
+This used to be a [more traditional portfolio site](https://jakesteam.github.io/Portfolio/), but I wanted to start writing non-programming posts!
 
 ## Links
 
 | Professional | Personal | Tracking | Gaming | Wishlist |
 | -- | -- | -- | -- | -- |
 | [LinkedIn](https://www.linkedin.com/in/jake-lee)<br>[GitHub](https://github.com/JakeSteam)<br>[StackOverflow](https://stackoverflow.com/u/608312) | [Twitter](https://www.twitter.com/jakeleeuk/)<br>[Reddit](https://www.reddit.com/user/JakeSteam/)<br>[Instagram](https://www.instagram.com/jakeleeuk/) | [Spotify](https://open.spotify.com/user/1158672316)<br>[Goodreads](https://www.goodreads.com/JakeSteam) | [Xbox](https://account.xbox.com/en-gb/profile?gamertag=JakeLeeUK)<br>[Steam](https://steamcommunity.com/id/jakethemedic) | [Amazon](https://www.amazon.co.uk/gp/registry/wishlist/25U6KHU9XCK4B) |
-
-<!--<table class="demo">
-	<thead>
-	<tr>
-		<th>Professional</th>
-		<th>Personal</th>
-		<th>Tracking</th>
-		<th>Gaming</th>
-		<th>Wishlist</th>
-	</tr>
-	</thead>
-	<tbody>
-	<tr>
-		<td>&nbsp;</td>
-		<td></td>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
-	</tr>
-	</tbody>
-</table>-->
 
 ## Work
 
