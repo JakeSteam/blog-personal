@@ -3,7 +3,7 @@ title: Jake Lee
 email: blog@jakelee.co.uk
 description: Sci fi, books, economics, games, everything that isn't software related.
 baseurl: ""
-url: "https://staging.jakelee.co.uk"
+url: "https://jakelee.co.uk"
 permalink: /:title/
 show_excerpts: true
 
@@ -18,7 +18,6 @@ stackoverflow_username: Jake-Lee
 stackoverflow_id: 608312
 utterances_repo: "JakeSteam/blog-personal"
 rss: RSS
-main_url: https://jakelee.co.uk
 
 # Build settings
 plugins:
