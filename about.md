@@ -4,6 +4,14 @@ permalink: /about/
 layout: default
 ---
 
+<script src="https://kit.fontawesome.com/815222ff50.js" crossorigin="anonymous"></script>
+
+<style>
+    .fa-brands {
+        font-size: 36px;
+    }
+</style>
+
 # About 
 
 Hello! 
@@ -13,8 +21,8 @@ This used to be a [more traditional portfolio site](https://jakesteam.github.io/
 ## Links
 
 | Professional | Personal | Tracking | Gaming | Wishlist |
-| -- | -- | -- | -- | -- |
-| [LinkedIn](https://www.linkedin.com/in/jake-lee)<br>[GitHub](https://github.com/JakeSteam)<br>[StackOverflow](https://stackoverflow.com/u/608312) | [Twitter](https://www.twitter.com/jakeleeuk/)<br>[Reddit](https://www.reddit.com/user/JakeSteam/)<br>[Instagram](https://www.instagram.com/jakeleeuk/) | [Spotify](https://open.spotify.com/user/1158672316)<br>[Goodreads](https://www.goodreads.com/JakeSteam) | [Xbox](https://account.xbox.com/en-gb/profile?gamertag=JakeLeeUK)<br>[Steam](https://steamcommunity.com/id/jakethemedic) | [Amazon](https://www.amazon.co.uk/gp/registry/wishlist/25U6KHU9XCK4B) |
+| :--: | :--: | :--: | :--: | :--: |
+| <a href="https://www.linkedin.com/in/jake-lee"><i class="fa-brands fa-linkedin-in"></i></a> <a href="https://github.com/JakeSteam"><i class="fa-brands fa-github"></i></a> <a href="https://stackoverflow.com/u/608312"><i class="fa-brands fa-stack-overflow"></i></a> | <a href="https://www.twitter.com/jakeleeuk/"><i class="fa-brands fa-twitter"></i></a> <a href="https://www.reddit.com/user/JakeSteam/"><i class="fa-brands fa-reddit-alien"></i></a> <a href="https://www.instagram.com/jakeleeuk"><i class="fa-brands fa-instagram"></i></a> | <a href="https://open.spotify.com/user/1158672316"><i class="fa-brands fa-spotify"></i></a> <a href="https://www.goodreads.com/JakeSteam"><i class="fa-brands fa-goodreads-g"></i></a> <a href="https://www.imdb.com/user/ur67633144/ratings"><i class="fa-brands fa-imdb"></i></a> | <a href="https://account.xbox.com/en-gb/profile?gamertag=JakeLeeUK"><i class="fa-brands fa-xbox"></i></a> <a href="https://steamcommunity.com/id/jakethemedic"><i class="fa-brands fa-steam-symbol"></i></a> | <a href="https://www.amazon.co.uk/gp/registry/wishlist/25U6KHU9XCK4B"><i class="fa-brands fa-amazon"></i></a> |
 
 ## Work
 
