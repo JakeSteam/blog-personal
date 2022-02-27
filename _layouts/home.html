@@ -44,20 +44,12 @@ layout: default
     {%- endfor -%}
   </ul>
 
-  {% if site.paginate %}
-  <div class="pagination">
-    {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">&laquo; Previous</a>
-    {% endif %}
+  {% include custom/paginator.html %}
 
-    <span class="page_number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-
-    {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next &raquo;</a>
-    {% endif %}
-
-    <br><br>
+  <br><br>
+    
+  <div class="crosslink">
     <p><i>Looking for software development posts? I've <a href="https://blog.jakelee.co.uk">got another blog for those</a>!</i></p>
   </div>
-  {% endif %}
+
 </div>
