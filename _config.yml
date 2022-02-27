@@ -1,7 +1,7 @@
 # Blog settings
 title: Jake Lee
 email: blog@jakelee.co.uk
-description: Sci fi, books, economics, games, everything that isn't software related.
+description: Books, TV, money, games, personal, everything that isn't software related.
 baseurl: ""
 url: "https://jakelee.co.uk"
 permalink: /:title/
