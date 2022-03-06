@@ -94,7 +94,7 @@ These accolades just require 3 starring the new PR stunts:
 
 ![](/assets/images/2022/fh5s5-parade.png)
 
-**Series 5 Collector** worth 1000 points isn't obtainable at time of writing, but you'll get it automatically by the end of the season if you're completing half of the! Here are the required cars:
+**Series 5 Collector** worth 1000 points isn't obtainable at time of writing, but you'll get it automatically by the end of the season if you're completing half of the tasks! Here are the required cars:
 * 1965 MINI Cooper S Forza Edition (80 pts overall in series 5)
 * 2018 KTM X-Bow GT4 (20 pts in series 5 week 1)
 * 2019 Toyota 4Runner TRD Pro (20 pts in series 5 week 2)
