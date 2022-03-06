@@ -32,6 +32,12 @@
     border-radius: .25rem;
 }
 
+/* Fixes the in-post indent applying to homepage */
+.homepage-title {
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
 /* Fixes weird table word break behaviour */
 table {
     table-layout: fixed;
