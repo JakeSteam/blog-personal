@@ -4,11 +4,11 @@
 }
 
 .site-header {
-    border-top: 5px solid #b7b7b7;
+    border-top: 5px solid #ad0019;
 }
 
 .card {
-    border: 1px solid #b7b7b7;
+    border: 1px solid #ad0019;
     border-radius: .25rem;
 }
 
@@ -28,7 +28,7 @@
     min-height: 180px;
     background-position: center;
     background-color: #fff;
-    border: 1px solid #a6a9ff;
+    border: 1px solid #ad0019;
     border-radius: .25rem;
 }
 
@@ -118,7 +118,7 @@ h1:hover .octicon, h2:hover .octicon, h3:hover .octicon, h4:hover .octicon, h5:h
 /* Table of contents */
 .toc {
     float: right;
-    border: 1px solid #a6a9ff;
+    border: 1px solid #ad0019;
     border-radius: 0.25rem;
     padding-top: 15px;
     padding-right: 15px;
