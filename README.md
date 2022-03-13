@@ -1,6 +1,6 @@
 # What is this?
 
-This is the source code for blog.jakelee.co.uk, generated using Jekyll!
+This is the source code for jakelee.co.uk, generated using Jekyll!
 
 # Are there any related blog posts?
 
