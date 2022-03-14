@@ -1567,7 +1567,7 @@ var sampleData = `[{
     "userCountry": "GB",
     "doc": {
       "documentType": "In App Item",
-      "title": "Chant Of Stamina (🔥Raid Away! - Idle RPG (Uncensored 18+))"
+      "title": "Chant Of Stamina (Raid Away!)"
     },
     "purchaseTime": "2017-12-05T16:20:57.308Z"
   }
@@ -1773,7 +1773,7 @@ var sampleData = `[{
     "userCountry": "GB",
     "doc": {
       "documentType": "Android Apps",
-      "title": "DraStic DS Emulator"
+      "title": "DraStic DS Emulatidor"
     },
     "purchaseTime": "2017-03-11T17:20:43.849Z"
   }
