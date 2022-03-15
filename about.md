@@ -1,7 +1,7 @@
 ---
 title: About
 permalink: /about/
-layout: default
+layout: page
 ---
 
 <script src="https://kit.fontawesome.com/815222ff50.js" crossorigin="anonymous"></script>
@@ -12,11 +12,9 @@ layout: default
     }
 </style>
 
-# About 
-
 Hello! 
 
-This used to be a [more traditional portfolio site](https://jakesteam.github.io/Portfolio/), but I wanted to start writing non-programming posts!
+This is my blog for non-programming posts, all my programming posts are over on [blog.jakelee.co.uk](https://blog.jakelee.co.uk)!
 
 ## Links
 

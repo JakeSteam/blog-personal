@@ -1,29 +1,26 @@
 ---
 permalink: /purchase-history/
-layout: default
+layout: page
 ---
+<h1>Google Play purchase history analyser</h1>
 
-<div class="container">
-  <h1>Google Play purchase history analyser</h1>
+<p>Load your <code>Purchase History.json</code> below (<a href="/analysing-my-google-play-purchase-history/">instructions</a>), or <a onclick="handlePurchasesFile(sampleData)">load sample data (mine!)</a>.</p>
 
-  <p>Load your <code>Purchase History.json</code> below (<a href="/analysing-my-google-play-purchase-history/">instructions</a>), or <a onclick="handlePurchasesFile(sampleData)">load sample data (mine!)</a>.</p>
+<label class="picker-label" for="picker">
+  <div class="picker-text">Click or drag your purchase history here!</div>
+  <input type="file" name="inputfile" id="inputfile" accept=".json">
+</label>
 
-  <label class="picker-label" for="picker">
-    <div class="picker-text">Click or drag your purchase history here!</div>
-    <input type="file" name="inputfile" id="inputfile" accept=".json">
-  </label>
+<p>Notes:</p>
+<ul>
+  <li>No data is transferred, all processing is done in your browser.</li>
+  <li>"Total" is in your local currency, if you've purchased using multiple this tool won't be accurate.</li>
+  <li>Free purchases (e.g. trials) are not included in the analysis.</li>
+  <li>Refunded purchases will still be shown.</li>
+</ul>
 
-  <p>Notes:</p>
-  <ul>
-    <li>No data is transferred, all processing is done in your browser.</li>
-    <li>"Total" is in your local currency, if you've purchased using multiple this tool won't be accurate.</li>
-    <li>Free purchases (e.g. trials) are not included in the analysis.</li>
-    <li>Refunded purchases will still be shown.</li>
-  </ul>
-
-  <br><br>
-  <div id="output"></div>
-</div>
+<br><br>
+<div id="output"></div>
 
 <script src="/assets/js/purchasehistory/purchasehistory.js"></script>
 <script src="/assets/js/purchasehistory/purchasesample.js"></script>
@@ -39,32 +36,31 @@ layout: default
 
 <style>
   input[type="file"] {
-  position: absolute;
-  left: 0;
-  opacity: 0;
-  top: 0;
-  bottom: 0;
-  width: 100%;
-}
+    position: absolute;
+    left: 0;
+    opacity: 0;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+  }
 
-.picker-text {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  width: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: rgb(236, 236, 236);
-  border: 1px solid #2a7ae2;
-  border-radius: 0.25rem;
-}
+  .picker-text {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(236, 236, 236);
+    border: 1px solid #2a7ae2;
+    border-radius: 0.25rem;
+  }
 
-.picker-label {
-  display: inline-block;
-  position: relative;
-  height: 100px;
-  width: 400px;
-}
-
+  .picker-label {
+    display: inline-block;
+    position: relative;
+    height: 100px;
+    width: 400px;
+  }
 </style>
