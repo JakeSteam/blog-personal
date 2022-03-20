@@ -74,23 +74,23 @@ code {
 }
 
 /* Adds GitHub style links to headers on mouseover */
-h2 {
+.post-content h2 {
     text-indent: -10px;
 }
 
-h3 {
+.post-content h3 {
     text-indent: -8px;
 }
 
-h4 {
+.post-content h4 {
     text-indent: -6px;
 }
 
-h5 {
+.post-content h5 {
     text-indent: -4px;
 }
 
-h6 {
+.post-content h6 {
     text-indent: -2px;
 }
 
