@@ -54,7 +54,7 @@ In case you've somehow missed the redditor stereotype online, here's the top 3 U
 
 Whilst it's fair to say I perhaps did meet *some* of the stereotypes when I joined Reddit in 2011, a decade later I was a very different person! Considering I was spending at least 20-30 minutes a day volunteering to essentially help the Reddit corporation please investors, and had a job I actually enjoyed, I gradually stopped moderating.
 
-## Moderating the masses vs individuals
+## Moderating the masses
 
 Besides Reddit, I've moderated plenty of online chats and forums, from RuneScape clan chats to PHPBB forums and more. I realised the communities with a realtime chat I was able to actively participate in, and actually be a part of, instead of just an aloof faceless rule-enforcer.
 
