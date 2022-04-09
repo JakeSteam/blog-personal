@@ -1,5 +1,5 @@
 ---
-title: How my book collection is looking in 2022
+title: My current book collection and organisation strategy
 author: Jake Lee
 layout: post
 image: /assets/images/2022/books-740w.jpg
@@ -21,8 +21,8 @@ Without any further ado, here's my poor overloaded living room bookcases:
 
 I've added some basic colour coding to (attempt to) prove it isn't just a chaotic mess:
 
-* Red: Hardback fiction (except bottom right square, "unread books")
-* Yellow: Hardback non-fiction (except bottom left square, "comics")
+* Red: Hardback fiction (except bottom-right square, "unread books")
+* Yellow: Hardback non-fiction (except bottom-left square, "comics")
 * Blue: Paperback fiction (except top-left square on the right, "novelty")
 * Green: Paperback non-fiction
 
@@ -68,24 +68,25 @@ I've added some basic colour coding to (attempt to) prove it isn't just a chaoti
     </tr>
 </table>
 
-There are an additional 31 books in the "unread" square (bottom right of red area), giving a total of **596 owned books** (403 fiction + 162 non-fiction + 31 unread).
+There are an additional 31 books in the "unread" square, giving a total of **596 owned books** (403 fiction + 162 non-fiction + 31 unread)!
 
 My Goodreads "owned" shelf only has 569 books, so 27 books aren't accurately recorded, oops! I suspect almost all of these are books without a Goodreads page (e.g. local guidebooks, books from friends), or a difference in listing (e.g. a set listed as 1 book, but I counted the physical books individually), although undoubtedly there's a few mistakes.
 
 ## Analysis
 
-### Hardcover vs Paperback vs Comics / Novelty
+### Book format
+
 With hardcover books generally costing ~2-3x as much as paperback, the vast majority of my books are paperback. However, it is interesting that this split only applies to fiction, I assume this is because I tend to only buy hardcover books I really like, and liking a mixture of fiction and non-fiction is expected.
 
 The third category might require a bit of explanation... This includes things like Tintin, webcomics, trivia books, and other books that despite being paperback or hardcover, aren't traditional books.
 
-### Fiction vs Non-fiction
+### Book content
 
 Since I read fiction exclusively for years on my Kindle (and then purchased physical copies), it's unsurprising that I've got ~2.5x as many fiction books. Most of these are science fiction from before I spread out my interests a bit (I ran out of golden age scifi!), and I suspect my recent reading is fairly evenly split.
 
-### New vs Used
+### Book source
 
-This is probably the factor that distinguishes my collection from most! Almost all of my books are second hand, and from charity shops. I'll eventually write a proper post about how I collect books, but needless to say paying £1-2 per books has made this far more affordable.
+This is probably the factor that distinguishes my collection from most! Almost all of my books are second hand, and from charity shops. I'll eventually write a proper post about how I collect books, but needless to say paying £1-2 per book has made this collection far more affordable.
 
 For hardcover or paperback books, around 80-90% of books are preowned. The new ones are generally gifts from others, for example 13 of my 18 new paperback fiction books are gifted Isaac Asimov [Foundation](https://smile.amazon.co.uk/isaac-asimov-foundation-books-collection/dp/9123654082) & [Robots](https://smile.amazon.co.uk/Isaac-Asimov-Collection-Robots-Empire/dp/9124369896) series. This also explains why comic / novelty books are almost entirely new, as these are usually gifts from friends or family.
 
