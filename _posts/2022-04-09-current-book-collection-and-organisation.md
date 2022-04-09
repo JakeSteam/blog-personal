@@ -28,7 +28,7 @@ I've added some basic colour coding to (attempt to) prove it isn't just a chaoti
 
 ## Summary 
 
-<table>
+<table style="word-break: normal;">
     <tr>
         <td></td>
         <td colspan="2">Hardcover</td>
