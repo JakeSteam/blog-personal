@@ -10,6 +10,8 @@ tags:
 
 As anyone who has seen my [Goodreads](/analysing-my-goodreads-book-history/) or [Kindle](/analysing-5-years-of-amazon-kindle-reading/) analysis posts knows, I read a *lot*. Once I had a bit of space at home, I started collecting books I'd read in the past, and reading physical books more. Here's a summary of my collection in 2022, along with a little bit of analysis!
 
+Later this year I'll write about *why* and *how* I collect, this post is just the baseline *what* has been collected.
+
 ## Photo
 
 Without any further ado, here's my poor overloaded living room bookcases:
@@ -83,7 +85,7 @@ Since I read fiction exclusively for years on my Kindle (and then purchased phys
 
 ### New vs Used
 
-This is probably the factor that distinguishes my collection from most! Almost all of my books are second hand, and from charity shops. I'll eventually write a proper post about how I collect books, but needless to say paying £1-2 per books has made this far more affordable! 
+This is probably the factor that distinguishes my collection from most! Almost all of my books are second hand, and from charity shops. I'll eventually write a proper post about how I collect books, but needless to say paying £1-2 per books has made this far more affordable.
 
 For hardcover or paperback books, around 80-90% of books are preowned. The new ones are generally gifts from others, for example 13 of my 18 new paperback fiction books are gifted Isaac Asimov [Foundation](https://smile.amazon.co.uk/isaac-asimov-foundation-books-collection/dp/9123654082) & [Robots](https://smile.amazon.co.uk/Isaac-Asimov-Collection-Robots-Empire/dp/9124369896) series. This also explains why comic / novelty books are almost entirely new, as these are usually gifts from friends or family.
 
@@ -91,8 +93,8 @@ For hardcover or paperback books, around 80-90% of books are preowned. The new o
 
 1. When I first moved in, I had 1 small black bookcase, and plenty of space in it.
 2. This slowly filled up, and I replaced it with a larger white bookcase.
-3. Sep '19: This filled up, and I purchased a "Large 6-compartment" bookcase to put on top.
-4. Aug '19: These then filled up, and I purchased a tall DVD tower bookcase that just about fit in a gap, and was flexible enough to also display LEGO etc.
+4. Aug '19: This then filled up, and I purchased a tall DVD tower bookcase that just about fit in a gap, and was flexible enough to also display LEGO etc.
+3. Sep '19: These filled up, and I purchased a "Large 6-compartment" bookcase to put on top.
 5. Nov '19: This too filled up, and I replicated the entire setup to buy a couple of years future storage!
 6. Apr '22: I finally resorted to "vertically stacking" 2 layers of the SF Masterworks in the bottom left, and the paperback non-fiction in the bottom right.
 
@@ -101,14 +103,20 @@ As is immediately obvious, I've now entirely run out of space! Finding space for
 The current storage setup is:
 * 2x "[Argos Home Maine 5 Shelf Tall & Wide Deep Bookcase](https://www.argos.co.uk/product/6092139)": I paid £48 each, they are now £60. 
 * 2x "[VASAGLE Wooden 3-Tier Bookcase](https://smile.amazon.co.uk/gp/product/B074FVGZPJ/)": I paid £45 each, they are now £66.
-* 2x "[Argos Home Maine Tall CD and DVD Media Storage Tower](https://www.argos.co.uk/product/9328673): I paid £27 each, they are now £48.
+* 2x "[Argos Home Maine Tall CD and DVD Media Storage Tower](https://www.argos.co.uk/product/9328673)": I paid £27 each, they are now £48.
 * Total: £240 (including delivery), would be £348(!) today.
 
 And for those interested, non-books also included in the photo are:
 
 * [Stephen King artwork by Jordan Monsell](https://www.etsy.com/uk/listing/608090945/king-country-stephen-king-wall-art)
-* [LEGO NASA Space Shuttle Discovery](https://www.lego.com/en-gb/product/nasa-space-shuttle-discovery-10283)
+* [LEGO NASA Space Shuttle Discovery](https://www.lego.com/en-gb/product/nasa-space-shuttle-discovery-10283) 
 * [LEGO NASA Apollo Saturn V](https://www.lego.com/en-gb/product/lego-nasa-apollo-saturn-v-92176)
-* [LEGO Land Rover Defender](https://www.lego.com/en-gb/product/land-rover-defender-42110)
-* [LEGO Dinosaur Fossils](https://www.lego.com/en-gb/product/dinosaur-fossils-21320)
-* A few other small LEGO sets / minifigs / misc things!
+* [LEGO Land Rover Defender](https://www.lego.com/en-gb/product/land-rover-defender-42110) 
+* [LEGO Dinosaur Fossils](https://www.lego.com/en-gb/product/dinosaur-fossils-21320) 
+* A few other small LEGO sets / minifigs / misc things.
+
+## Conclusion
+
+So, that's the current state of my collection. My shelves are full, my to-read area is full, it's all full! 
+
+In a follow-up post, I'll cover the how, why, and where of collecting all these books. This post serves as a baseline I can compare against in a few years when I've more space (and books!).
