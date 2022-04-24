@@ -9,7 +9,7 @@ tags:
     - Photoshop
 ---
 
-Waaaay back in 2017, I designed and created a lenticular LEGO mosaic (2 images in 1) of Mario & Luigi, and it's the only original build I've kept! Luckily I still have my original instructions, so writing them up in case anyone else wants to make something similar.
+Waaaay back in 2017, I designed and created a lenticular LEGO mosaic (2 images in 1) of Mario & Luigi, and it's the only original build I've kept! Luckily I still have my notes from the time, so I'm writing them up in case anyone else wants to make something similar.
 
 As a warning, these can be surprisingly expensive (it is LEGO after all). Mine cost around £30, plus £10 shipping, and £5 for the baseplate. There's more pixels than you think! 
 
@@ -69,7 +69,7 @@ You should now have a list of LEGO slope colours, and how many of each you need.
 Bricklink is great for this, and is essentially eBay for LEGO. This was my first time using it, so here's a few tips I wish I'd known:
 
 1. Order a few extra (~10%)! Bricks are around 1p / 1c, so it's worth it.
-2. Order from the same seller when possible. 
+2. Order from the same seller when possible, to save on shipping. 
 
 ![](/assets/images/2022/legomario-bricklink.png)
 
@@ -78,6 +78,10 @@ Bricklink is great for this, and is essentially eBay for LEGO. This was my first
 Debatably the easiest step, just follow your blueprint from step 3! I found it easiest to go colour by colour, be careful when counting your pixels though.
 
 Hopefully this post helped and you've now got an interesting lenticular mosaic! 
+
+One more time, here's my finished result:
+
+![](/assets/images/2022/legomario.gif)
 
 ## Bonus: Pictures from my build
 
@@ -91,13 +95,9 @@ Hopefully this post helped and you've now got an interesting lenticular mosaic!
 | Mario finished | [![](/assets/images/2022/legomario-finished1-thumbnail.jpg)](/assets/images/2022/legomario-finished1.jpg) | All done! Mario looks very Mario-y... |
 | Luigi finished | [![](/assets/images/2022/legomario-finished2-thumbnail.jpg)](/assets/images/2022/legomario-finished2.jpg) | ... and Luigi looks very Luigi-y! |
 
-And one more time, here's the finished result:
-
-![](/assets/images/2022/legomario.gif)
-
 ## Links
 
-* [Inspired by Daniele Benedettelli's video](https://robotics.benedettelli.com/lego-lenticular-mosaic/)
+* [Original inspiration by Daniele Benedettelli](https://robotics.benedettelli.com/lego-lenticular-mosaic/)
 * [My imgur album from 2017](https://imgur.com/gallery/GI8Cs)
 * [1x1 slope on Bricklink](https://www.bricklink.com/v2/catalog/catalogitem.page?P=54200#T=C&C=74)
 
