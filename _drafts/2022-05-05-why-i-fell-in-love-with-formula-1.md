@@ -1,12 +1,13 @@
 ---
-title: How I fell in love with Formula 1, after a lifetime of disliking sport
+title: Why I fell in love with Formula 1, after a lifetime of disliking sport
 author: Jake Lee
 layout: post
-image: /assets/images/2022/
+image: /assets/images/2022/formula1-header.png
 tags:
-    - 'Formula 1'
-    - Sports
     - Cars
+    - Gaming
+    - Engineering
+    - TV
 ---
 
 I've spent my entire life disliking sports. Hated doing them at school, couldn't care less when they were on TV, didn't see the appeal whatsoever, and at 29 I assumed the appeal was never going to "click". That was until... Formula 1 became an obsession ~6 months ago. But why?
@@ -23,7 +24,9 @@ As a software engineer who has used computers heavily their whole life, I've alw
 
 ### Step 1: LEGO
 
-As a kid, just like... pretty much everyone I knew, I spent hundreds of hours with LEGO. This instilled an instinctive interest in how things work and improving designs.
+As a kid, just like... pretty much everyone I knew, I spent hundreds of hours with LEGO. This instilled an instinctive interest in how things work and improving designs. 
+
+In fact, all [my LEGO sets](https://www.amazon.co.uk/hz/wishlist/ls/1D1SB8VVU1RJL/) are based on real things, usually vehicles of some sort!
 
 ### Step 2: Physics
 
@@ -97,7 +100,7 @@ Formula 1 TV is amazing. It doesn't feature live races due to licensing issues, 
 
 | Main stream | Pit lane | Tracker | Data | Driver cameras |
 | -- | -- | -- | -- | -- |
-| [![main stream](/assets/images/2022/formula1-main-thumbnail.jpeg)](/assets/images/2022/formula1-main.jpg) | [![pit lane](/assets/images/2022/formula1-pitlane-thumbnail.jpeg)](/assets/images/2022/formula1-pitlane.jpg) | [![overall tracker](/assets/images/2022/formula1-tracker-thumbnail.jpeg)](/assets/images/2022/formula1-tracker.jpg) | [![race data](/assets/images/2022/formula1-data-thumbnail.png)](/assets/images/2022/formula1-data.png) | [![driver cam](/assets/images/2022/formula1-drivercam-thumbnail.jpeg)](/assets/images/2022/formula1-drivercam.jpg) |
+| [![main stream](/assets/images/2022/formula1-main-thumbnail.jpeg)](/assets/images/2022/formula1-main.jpeg) | [![pit lane](/assets/images/2022/formula1-pitlane-thumbnail.jpeg)](/assets/images/2022/formula1-pitlane.jpeg) | [![overall tracker](/assets/images/2022/formula1-tracker-thumbnail.jpeg)](/assets/images/2022/formula1-tracker.jpeg) | [![race data](/assets/images/2022/formula1-data-thumbnail.png)](/assets/images/2022/formula1-data.png) | [![driver cam](/assets/images/2022/formula1-drivercam-thumbnail.jpeg)](/assets/images/2022/formula1-drivercam.jpeg) |
 
 ### Community
 
@@ -129,3 +132,13 @@ In fact, Forza Horizon 5 features a global leaderboard of overall completion, an
 ### Gaming videos
 
 Whilst I've always loved playing racing games, I've only started watching other people playing them in the last year or so. Particular shout outs to the very consistent Forza & GTA racing channel [FailRace](https://www.youtube.com/user/FailRace), trackmania addict [Wirtual](https://www.youtube.com/c/Wirtual), and sim racer [CraigMeUp](https://www.twitch.tv/craigmeup).
+
+## Conclusion
+
+So, what can possibly be learnt from this long, rambling post about finding a new interest?
+
+Well, that new hobbies can really sneak up on you, and yet their origins can probably be traced if you look hard enough. This was the first time I've tried doing this, and of course it's a very navel-gazing activity, but maybe one day it'll be helpful to some Formula 1 marketing intern! 
+
+From a personal perspective it's been fairly interesting to think about, and it shows how an arbitrary event / interest can be seen as "inevitable" if you selectively choose evidence. In reality, it was a few events aligning and mostly chance.
+
+Hopefully the Miami grand prix this weekend is coloured McLaren orange!
