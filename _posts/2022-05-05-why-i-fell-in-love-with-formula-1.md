@@ -142,3 +142,5 @@ Well, that new hobbies can really sneak up on you, and yet their origins can pro
 From a personal perspective it's been fairly interesting to think about, and it shows how an arbitrary event / interest can be seen as "inevitable" if you selectively choose evidence. In reality, it was a few events aligning and mostly chance.
 
 Hopefully the Miami grand prix this weekend is coloured McLaren orange!
+
+Edit: It wasn't, 0 points for McLaren 🙄
