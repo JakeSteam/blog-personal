@@ -10,7 +10,7 @@ tags:
     - 'Google Maps'
 ---
 
-I recently went to the US for the first time, spending a busy week in New York followed by the same in San Francisco with my partner. I reviewed most places we went to on Google Maps, so here's an overview of all the activities / restaurants / landmarks! Most have a photo or two.
+I recently went to the US for the first time, spending a busy week in New York followed by the same in San Francisco with my partner. I reviewed many of the places we went to on Google Maps, so here's a selection of activities / restaurants / landmarks in our first 3 NYC days! 
 
 ## Day 1 (2nd June): Arrival
 
