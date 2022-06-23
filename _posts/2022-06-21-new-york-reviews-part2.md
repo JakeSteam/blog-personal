@@ -184,6 +184,6 @@ Very interesting and insightful look into the history of tenements and the famil
 
 We did "At Home in 1933", and our guide had plenty of information and presented it very engagingly, whilst also answering any questions.
 
-This pairs perfectly with the Ellis Island museum of a more complete on US immigration pre-WW2.
+This pairs perfectly with the Ellis Island museum of immigration for a more complete picture of US immigration pre-WW2.
 
 **[Original review](https://goo.gl/maps/LGcVsoaz3SGncsbN8)**
