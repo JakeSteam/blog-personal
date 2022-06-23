@@ -16,7 +16,7 @@ I recently went to the US for the first time, spending a busy week in New York f
 
 **19,875 steps (9.22 miles)**
 
-[![NYC day 4](/assets/images/2022/nyc-day4-thumbnail.png)](/assets/images/2022-nyc-day4.png)
+[![NYC day 4](/assets/images/2022/nyc-day4-thumbnail.png)](/assets/images/2022/nyc-day4.png)
 
 ### Petsmart ★★★★★
 
@@ -76,7 +76,7 @@ The end result was 2 slices of bread with a ridiculous amount of meat in the mid
 
 **15,575 steps (6.78 miles)**
 
-[![NYC day 5](/assets/images/2022/nyc-day5-thumbnail.png)](/assets/images/2022-nyc-day5.png)
+[![NYC day 5](/assets/images/2022/nyc-day5-thumbnail.png)](/assets/images/2022/nyc-day5.png)
 
 ### Liberty Island / Statue of Liberty ★★★★★
 
@@ -118,7 +118,7 @@ A great place for peoplewatching and eating any food purchased elsewhere!
 
 **22,329 steps (10.23 miles)**
 
-[![NYC day 6](/assets/images/2022/nyc-day6-thumbnail.png)](/assets/images/2022-nyc-day6.png)
+[![NYC day 6](/assets/images/2022/nyc-day6-thumbnail.png)](/assets/images/2022/nyc-day6.png)
 
 ### M&M's World ★★✰✰✰
 
@@ -162,7 +162,7 @@ Hamilton performance was excellent, audio and stage were great, the lobby area w
 
 **18,359 steps (8.14 miles)**
 
-[![NYC day 7](/assets/images/2022/nyc-day7-thumbnail.png)](/assets/images/2022-nyc-day7.png)
+[![NYC day 7](/assets/images/2022/nyc-day7-thumbnail.png)](/assets/images/2022/nyc-day7.png)
 
 ### The LEGO Store ★★★★✰
 

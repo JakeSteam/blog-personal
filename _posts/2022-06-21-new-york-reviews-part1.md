@@ -18,7 +18,7 @@ I recently went to the US for the first time, spending a busy week in New York f
 
 This day was just the ~8 hour flight, getting essential supplies, checking into our hotel, and avoiding jetlag.
 
-[![NYC day 1](/assets/images/2022/nyc-day1-thumbnail.png)](/assets/images/2022-nyc-day1.png)
+[![NYC day 1](/assets/images/2022/nyc-day1-thumbnail.png)](/assets/images/2022/nyc-day1.png)
 
 ### Moxy NYC Times Square ★★★★✰
 
@@ -48,7 +48,7 @@ There's also usually good deals, so we ended up coming here pretty often through
 
 **29,711 steps (12.48 miles)**
 
-[![NYC day 2](/assets/images/2022/nyc-day2-thumbnail.png)](/assets/images/2022-nyc-day2.png)
+[![NYC day 2](/assets/images/2022/nyc-day2-thumbnail.png)](/assets/images/2022/nyc-day2.png)
 
 ### Cafe D'Avignon ★★★★★
 
@@ -142,7 +142,7 @@ At peak times the restaurant will have queues out the door, and whilst it's well
 
 **25,849 steps (10.65 miles)**
 
-[![NYC day 3](/assets/images/2022/nyc-day3-thumbnail.png)](/assets/images/2022-nyc-day3.png)
+[![NYC day 3](/assets/images/2022/nyc-day3-thumbnail.png)](/assets/images/2022/nyc-day3.png)
 
 ### The High Line ★★★★★
 
