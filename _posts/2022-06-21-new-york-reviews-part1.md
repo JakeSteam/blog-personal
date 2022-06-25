@@ -10,7 +10,9 @@ tags:
     - 'Google Maps'
 ---
 
-I recently went to the US for the first time, spending a busy week in New York followed by the same in San Francisco with my partner. I reviewed many of the places we went to on Google Maps, so here's a selection of activities / restaurants / landmarks in our first 3 NYC days! 
+I recently went to the US for the first time, spending a busy week in New York followed by the more relaxed week in San Francisco with my partner. I reviewed many of the places we went to on Google Maps, so here's a selection of activities / restaurants / landmarks in our first 3 NYC days! 
+
+*Note: This is a series of posts, with NYC [Part 1](/new-york-reviews-part1/) & [Part 2](/new-york-reviews-part2/), and San Francisco [Part 1](/san-francisco-reviews-part1/) & [Part 2](/san-francisco-reviews-part2/).*
 
 ## Day 1 (2nd June): Arrival
 
