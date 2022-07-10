@@ -2,7 +2,7 @@
 title: The complete guide to unlocking all of Forza Horizon 5's creative accolades (from a top 100 player)
 author: Jake Lee
 layout: post
-image: /assets/images/2022/
+image: /assets/images/2022/fh5-creative-create-header.jpeg
 tags:
     - 'Forza Horizon 5'
     - Gaming
@@ -17,11 +17,11 @@ This is a **LONG** post, so use the links on the side to get to the section you 
 
 ## My creative accolades
 
-To start with, here's my current global ranking & creative accolades to prove I at least vaguely know what I'm talking about! Essentially they're all complete besides 6 glitched painting accolades, and 2 tuning accolades that will take a few more nights of idling.
+To start with, here's my current global ranking & creative accolades to prove I at least vaguely know what I'm talking about! Essentially they're all complete besides 6 glitched painting accolades, and a tuning accolades that will be obtained soon.
 
-| #87 out of 21m+ players | Painting (38/44) | Tuning (25/27) |
+| #87 out of 21m+ players | Painting (38/44) | Tuning (26/27) |
 | -- | -- | -- |
-| [![](/assets/images/2022/fh5-creative-leaderboard-thumbnail.png)](/assets/images/2022/fh5-creative-leaderboard.png) | [![](/assets/images/2022/fh5-creative-painting-thumbnail.png)](/assets/images/2022/fh5-creative-painting.png) | [![](/assets/images/2022/fh5-creative-tuning-thumbnail.png)](/assets/images/2022/fh5-creative-tuning.png) |
+| [![](/assets/images/2022/fh5-creative-leaderboard-thumbnail.png)](/assets/images/2022/fh5-creative-leaderboard.png) | [![](/assets/images/2022/fh5-creative-painting-thumbnail.png)](/assets/images/2022/fh5-creative-painting.png) | [![](/assets/images/2022/fh5-creative-tuning-thumbnail.jpeg)](/assets/images/2022/fh5-creative-tuning.jpeg) |
 
 | Photo (55/55) | Eventlab (20/20) | Super7 (15/15) |
 | -- | -- | -- |
@@ -61,7 +61,7 @@ The super7 accolades *"The super7", "Three of a kind", "Lucky for some", "A wort
 
 *"A wild challenge card appears!", "Card hunter",* and *"Card collector"* require completing cards in freeroam, I found the best place to find these is on the airport runway drag strip or the main Horizon festival drag strip.
 
-## "downloads" and "likes" accolades
+## Unlocking "downloads" and "likes" accolades
 
 Whilst the way to earn these accolades may seem obvious (just get other people to download and like your creations, duh!), doing this reliably is very, very hard. Luckily we can take some shortcuts and, with some repetitive grinding, complete them all in a few days.
 
