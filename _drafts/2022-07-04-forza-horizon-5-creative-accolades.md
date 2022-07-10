@@ -81,7 +81,7 @@ So, how can we get hundreds of likes reliably? Well, we can swap them with other
 
 Whilst there were [many](https://www.reddit.com/r/ForzaAccolades/comments/s2g46w/creative_accolades_and_helping_each_other/), [many](https://www.reddit.com/r/forza/comments/s424ef/accolade_farmer_trying_to_be_creative/), [many](https://www.reddit.com/r/ForzaHorizon/comments/s7wkwx/lets_help_each_other_get_accolades/) attempts on the Forza subreddits to exchange likes, they were all ultimately doomed. Can you imagine coordinating with 1000 strangers to like your content!? Similarly, a thread on TrueAchievements suggested swapping 2-3 each which... is better, but still unrealistic.
 
-That's where our hero "OLOT" comes in, and essentially single-handedly works out a better system. Through [careful experimentation](https://www.trueachievements.com/forum/viewthread.aspx?tid=1332078&anchor=10434571#m10434571), they eventually [figure out an optimised way](https://www.trueachievements.com/forum/viewthread.aspx?tid=1332078&anchor=10435987#m10435987) to both share 50+ tunes / liveries, and swap likes with others. This opens the door to bulk swapping, with most people exchanging 100+ at a time, finally letting these accolades be completed! 
+That's where our hero "*OLOT*" comes in, and essentially single-handedly works out a better system. Through [careful experimentation](https://www.trueachievements.com/forum/viewthread.aspx?tid=1332078&anchor=10434571#m10434571), they eventually [figure out an optimised way](https://www.trueachievements.com/forum/viewthread.aspx?tid=1332078&anchor=10435987#m10435987) to both share 50+ tunes / liveries, and swap likes with others. This opens the door to bulk swapping, with most people exchanging 100+ at a time, finally letting these accolades be completed! 
 
 The exact details of how to create and like tunes / liveries / vinyl shapes will be described later, but here's the overall process using tunes as an example:
 1. Choose an easy to obtain car, e.g. Corvette starter car.
@@ -93,7 +93,7 @@ The exact details of how to create and like tunes / liveries / vinyl shapes will
 4. Look at the recent posts, like 50 tunes from someone else, and update your post to include this.
 5. They should return the favour, and you'll finally have your likes!
 
-In case it wasn't obvious, I'm extremely grateful to OLOT for sharing his innovation, as well as helping new users to get trading, and keeping track of everyone's progress. If it wasn't for him at least a few people would never get these accolades.
+In case it wasn't obvious, I'm extremely grateful to *OLOT* for sharing his innovation, as well as helping new users to get trading, and keeping track of everyone's progress. If it wasn't for him at least a few people would never get these accolades.
 
 #### The self-farming method
 
@@ -204,7 +204,6 @@ Step 3 is very slow, with livery downloading often taking multiple seconds. Due 
 
 *Note: If you come across a livery for your current car during step 6, the "Like" option will move position, careful you don't misclick!*
 
-
 ### Tuning setups (tunes)
 
 Finally, tuning setup accolades. These are slightly more awkward to farm than liveries, but still very doable.
@@ -224,6 +223,28 @@ After creating 50 tunes for your car, your "My tuning setups" page should look s
 [![my liveries](/assets/images/2022/fh5-creative-create-tune-thumbnail.png)](/assets/images/2022/fh5-creative-create-tune.png)
 
 #### Downloading & liking
+
+Unfortunately tuning setups are the most complex creative item to bulk like, and is quite unlike the other methods. Luckily *OTON* has worked out yet another efficiency innovation!
+
+1. Drive the car that has tunes to like (e.g. 2021 Bronco).
+2. Navigate to your house's "Garage" tab -> "Upgrades & tuning" -> "Find tuning setups"
+3. Search by your creator's gamertag, you should get 50+ results.
+4. For each tune, favourite it (Y) and navigate to the next one until all have been favourited.
+5. Exit & reenter the "Find tuning setups" screen and switch to "My Favourites" (RB).
+6. For the first favourited tune, unfavourite it (Y), download it (A), select download and save (down), and confirm (A). You will be kicked out of the tuning setups screen.
+7. Repeat steps 5-6 until there are no more favourited tunes.
+8. Go to "My tuning setups", the first downloaded tuning setup will be autoselected.
+9. Select it (A), navigate to "Like" (down), "Like" it (A), delete it (X), and confirm (A).
+10. Tap the analog stick left to select your first tuning setup.
+11. Repeat step 9-10 until there are no remaining downloaded tunes.
+
+*Note 1: After repeating steps 9-10 around 10x, the screen will glitch and have to be exited and reopened.*
+
+*Note 2: If you already have lots of tunes, you may eventually hit a maximum number of tunes. To resolve this, navigate through your cars and delete all tunes on them (this doesn't delete the currently applied tune).*
+
+*Note 3: Downloading tunes themselves take as long as liveries, but the overall process takes significantly longer.*
+
+*Note 4: The "favouriting" steps seem pointless, but help skip a few loading screens and definitely optimise the process.*
 
 ## How to earn "uses" accolades
 
