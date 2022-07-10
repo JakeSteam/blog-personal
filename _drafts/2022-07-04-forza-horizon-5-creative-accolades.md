@@ -61,11 +61,11 @@ The super7 accolades *"The super7", "Three of a kind", "Lucky for some", "A wort
 
 *"A wild challenge card appears!", "Card hunter",* and *"Card collector"* require completing cards in freeroam, I found the best place to find these is on the airport runway drag strip or the main Horizon festival drag strip.
 
-## How to earn "downloads" and "likes" accolades
+## "downloads" and "likes" accolades
 
 Whilst the way to earn these accolades may seem obvious (just get other people to download and like your creations, duh!), doing this reliably is very, very hard. Luckily we can take some shortcuts and, with some repetitive grinding, complete them all in a few days.
 
-### 3 methods to obtain these accolades
+### 3 overall methods
 
 There's essentially 3 techniques to grinding / farming creation downloads and likes. I'll describe these below, then cover the common steps necessary:
 
@@ -106,11 +106,36 @@ I ended up doing this for the final 30-40% of my likes with multiple accounts. T
 2. Purchase a [month of Xbox Game Pass Ultimate](https://www.xbox.com/en-gb/games/store/xbox-game-pass-ultimate/) (currently £1) for it.
 3. Login to this account using cloud gaming in a browser (to avoid any account conflicts).
 4. Complete the tutorial, and first showcase, until you have access to car customisation.
-5. Follow the "liking" steps, but obviously for your main account's content!
+5. Follow the "Downloading & liking" steps, but obviously for your main account's content!
+
+### Photos
+
+Photos are a bit different to vinyl shapes, liveries, and tunes, as the requirements are much lower, and there's far fewer accolades to earn. However, they're also the most impossible to earn legitimately, have you ever liked a photo inside Forza Horizon!?
+
+This technique applies to the download accolades *"Image is everything", "Clickbait"*, and *"Front page"*, as well as the like accolades *"On trend", "Pretty as a picture"*, and *"Gone viral"*.
+
+#### Creating
+
+Whilst photos can be grinded by taking a photo -> "Save" -> "Share" and repeat, as only 100 likes are needed I'd actually recommend just taking 100 fun photos! Once you've finished, your "Photo gallery" should look similar to this:
+
+[![my liveries](/assets/images/2022/fh5-creative-create-photo-thumbnail.jpeg)](/assets/images/2022/fh5-creative-create-photo.jpeg)
+
+#### Downloading & liking
+
+Due to only 100 likes being needed to earn all accolades, efficiency is less important here than other categories. The entire process can also be done in a single swap with someone / your own account. 
+
+First, follow the account you want to bulk like photos on. This can be done by searching by gamertag for a tune / livery by them, then "Follow creator". This will help make the process easier, but can take a few minutes to update your "Followed players" list.
+
+1. In the pause menu, navigate to "Creative hub" -> "Followed players" (left stick in) -> Your target player.
+2. Select "Photos".
+3. For every photo, download (A) and like (X) it, then navigate back (A then B) and move on to the next photo.
+4. Repeat step 3 for every photo
+
+This process is pretty quick, with the only delay of up to a second when initially downloading each photo.
 
 ### Vinyl shapes
 
-Vinyl shapes are probably the easiest to download and like in bulk, so are a good set of accolades to start completing. 
+Vinyl shapes are probably the easiest (besides photos) to download and like in bulk, so are a good set of accolades to start completing. 
 
 This includes the download accolades *"On the palette", "Illustrator", "Proper adhesion", "Vinyl emporium", "This was a triumph"*, and *"Masterstroke"*. It includes the like accolades *"Admired", "Commended", "Distinguished", "Lauded", "Celebrated"*, and *"Exalted"*.
 
@@ -130,7 +155,19 @@ After creating your 50 vinyls, your "My vinyl groups" should look similar to thi
 
 #### Downloading & liking
 
+First, follow the account you want to bulk like vinyl shapes on. This can be done by searching by gamertag for a tune / livery by them, then "Follow creator". This will help make the process easier, but can take a few minutes to update your "Followed players" list.
 
+1. In the pause menu, navigate to "Creative hub" -> "Followed players" (left stick in) -> Your target player.
+2. Select "Vinyl groups".
+3. With the first vinyl selected, download (A), confirm (A), then navigate to the next vinyl.
+4. Repeat this process until all vinyls have been downloaded.
+5. Enter your house's "Garage" tab -> "Designs & paints" -> "My vinyl groups".
+6. With the first downloaded vinyl selected, open it (A), navigate to the 2nd option (down), "Like" it (A), delete it (X), confirm deletion (A).
+7. The next vinyl will be auto-selected, so just repeat step 5 until you have no more downloaded vinyls.
+
+The only slow part of this process is step 3-4, with the subsequent liking and deletion being instant. 
+
+*Note: Be careful when speedily completing steps 5-6, you may occasionally select the "Report" option! Make sure to back out of this menu if you do end up there.*
 
 ### Livery designs
 
@@ -153,6 +190,21 @@ After creating your 50 liveries, your "My designs" should look similar to this:
 
 #### Downloading & liking
 
+First, follow the account you want to bulk like livery designs on. This can be done by searching by gamertag for a tune / livery by them, then "Follow creator". This will help make the process easier, but can take a few minutes to update your "Followed players" list.
+
+1. In the pause menu, navigate to "Creative hub" -> "Followed players" (left stick in) -> Your target player.
+2. Select "Liveries".
+3. With the first livery selected, download (A), confirm (A), then navigate to the next livery.
+4. Repeat this process until all liveries have been downloaded.
+5. Enter your house's "Garage" tab -> "Designs & paints" -> "My designs".
+6. With the first downloaded livery selected, open it (A), "Like" it (A), delete it (X), confirm deletion (A).
+7. The next livery will be auto-selected, so just repeat step 6 until all downloaded liveries have been liked and deleted.
+
+Step 3 is very slow, with livery downloading often taking multiple seconds. Due to this delay, it can be hard to get into a rhythm of downloading, making it a quite tedious process.
+
+*Note: If you come across a livery for your current car during step 6, the "Like" option will move position, careful you don't misclick!*
+
+
 ### Tuning setups (tunes)
 
 Finally, tuning setup accolades. These are slightly more awkward to farm than liveries, but still very doable.
@@ -160,6 +212,16 @@ Finally, tuning setup accolades. These are slightly more awkward to farm than li
 This farming technique works for the download accolades *"Yaassss", "#winwin", "What a tune", "Design talent", "Critical acclaim"*, and *"Work of genius"*. It also works for the like accolades *"Blessed", "On fleek", "Hype", "In the limelight", "Stardom"*, and *"#famous"*.
 
 #### Creating
+
+Unlike liveries, tunes can luckily all be created on the same vehicle. I recommend picking a starter car, or a very cheap one, e.g. the 2001 Acura Integra Type R (25,000 credits).
+
+1. Enter your house, change to your target car, and navigate "Garage" tab -> "Upgrades & tuning" -> "Custom tuning".
+2. Press "Setup manager" -> "Save setup" -> "Save tune", call it something short like "T1", then "Share".
+3. Repeat step 2, increasing your tunes name (e.g. "T2", "T3") until you have 50.
+
+After creating 50 tunes for your car, your "My tuning setups" page should look similar to:
+
+[![my liveries](/assets/images/2022/fh5-creative-create-tune-thumbnail.png)](/assets/images/2022/fh5-creative-create-tune.png)
 
 #### Downloading & liking
 
@@ -171,7 +233,7 @@ The livery / tune uses accolades are some of the most frustrating accolades in t
 
 You earn around 4-5 uses per hour, and need 1000 uses in total per category, but you cannot earn them on your own account. As you can imagine, this is almost impossible to do legitimately, luckily there are a few shortcuts we can take.
 
-The tactic is pretty simple, you just need an alternate account (see "Self-farming method above), then follow these steps:
+The tactic is pretty simple, you just need an alternate account (see ["Self-farming method"](#the-self-farming-method) above), then follow these steps:
 1. Connect your controller over USB, to prevent any disconnection / battery dying.
 2. Apply your main account's tune and livery to your car.
 3. Leave any areas with other players, then figure out a way to keep your controller's trigger held down. I just wedge it against a solid object on my desk, others use rubber bands.
