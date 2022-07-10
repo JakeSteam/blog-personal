@@ -110,17 +110,54 @@ I ended up doing this for the final 30-40% of my likes with multiple accounts. T
 
 ### Vinyl shapes
 
+Vinyl shapes are probably the easiest to download and like in bulk, so are a good set of accolades to start completing. 
+
+This includes the download accolades *"On the palette", "Illustrator", "Proper adhesion", "Vinyl emporium", "This was a triumph"*, and *"Masterstroke"*. It includes the like accolades *"Admired", "Commended", "Distinguished", "Lauded", "Celebrated"*, and *"Exalted"*.
+
 #### Creating
+
+As a reminder, you'll want to create 50 vinyl shapes to start. This can obviously be done however you want, but here's the most efficient away:
+
+1. Enter your house, and navigate "Garage" tab -> "Designs & paints" -> "Create vinyl groups".
+2. Create a new layer, use "Apply a vinyl shape", and apply a vinyl. It can be any colour, size, shape, etc.
+3. Repeat step 2, as 2 layers are needed to save a vinyl.
+4. Press "Save", "Save vinyl group", and call it something short like "V1", then press "Share".
+5. Repeat steps 2-4, increasing your vinyl's name (e.g. "V2", "V3") until you have 50.
+
+After creating your 50 vinyls, your "My vinyl groups" should look similar to this:
+
+[![my vinyl groups](/assets/images/2022/fh5-creative-create-vinyl-thumbnail.png)](/assets/images/2022/fh5-creative-create-vinyl.png)
 
 #### Downloading & liking
 
+
+
 ### Livery designs
 
+Livery designs are trickier than vinyls to grind downloads and likes for, but it can of course still be done!
+
+This technique covers the download accolades *"In demand", "Prevalent", "Established", "Work of art", "Pièce de résistance"*, and *"Legendary painter"*. It covers the like accolades *"Popular culture", "Showpiece", "Chef-d'œuvre", "Crowning achievements", "Masterpiece"*, and *"Magnum opus"*.
+
 #### Creating
+
+Due to a glitch with downloading liveries, the most efficient way to farm livery downloads and likes is... to have each livery on a different car! This unfortunately makes the creation a process a little bit trickier:
+
+1. Enter your house, change to the first car in your garage, and navigate "Garage" tab -> "Designs & paints" -> "Paint car".
+2. Press "Save", "Save new livery", call it something short like "L1", then "Share".
+3. Change to the next car in your garage, and enter the car painter again.
+4. Repeat steps 2 & 3, increasing your vinyl's name (e.g. "L2", "L3") until you have 50.
+
+After creating your 50 liveries, your "My designs" should look similar to this:
+
+[![my liveries](/assets/images/2022/fh5-creative-create-livery-thumbnail.png)](/assets/images/2022/fh5-creative-create-livery.png)
 
 #### Downloading & liking
 
 ### Tuning setups (tunes)
+
+Finally, tuning setup accolades. These are slightly more awkward to farm than liveries, but still very doable.
+
+This farming technique works for the download accolades *"Yaassss", "#winwin", "What a tune", "Design talent", "Critical acclaim"*, and *"Work of genius"*. It also works for the like accolades *"Blessed", "On fleek", "Hype", "In the limelight", "Stardom"*, and *"#famous"*.
 
 #### Creating
 
@@ -128,7 +165,7 @@ I ended up doing this for the final 30-40% of my likes with multiple accounts. T
 
 ## How to earn "uses" accolades
 
-***Warning:** Vinyl shape use accolades are currently **100% bugged**, and cannot be obtained whatsoever!*
+***Warning: Vinyl shape use accolades are currently 100% bugged, and cannot be obtained**! This applies to "Getting creative", "Happy little shapes", "The joy of vinyls", "Catalogued", "Sticker album", "Master painter".*
 
 The livery / tune uses accolades are some of the most frustrating accolades in the game. There's no real shortcut, someone has to be driving a car with your livery / tune!
 
@@ -141,5 +178,9 @@ The tactic is pretty simple, you just need an alternate account (see "Self-farmi
 4. Leave your Xbox / PC / browser overnight, and enjoy waking up to ~40-50 uses!
 
 Of course, 1000 likes will still take you ~20 days if you only gain uses overnight. This can be sped up by idling multiple accounts at once, or also idling during the day. I didn't use these more complex methods to keep the overall process simple, the accolades are definitely extremely slow!
+
+The livery design use accolades that can be earned via this are *"Fresh canvas", "Budding artist", "Up and coming", "Painters gonna paint", "Design portfolio"*, and *"Tour de force"*.
+
+The tuning setup use accolades that can be obtained this way are *"What's mine is yours", "Create, release, repeat", "Good samaritan", "Tuner life", "Enterpreneur"*, and *"The creator"*.
 
 ## Summary
