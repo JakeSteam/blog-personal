@@ -17,7 +17,7 @@ This is a **LONG** post, so use the links on the side to get to the section you 
 
 ## My creative accolades
 
-To start with, here's my current global ranking & creative accolades to prove I at least vaguely know what I'm talking about! Essentially they're all complete besides 6 glitched painting accolades, and a tuning accolades that will be obtained soon.
+To start with, here's my current global ranking & creative accolades to prove I at least vaguely know what I'm talking about! Essentially they're all complete besides 6 glitched painting accolades, and a tuning accolade that will be obtained soon.
 
 | #87 out of 21m+ players | Painting (38/44) | Tuning (26/27) |
 | -- | -- | -- |
@@ -27,7 +27,7 @@ To start with, here's my current global ranking & creative accolades to prove I 
 | -- | -- | -- |
 | [![](/assets/images/2022/fh5-creative-photo-thumbnail.png)](/assets/images/2022/fh5-photo-leaderboard.png) | [![](/assets/images/2022/fh5-creative-eventlab-thumbnail.png)](/assets/images/2022/fh5-creative-eventlab.png) | [![](/assets/images/2022/fh5-creative-super7-thumbnail.png)](/assets/images/2022/fh5-creative-super7.png) |
 
-## Achieving simple accolades
+## Unlock simple accolades
 
 ### Painting
 
@@ -47,7 +47,7 @@ This is easiest to do during normal gameplay by taking a quick photo (you don't 
 
 If you do need to do hundreds of cars quickly, the quickest way I've found is starting drag races with various cars, taking a photo of the 8-10 AI cars, then quitting and trying again with another car.
 
-The accolades *"New horizons", "New digs!", "Sleeping giant", "Twilight saga", "Shopping spree", "On the naughty list", "Spirit of a christmas past", "Stay frosty", "Crowd pleaser", "Corazón contento", "Synth waves", "Cleared for takeoff", "Peak performance", "And the crowd goes wild", "Firework display", "Photogenic", "Chips to my salsa", "Beam me up", "No rest for the wicked", "Flash in the pan", "Throwback", "Look out, beetle's about",* and *"Porsche with panache" are all very straightforward, and require taking photos of specific cars in specific places.
+The accolades *"New horizons", "New digs!", "Sleeping giant", "Twilight saga", "Shopping spree", "On the naughty list", "Spirit of a christmas past", "Stay frosty", "Crowd pleaser", "Corazón contento", "Synth waves", "Cleared for takeoff", "Peak performance", "And the crowd goes wild", "Firework display", "Photogenic", "Chips to my salsa", "Beam me up", "No rest for the wicked", "Flash in the pan", "Throwback", "Look out, beetle's about",* and *"Porsche with panache"* are all very straightforward, and require taking photos of specific cars in specific places.
 
 ### Eventlab
 
@@ -61,7 +61,7 @@ The super7 accolades *"The super7", "Three of a kind", "Lucky for some", "A wort
 
 *"A wild challenge card appears!", "Card hunter",* and *"Card collector"* require completing cards in freeroam, I found the best place to find these is on the airport runway drag strip or the main Horizon festival drag strip.
 
-## Unlocking "downloads" and "likes" accolades
+## Unlock "downloads" & "likes" accolades
 
 Whilst the way to earn these accolades may seem obvious (just get other people to download and like your creations, duh!), doing this reliably is very, very hard. Luckily we can take some shortcuts and, with some repetitive grinding, complete them all in a few days.
 
@@ -81,7 +81,7 @@ So, how can we get hundreds of likes reliably? Well, we can swap them with other
 
 Whilst there were [many](https://www.reddit.com/r/ForzaAccolades/comments/s2g46w/creative_accolades_and_helping_each_other/), [many](https://www.reddit.com/r/forza/comments/s424ef/accolade_farmer_trying_to_be_creative/), [many](https://www.reddit.com/r/ForzaHorizon/comments/s7wkwx/lets_help_each_other_get_accolades/) attempts on the Forza subreddits to exchange likes, they were all ultimately doomed. Can you imagine coordinating with 1000 strangers to like your content!? Similarly, a thread on TrueAchievements suggested swapping 2-3 each which... is better, but still unrealistic.
 
-That's where our hero "*OLOT*" comes in, and essentially single-handedly works out a better system. Through [careful experimentation](https://www.trueachievements.com/forum/viewthread.aspx?tid=1332078&anchor=10434571#m10434571), they eventually [figure out an optimised way](https://www.trueachievements.com/forum/viewthread.aspx?tid=1332078&anchor=10435987#m10435987) to both share 50+ tunes / liveries, and swap likes with others. This opens the door to bulk swapping, with most people exchanging 100+ at a time, finally letting these accolades be completed! 
+That's where our hero "*OLOT*" comes in, and single-handedly works out a better system. Through [careful experimentation](https://www.trueachievements.com/forum/viewthread.aspx?tid=1332078&anchor=10434571#m10434571), they eventually [figure out an optimised way](https://www.trueachievements.com/forum/viewthread.aspx?tid=1332078&anchor=10435987#m10435987) to both share 50+ tunes / liveries, and swap likes with others. This opens the door to bulk swapping, with most people exchanging 100+ at a time, finally letting these accolades be completed! 
 
 The exact details of how to create and like tunes / liveries / vinyl shapes will be described later, but here's the overall process using tunes as an example:
 1. Choose an easy to obtain car, e.g. Corvette starter car.
@@ -93,7 +93,7 @@ The exact details of how to create and like tunes / liveries / vinyl shapes will
 4. Look at the recent posts, like 50 tunes from someone else, and update your post to include this.
 5. They should return the favour, and you'll finally have your likes!
 
-In case it wasn't obvious, I'm extremely grateful to *OLOT* for sharing his innovation, as well as helping new users to get trading, and keeping track of everyone's progress. If it wasn't for him at least a few people would never get these accolades.
+In case it wasn't obvious, I'm extremely grateful to *OLOT* for sharing his innovation, as well as helping new users to get trading, and keeping track of everyone's progress. If it wasn't for him at least a few people (including myself) would never get these accolades.
 
 #### The self-farming method
 
@@ -110,19 +110,19 @@ I ended up doing this for the final 30-40% of my likes with multiple accounts. T
 
 ### Photos
 
-Photos are a bit different to vinyl shapes, liveries, and tunes, as the requirements are much lower, and there's far fewer accolades to earn. However, they're also the most impossible to earn legitimately, have you ever liked a photo inside Forza Horizon!?
+Photos are a bit different to vinyl shapes, liveries, and tunes, as the requirements are much lower, and there's far fewer accolades to earn. However, they're also the hardest to earn legitimately, have you ever liked a photo inside Forza Horizon!?
 
-This technique applies to the download accolades *"Image is everything", "Clickbait"*, and *"Front page"*, as well as the like accolades *"On trend", "Pretty as a picture"*, and *"Gone viral"*.
+This technique applies to the photo download accolades *"Image is everything", "Clickbait"*, and *"Front page"*, as well as the like accolades *"On trend", "Pretty as a picture"*, and *"Gone viral"*.
 
-#### Creating
+**Creating**
 
-Whilst photos can be grinded by taking a photo -> "Save" -> "Share" and repeat, as only 100 likes are needed I'd actually recommend just taking 100 fun photos! Once you've finished, your "Photo gallery" should look similar to this:
+Whilst taking photos can be grinded by taking a photo -> "Save" -> "Share" and repeat, as only 100 are needed I'd actually recommend just taking 100 fun photos! Once you've finished, your "Photo gallery" should look similar to this:
 
 [![my liveries](/assets/images/2022/fh5-creative-create-photo-thumbnail.jpeg)](/assets/images/2022/fh5-creative-create-photo.jpeg)
 
-#### Downloading & liking
+**Downloading & liking**
 
-Due to only 100 likes being needed to earn all accolades, efficiency is less important here than other categories. The entire process can also be done in a single swap with someone / your own account. 
+Due to only 100 likes being needed to earn all accolades, efficiency is less important here than other categories. The entire process can also be done in a single swap with someone / your other account. 
 
 First, follow the account you want to bulk like photos on. This can be done by searching by gamertag for a tune / livery by them, then "Follow creator". This will help make the process easier, but can take a few minutes to update your "Followed players" list.
 
@@ -139,7 +139,7 @@ Vinyl shapes are probably the easiest (besides photos) to download and like in b
 
 This includes the download accolades *"On the palette", "Illustrator", "Proper adhesion", "Vinyl emporium", "This was a triumph"*, and *"Masterstroke"*. It includes the like accolades *"Admired", "Commended", "Distinguished", "Lauded", "Celebrated"*, and *"Exalted"*.
 
-#### Creating
+**Creating**
 
 As a reminder, you'll want to create 50 vinyl shapes to start. This can obviously be done however you want, but here's the most efficient away:
 
@@ -153,7 +153,7 @@ After creating your 50 vinyls, your "My vinyl groups" should look similar to thi
 
 [![my vinyl groups](/assets/images/2022/fh5-creative-create-vinyl-thumbnail.png)](/assets/images/2022/fh5-creative-create-vinyl.png)
 
-#### Downloading & liking
+**Downloading & liking**
 
 First, follow the account you want to bulk like vinyl shapes on. This can be done by searching by gamertag for a tune / livery by them, then "Follow creator". This will help make the process easier, but can take a few minutes to update your "Followed players" list.
 
@@ -175,7 +175,7 @@ Livery designs are trickier than vinyls to grind downloads and likes for, but it
 
 This technique covers the download accolades *"In demand", "Prevalent", "Established", "Work of art", "Pièce de résistance"*, and *"Legendary painter"*. It covers the like accolades *"Popular culture", "Showpiece", "Chef-d'œuvre", "Crowning achievements", "Masterpiece"*, and *"Magnum opus"*.
 
-#### Creating
+**Creating**
 
 Due to a glitch with downloading liveries, the most efficient way to farm livery downloads and likes is... to have each livery on a different car! This unfortunately makes the creation a process a little bit trickier:
 
@@ -188,7 +188,7 @@ After creating your 50 liveries, your "My designs" should look similar to this:
 
 [![my liveries](/assets/images/2022/fh5-creative-create-livery-thumbnail.png)](/assets/images/2022/fh5-creative-create-livery.png)
 
-#### Downloading & liking
+**Downloading & liking**
 
 First, follow the account you want to bulk like livery designs on. This can be done by searching by gamertag for a tune / livery by them, then "Follow creator". This will help make the process easier, but can take a few minutes to update your "Followed players" list.
 
@@ -210,7 +210,7 @@ Finally, tuning setup accolades. These are slightly more awkward to farm than li
 
 This farming technique works for the download accolades *"Yaassss", "#winwin", "What a tune", "Design talent", "Critical acclaim"*, and *"Work of genius"*. It also works for the like accolades *"Blessed", "On fleek", "Hype", "In the limelight", "Stardom"*, and *"#famous"*.
 
-#### Creating
+**Creating**
 
 Unlike liveries, tunes can luckily all be created on the same vehicle. I recommend picking a starter car, or a very cheap one, e.g. the 2001 Acura Integra Type R (25,000 credits).
 
@@ -222,9 +222,9 @@ After creating 50 tunes for your car, your "My tuning setups" page should look s
 
 [![my liveries](/assets/images/2022/fh5-creative-create-tune-thumbnail.png)](/assets/images/2022/fh5-creative-create-tune.png)
 
-#### Downloading & liking
+**Downloading & liking**
 
-Unfortunately tuning setups are the most complex creative item to bulk like, and is quite unlike the other methods. Luckily *OTON* has worked out yet another efficiency innovation!
+Unfortunately tuning setups are the slowest & most complex creative item to bulk like, and are quite unlike the other methods. Luckily *OTON* has worked out yet another efficiency innovation!
 
 1. Drive the car that has tunes to like (e.g. 2021 Bronco).
 2. Navigate to your house's "Garage" tab -> "Upgrades & tuning" -> "Find tuning setups"
@@ -242,11 +242,9 @@ Unfortunately tuning setups are the most complex creative item to bulk like, and
 
 *Note 2: If you already have lots of tunes, you may eventually hit a maximum number of tunes. To resolve this, navigate through your cars and delete all tunes on them (this doesn't delete the currently applied tune).*
 
-*Note 3: Downloading tunes themselves take as long as liveries, but the overall process takes significantly longer.*
+*Note 3: The "favouriting" steps seem pointless, but help skip a few loading screens and definitely optimises the process.*
 
-*Note 4: The "favouriting" steps seem pointless, but help skip a few loading screens and definitely optimise the process.*
-
-## How to earn "uses" accolades
+## Unlock "uses" accolades
 
 ***Warning: Vinyl shape use accolades are currently 100% bugged, and cannot be obtained**! This applies to "Getting creative", "Happy little shapes", "The joy of vinyls", "Catalogued", "Sticker album", "Master painter".*
 
@@ -267,3 +265,7 @@ The livery design use accolades that can be earned via this are *"Fresh canvas",
 The tuning setup use accolades that can be obtained this way are *"What's mine is yours", "Create, release, repeat", "Good samaritan", "Tuner life", "Enterpreneur"*, and *"The creator"*.
 
 ## Summary
+
+Overall these accolades are far trickier than the "Gold Card" in Forza Horizon 5, and I'm really not a fan of requiring likes from other players for full completion. Most of the advanced accolades are likely impossible unless you already have a large following elsewhere, and don't seem fair to regular players.
+
+That being said, I hope this guide helped you a bit, it's quite a relief when all these accolades are finished!
