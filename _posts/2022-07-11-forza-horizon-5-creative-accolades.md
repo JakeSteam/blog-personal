@@ -67,6 +67,8 @@ Whilst the way to earn these accolades may seem obvious (just get other people t
 
 ### 3 overall methods
 
+*Update: [A user on reddit](https://www.reddit.com/r/ForzaHorizon/comments/vwsg12/the_complete_guide_to_unlocking_all_of_forza/ifrrhnh/) has reported a 7 day ban for "Spamming Liveries / Layer Groups", so this may not be permitted. Anecdotally I've had no problems, nor has nobody else on the thread, but it appears to be a possibility. For safety, delete your creations after earning the accolades.*
+
 There's essentially 3 techniques to grinding / farming creation downloads and likes. I'll describe these below, then cover the common steps necessary:
 
 #### The legitimate method
