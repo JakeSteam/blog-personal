@@ -88,7 +88,7 @@ That's where our hero "*OLOT*" comes in, and single-handedly works out a better 
 The exact details of how to create and like tunes / liveries / vinyl shapes will be described later, but here's the overall process using tunes as an example:
 1. Choose an easy to obtain car, e.g. Corvette starter car.
 2. Create 50 tunes with distinct names, e.g. TUNE1 to TUNE50.
-3. Create an account and [post on the thread](https://www.trueachievements.com/forum/viewthread.aspx?tid=1332078) (e.g. [my post](https://www.trueachievements.com/forum/viewthread.aspx?tid=1332078&anchor=10557403#m10557403)) with:
+3. Create an account and [post on the thread](https://www.trueachievements.com/forum/viewthread.aspx?tid=1397039) with:
     * Your Xbox gamertag.
     * What car your tunes are for.
     * Your current number of "likes" (downloads can be ignored, since every like has a download).
