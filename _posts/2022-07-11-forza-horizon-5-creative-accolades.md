@@ -17,7 +17,7 @@ This is a **LONG** post, so use the links on the side to get to the section you 
 
 ## My creative accolades
 
-To start with, here's my current global ranking & creative accolades to prove I at least vaguely know what I'm talking about! Essentially they're all complete besides 6 glitched painting accolades, and a tuning accolade that will be obtained soon.
+To start with, here's my current global ranking & creative accolades to prove I at least vaguely know what I'm talking about! Essentially they're all complete besides 6 glitched vinyl usage accolades.
 
 | #87 out of 21m+ players | Painting (38/44) | Tuning (27/27) |
 | -- | -- | -- |
