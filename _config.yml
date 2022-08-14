@@ -17,7 +17,10 @@ github_username: JakeSteam
 linkedin_username: Jake-Lee
 stackoverflow_username: Jake-Lee
 stackoverflow_id: 608312
-utterances_repo: "JakeSteam/blog-personal"
+giscus_repo: JakeSteam/blog-personal
+giscus_repo_id: R_kgDOG3ebnw
+giscus_category: Comments
+giscus_category_id: DIC_kwDOG3ebn84CQ06P
 rss: RSS
 
 # Build settings
