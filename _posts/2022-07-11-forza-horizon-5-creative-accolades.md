@@ -268,6 +268,6 @@ The tuning setup use accolades that can be obtained this way are *"What's mine i
 
 ## Summary
 
-Overall these accolades are far trickier than the "Gold Card" in Forza Horizon 5, and I'm really not a fan of requiring likes from other players for full completion. Most of the advanced accolades are likely impossible unless you already have a large following elsewhere, and don't seem fair to regular players.
+Overall these accolades are far trickier than the "Gold Card" that was in Forza Horizon 4, and I'm really not a fan of requiring likes / uses from other players for full completion. Most of the advanced accolades are likely impossible unless you already have a large following elsewhere, and don't seem fair to regular players.
 
 That being said, I hope this guide helped you a bit, it's quite a relief when all these accolades are finished!
