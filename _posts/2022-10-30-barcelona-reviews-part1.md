@@ -10,7 +10,7 @@ tags:
     - 'Google Maps'
 ---
 
-I recently took a 4ish day trip to Barcelona as a late birthday trip, and discovered I'd forgotten all my previously-known Spanish... still, I kept myself busy visiting plenty of touristy places and wandering around the streets!
+I recently took a 4ish day trip to Barcelona as a late birthday trip, and discovered I'd forgotten all my previously-known Spanish... still, I kept myself busy visiting plenty of touristy places and wandering around the streets! Here's the first 2 days.
 
 *Note: This is a pair of posts, with [Barcelona Part 2](/barcelona-reviews-part2/) coming soon.*
 
