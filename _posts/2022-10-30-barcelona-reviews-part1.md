@@ -30,7 +30,7 @@ Cheap food and drinks, great for travellers just arriving in the city. If you're
 
 Super friendly staff, amazing food, check out their daily menu! Will definitely be coming here again during our trip.
 
-**[Original review](https://goo.gl/maps/v1HbQ5MZB41Cigdt5)**
+**[Original review (1 review)](https://goo.gl/maps/v1HbQ5MZB41Cigdt5)**
 
 ### Micu Maku ★★★★✰
 
