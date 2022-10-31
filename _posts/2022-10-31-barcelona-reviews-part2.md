@@ -106,7 +106,7 @@ Check out the Filipino beer, it's 8% but tastes as smooth as 4%!
 
 **[Original review](https://goo.gl/maps/g4XWuWQcRSWizgCN7)**
 
-## Day 4 (23nd October): Parc de Montjuic
+## Day 4 (23nd October): Finishing up
 
 As we were flying out in the evening, we spent today visiting all the key bits we missed in a big loop: La Sagrada Familia, Ciutadella Park, Arc de Triomf, and a few shops. On the way we stopped off at plenty of small places, but only a few were notable enough to review! We totalled **20,811 steps (8.97 miles)**.
 
