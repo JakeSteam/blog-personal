@@ -1,5 +1,5 @@
 ---
-title: Analysing my detailed Twitch data export, and how you can too
+title: How do you use Twitch? A guide to analysing your emotes, subscriptions, chat messages, and viewing history!
 author: Jake Lee
 layout: post
 image: /assets/images/2022/twitch-header.png
