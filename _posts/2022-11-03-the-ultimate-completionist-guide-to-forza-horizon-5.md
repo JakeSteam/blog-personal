@@ -2,17 +2,17 @@
 title: The ultimate over-the-top completionist's guide to "finishing" Forza Horizon 5
 author: Jake Lee
 layout: post
-image: /assets/images/
+image: /assets/images/2022/fh5-completionist-bonus-cars.png
 tags:
     - Forza Horizon 5
     - Gaming
 ---
 
-Whether you've seen my [guide to FH5's creative accolades](https://jakelee.co.uk/forza-horizon-5-creative-accolades/) or [read previous posts professing my love for Forza Horizon](https://jakelee.co.uk/why-i-fell-in-love-with-formula-1/#forza), it should be clear I'm a completionist! In this post I'll explain my definition of "finishing" the game, and my progress towards this after 27 days(!) of in-game time.
+Whether you've seen my [guide to FH5's creative accolades](https://jakelee.co.uk/forza-horizon-5-creative-accolades/) or [read previous posts professing my love for Forza Horizon](https://jakelee.co.uk/why-i-fell-in-love-with-formula-1/#forza), it should be clear I'm a completionist! In this post, I'll explain my definition of "finishing" the game, and my progress towards this after 27 days(!) of in-game time.
 
 ## 97/97 Achievements
 
-Completing all achievements for the game is the standard completionist target for most games. Luckily for Forza Horizon 5 they are all fairly straightforward, with the "rare" ones being more niche or Hot Wheels DLC-specific than difficult.
+Completing all achievements for the game is the standard completionist target for most games. Luckily for Forza Horizon 5, they are all fairly straightforward, with the "rare" ones being more niche or Hot Wheels DLC-specific than difficult.
 
 Most of these will actually be unlocked during normal gameplay, and even the rare ones are pretty straightforward. The most challenging is probably "Min, Meet Max", which requires completing all non-DLC events in a series (4 weeks in a row). These won't be challenging if using [the weekly r/forza threads](https://www.reddit.com/r/forza/), but it may be inconvenient to keep track of.
 
@@ -24,7 +24,7 @@ Now we're onto the unofficial completionist objectives!
 
 Owning every car in the game isn't hard if you have been keeping up to date with playlists, but completing this months after release will unfortunately take quite a lot of credits to buy them all. I'll save money making for another article, there are plenty of existing videos / reddit posts providing help on earning it!
 
-Each month, 4-5 new cars will be released, so keeping this completed will require constant maintenance! In the screenshot below we're in the 3rd week of the series, so the 4th car is not available yet.
+Each month, 4-5 new cars will be released, so keeping this completed will require constant maintenance! 
 
 [![forza horizon 5 completionist cars](/assets/images/2022/fh5-completionist-cars.png)](/assets/images/2022/fh5-completionist-cars.png)
 
@@ -44,21 +44,21 @@ There are 2 secret cars, both of which require purchasing items in real life, or
 
 What? Not all the accolades? Nope, 8 of them (see below) are 100% unobtainable!
 
-The accolades are probably the main "over the top completionist" goal in this game, since there's nearly 2000 of them covering every single element of the game. Most of them are fairly straightforward, but there are a few potentially tricky areas:
+The accolades are probably the main "over the top completionist" goal in this game, since there are nearly 2000 of them covering every single element of the game. Most of them are fairly straightforward, but there are a few potentially tricky areas:
 
 * **Evolving World**: The first tab of accolades within this category are for a limited time only, such as christmas. They can likely be reobtained the next time this event takes place, but you could be waiting up to a year!
-* **Creative**: These accolades are extremely hard to do, and will require sustained, repetitive effort. [There's a full guide available](https://jakelee.co.uk/forza-horizon-5-creative-accolades/)!
+* **Creative**: These accolades are extremely hard to do, and will require sustained, repetitive effort. [I've written a full guide in the past](https://jakelee.co.uk/forza-horizon-5-creative-accolades/)!
 * **Broken Accolades**: There are 6 accolades for vinyl shape uses that have been broken since release. This also means the overall creative accolade in the hall of fame can't be obtained, nor can the accolade for completing all other accolades. As such, the 8 final accolades can currently nor be obtained.
 
 [![forza horizon 5 accolades](/assets/images/2022/fh5-completionist-accolades.png)](/assets/images/2022/fh5-completionist-accolades.png)
 
 ## 27/27 Badges
 
-Badges were added to Forza Horizon 5 relatively recently, and are displayed next to your name in most places in-game. They are generally unlocked through Horizon Open (online) events, primarily overall level. Some of the badges require grinding a specific action ("Earn 6000 drifting skills"), but most simply require completing hundreds of races or drift events, or increasing overall level.
+Badges were added to Forza Horizon 5 relatively recently, and are displayed next to your name in most places in-game. They are generally unlocked through Horizon Open (online) events, primarily overall level. Some of the badges require grinding a specific action ("Earn 6000 drifting skills"), but most simply require completing hundreds of races or drift events, or increasing your overall level.
 
-Completing all of the level based badges requires level 1000, which realistically will take tens of hours. The easiest technique is only racing S2 road races, as XP is based on distance travelled and position finished.
+Completing all of the level-based badges requires level 1000, which realistically will take tens of hours. The easiest technique is only racing S2 road races, as XP is based on distance travelled and position finished.
 
-Finally, the last few badges require playing the game during the (current) 10 year celebration, but hopefully they will be unlockable through alternative methods in the future!
+Finally, the last few badges require playing the game during the (current) 10-year celebration, but hopefully they will be unlockable through alternative methods in the future!
 
 [![forza horizon 5 badges](/assets/images/2022/fh5-completionist-badges.png)](/assets/images/2022/fh5-completionist-badges.png)
 
@@ -68,8 +68,19 @@ Finally, everyone's favourite part of Forza Horizon: cosmetics. No? Alright, wel
 
 Most of the cosmetics can be purchased for a few credits, but quite a few are past festival playlist rewards. Unfortunately unlike cars these can't be traded, so past cosmetics cannot easily be obtained. Instead, the only option is to hope they appear in a future playlist.
 
-Finally, there is an [absolutely absurd outfit](https://support.forzamotorsport.net/hc/en-us/articles/10075556247571-Forza-Horizon-5-Tankito-Doritos-Outfit-Code-Redemption-FAQ) earned via purchasing another real-world item, Doritos. I spent $6 on a code for this, and [experienced a (now fixed) bug](https://www.reddit.com/r/forza/comments/xz0dl6/i_spent_6_to_buy_the_dorito_outfit_code_outside/) where I could no longer change outfit or enter online races, so I strongly dislike this cosmetic!
+Additionally, there is an [absolutely absurd outfit](https://support.forzamotorsport.net/hc/en-us/articles/10075556247571-Forza-Horizon-5-Tankito-Doritos-Outfit-Code-Redemption-FAQ) earned via purchasing another real-world item, Doritos. I spent $6 on a code for this, and [experienced a (now fixed) bug](https://www.reddit.com/r/forza/comments/xz0dl6/i_spent_6_to_buy_the_dorito_outfit_code_outside/) where I could no longer change my outfit or enter online races, so I strongly dislike this cosmetic!
 
 [![forza horizon 5 outfit](/assets/images/2022/fh5-completionist-outfit.png)](/assets/images/2022/fh5-completionist-outfit.png)
 
 ## My progress
+
+* ✔️ Achievements
+* ✔️ Cars
+* ❌ Secret cars (missing Coupe)
+* ✔️ Accolades
+* ❌ Badges (missing 3x level badges, and 2x additional)
+* ❌ Cosmetics (missing a couple of weekly rewards)
+
+## Conclusion
+
+The 6 categories covered here *should* be enough to keep any completionist busy for a long time, whilst still being possible. Good luck to anyone attempting this, and let me know if there are any additional categories I've missed!
