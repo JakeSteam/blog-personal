@@ -62,7 +62,7 @@ Finally, the last few badges require playing the game during the (current) 10-ye
 
 [![forza horizon 5 badges](/assets/images/2022/fh5-completionist-badges.png)](/assets/images/2022/fh5-completionist-badges.png)
 
-## All Cosmetics
+## All cosmetics
 
 Finally, everyone's favourite part of Forza Horizon: cosmetics. No? Alright, well it's **a** part of the game at least.
 
