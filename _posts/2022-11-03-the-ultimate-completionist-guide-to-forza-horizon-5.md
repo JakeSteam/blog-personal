@@ -8,7 +8,7 @@ tags:
     - Gaming
 ---
 
-Whether you've seen my [guide to FH5's creative accolades](https://jakelee.co.uk/forza-horizon-5-creative-accolades/) or [read previous posts professing my love for Forza Horizon](https://jakelee.co.uk/why-i-fell-in-love-with-formula-1/#forza), it should be clear I'm a completionist! In this post, I'll explain my definition of "finishing" the game, and my progress towards this after 27 days(!) of in-game time.
+Whether you've seen my [guide to FH5's creative accolades](https://jakelee.co.uk/forza-horizon-5-creative-accolades/) or [read previous posts professing my love for Forza Horizon](https://jakelee.co.uk/why-i-fell-in-love-with-formula-1/#forza), it should be clear I'm a completionist! In this post, I'll explain my definition of "finishing" the game, and my progress towards these 7 goals after 27 days(!) of in-game time.
 
 ## 97/97 Achievements
 
@@ -62,6 +62,16 @@ Finally, the last few badges require playing the game during the (current) 10-ye
 
 [![forza horizon 5 badges](/assets/images/2022/fh5-completionist-badges.png)](/assets/images/2022/fh5-completionist-badges.png)
 
+## 670+/656+ Car photos
+
+Horizon Promo (accessed via Pause Menu -> Cars -> Horizon Promo) is probably the most unsatisfying area to try and complete. 
+
+Achieving 656/656 (or higher) is relatively easy, just photograph all the cars in the game. However, if you go to Horizon Promo and filter for "Uncaptured" cars, you see... all kinds of things! Cars from story missions, traffic cars, and alternate versions of actual cars. Some of the [normal cars are also bugged](https://support.forzamotorsport.net/hc/en-us/articles/4409616884883-FH5-Known-Issues#:~:text=Photos-,Photos,-%2D%20Wheels%20do%20not).
+
+Ultimately, finding the "maximum" number is pretty hard due to various bugged cars, so achieving above the maximum should count as enough. If you do want to get all the traffic cars, I recommend driving down the highway and just taking photos every few seconds. 
+
+[![forza horizon 5 photos](/assets/images/2022/fh5-completionist-photos.png)](/assets/images/2022/fh5-completionist-photos.png)
+
 ## All cosmetics
 
 Finally, everyone's favourite part of Forza Horizon: cosmetics. No? Alright, well it's **a** part of the game at least.
@@ -79,8 +89,9 @@ Additionally, there is an [absolutely absurd outfit](https://support.forzamotors
 * ❌ Secret cars (missing Coupe)
 * ✔️ Accolades
 * ❌ Badges (missing 3x level badges, and 2x additional)
+* ✔️ Photographs
 * ❌ Cosmetics (missing a couple of weekly rewards)
 
 ## Conclusion
 
-The 6 categories covered here *should* be enough to keep any completionist busy for a long time, whilst still being possible. Good luck to anyone attempting this, and let me know if there are any additional categories I've missed!
+The 7 categories covered here *should* be enough to keep any completionist busy for a long time, whilst still being possible. Good luck to anyone attempting this, and let me know if there are any additional categories I've missed!
