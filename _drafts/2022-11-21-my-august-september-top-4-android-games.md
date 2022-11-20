@@ -2,7 +2,7 @@
 title: "Android game reviews: Farm & Mine, Idle Research, Tap Ninja, Solitaire Golden Prairies, Eatventure"
 author: Jake Lee
 layout: post
-image: /assets/images/2022/mobile-aug-nov.jpg
+image: /assets/images/2022/aug-nov-games-header.png
 tags:
     - Android
     - Gaming
@@ -159,23 +159,42 @@ I "fell" for one of these as it seemed like a sensible one-off purchase for mass
 
 ## #5: Eatventure - [Download](https://play.google.com/store/apps/details?id=com.hwqgrhhjfd.idlefastfood)
 
-intro
+Eatventure is a fairly typical "upgrade your restaurant, then move to a new one" game, with a very addictive gameplay style of lots of small upgrades whilst keeping the end goal in sight.
 
 ### Review
 
-x
+The game is very easy to get into, but unfortunately is extremely linear. The first few times you "complete" a restaurant it feels like an achievement, but eventually it becomes obvious that there are hundreds upon hundreds of these, and they are all pretty much identical. This is cleverly hidden by each "region" you complete a few restaurants in having local food, so the actual items you are upgrading are always changing. However, they all function identically, with no new mechanics at any point.
+
+In terms of idleness, whilst the game does run by itself a lot of manual intervention is needed to play efficiently. As mentioned earlier, many small upgrades are required to increase earnings, which combined with manually collecting the high value "tips" customers leave results in a quite manual experience.
+
+There are limited time events, but these generally do not feature any additional mechanics, and have quite modest rewards. Among these are "chests" (also rewarded through non-event gameplay) that give painfully bad rewards! 
+
+Finally, there is a pretty active community at [r/Eatventure](https://www.reddit.com/r/Eatventure/), but as a relatively simple game there isn't much to discuss.
 
 ### Monetisation
 
-x
+The incentives to watch adverts are quite high, with each advert watch providing a ~3x boost for ~10 minutes. As the numbers don't get exponential in Eatventure, this is a very noticeable boost. 
+
+Early on in the experience I purchased a permanent 2x income multiplier, which also provided some premium currency. Besides that, the microtransactions for gems aren't particularly worth it.
 
 ### Tips
 
-x
+* Sometimes it's worth saving money for a much larger boost to another food.
+* Focus on upgrading foods that earn you the most money.
+* No further tips, since it's a pretty simple game!
 
 ### Screenshots
 
-x
+| Main game | Upgrades |
+| :---: | :---: |
+| [![eatventure main game](/assets/images/2022/eatventure_game-thumbnail.jpg)](/assets/images/2022/eatventure_game.jpg) | [![eatventure upgrades](/assets/images/2022/eatventure_upgrades-thumbnail.jpg)](/assets/images/2022/eatventure_upgrades.jpg) |
+
+| Event | Profile |
+| :---: | :---: |
+| [![eatventure event](/assets/images/2022/eatventure_event-thumbnail.jpg)](/assets/images/2022/eatventure_event.jpg) | [![eatventure profile](/assets/images/2022/eatventure_profile-thumbnail.jpg)](/assets/images/2022/eatventure_profile.jpg) |
 
 ## Conclusion
 
+Unsurprisingly, 4 of the 5 games I've been playing a lot recently are idle to various degrees, with the remaining (Solitaire Golden Prairies) being very casual. This is obviously a persistent trend amongst my game posts (e.g. [May](https://jakelee.co.uk/my-may-top-4-android-games/), [June](https://jakelee.co.uk/my-june-top-4-android-games/)), and I doubt it'll change anytime soon!
+
+Perhaps more interesting is that I've spent real money on all of these games. Usually <£5 in total, and almost always for permanent boosts, but it's still more than I usually spend.
