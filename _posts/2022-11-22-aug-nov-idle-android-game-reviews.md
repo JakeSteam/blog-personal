@@ -14,11 +14,11 @@ The games are in descending order of "fun", and might contain mild spoilers:
 
 ## #1: Farm & Mine - [Download](https://play.google.com/store/apps/details?id=com.airapport.farm.mine.idle.ludumdare48)
 
-Farm & Mine was another game I found via [the Ukrainian dev's posts on r/incremental_games](https://www.reddit.com/user/GeneralVimes/submitted/). The concept is pretty simple, build up a little settlement whilst optimising where you use your resources. It contains elements of supply chain management, as well as the usual grinding for coins and resources.
+Farm & Mine was another game I found via [a dev's posts on r/incremental_games](https://www.reddit.com/user/GeneralVimes/submitted/), the same Ukrainian developer as [Idle Tower Builder](https://play.google.com/store/apps/details?id=com.airapport.idletowerbuilder). The concept is pretty simple, build up a little settlement whilst optimising where you use your resources. It contains elements of supply chain management, as well as the usual grinding for coins and resources.
 
 ### Review
 
-Whilst a little unpolished and unbalanced, the core gameplay of building up a little city is deeply satisfying. I found myself genuinely interested in what a new building / expansion would look like, an interesting side effect of the game having little explanatory text. The game doesn't offer any advice on how to progress quicker, when to prestige, what industries to focus on, and is instead just provides the environment for you to figure it out yourself.
+Whilst a little unpolished and unbalanced, the core gameplay of building up a little city is deeply satisfying. I found myself genuinely interested in what a new building / expansion would look like, an interesting side effect of the game having little explanatory text. The game doesn't offer any advice on how to progress quicker, when to prestige, what industries to focus on, and instead just provides the environment for you to figure it out yourself.
 
 This kind of gameplay won't work for everyone, but if you can get past the first 10 minutes of confusion, it definitely makes for a far more engaging game. I also like the weekly codes given out on their Discord server, and the ability to share screenshots directly into the server via a bot. Despite being a very small community, emphasising the Discord server so heavily helps it at least have some kind of focus point.
 
@@ -33,7 +33,7 @@ However, watching the occasional advert is pretty much required to play the game
 * When loading the game after a break, it actually plays back the missing time sped up. As such, choose your active action carefully. For me, I usually found it most help to sell end products I had stockpiled. Late game, the mine was a better use.
 * Research points will be a bottleneck, prioritise idle generation of them.
 * Prestiging isn't necessary for progression, I did it 2x but both were optional.
-* Not all industries are worth the effort. When you prestige, some of the earlier moneymakers may not longer be worth it.
+* Not all industries are worth the effort. When you prestige, some earlier moneymakers may no longer be worth it.
 * Focus on bottlenecks, and prioritise spending workforce wherever future growth is being limited (e.g., houses, research generation).
 * Join [the Discord server](https://discord.gg/airapport-games-439374417584324609), where very generous free resource codes are given out each week.
 
@@ -53,13 +53,13 @@ Yet another game found from a [dev post on r/incremental_games](https://www.redd
 
 ### Review
 
-As mentioned, this is probably the most complex idle game I've played in terms of layering. It's hard to overstate the amount of complexity that the game builds on over time, but I'll try. You are researching flasks that can be crafted. Eventually, you can prestige. You can also automate prestiging. You can enter an alternate fire mode, an additional prestige layering. Then ice mode on top. Then there is mastery of each flask. Then there are multiple layers of gold flasks and diamond flasks. Then there are accelerators that multiply the speed of other accelerators that multiply the speed of... oh god.
+As mentioned, this is probably the most complex idle game I've played in terms of layering. It's hard to overstate the amount of complexity that the game builds on over time, but I'll try. You are researching flasks that can be crafted. Eventually, you can prestige. You can also automate prestiging. You can enter an alternate fire mode, an additional prestige layering. Then ice mode on top. Then there is mastery of each flask. Then there are multiple layers of gold flasks and diamond flasks. Then there are accelerators that multiply the speed of other accelerators that multiply the speed of… oh god.
 
 I haven't even covered the assembly lab, or the other areas on the map (tubes! dark flasks!), but hopefully this gives an idea into how layered the game is. Oh, and I forgot to mention there's an entire combat & questing area later on.
 
-Whilst these may all seem intimidating when listed, the game does an excellent job of dripfeeding these new mechanics to you, so you are usually given *just* enough complexity. When a new mechanic is revealed, it takes a little bit of time to understand it and incorporate it into your plans, but it never feels discouraging. Each mechanic has such unique behaviour that Idle Research avoids the "prestige endlessly for negligible progress" trap that many idle games fall into, with each new layer feeling like genuine progress.
+Whilst these may all seem intimidating when listed, the game does an excellent job of drip feeding these new mechanics to you, so you are usually given *just* enough complexity. When a new mechanic is revealed, it takes a little time to understand it and incorporate it into your plans, but it never feels discouraging. Each mechanic has such unique behaviour that Idle Research avoids the "prestige endlessly for negligible progress" trap that many idle games fall into, with each new layer feeling like genuine progress.
 
-That being said, this is a game that demands attention. Not necessarily in terms of gameplay (it's almost text based), but you will have to consider what you are trying to do carefully. I recently opened the game after a couple of weeks, and I'm completely lost in terms of what I was trying to progress.
+That being said, this is a game that demands attention. Not necessarily in terms of gameplay (the UI is pretty simple, just press on-screen buttons in your own time), but you will have to consider what you are trying to do carefully. I recently opened the game after a couple of weeks, and I'm completely lost in terms of what I was trying to progress.
 
 ### Monetisation
 
@@ -69,7 +69,7 @@ Whilst you can pay for extra diamonds (an upgrade currency), there are so many m
 
 * The "Guide" and "Unlockables" tab are very useful for understanding mechanics, and what the next unlock will be.
 * The [Idle Research Discord](https://discord.gg/9A9CjrSxeu) has a lot of helpful advice (I only found it whilst writing this post!).
-* Think carefully about the upgrades (e.g. Fire) that you buy, some of them won't actually help much if they don't affect your bottleneck.
+* Think carefully about the upgrades (e.g., Fire) that you buy, some of them won't actually help much if they don't affect your bottleneck.
 * Crafting presets are confusing. Basically you want 1 in all fields except the last one, meaning at that stage of research you want the minimum required for all except your highest level flask. E.g., black flask preset should be `1,1,1,1,1,1,1,1,1,37`.
 * When buying the 2 fire burning upgrades (gain more green flasks vs burn green flasks faster), be careful not to overspend and actually slow down your progress.
 * Overall, it's a pretty linear process as new mechanics unlock, the main risk is becoming overwhelmed by the complexity of the game!
@@ -94,7 +94,7 @@ Similar to Idle Research mentioned above, Tap Ninja does a good job of slowly re
 
 Whilst I've only been playing for a few days, the mixture of idle and active gameplay works well, especially since you can choose upgrades that match your playstyle. There is an auto-attack feature that works for 10 minutes, so spending prestige points on upgrading this suits me and my mostly idle style. 
 
-Finally, I had a vague sense of deja vu whilst playing Tap Ninja, then realised I recognized some of the assets from my own games! For example the "Contracting" and "Investment" icons in the ascension menu use the same icon pack that I did. Obviously this is absolutely legal & fine, I've even [written an article](https://blog.jakelee.co.uk/should-i-use-a-free-cheap-resource-pack-in-my-game/) encouraging game devs to use resource packs like this!
+Finally, I had a vague sense of deja vu whilst playing Tap Ninja, then realised I recognized some assets from my own games! For example the "Contracting" and "Investment" icons in the ascension menu use the same icon pack that I did. Obviously this is absolutely legal & fine, I've even [written an article](https://blog.jakelee.co.uk/should-i-use-a-free-cheap-resource-pack-in-my-game/) encouraging game devs to use resource packs like this!
 
 ### Monetisation
 
@@ -138,7 +138,7 @@ Still, the core gameplay is smooth and satisfying. This plus the somewhat fair g
 
 Solitaire Golden Prairies' monetisation strategy is somewhat interesting, as it is much more passive than similar games. There's no intrusive advertising (besides a prompt to pay for a "Super spin" after you've had a free lucky spin), instead it makes use of limited time events that contain *optional* boosts to improve your reward from them. For example a week-long questing event might give ~20k worth of rewards for free, but this can be upgraded to ~100k if you purchase a golden ticket. 
 
-I "fell" for one of these as it seemed like a sensible one-off purchase for massive rewards, before I realised those massive rewards are burnt through pretty quickly! As such, none of the in-app purchases are really worth it, since none of them increase longer-term earning potential, and are essentially just indirect purchasing currency. 
+I "fell" for one of these as it seemed like a sensible one-off purchase for massive rewards, before I realised those massive rewards are burnt through pretty quickly! As such, none of the in-app purchases are really worth it, since none of them increase longer-term earning potential, and are essentially just indirectly purchasing currency. 
 
 ### Tips
 
@@ -195,6 +195,6 @@ Early on in the experience I purchased a permanent 2x income multiplier, which a
 
 ## Conclusion
 
-Unsurprisingly, 4 of the 5 games I've been playing a lot recently are idle to various degrees, with the remaining (Solitaire Golden Prairies) being very casual. This is obviously a persistent trend amongst my game posts (e.g. [May](https://jakelee.co.uk/my-may-top-4-android-games/), [June](https://jakelee.co.uk/my-june-top-4-android-games/)), and I doubt it'll change anytime soon!
+Unsurprisingly, 4 of the 5 games I've been playing a lot recently are idle to various degrees, with the outlier (Solitaire Golden Prairies) being very casual. This is obviously a persistent trend throughout my game posts (e.g., [May](https://jakelee.co.uk/my-may-top-4-android-games/), [June](https://jakelee.co.uk/my-june-top-4-android-games/)), and I doubt it'll change anytime soon!
 
 Perhaps more interesting is that I've spent real money on all of these games. Usually <£5 in total, and almost always for permanent boosts, but it's still more than I usually spend.
