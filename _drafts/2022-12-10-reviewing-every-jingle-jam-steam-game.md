@@ -1,5 +1,5 @@
 ---
-title: Reviewing ALL 100+ games from the Yogscast's Jingle Jam charity bundle on Steam
+title: Reviewing ALL 85 games from the Yogscast's Jingle Jam charity bundle on Steam (Part 1)
 author: Jake Lee
 layout: post
 image: /assets/images/2022/
@@ -11,7 +11,9 @@ tags:
 
 intro to the bundle, yogscast, what the post is
 
-mention all games played for a bit, info from steamdb.info, etc
+mention all games played for a bit, info from steamdb.info, etc. Mention just opinion based on liking them, not necessarily quality
+
+mention redeeming script https://www.reddit.com/r/Yogscast/comments/zadkdq/a_fast_way_to_redeem_all_jingle_jam_steam_codes/ but also "redeem steam wallet code"
 
 ## 5/5 Games
 
@@ -32,6 +34,22 @@ However, there seems to be a pretty deep loadout system, with each ball powerup 
 | Level | Bonus level | RPG elements |
 | --- | --- | --- |
 | [![](/assets/images/2022/jj-zombieroll-level-thumbnail.jpg)](/assets/images/2022/jj-zombieroll-level.jpg) | [![](/assets/images/2022/jj-zombieroll-treasure-thumbnail.jpg)](/assets/images/2022/jj-zombieroll-treasure.jpg) | [![](/assets/images/2022/jj-zombieroll-rpg-thumbnail.jpg)](/assets/images/2022/jj-zombieroll-rpg.jpg) |
+
+### Wunderling DX
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [86.61% - Store page](https://store.steampowered.com/app/732930/Wunderling_DX/) | £11.39 | Platformer | March 2020 | 16 (March 2022) |
+
+How does this game not have more players!? Wunderling is an automoving puzzle platformer, with one button to jump, then sometimes additional buttons for level-specific actions. The movement is satisfying, the level design encourages risky behaviour (but are still completable), making it a tragedy this game has never had 20 players.
+
+Each of the levels takes under a minute to complete, and whilst just completing it is very easy, the additional incentives (treasure chests with cosmetics) give excellent replayability. I only opened 3-4 chests, but was very tempted to go back and replay earlier levels to figure out how to get the cosmetics out of the missed chests. They often require looping back on yourself, which is easier said than done when you have no control over your movement besides jumping!
+
+The main downside to the game would be the dialog and story. It's aiming to be self-aware, but came across as a bit cringe-inducing, and I quickly started skipping all the cutscenes. Ultimately the story doesn't matter whatsoever, your objectives per level always seem the same, at least at the start. 
+
+| Game dialog | World 1 level | World 2 level |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-wunderling-dialog-thumbnail.jpg)](/assets/images/2022/jj-wunderling-dialog.jpg) | [![](/assets/images/2022/jj-wunderling-w1-thumbnail.jpg)](/assets/images/2022/jj-wunderling-w1.jpg) | [![](/assets/images/2022/jj-wunderling-w2-thumbnail.jpg)](/assets/images/2022/jj-wunderling-w2.jpg) |
 
 ## 3/5 Games
 
@@ -70,3 +88,53 @@ Finally, the graphics felt pretty muddy. Zooming in should reward the player wit
 | Zoomed in view | Zoomed out view | Info compendium |
 | --- | --- | --- |
 | [![](/assets/images/2022/jj-w40k-zoomin-thumbnail.jpg)](/assets/images/2022/jj-w40k-zoomin.jpg) | [![](/assets/images/2022/jj-w40k-zoomout-thumbnail.jpg)](/assets/images/2022/jj-w40k-zoomout.jpg) | [![](/assets/images/2022/jj-w40k-guide-thumbnail.jpg)](/assets/images/2022/jj-w40k-guide.jpg) | 
+
+### WARSAW
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [69.97% - Store page](https://store.steampowered.com/app/1026420/WARSAW/) | £18.99 | Strategy | October 2019 | 351 (October 2019) |
+
+WARSAW felt like a game with a lot of potential, that could have been a cult classic if it had got luckier and made a few different decisions. The setting (Poland's uprising at the end of WW2) is convincing, and the mood is as depressing and oppressive as you'd expect. 
+
+The map used to navigate a scenario is a little confusing. You have limited energy (used by movement) which discourages exploration, flanking, or strategic positioning, with the intended approach seemingly being to charge head-first into any enemies you see. Once you're in combat, it seems pretty shallow, with the turn based combat (move OR shoot, then enemy does) leading to the best tactic just being taking it in turns to exchange fire until one team is all dead. 
+
+This simple combat system is slow, even on the 3x speed setting. Every battle will take quite a few turns, and it's not particularly engaging when the only strategy I saw was to hide behind obstacles. Attacks have certain tiles they can target, which led to very silly scenarios where I was clicking through my 4 characters, trying to find any that could target a man standing right in front of us. Just shoot!
+
+Overall this isn't my sort of game, nor did I find the complexity of asset management vs simplicity of combat very engaging. If Darkest Dungeon didn't exist, WARSAW might have been more appealing.
+
+| Map view | During an encounter | Combat |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-warsaw-map-thumbnail.jpg)](/assets/images/2022/jj-warsaw-map.jpg) | [![](/assets/images/2022/jj-warsaw-encounter-thumbnail.jpg)](/assets/images/2022/jj-warsaw-encounter.jpg) | [![](/assets/images/2022/jj-warsaw-action-thumbnail.jpg)](/assets/images/2022/jj-warsaw-action.jpg) |
+
+### Vibrant Venture
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [90.93% - Store page](https://store.steampowered.com/app/1264520/) | £11.39 | Puzzle | July 2020 | 103 (February 2021) |
+
+This is a beautiful, complex game with a high skill ceiling. That skill ceiling is clearly much, much higher than my ability.
+
+I've played a few similar games before, with the core concept of swapping between multiple characters each with unique abilities. *Usually* however, these characters just need to be swapped between to open a gate / pass an obstacle. In Vibrant Venture you need to swap mid-jump, to perform tricks like utilising one character's vertical double jump immediately followed by another character's horizontal dash. 
+
+I only played the first few levels, but every time I had to do this move my hands disobeyed me, and it took far too many attempts! The pixel art was absolutely lovely, and it's a real shame this game wasn't more of a hit. Maybe others are as incompetent as me! 
+
+| Map view | World 1 level | World 2 level |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-vibrant-map-thumbnail.jpg)](/assets/images/2022/jj-vibrant-map.jpg) | [![](/assets/images/2022/jj-vibrant-w1-thumbnail.jpg)](/assets/images/2022/jj-vibrant-w1.jpg) | [![](/assets/images/2022/jj-vibrant-w2-thumbnail.jpg)](/assets/images/2022/jj-vibrant-w2.jpg) |
+
+## 2/5 Games
+
+### Viscera Cleanup Detail (+DLCs)
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [91.01% - Store page](https://store.steampowered.com/app/246900/Viscera_Cleanup_Detail/) | £16.99 | Cleaning | October 2015 | 1.5k (March 2021) |
+
+Okay wait wait wait, I know this game is amazing! It's just not for me. I've watched tens of hours of Viscera Cleanup Detail from people like [Hatfilms](https://www.youtube.com/playlist?list=PLW1Yb5N9dD8datIoAFMCCOrbsR5AY5bMv), [Sips & Lewis](https://www.youtube.com/playlist?list=PLNLcbFFtu7nXNiQeSkwTjvAEBVF8Ev3Iz), and [Jerma & Ster](https://www.youtube.com/watch?v=mbYuruOBbG0), and the multiplayer element feels essential. Without someone there to knock over your bucket full of blood, the game just feels like a chore simulator.
+
+Whilst I know games like that can be popular, they're not what I look for personally. I found the control a little fiddly, navigating maps slow, and overall it mostly just reminded me of areas of my house I need to clean! That being said, the maps are fun to explore, and the boombox's tracks is great.
+
+| Section 8 map | Frostbite map | Cryogenesis map |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-viscera-section8-thumbnail.jpg)](/assets/images/2022/jj-viscera-section8.jpg) | [![](/assets/images/2022/jj-viscera-frostbite-thumbnail.jpg)](/assets/images/2022/jj-viscera-frostbite.jpg) | [![](/assets/images/2022/jj-viscera-cryogenesis-thumbnail.jpg)](/assets/images/2022/jj-viscera-cryogenesis.jpg)
