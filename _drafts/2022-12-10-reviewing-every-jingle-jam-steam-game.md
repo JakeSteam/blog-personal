@@ -1,5 +1,5 @@
 ---
-title: Reviewing ALL 85 games from the Yogscast's Jingle Jam charity bundle on Steam (Part 1)
+title: Reviewing ALL 82 games from the Yogscast's Jingle Jam charity bundle on Steam (Part 1)
 author: Jake Lee
 layout: post
 image: /assets/images/2022/
@@ -17,13 +17,29 @@ mention redeeming script https://www.reddit.com/r/Yogscast/comments/zadkdq/a_fas
 
 ## 5/5 Games
 
+### Turnip Boy Commits Tax Evasion
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [91.46% - Store page](https://store.steampowered.com/app/1205450/) | £12.99 | Pinball | April 2021 | 341 (April 2021) |
+
+What an astonishing game. The main gameplay is essentially completing fetch quests by talking to everyone you meet, and a bit of combat. The quests are simple, the story is easily understandable, but what sets is apart is the writing.
+
+When completing a quest you usually rip a document in half, starting with the tax bill, hence the game name. Later on this progresses to love letters, notices of military service, and countless random documents. Yes it's a basic gimmick, but other character's reactions to the senseless ripping is beautiful. Every character's dialog is pretty entertaining, and it's a great motivator for completing the next little quest.
+
+The combat is relatively smooth, but nothing too new. Most of it is spent swapping between your melee weapon (used to inflict damage) and your watering can, used to grow helpful plants nearby. You're unlikely to die very often, but the boss fights take a lot of attention and patience to get through safely.
+
+| Game map | To do list | Boss fight |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-turnip-map-thumbnail.jpg)](/assets/images/2022/jj-turnip-map.jpg) | [![](/assets/images/2022/jj-turnip-todo-thumbnail.jpg)](/assets/images/2022/jj-turnip-todo.jpg) | [![](/assets/images/2022/jj-turnip-boss-thumbnail.jpg)](/assets/images/2022/jj-turnip-boss.jpg)
+
 ## 4/5 Games
 
 ### Zombie Rollerz: Pinball Heroes
 
 | Steam rating | Price | Genre | Released | Peak players
 | --- | --- | --- | --- | --- |
-| [82.67% - Store page](https://store.steampowered.com/app/915230/) | £12.99 | Pinball | March 2022 | 126 (March 2022) |
+| [82.67% - Store page](https://store.steampowered.com/app/915230/) | £11.39 | Adventure | March 2022 | 126 (March 2022) |
 
 Zombie Rollerz was a pleasantly surprising pinball / RPG hybrid, with waaaay more depth than expected. Each level seems to be uniquely crafted, although of course the enemies and gameplay mechanics are shared.
 
@@ -138,3 +154,19 @@ Whilst I know games like that can be popular, they're not what I look for person
 | Section 8 map | Frostbite map | Cryogenesis map |
 | --- | --- | --- |
 | [![](/assets/images/2022/jj-viscera-section8-thumbnail.jpg)](/assets/images/2022/jj-viscera-section8.jpg) | [![](/assets/images/2022/jj-viscera-frostbite-thumbnail.jpg)](/assets/images/2022/jj-viscera-frostbite.jpg) | [![](/assets/images/2022/jj-viscera-cryogenesis-thumbnail.jpg)](/assets/images/2022/jj-viscera-cryogenesis.jpg)
+
+## 1/5 Games
+
+### Uligo: A Slime's Hike
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [74.19% - Store page](https://store.steampowered.com/app/1971790/) | £6.19 | Platformer | May 2022 | 5 (May 2022) |
+
+Honestly this wasn't a very fun experience. It's just a platformer with bad physics, rough UI, settings that don't reliably work, and just an overall unhappy time. There *might* be some interesting gameplay mechanics later on, but there was certainly nothing new in the tutorial.
+
+I guess Uligo isn't technically bad, but it was a real effort to get through the 2 tutorial levels. Don't play this.
+
+| Tutorial | Hats | Example dialog |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-uligo-tutorial-thumbnail.jpg)](/assets/images/2022/jj-uligo-tutorial.jpg) | [![](/assets/images/2022/jj-uligo-hats-thumbnail.jpg)](/assets/images/2022/jj-uligo-hats.jpg) | [![](/assets/images/2022/jj-uligo-text-thumbnail.jpg)](/assets/images/2022/jj-uligotext.jpg) | 
