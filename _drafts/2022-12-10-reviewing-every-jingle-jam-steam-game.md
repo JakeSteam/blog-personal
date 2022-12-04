@@ -135,6 +135,20 @@ The main downside to the game would be the dialog and story. It's aiming to be s
 | --- | --- | --- |
 | [![](/assets/images/2022/jj-wunderling-dialog-thumbnail.jpg)](/assets/images/2022/jj-wunderling-dialog.jpg) | [![](/assets/images/2022/jj-wunderling-w1-thumbnail.jpg)](/assets/images/2022/jj-wunderling-w1.jpg) | [![](/assets/images/2022/jj-wunderling-w2-thumbnail.jpg)](/assets/images/2022/jj-wunderling-w2.jpg) |
 
+### Sokpop: Sok-worlds
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [79.89% - Store page](https://store.steampowered.com/app/1263820/) | £2.99 | Adventure | March 2020 | 23 (November 2022) |
+
+What a surreal experience. Sok-worlds is essentially a sandbox tool for making, sharing, and playing levels that consist entirely of solid images or text. The storylines are baffling and mysterious if they exist, the images are cliché enough to be obviously intentional, and the platforming is as good as it needs to be.
+
+As a creative tool, this game lives and dies on the content. Luckily, the few levels I played were all intriguing and truly unique 2-3 minute adventures. There won't be any magnum opus here, but there's absolutely the chance for niche creator subcommunities.
+
+| Cat world | Frog world | Desert world |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-sokworlds-cat-thumbnail.jpg)](/assets/images/2022/jj-sokworlds-cat.jpg) | [![](/assets/images/2022/jj-sokworlds-frog-thumbnail.jpg)](/assets/images/2022/jj-sokworlds-frog.jpg) | [![](/assets/images/2022/jj-sokworlds-desert-thumbnail.jpg)](/assets/images/2022/jj-sokworlds-desert.jpg) |
+
 ## 3/5 Games
 
 ### You Suck At Parking
@@ -172,6 +186,20 @@ Overall this isn't my sort of game, nor did I find the complexity of asset manag
 | Map view | During an encounter | Combat |
 | --- | --- | --- |
 | [![](/assets/images/2022/jj-warsaw-map-thumbnail.jpg)](/assets/images/2022/jj-warsaw-map.jpg) | [![](/assets/images/2022/jj-warsaw-encounter-thumbnail.jpg)](/assets/images/2022/jj-warsaw-encounter.jpg) | [![](/assets/images/2022/jj-warsaw-action-thumbnail.jpg)](/assets/images/2022/jj-warsaw-action.jpg) |
+
+### Sokpop: King Pins
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [77.40% - Store page](https://store.steampowered.com/app/1459870/) | £2.09 | Strategy | October 2020 | 13 (December 2022) |
+
+As with most Sokpop games, it's a pretty basic take on a genre. This time, it's a strategy game where resource gathering (food, wood, gold) must be balanced against expansion of your settlement. The usual choices are here, do you buy new workers or a soldier in case the enemy attacks?
+
+The UI is a little bit awkward, but the short and sweet game is self-explanatory and worth the purchase. The story is light, but enough to make the battles make sense.
+
+| Level select | During a level | During a level 2 |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-pins-level-thumbnail.png)](/assets/images/2022/jj-pins-level.png) | [![](/assets/images/2022/jj-pins-level2-thumbnail.png)](/assets/images/2022/jj-pins-level2.png) | [![](/assets/images/2022/jj-pins-level3-thumbnail.png)](/assets/images/2022/jj-pins-level3.png) |
 
 ### Vibrant Venture
 
@@ -296,7 +324,7 @@ I guess Uligo isn't technically bad, but it was a real effort to get through the
 
 | Tutorial | Hats | Example dialog |
 | --- | --- | --- |
-| [![](/assets/images/2022/jj-uligo-tutorial-thumbnail.jpg)](/assets/images/2022/jj-uligo-tutorial.jpg) | [![](/assets/images/2022/jj-uligo-hats-thumbnail.jpg)](/assets/images/2022/jj-uligo-hats.jpg) | [![](/assets/images/2022/jj-uligo-text-thumbnail.jpg)](/assets/images/2022/jj-uligotext.jpg) | 
+| [![](/assets/images/2022/jj-uligo-tutorial-thumbnail.jpg)](/assets/images/2022/jj-uligo-tutorial.jpg) | [![](/assets/images/2022/jj-uligo-hats-thumbnail.jpg)](/assets/images/2022/jj-uligo-hats.jpg) | [![](/assets/images/2022/jj-uligo-text-thumbnail.jpg)](/assets/images/2022/jj-uligo-text.jpg) | 
 
 ### The Galactic Junkers
 
