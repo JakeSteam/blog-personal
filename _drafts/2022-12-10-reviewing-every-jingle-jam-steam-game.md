@@ -25,9 +25,9 @@ mention redeeming script https://www.reddit.com/r/Yogscast/comments/zadkdq/a_fas
 
 The Turing Test is very, very comparable to Portal. However, unlike games like Q.U.B.E it does not feel like a rip-off, but like a developer has learnt Valve's lessons around subtler storytelling and learning by doing.
 
-New mechanics are slowly introduced every few levels, and instead of a wall of text the only way to learn is to do. Each puzzle is standalone, and the sense of accomplishment when the final piece of the puzzle comes together is amazing. Just as importantly, the solution to each puzzle doesn't feel like a chore to actually implement, as the controls are slick.
+New mechanics are slowly introduced every few levels, and instead of a wall of text the only way to learn is to do. Each puzzle is standalone, and the sense of accomplishment when the final piece of the puzzle comes together is amazing. Just as importantly, the solution to each puzzle doesn't feel like a chore to actually implement, as the controls are slick. It also helps that the game is visually appealing, with non-puzzle rooms having lots of hidden extras, whilst puzzle rooms are clean and well laid out.
 
-This game really surprised me, with the first 10-15 minutes playing like a mystery / survival game, before transitioning into the puzzle room solving formula. Throughout these rooms, a very well written two-layer story is told. Without any spoilers, if you don't explore every corner whilst walking between levels, you're going to get a much, much simpler story. Read notes!
+This game really surprised me, with the first 10-15 minutes playing like a mystery / survival game, before transitioning into the puzzle room solving formula. Throughout these rooms, a very well written two-layer story is told. Without any spoilers, if you don't explore every corner whilst walking between levels, you're going to get a much, much simpler story. Read notes! 
 
 I made it about halfway through the game before I made myself stop, I could easily have played it to completion all day!
 
@@ -52,6 +52,40 @@ The combat is relatively smooth, but nothing too new. Most of it is spent swappi
 | [![](/assets/images/2022/jj-turnip-map-thumbnail.jpg)](/assets/images/2022/jj-turnip-map.jpg) | [![](/assets/images/2022/jj-turnip-todo-thumbnail.jpg)](/assets/images/2022/jj-turnip-todo.jpg) | [![](/assets/images/2022/jj-turnip-boss-thumbnail.jpg)](/assets/images/2022/jj-turnip-boss.jpg)
 
 ## 4/5 Games
+
+### Tanuki Sunset
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [87.14% - Store page](https://store.steampowered.com/app/1251460/) | £11.39 | Racing | December 2020 | 75 (December 2020) |
+
+I spent the first 3-4 minutes disliking this game. The speed didn't make sense, the controls weren't responsive, it was way too hard, and resets were way too punishing. Then... it clicked! Suddenly I was drifting around corners, going at maximum speed, and dodging cars easily.
+
+Tanuki Sunset has a synthwave / beach vibe mashup, and once you work past adapting to the controls, it's a solid skateboarding game. Each stage is a few minutes long, and a single failure (very easy to do!) will send you back to the start. 
+
+The complexity comes through a risk/reward mechanic, where you *can* push the analog stick to go faster, perform near misses on cars, and all kinds of other terrifying behaviour, in exchange for more points. These don't seem too useful, whereas "bits" can be used on all kinds of cosmetics and accessories. It's worth keeping in mind that all of the jumps / drifts etc are optional, and staying on the road is waaaay more important.
+
+| Gameplay | Board flip stunt | Shop |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-tanuki-gameplay-thumbnail.jpg)](/assets/images/2022/jj-tanuki-gameplay.jpg) | [![](/assets/images/2022/jj-tanuki-stunt-thumbnail.jpg)](/assets/images/2022/jj-tanuki-stunt.jpg) | [![](/assets/images/2022/jj-tanuki-shop-thumbnail.jpg)](/assets/images/2022/jj-tanuki-shop.jpg) |
+
+### The Dungeon Beneath
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [80.18% - Store page](https://store.steampowered.com/app/1359120/) | £11.39 | Roguelite | October 2020 | 220 (January 2020) |
+
+The Dungeon Beneath is a relatively simple but solidly implemented roguelike dungeon crawler, one of my favourite genres. Your small team of yourself & 4 companions battle through a quite linear dungeon consisting of a series of battles with the occasional campfire or shop. 
+
+I only did a couple of runs, but found the strategy a little bit limited. With only 3 lanes consisting of 2 tiles each, positioning is limited. Additionally, mid-battle companions can only attack *or* move, making moving rarely the right choice. Instead you will usually set up your squad (melee at the front, range at the back, obviously), then repeatedly click "ATTACK" until you die or the enemy does.
+
+Make sure you turn on "stats always visible" and "5x animation speed" to improve the game beyond the default settings. Whilst I was initially thrown by the game using the same icon pack as various mobile games (e.g. Orna RPG), it matches the setting well.
+
+After most runs, a new companion option will be unlocked, giving this game quite a bit of replayability if you enjoy the core strategy. For me, the lack of in-battle strategy stopped this becoming a new favourite.
+
+| Shop room | Boss battle | Defeat |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-beneath-shop-thumbnail.jpg)](/assets/images/2022/jj-beneath-shop.jpg) | [![](/assets/images/2022/jj-beneath-boss-thumbnail.jpg)](/assets/images/2022/jj-beneath-boss.jpg) | [![](/assets/images/2022/jj-beneath-defeat-thumbnail.jpg)](/assets/images/2022/jj-beneath-defeat.jpg) |
 
 ### Zombie Rollerz: Pinball Heroes
 
@@ -140,6 +174,22 @@ I only played the first few levels, but every time I had to do this move my hand
 | [![](/assets/images/2022/jj-vibrant-map-thumbnail.jpg)](/assets/images/2022/jj-vibrant-map.jpg) | [![](/assets/images/2022/jj-vibrant-w1-thumbnail.jpg)](/assets/images/2022/jj-vibrant-w1.jpg) | [![](/assets/images/2022/jj-vibrant-w2-thumbnail.jpg)](/assets/images/2022/jj-vibrant-w2.jpg) |
 
 ## 2/5 Games
+
+### Tenderfoot Tactics
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [79.11% - Store page](https://store.steampowered.com/app/1061610/) | £19.49 | Strategy | October 2020 | 64 (October 2020) |
+
+It's hard to review this game, since I never felt I really had a grasp of what was actually going on. I of course understood I was navigating around a map, and could enter battles, but the controls (at least on controller) seemed almost random. It was never clear which character was selected, why I was fighting enemies, or what the point of anything was.
+
+There was a mysterious "flying" mode which showed the same area, just from a higher perspective. Whilst this might potentially be used for scouting, the bizarre objects popping in and out of view constantly made it useless. Finally, the game's start was quite abrupt, with the start seemingly just being a collection of non-speaking characters (called goblins?) dumped in a field near some enemies (also goblins?).
+
+A good strategy game might be hiding under here, but I didn't see any hints of it in my short time playing.
+
+| Ground view | Sky view | Battle |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-tenderfoot-goblins-thumbnail.jpg)](/assets/images/2022/jj-tenderfoot-goblins.jpg) | [![](/assets/images/2022/jj-tenderfoot-bird-thumbnail.jpg)](/assets/images/2022/jj-tenderfoot-bird.jpg) | [![](/assets/images/2022/jj-tenderfoot-battle-thumbnail.jpg)](/assets/images/2022/jj-tenderfoot-battle.jpg) |
 
 ### Viscera Cleanup Detail (+DLCs)
 
