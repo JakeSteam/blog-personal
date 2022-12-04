@@ -87,6 +87,22 @@ After most runs, a new companion option will be unlocked, giving this game quite
 | --- | --- | --- |
 | [![](/assets/images/2022/jj-beneath-shop-thumbnail.jpg)](/assets/images/2022/jj-beneath-shop.jpg) | [![](/assets/images/2022/jj-beneath-boss-thumbnail.jpg)](/assets/images/2022/jj-beneath-boss.jpg) | [![](/assets/images/2022/jj-beneath-defeat-thumbnail.jpg)](/assets/images/2022/jj-beneath-defeat.jpg) |
 
+### Swords 'n Magic and Stuff
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [88.35% - Store page](https://store.steampowered.com/app/810040/) | £16.75 | RPG | September 2020 | 547 (September 2020) |
+
+I enjoyed this far more than I thought I would! Swords 'n Magic and Stuff might have an awful name (SM&S?), but it's a quite fleshed out casual RPG. The tutorial does a good job of teaching you the basics of combat, cooking, and similar skills, whilst not holding your hand too much.
+
+The bow & arrow combat was pretty satisfying, especially when combined with the combat roll mechanic. I'm not fully convinced by the default controls (F to pick up, E to swap ammo), they stop being an issue after a while though.
+
+I noticed a lot of focus on multiplayer features, which I'm pretty interested in looking into, since the singleplayer was very much a solo RPG. In terms of graphics it's somewhat basic, but it makes the most of what it has available, with the voxel graphics suiting the gameplay style.
+
+| Town | Map | Combat |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-swords-town-thumbnail.jpg)](/assets/images/2022/jj-swords-town.jpg) | [![](/assets/images/2022/jj-swords-map-thumbnail.jpg)](/assets/images/2022/jj-swords-map.jpg) | [![](/assets/images/2022/jj-swords-combat-thumbnail.jpg)](/assets/images/2022/jj-swords-combat.jpg) |
+
 ### Zombie Rollerz: Pinball Heroes
 
 | Steam rating | Price | Genre | Released | Peak players
@@ -236,7 +252,37 @@ I only played through the first character's "flashback" and half the second char
 | --- | --- | --- |
 | [![](/assets/images/2022/jj-hex-platformer-thumbnail.jpg)](/assets/images/2022/jj-hex-platformer.jpg) | [![](/assets/images/2022/jj-hex-fighter-thumbnail.jpg)](/assets/images/2022/jj-hex-fighter.jpg) | [![](/assets/images/2022/jj-hex-options-thumbnail.jpg)](/assets/images/2022/jj-hex-options.jpg) |
 
+### Space Crew: Legendary Edition
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [75.28% - Store page](https://store.steampowered.com/app/1176710/) | £19.99 | Action | October 2020 | 1.5k (October 2020) |
+
+A hard game to review. As with many other games, this is clearly extremely heavily FTL inspired. The 3D space view is frankly baffling, making it very hard to actually navigate to any quest objectives.
+
+I suspect playing this game for a few more hours would make the overall controls a bit more understandable, but so far I've spent most of my time just blindly following a tutorial. 
+
+From reading other reviews on Steam, this looks like a watered down copy of the developer's other game "Bomber Crew", and that certainly seems accurate comparing screenshots. Whilst I appreciate FTL's effect on the genre, I wish it was a bit less direct!
+
+| Ship view | Space view | Earth in background |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-spacecrew-ship-thumbnail.jpg)](/assets/images/2022/jj-spacecrew-ship.jpg) | [![](/assets/images/2022/jj-spacecrew-space-thumbnail.jpg)](/assets/images/2022/jj-spacecrew-space.jpg) | [![](/assets/images/2022/jj-spacecrew-earth-thumbnail.jpg)](/assets/images/2022/jj-spacecrew-earth.jpg) |
+
 ## 1/5 Games
+
+### Sunlight
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [78.58% - Store page](https://store.steampowered.com/app/1451120/) | £3.49 | Adventure | January 2021 | 20 (January 2021) |
+
+This is a ~30m "game" with almost zero gameplay, even for a walking simulator. You walk painfully slowly in any direction (it doesn't matter), and click flowers when the slow, meandering voiceover lets you. There is nothing else.
+
+The voiceover should have been an audiobook, or ideally an article, not a game.
+
+| Title screen | One flower | Many flowers |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-sunlight-title-thumbnail.jpg)](/assets/images/2022/jj-sunlight-title.jpg) | [![](/assets/images/2022/jj-sunlight-one-thumbnail.jpg)](/assets/images/2022/jj-sunlight-one.jpg) | [![](/assets/images/2022/jj-sunlight-lots-thumbnail.jpg)](/assets/images/2022/jj-sunlight-lots.jpg) |
 
 ### Uligo: A Slime's Hike
 
@@ -253,6 +299,7 @@ I guess Uligo isn't technically bad, but it was a real effort to get through the
 | [![](/assets/images/2022/jj-uligo-tutorial-thumbnail.jpg)](/assets/images/2022/jj-uligo-tutorial.jpg) | [![](/assets/images/2022/jj-uligo-hats-thumbnail.jpg)](/assets/images/2022/jj-uligo-hats.jpg) | [![](/assets/images/2022/jj-uligo-text-thumbnail.jpg)](/assets/images/2022/jj-uligotext.jpg) | 
 
 ### The Galactic Junkers
+
 | Steam rating | Price | Genre | Released | Peak players
 | --- | --- | --- | --- | --- |
 | [61.95% - Store page](https://store.steampowered.com/app/1243160/The_Galactic_Junkers/) | £12.99 | Action | June 2022 | 7 (December 2022) |
