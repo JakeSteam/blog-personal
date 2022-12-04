@@ -17,6 +17,24 @@ mention redeeming script https://www.reddit.com/r/Yogscast/comments/zadkdq/a_fas
 
 ## 5/5 Games
 
+### The Turing Test
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [84.92% - Store page](https://store.steampowered.com/app/499520/) | £14.99 | Puzzle | August 2016 | 536 (May 2017) |
+
+The Turing Test is very, very comparable to Portal. However, unlike games like Q.U.B.E it does not feel like a rip-off, but like a developer has learnt Valve's lessons around subtler storytelling and learning by doing.
+
+New mechanics are slowly introduced every few levels, and instead of a wall of text the only way to learn is to do. Each puzzle is standalone, and the sense of accomplishment when the final piece of the puzzle comes together is amazing. Just as importantly, the solution to each puzzle doesn't feel like a chore to actually implement, as the controls are slick.
+
+This game really surprised me, with the first 10-15 minutes playing like a mystery / survival game, before transitioning into the puzzle room solving formula. Throughout these rooms, a very well written two-layer story is told. Without any spoilers, if you don't explore every corner whilst walking between levels, you're going to get a much, much simpler story. Read notes!
+
+I made it about halfway through the game before I made myself stop, I could easily have played it to completion all day!
+
+| On the ship | Energy puzzles | Bridge puzzles |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-turing-ship-thumbnail.jpg)](/assets/images/2022/jj-turing-ship.jpg) | [![](/assets/images/2022/jj-turing-energy-thumbnail.jpg)](/assets/images/2022/jj-turing-energy.jpg) | [![](/assets/images/2022/jj-turing-bridges-thumbnail.jpg)](/assets/images/2022/jj-turing-bridges.jpg) |
+
 ### Turnip Boy Commits Tax Evasion
 
 | Steam rating | Price | Genre | Released | Peak players
@@ -87,24 +105,6 @@ Overall I can see how someone could get into this game. For me however, the ridi
 | --- | --- | --- |
 | [![](/assets/images/2022/jj-ysap-game-thumbnail.jpg)](/assets/images/2022/jj-ysap-game.jpg) | [![](/assets/images/2022/jj-ysap-multiplayer-thumbnail.jpg)](/assets/images/2022/jj-multiplayer-game.jpg) | [![](/assets/images/2022/jj-ysap-shop-thumbnail.jpg)](/assets/images/2022/jj-ysap-shop.jpg) | 
 
-### Warhammer 40k: Gladius - Relics of War
-
-| Steam rating | Price | Genre | Released | Peak players
-| --- | --- | --- | --- | --- |
-| [77.91% - Store page](https://store.steampowered.com/app/489630/Warhammer_40000_Gladius__Relics_of_War/) | £30.99 | Strategy | July 2018 | 3.4k (July 2018) |
-
-I am not a good person to review this game. I've never had any interest in Warhammer 40k, nor 4X / strategy games besides a little bit of Civilization V in the past. By the very nature of these games, they require a time investment of tens if not hundreds of hours before a proper review can be given, and I just didn't find it engaging enough to do that.
-
-I played an hour or so of the tutorial, and the overall impression is that a lot of knowledge is assumed. For Warhammer 40k this is probably a safe assumption most of the time, but it meant I usually had no idea what units / tiles meant. Sometimes my unit would onto a building, sometimes it would attack it, and this unpredictably persisted throughout.
-
-As Civilization 5 (and Settlers III) are the only vaguely similar games I've played, it's hard not to compare this game unfavourably. Every action felt like a less intuitive version, with an excellent example being the monochrome icons used throughout the UI. After 10 hours the icons probably seem obvious, but at first glance they're just mysterious shapes with no meaning or association. 
-
-Finally, the graphics felt pretty muddy. Zooming in should reward the player with a nicely modelled unit, perhaps with some easter egg idle animations and slight variation between individuals whilst still appearing cohesive. Instead, the units (at least the ones I saw) were very low quality, and quickly taught me that keeping the game as zoomed out as possible helped me pretend the game looked alright.
-
-| Zoomed in view | Zoomed out view | Info compendium |
-| --- | --- | --- |
-| [![](/assets/images/2022/jj-w40k-zoomin-thumbnail.jpg)](/assets/images/2022/jj-w40k-zoomin.jpg) | [![](/assets/images/2022/jj-w40k-zoomout-thumbnail.jpg)](/assets/images/2022/jj-w40k-zoomout.jpg) | [![](/assets/images/2022/jj-w40k-guide-thumbnail.jpg)](/assets/images/2022/jj-w40k-guide.jpg) | 
-
 ### WARSAW
 
 | Steam rating | Price | Genre | Released | Peak players
@@ -155,6 +155,37 @@ Whilst I know games like that can be popular, they're not what I look for person
 | --- | --- | --- |
 | [![](/assets/images/2022/jj-viscera-section8-thumbnail.jpg)](/assets/images/2022/jj-viscera-section8.jpg) | [![](/assets/images/2022/jj-viscera-frostbite-thumbnail.jpg)](/assets/images/2022/jj-viscera-frostbite.jpg) | [![](/assets/images/2022/jj-viscera-cryogenesis-thumbnail.jpg)](/assets/images/2022/jj-viscera-cryogenesis.jpg)
 
+### Warhammer 40k: Gladius - Relics of War
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [77.91% - Store page](https://store.steampowered.com/app/489630/Warhammer_40000_Gladius__Relics_of_War/) | £30.99 | Strategy | July 2018 | 3.4k (July 2018) |
+
+I am not a good person to review this game. I've never had any interest in Warhammer 40k, nor 4X / strategy games besides a little bit of Civilization V in the past. By the very nature of these games, they require a time investment of tens if not hundreds of hours before a proper review can be given, and I just didn't find it engaging enough to do that.
+
+I played an hour or so of the tutorial, and the overall impression is that a lot of knowledge is assumed. For Warhammer 40k this is probably a safe assumption most of the time, but it meant I usually had no idea what units / tiles meant. Sometimes my unit would onto a building, sometimes it would attack it, and this unpredictably persisted throughout.
+
+As Civilization 5 (and Settlers III) are the only vaguely similar games I've played, it's hard not to compare this game unfavourably. Every action felt like a less intuitive version, with an excellent example being the monochrome icons used throughout the UI. After 10 hours the icons probably seem obvious, but at first glance they're just mysterious shapes with no meaning or association. 
+
+Finally, the graphics felt pretty muddy. Zooming in should reward the player with a nicely modelled unit, perhaps with some easter egg idle animations and slight variation between individuals whilst still appearing cohesive. Instead, the units (at least the ones I saw) were very low quality, and quickly taught me that keeping the game as zoomed out as possible helped me pretend the game looked alright.
+
+| Zoomed in view | Zoomed out view | Info compendium |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-w40k-zoomin-thumbnail.jpg)](/assets/images/2022/jj-w40k-zoomin.jpg) | [![](/assets/images/2022/jj-w40k-zoomout-thumbnail.jpg)](/assets/images/2022/jj-w40k-zoomout.jpg) | [![](/assets/images/2022/jj-w40k-guide-thumbnail.jpg)](/assets/images/2022/jj-w40k-guide.jpg) | 
+
+### The Hex
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [90.02% - Store page](https://store.steampowered.com/app/510420/) | £7.19 | Adventure | October 2018 | 118 (October 2021) |
+
+I didn't enjoy The Hex's multiple game styles (one per character) or overall UX much, which unfortunately outweighed the not-bad writing. Dialog took too long to get through, and self-awareness gimmick wore off a bit too closely when all the interactions felt clumsy and muddy.
+
+I only played through the first character's "flashback" and half the second character's, before I'd had enough. Most other reviews praise the stories, so I suspect if I could have overlooked the actual gameplay it may have been a better experience. But, it's a game, it needs solid gameplay!
+
+| Platformer stages | Fight-em-up stages | Options |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-hex-platformer-thumbnail.jpg)](/assets/images/2022/jj-hex-platformer.jpg) | [![](/assets/images/2022/jj-hex-fighter-thumbnail.jpg)](/assets/images/2022/jj-hex-fighter.jpg) | [![](/assets/images/2022/jj-hex-options-thumbnail.jpg)](/assets/images/2022/jj-hex-options.jpg) |
+
 ## 1/5 Games
 
 ### Uligo: A Slime's Hike
@@ -170,3 +201,16 @@ I guess Uligo isn't technically bad, but it was a real effort to get through the
 | Tutorial | Hats | Example dialog |
 | --- | --- | --- |
 | [![](/assets/images/2022/jj-uligo-tutorial-thumbnail.jpg)](/assets/images/2022/jj-uligo-tutorial.jpg) | [![](/assets/images/2022/jj-uligo-hats-thumbnail.jpg)](/assets/images/2022/jj-uligo-hats.jpg) | [![](/assets/images/2022/jj-uligo-text-thumbnail.jpg)](/assets/images/2022/jj-uligotext.jpg) | 
+
+### The Galactic Junkers
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [61.95% - Store page](https://store.steampowered.com/app/1243160/The_Galactic_Junkers/) | £12.99 | Action | June 2022 | 7 (December 2022) |
+
+If FTL didn't exist, maybe this would have some interest. This is just FTL without the responsiveness, the cohesive storytelling, the tactics, or the love. 
+
+The space-level navigation is borderline impossible, moving within the ship is pretty tricky, and combat vs another ship is a ridiculous mess. Expect your crewmembers to get stuck in walls most of the time, and have zero survival instinct. Overall I really can't recommend this game to anyone, I've absolutely no idea why the Steam page claims it is "comedic".
+
+| Character customisation | Ship view | Space view |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-galactic-character-thumbnail.jpg)](/assets/images/2022/jj-galactic-character.jpg) | [![](/assets/images/2022/jj-galactic-ship-thumbnail.jpg)](/assets/images/2022/jj-galactic-ship.jpg) | [![](/assets/images/2022/jj-galactic-space-thumbnail.jpg)](/assets/images/2022/jj-galactic-space.jpg) |
