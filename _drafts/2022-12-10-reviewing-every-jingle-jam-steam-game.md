@@ -53,6 +53,40 @@ The combat is relatively smooth, but nothing too new. Most of it is spent swappi
 
 ## 4/5 Games
 
+### Sokpop: Flipper Volcano
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [67.20% - Store page](https://store.steampowered.com/app/1413350/) | £2.99 | Pinball | September 2020 | 10 (December 2022) |
+
+A short but sweet pinball game. The gameplay is smooth enough, you've just got to keep ascending a randomised volcano until you escape, whilst being chased by lava. There's a small shop, where you can buy new pinballs. The pink one that goes through objects makes climbing the volcano much, much easier, and seems the best buy by far. 
+
+It's a pretty short game, by looking at the achievements it's clear there's not more than a couple of hours of gameplay here. Still, my experience was satisfying enough that I'm intending to come back to this and complete it later!
+
+| Deep cave 3 | Deep cave 4 | Mud cave 1 |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-flipper-blue1-thumbnail.jpg)](/assets/images/2022/jj-flipper-blue1.jpg) | [![](/assets/images/2022/jj-flipper-blue2-thumbnail.jpg)](/assets/images/2022/jj-flipper-blue2.jpg) | [![](/assets/images/2022/jj-flipper-grey-thumbnail.jpg)](/assets/images/2022/jj-flipper-grey.jpg) |
+
+### Seals of the Bygone
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [79.37% - Store page](https://store.steampowered.com/app/1093790/) | £10.29 | Platformer | March 2020 | 18 (December 2022) |
+
+Seals of the Bygone is an excellent fast-paced 2D roguelike. You're thrown into the first level with random skills, and have to form your combat style around them, even if they don't work well together at all. 
+
+For me, I had one melee attack, one ranged attack, a bizarre "jump then fire barrage down" attack, and a dash. After a few minutes of trial and error, I eventually got pretty consistent with these moves and made my way through the first few bosses.
+
+The upgrade / loot system is very simple (get coins, open chests), but frankly that's all you'll be able to handle since there's always enemies coming at you. New waves of enemies are unlocked via a timer at the top. Whilst you can hide away and get a brief respite, the enemies will still be spawning and making their way to you. This encourages a frantic playstyle of never stopping, always killing enemies. The boss fights are challenging yet predictable, and encourage learning attack patterns.
+
+Towards the end of my run I unlocked an active item, which I found too awkward (hold B, tap right) to actually use. Whilst these active items do increase the complexity, I'm not sure if they're convenient enough to use. Looking through the compendium, there seems to be a decent variety of items to use, although most of their effects are fairly typical (+X% melee damage, chance to set enemy on fire, etc). I suspect the rarer ones might be a bit more interesting and unique.
+
+Overall this is a solid early access game, and I'll definitely be coming back to it for another few runs, although I might wait until the "Compendium update" is out. 
+
+| Title screen | Gameplay | Compendium |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-seals-title-thumbnail.png)](/assets/images/2022/jj-seals-title.png) | [![](/assets/images/2022/jj-seals-gameplay-thumbnail.png)](/assets/images/2022/jj-seals-gameplay.png) | [![](/assets/images/2022/jj-seals-compendium-thumbnail.png)](/assets/images/2022/jj-seals-compendium.png) |
+
 ### Tanuki Sunset
 
 | Steam rating | Price | Genre | Released | Peak players
@@ -151,13 +185,47 @@ As a creative tool, this game lives and dies on the content. Luckily, the few le
 
 ## 3/5 Games
 
+### Sokpop: Pyramida
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [81.15% - Store page](https://store.steampowered.com/app/1390010/) | £2.99 | Survival | August 2020 | 96 (May 2022) |
+
+What a charming little survival game. It's brutal, and unforgiving, but looks so cute whilst doing it that you don't mind too much.
+
+Your main resources are wheat, wood, and food. Wheat and wood are easy to obtain plenty of, and are core resources for expanding your settlement. Food however is... not plentiful, and you'll spend a lot of time desperately hunting the hidden area to find some.
+
+Whilst I did enjoy my few runs in Pyramida, the controls were slightly too awkward to make it a game I wanted to play to completion (likely 2-3 hours). It was tricky to see which of my settlers were doing what, how many food resources I need each day, and it took me far too long to understand I needed to right click to assign a worker!
+
+I would have loved a "peaceful" gamemode where I could build up a settlement without risk of skeletons causing knocking out my settlers. As it is, the difficulty is just about OK for the first few runs. I get the feeling that after a successful run and awareness of how buildings perform, future runs would be easy to optimise.
+
+| First run | Second run | Night |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-pyramida-firstrun-thumbnail.jpg)](/assets/images/2022/jj-pyramida-firstrun.jpg) | [![](/assets/images/2022/jj-pyramida-secondrun-thumbnail.jpg)](/assets/images/2022/jj-pyramida-secondrun.jpg) | [![](/assets/images/2022/jj-pyramida-night-thumbnail.jpg)](/assets/images/2022/jj-night-firstrun.jpg) |
+
+### Sokpop: Chatventures
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [84.66% - Store page](https://store.steampowered.com/app/1265850/) | £2.99 | MMORPG | April 2020 | 23 (December 2022) |
+
+What an interesting idea! It's a simple text based RPG except... online. Everyone seemed similar levels of confused, so it was fun watching people blunder into areas and try to figure out the commands.
+
+For fans of text based adventures this seems a pretty good one, and is quite forgiving with the syntax. The text highlighting was helpful, letting players learn from each other's commands. Interestingly, you can loot any dead enemies you helped attack, with loot being duplicated for each player.
+
+Unfortunately the story was tricky to progress, with most NPCs not being particularly helpful. As such, I didn't make it very far at all, I'm sure there's an efficient guide to completing it somewhere!
+
+| Fighting a slime | Thicket | Thicket 2 |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-chatventures-slime-thumbnail.png)](/assets/images/2022/jj-chatventure-slime.png) | [![](/assets/images/2022/jj-chatventures-thicket-thumbnail.png)](/assets/images/2022/jj-chatventure-thicket.png) | [![](/assets/images/2022/jj-chatventures-thicket2-thumbnail.png)](/assets/images/2022/jj-chatventure-thicket2.png) |
+
 ### You Suck At Parking
 
 | Steam rating | Price | Genre | Released | Peak players
 | --- | --- | --- | --- | --- |
 | [79.09% - Store page](https://store.steampowered.com/app/837880/You_Suck_at_Parking/) | £16.99 | Racing | September 2022 | 110 (September 2022) |
 
-Take your average indie game with a fun little premise, say... parking in parking spots with limited fuel. Now inject a heavy dose of aggressive monetisation: lootboxes, season passes, microtransactions, anything to make money. The result? You Suck At Parking.
+Take your average indie game with a fun little premise, say... parking in parking spots with limited fuel. Now inject a heavy dose of aggressive monetisation: season passes, microtransactions, anything to make money. The result? You Suck At Parking.
 
 The core campaign of this game is what I was mostly expecting the game to be, relatively simple puzzles about finding & parking in all parking spots before running out of time / fuel. The difficulty is a little bit all over the place, but the car control is satisfying and it feels very "fair".
 
@@ -186,6 +254,22 @@ Overall this isn't my sort of game, nor did I find the complexity of asset manag
 | Map view | During an encounter | Combat |
 | --- | --- | --- |
 | [![](/assets/images/2022/jj-warsaw-map-thumbnail.jpg)](/assets/images/2022/jj-warsaw-map.jpg) | [![](/assets/images/2022/jj-warsaw-encounter-thumbnail.jpg)](/assets/images/2022/jj-warsaw-encounter.jpg) | [![](/assets/images/2022/jj-warsaw-action-thumbnail.jpg)](/assets/images/2022/jj-warsaw-action.jpg) |
+
+### Sokpop: Pocket Watch
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [82.44% - Store page](https://store.steampowered.com/app/1510620/) | £2.99 | Adventure | January 2021 | 14 (January 2021) |
+
+Pocket Watch is a cute little time management game about living out a few days before the end of the world. I am of course incompetent, so spent most of my first run wandering around blindly!
+
+The art style and sound design is very minimal yet works well. Sometimes the paths can be a bit tricky to distinguish, but after playing for a bit they are consistent enough to find fairly reliably.
+
+I found the learning curve a little tricky, with escaping the first island feeling less like a puzzle than a blundering period of trial and error without a very satisfying payoff. I've played a few similar games in the past, and honestly they're not my favourite. This is a decent game, just in a genre I don't enjoy.
+
+| Boat fixing | Terrace closing | Failure |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-pocket-boat-thumbnail.jpg)](/assets/images/2022/jj-pocket-boat.jpg) | [![](/assets/images/2022/jj-pocket-terrace-thumbnail.jpg)](/assets/images/2022/jj-pocket-terrace.jpg) | [![](/assets/images/2022/jj-pocket-failure-thumbnail.jpg)](/assets/images/2022/jj-pocket-failure.jpg) |
 
 ### Sokpop: King Pins
 
@@ -280,6 +364,22 @@ I only played through the first character's "flashback" and half the second char
 | --- | --- | --- |
 | [![](/assets/images/2022/jj-hex-platformer-thumbnail.jpg)](/assets/images/2022/jj-hex-platformer.jpg) | [![](/assets/images/2022/jj-hex-fighter-thumbnail.jpg)](/assets/images/2022/jj-hex-fighter.jpg) | [![](/assets/images/2022/jj-hex-options-thumbnail.jpg)](/assets/images/2022/jj-hex-options.jpg) |
 
+### Primal Light
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [80.10% - Store page](https://store.steampowered.com/app/771420/) | £2.99 | Platformer | July 2020 | 21 (July 2020) |
+
+This game is too hard for me, I am bad. I played this on the casual difficulty, and very obviously hit my limit on the first boss!
+
+If you're a fan of very precise, very unforgiving 90's era platformers then this is a great homage to them. Personally I prefer roguelikes, and constant progress, so whilst Primal Light seems like a solid game, it's just not one for me.
+
+As a side note, every single enemy is so, so, so infuriating! Floor worms that can only be attacked after jumping over them, on the same platform as timed fire-pillars. Vultures that dive in a confusing trajectory. I hate all of them.
+
+| Platforming | Charms | Boss |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-primal-levels-thumbnail.jpg)](/assets/images/2022/jj-primal-levels.jpg) | [![](/assets/images/2022/jj-primal-charms-thumbnail.jpg)](/assets/images/2022/jj-primal-charms.jpg) | [![](/assets/images/2022/jj-primal-boss-thumbnail.jpg)](/assets/images/2022/jj-primal-boss.jpg) |
+
 ### Space Crew: Legendary Edition
 
 | Steam rating | Price | Genre | Released | Peak players
@@ -311,6 +411,21 @@ The voiceover should have been an audiobook, or ideally an article, not a game.
 | Title screen | One flower | Many flowers |
 | --- | --- | --- |
 | [![](/assets/images/2022/jj-sunlight-title-thumbnail.jpg)](/assets/images/2022/jj-sunlight-title.jpg) | [![](/assets/images/2022/jj-sunlight-one-thumbnail.jpg)](/assets/images/2022/jj-sunlight-one.jpg) | [![](/assets/images/2022/jj-sunlight-lots-thumbnail.jpg)](/assets/images/2022/jj-sunlight-lots.jpg) |
+
+### Sokpop: Popo's Tower
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [67.40% - Store page](https://store.steampowered.com/app/1338130/) | £2.99 | Adventure | June 2020 | 6 (December 2022) |
+
+I wanted to like Popo's Tower, I really did. Unfortunately, every second playing it hurt my eyes, with what is easily the most obnoxious filter I've seen in a game.
+
+The platforming was unpredictable, frustrating, and unnecessarily punishing. Jumps seem impossible, then turn out to be solvable if you jump directly into a wall then run diagonally upwards. Obviously. This is not helped by the blurriness of every surface. One positive aspect is the enemy design, the first one I met was genuinely a bit spooky when it lumbered towards me with arms outstretched. Of course, I then discovered how easily it could be run around, making it a little bit less scary.
+
+| Landing area | Climbing | Enemy |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-popo-landing-thumbnail.jpg)](/assets/images/2022/jj-popo-landing.jpg) | [![](/assets/images/2022/jj-popo-climbing-thumbnail.jpg)](/assets/images/2022/jj-popo-climbing.jpg) | [![](/assets/images/2022/jj-popo-enemy-thumbnail.jpg)](/assets/images/2022/jj-popo-enemy.jpg) |
+
 
 ### Uligo: A Slime's Hike
 
