@@ -1,19 +1,29 @@
 ---
-title: Reviewing ALL 82 games from the Yogscast's Jingle Jam charity bundle on Steam (Part 1)
+title: Reviewing ALL 82 Steam games from the Yogscast's Jingle Jam charity bundle (part 1 of 3)
 author: Jake Lee
 layout: post
-image: /assets/images/2022/
+image: /assets/images/2022/jj-header-1.jpg
 tags:
     - Steam
     - Gaming
     - Charity
 ---
 
-intro to the bundle, yogscast, what the post is
+Every Christmas since 2011, one of my favourite content creators The Yogscast have organised the "Jingle Jam", a collection of streams with [an associated bundle](https://jinglejam.tiltify.com/) with TONS of great games to raise money for charity. This year, I'm trying to review all 80+ of them despite only playing 2-3 games all year before this! Here's part 1, with the first 30 games. 
 
-mention all games played for a bit, info from steamdb.info, etc. Mention just opinion based on liking them, not necessarily quality
+## Rating system
 
-mention redeeming script https://www.reddit.com/r/Yogscast/comments/zadkdq/a_fast_way_to_redeem_all_jingle_jam_steam_codes/ but also "redeem steam wallet code"
+Before diving into the reviews, it's worth clarifying what these ratings mean. They *aren't* a typical game reviewer's "how good is this game", instead they are an entirely subjective "how much do I enjoy it". With that in mind, here's what the 5 ratings mean to me:
+
+* **5/5**: I had to stop myself playing this game, this is a great game I'm very happy I've discovered.
+* **4/5**: This was a good experience, but maybe a bit flawed. I'd still play this again, but maybe with not quite as much passion.
+* **3/5**: The game was alright. Perhaps it had a few serious flaws, or had decisions made during development that make no sense. I probably wouldn't play these again, but might look at new games from the developer.
+* **2/5**: I didn't enjoy the game. Maybe it has a few redeeming characteristics, but there's pretty much a 0% chance I'll ever pick this up again.
+* **1/5**: The game experience was actively unpleasant. I had to force myself to play more than a few minutes of it, and was relieved when I finally closed the game. 
+
+I aimed to play most of the games for around an hour, but many were small and understood after 15-20 minutes. Information on peak player count are [from SteamDB.info](https://steamdb.info/).
+
+Finally, if you [purchase the bundle](https://jinglejam.tiltify.com/) you'll be sent an email with a long list of game keys. These can be entered manually into Steam (what I did, takes a while!), or [third party tools](https://jinglejam.tiltify.com/) can be used to speed up the process.
 
 ## 5/5 Games
 
@@ -211,7 +221,7 @@ Well, it's slow. You will walk in a long, linear path, at a speed below usual wa
 
 I'm still very tempted to come back to this, but I found myself extremely bored during some of the (non-skippable) cutscenes. Staring at a blank screen listening to 2 characters have a fairly bland conversation becomes painful after the first few times.
 
-As mentioned before, the environments are beautiful, and without their excellent design this game would be far, far worse. As it is the game is unfortunately a bit too simple for me, I would love some optional puzzles / collectibles, the ability to explore during cutscenes. Most importantly though? I want to MOVE FASTER. The first hour of the game had around 10-12 minutes of content, with the rest of the time left feeling like pointless padding as you slowly navigate down yet another corridor.
+As mentioned before, the environments are beautiful, and without their excellent design this game would be far, far worse. As it is the game is unfortunately a bit too simple for me, I would love some optional puzzles / collectibles, the ability to explore during cutscenes. Most importantly though? I want to MOVE FASTER. The first hour of the game had around 10-12 minutes of actual content, with the rest of the time left feeling like pointless padding as you slowly navigate down yet another corridor or wait for dialog to end.
 
 | Landscape | Study | Sewer |
 | --- | --- | --- |
@@ -375,7 +385,7 @@ A good strategy game might be hiding under here, but I didn't see any hints of i
 
 Okay wait wait wait, I know this game is amazing! It's just not for me. I've watched tens of hours of Viscera Cleanup Detail from people like [Hatfilms](https://www.youtube.com/playlist?list=PLW1Yb5N9dD8datIoAFMCCOrbsR5AY5bMv), [Sips & Lewis](https://www.youtube.com/playlist?list=PLNLcbFFtu7nXNiQeSkwTjvAEBVF8Ev3Iz), and [Jerma & Ster](https://www.youtube.com/watch?v=mbYuruOBbG0), and the multiplayer element feels essential. Without someone there to knock over your bucket full of blood, the game just feels like a chore simulator.
 
-Whilst I know games like that can be popular, they're not what I look for personally. I found the control a little fiddly, navigating maps slow, and overall it mostly just reminded me of areas of my house I need to clean! That being said, the maps are fun to explore, and the boombox's tracks is great.
+Whilst I know games like that can be popular, they're not what I look for personally. I found the controls a little fiddly, navigating maps slow, and overall it mostly just reminded me of areas of my house I need to clean! That being said, the maps are fun to explore, and the boombox's tracks are great.
 
 | Section 8 map | Frostbite map | Cryogenesis map |
 | --- | --- | --- |
@@ -400,7 +410,8 @@ Finally, the graphics felt pretty muddy. Zooming in should reward the player wit
 | [![](/assets/images/2022/jj-w40k-zoomin-thumbnail.jpg)](/assets/images/2022/jj-w40k-zoomin.jpg) | [![](/assets/images/2022/jj-w40k-zoomout-thumbnail.jpg)](/assets/images/2022/jj-w40k-zoomout.jpg) | [![](/assets/images/2022/jj-w40k-guide-thumbnail.jpg)](/assets/images/2022/jj-w40k-guide.jpg) | 
 
 ### The Hex
-| Steam rating | Price | Genre | Released | Peak players
+
+| Steam rating | Price | Genre | Released | Peak players |
 | --- | --- | --- | --- | --- |
 | [90.02% - Store page](https://store.steampowered.com/app/510420/) | £7.19 | Adventure | October 2018 | 118 (October 2021) |
 
