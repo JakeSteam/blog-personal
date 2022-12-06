@@ -185,6 +185,54 @@ As a creative tool, this game lives and dies on the content. Luckily, the few le
 
 ## 3/5 Games
 
+### Pendragon
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [63.29% - Store page](https://store.steampowered.com/app/1240050/) | £13.49 | Strategy | September 2020 | 93 (September 2020) |
+
+Pendragon is hard. The enemy AI performs perfectly, you have very few options on movement, and the only way to win is to "cheat" via your special moves (abilities). I played 2 runs, and only made it through 3-4 stops each time. A single mistake generally results in permadeath, even on easiest difficulty!
+
+Looking at other reviews, it unbelievably seems like I've actually seen most of the content! They mention a full playthrough is under an hour, so the initially interesting first impression is actually most of the game. This is a real shame, as the simple yet challenging core mechanics could easily make a far more expansive and replayable game.
+
+| World map | Lancelot | Snakes |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-pendragon-map-thumbnail.jpg)](/assets/images/2022/jj-pendragon-map.jpg) | [![](/assets/images/2022/jj-pendragon-lancelot-thumbnail.jpg)](/assets/images/2022/jj-pendragon-lancelot.jpg) | [![](/assets/images/2022/jj-pendragon-snakes-thumbnail.jpg)](/assets/images/2022/jj-pendragon-snakes.jpg) |
+
+### Paradise Lost
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [64.86% - Store page](https://store.steampowered.com/app/982720/) | £11.39 | Walking | March 2021 | 367 (March 2021) |
+
+Paradise Lost is a very, very pretty game. It's atmospheric, the level design is excellent, the sound is engrossing. So why's it only a 3/5?
+
+Well, it's slow. You will walk in a long, linear path, at a speed below usual walking pace. For the first few minutes it felt like a horror game, but opens up into an exploration / mystery game. This can be OK, but unfortunately the lack of any puzzles / challenge essentially makes this a "hold W and click occasionally" game, not quite enough for me.
+
+I'm still very tempted to come back to this, but I found myself extremely bored during some of the (non-skippable) cutscenes. Staring at a blank screen listening to 2 characters have a fairly bland conversation becomes painful after the first few times.
+
+As mentioned before, the environments are beautiful, and without their excellent design this game would be far, far worse. As it is the game is unfortunately a bit too simple for me, I would love some optional puzzles / collectibles, the ability to explore during cutscenes. Most importantly though? I want to MOVE FASTER. The first hour of the game had around 10-12 minutes of content, with the rest of the time left feeling like pointless padding as you slowly navigate down yet another corridor.
+
+| Landscape | Study | Sewer |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-paradise-city-thumbnail.jpg)](/assets/images/2022/jj-paradise-city.jpg) | [![](/assets/images/2022/jj-paradise-dim-thumbnail.jpg)](/assets/images/2022/jj-paradise-sim.jpg) | [![](/assets/images/2022/jj-paradise-sludge-thumbnail.jpg)](/assets/images/2022/jj-paradise-sludge.jpg) |
+
+### Paperball
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [86.65% - Store page](https://store.steampowered.com/app/1198510/) | £9.29 | Arcade | March 2020 | 30 (March 2020) |
+
+Heard of Super Monkey Ball? Then you'll know what to expect! 
+
+This is a solid "roll the ball to the exit" game, very similar to earlier Super Monkey Ball games. The level variation is decent, and there's a nice collection of game modes. You'll want the "Arcade" one to start with, I made the mistake of trying to collect medals before realising Arcade is the main mode!
+
+The "cat" aesthetic was a bit too... humanised for me, but the arcade-y design of the level themselves is hard to dislike. Some of the level packs seem a bit too luck based, but overall if this is a genre you enjoy, this is one of the best options out there. For me personally it's not, hence the slightly low rating.
+
+| Level overview | Gameplay | Customisation |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-paperball-levels-thumbnail.jpg)](/assets/images/2022/jj-paperball-levels.jpg) | [![](/assets/images/2022/jj-paperball-gameplay-thumbnail.jpg)](/assets/images/2022/jj-paperball-gameplay.jpg) | [![](/assets/images/2022/jj-paperball-balls-thumbnail.jpg)](/assets/images/2022/jj-paperball-balls.jpg) |
+
 ### Sokpop: Pyramida
 
 | Steam rating | Price | Genre | Released | Peak players
