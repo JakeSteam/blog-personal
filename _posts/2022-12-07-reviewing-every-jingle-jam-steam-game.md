@@ -275,7 +275,7 @@ Unfortunately the story was tricky to progress, with most NPCs not being particu
 
 | Fighting a slime | Thicket | Thicket 2 |
 | --- | --- | --- |
-| [![](/assets/images/2022/jj-chatventures-slime-thumbnail.png)](/assets/images/2022/jj-chatventure-slime.png) | [![](/assets/images/2022/jj-chatventures-thicket-thumbnail.png)](/assets/images/2022/jj-chatventure-thicket.png) | [![](/assets/images/2022/jj-chatventures-thicket2-thumbnail.png)](/assets/images/2022/jj-chatventure-thicket2.png) |
+| [![](/assets/images/2022/jj-chatventures-slime-thumbnail.png)](/assets/images/2022/jj-chatventures-slime.png) | [![](/assets/images/2022/jj-chatventures-thicket-thumbnail.png)](/assets/images/2022/jj-chatventures-thicket.png) | [![](/assets/images/2022/jj-chatventures-thicket2-thumbnail.png)](/assets/images/2022/jj-chatventures-thicket2.png) |
 
 ### You Suck At Parking
 
