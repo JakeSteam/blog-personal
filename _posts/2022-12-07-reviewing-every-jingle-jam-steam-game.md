@@ -51,7 +51,7 @@ I made it about halfway through the game before I made myself stop, I could easi
 | --- | --- | --- | --- | --- |
 | [91.46% - Store page](https://store.steampowered.com/app/1205450/) | £12.99 | Pinball | April 2021 | 341 (April 2021) |
 
-What an astonishing game. The main gameplay is essentially completing fetch quests by talking to everyone you meet, and a bit of combat. The quests are simple, the story is easily understandable, but what sets is apart is the writing.
+What an astonishing game. The main gameplay is essentially completing fetch quests by talking to everyone you meet, and a bit of combat. The quests are simple, the story is easily understandable, but what sets it apart is the writing.
 
 When completing a quest you usually rip a document in half, starting with the tax bill, hence the game name. Later on this progresses to love letters, notices of military service, and countless random documents. Yes it's a basic gimmick, but other character's reactions to the senseless ripping is beautiful. Every character's dialog is pretty entertaining, and it's a great motivator for completing the next little quest.
 
