@@ -44,3 +44,59 @@ I played for around 90 minutes, and unfortunately experienced a bug where I beca
 | Town | Desert | Puzzle solving |
 | --- | --- | --- |
 | [![](/assets/images/2022/jj-lostnova-town-thumbnail.jpg)](/assets/images/2022/jj-lostnova-town.jpg) | [![](/assets/images/2022/jj-lostnova-desert-thumbnail.jpg)](/assets/images/2022/jj-lostnova-desert.jpg) | [![](/assets/images/2022/jj-lostnova-puzzle-thumbnail.jpg)](/assets/images/2022/jj-lostnova-puzzle.jpg) |
+
+## 4/5
+
+### Maiden & Spell
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [91.02% - Store page](https://store.steampowered.com/app/1004770/) | £10.29 | Bullet Hell | February 2020 | 130 (February 2022) |
+
+Whilst the overall design of this game definitely isn't my thing ("magical girl battle game, set in a cutesy fantasy world"), the gameplay here is an engaging iteration of the bullet hell genre. 
+
+I played this on keyboard, and holding down "Z" for the main attack the entire game felt a bit pointless. The additional attacks were somewhat awkward to activate, with the keys being Shift, Z, X, C, and V. These are not easy to press reliably! I frequently pressed the wrong attack, dodging when I wanted to do a strong attack and vice versa.
+
+The story was very much not my thing, but ignoring it and the aesthetic reveals a pretty good bullet hell game underneath. Finally, most of the other reviews focused on the apparently great online multiplayer mode, which I imagine has an absurdly high skill ceiling! I only played the offline story mode.
+
+| Screen effects | Bullet hell | Damage areas |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-maiden-text-thumbnail.jpg)](/assets/images/2022/jj-maiden-text.jpg) | [![](/assets/images/2022/jj-maiden-bullethell-thumbnail.jpg)](/assets/images/2022/jj-maiden-bullethell.jpg) | [![](/assets/images/2022/jj-maiden-areas-thumbnail.jpg)](/assets/images/2022/jj-maiden-areas.jpg) |
+
+## 3/5
+
+### Orbi Universo
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [73.28% - Store page](https://store.steampowered.com/app/1090670/) | £16.75 | Strategy | January 2020 | 256 (December 2022) |
+
+Orbi Universo is not a game for those easily overwhelmed. Similar to strategy games like the Democracy series, your goal is to grow your civilisation via various "levers", whilst preventing anything catastrophic happening. For me, I ran out of money, panic-collapsed my entire civilisation to prevent civil unrest, and the resulting instability resulted in total societal collapse. Oops!
+
+This is a very, very hard game to keep track of. Whilst you can organise your "bubbles" into groups, all the bubbles try to auto-position themselves that quickly results in an overlapping mess of bubbles, all influencing each other. For example, I found "Population" connected to many bubbles, so it was impossible to not have it surrounded by a mess of overlapping cables.
+
+Luckily, mousing over your coins, political capital, or any attribute will show what affects it. Of course, due to the complex interactions between all the elements, it's still pretty hard to actually fix anything that is wrong. Additionally, the tutorial ends a bit too early for my liking, it would be good if it walked you through a bit more of the societal balancing aspect, not just the basic controls.
+
+Whilst I enjoyed my brief time with Orbi Universo, I spent most of it in a confused and overwhelmed state, mostly due to the user interface. There's probably a good game hiding in there somewhere! 
+
+| Simple start | Complex later game | Post-game stats |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-orbi-simple-thumbnail.jpg)](/assets/images/2022/jj-orbi-simple.jpg) | [![](/assets/images/2022/jj-orbi-complex-thumbnail.jpg)](/assets/images/2022/jj-orbi-complex.jpg) | [![](/assets/images/2022/jj-orbi-postgame-thumbnail.jpg)](/assets/images/2022/jj-orbi-postgame.jpg) |
+
+### Plague Inc: Evolved
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [92.72% - Store page](https://store.steampowered.com/app/246620/) | £4.07 | Strategy | February 2016 | 17.8k (January 2020) |
+
+No prizes for figuring out why this pandemic simulator has been popular the last few years!
+
+I played a fair amount of similar games back on Kongregate ~15 years ago, and perhaps that burnout was partially why I wasn't as impressed by Plague Inc as most other reviewers. The gameplay is very simple, click bubbles that appear on the map to earn points to upgrade your disease. Whilst there is a balance between infectivity and lethality, the strategy is very, very simple.
+
+The outcomes of games felt fairly random, with the gameplay almost feeling like a sandbox that I was only slightly influencing at times. Whilst the game is very polished, and has an impressive amount of gameplay variants and achievements, the core gameplay is very repetitive.
+
+Plague Inc might be fun for a few hours if you can include the slightly too-close-to-home subject matter, but ultimately it's a bit too shallow to become a long-term game.
+
+| Main map screen | Disease info | Country info |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-plague-map-thumbnail.jpg)](/assets/images/2022/jj-plague-map.jpg) | [![](/assets/images/2022/jj-plague-disease-thumbnail.jpg)](/assets/images/2022/jj-plague-disease.jpg) | [![](/assets/images/2022/jj-plague-world-thumbnail.jpg)](/assets/images/2022/jj-plague-world.jpg) |
