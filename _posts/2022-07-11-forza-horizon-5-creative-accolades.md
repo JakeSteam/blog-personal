@@ -15,17 +15,19 @@ In this post I'll show my current accolades to "prove" the methods in here work,
 
 This is a **LONG** post, so use the links on the side to get to the section you need or search for your target accolade's name!
 
+**December 2022 update**: Vinyl uses are now fixed! A [guide to them has been added]("#vinyls").
+
 ## My creative accolades
 
-To start with, here's my current global ranking & creative accolades to prove I at least vaguely know what I'm talking about! Essentially they're all complete besides 6 glitched vinyl usage accolades.
+To start with, here's my current global ranking & fully completed creative accolades to prove I at least vaguely know what I'm talking about! 
 
-| #87 out of 21m+ players | Painting (38/44) | Tuning (27/27) |
+| #87 out of 21m+ players | Painting (44/44) | Tuning (27/27) |
 | -- | -- | -- |
-| [![](/assets/images/2022/fh5-creative-leaderboard-thumbnail.png)](/assets/images/2022/fh5-creative-leaderboard.png) | [![](/assets/images/2022/fh5-creative-painting-thumbnail.png)](/assets/images/2022/fh5-creative-painting.png) | [![](/assets/images/2022/fh5-creative-tuning-thumbnail.jpeg)](/assets/images/2022/fh5-creative-tuning.jpeg) |
+| [![](/assets/images/2022/fh5-creative-leaderboard-thumbnail.png)](/assets/images/2022/fh5-creative-leaderboard.png) | [![](/assets/images/2022/fh5-creative-painting-thumbnail.jpg)](/assets/images/2022/fh5-creative-painting.jpg) | [![](/assets/images/2022/fh5-creative-tuning-thumbnail.jpeg)](/assets/images/2022/fh5-creative-tuning.jpeg) |
 
 | Photo (55/55) | Eventlab (20/20) | Super7 (15/15) |
 | -- | -- | -- |
-| [![](/assets/images/2022/fh5-creative-photo-thumbnail.png)](/assets/images/2022/fh5-photo-leaderboard.png) | [![](/assets/images/2022/fh5-creative-eventlab-thumbnail.png)](/assets/images/2022/fh5-creative-eventlab.png) | [![](/assets/images/2022/fh5-creative-super7-thumbnail.png)](/assets/images/2022/fh5-creative-super7.png) |
+| [![](/assets/images/2022/fh5-creative-photo-thumbnail.png)](/assets/images/2022/fh5-creative-photo.png) | [![](/assets/images/2022/fh5-creative-eventlab-thumbnail.png)](/assets/images/2022/fh5-creative-eventlab.png) | [![](/assets/images/2022/fh5-creative-super7-thumbnail.png)](/assets/images/2022/fh5-creative-super7.png) |
 
 ## Unlock simple accolades
 
@@ -248,7 +250,27 @@ Unfortunately tuning setups are the slowest & most complex creative item to bulk
 
 ## Unlock "uses" accolades
 
-***Warning: Vinyl shape use accolades are currently 100% bugged, and cannot be obtained**! This applies to "Getting creative", "Happy little shapes", "The joy of vinyls", "Catalogued", "Sticker album", "Master painter".*
+### Vinyls
+
+**December 2022 update**: Vinyl uses are now fixed, and this method works to earn "Getting creative", "Happy little shapes", "The joy of vinyls", "Catalogued", "Sticker album", and "Master painter".
+
+To gain a vinyl "use", another player just needs to apply it to a car, with every application counting as a new use. As this only takes 1-2 hours, I recommend using the ["Self-farming method"](#the-self-farming-method) above. 
+
+Once you have a vinyl group downloaded that you want to farm uses for:
+1. Inside your garage go to "Designs & Paints" -> Apply Vinyls & Decals".
+2. With the [+] (add layer) button selected, tap A to add.
+3. Navigate 2 options down to "Load a vinyl group", tap A to select.
+4. Select your downloaded vinyl, tap A to load, tap A to confirm placement.
+5. Press "up" to move to the new [+] (add layer) button.
+6. Repeat steps 2-5 1000x!
+
+Luckily, it's easy to keep track of how many vinyls you've added. If the vinyl group has 2 vinyls in it, every time you add it (1 "use") the count in the bottom left will go up by 2. In the screenshot below, I have 2006/3000 layers used, this means I have applied the vinyl 1003 times:
+
+[![my vinyl group layers](/assets/images/2022/fh5-creative-layers-thumbnail.jpeg)](/assets/images/2022/fh5-creative-layers.jpeg)
+
+These uses are very quick to grind, since there's no downloading or loading to do. This means a single "use" takes 3-4s to earn, giving a total grind time of under 60 minutes if you're fully efficient! 
+
+### Tunes & Liveries
 
 The livery / tune uses accolades are some of the most frustrating accolades in the game. There's no real shortcut, someone has to be driving a car with your livery / tune!
 
