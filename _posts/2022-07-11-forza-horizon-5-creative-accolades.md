@@ -15,7 +15,7 @@ In this post I'll show my current accolades to "prove" the methods in here work,
 
 This is a **LONG** post, so use the links on the side to get to the section you need or search for your target accolade's name!
 
-**December 2022 update**: Vinyl uses are now fixed! A [guide to them has been added]("#vinyls").
+**December 2022 update**: Vinyl uses are now fixed! A [guide to them has been added](#vinyls).
 
 ## My creative accolades
 
