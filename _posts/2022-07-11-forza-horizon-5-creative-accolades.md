@@ -257,7 +257,7 @@ Unfortunately tuning setups are the slowest & most complex creative item to bulk
 To gain a vinyl "use", another player just needs to apply it to a car, with every application counting as a new use. As this only takes 1-2 hours, I recommend using the ["Self-farming method"](#the-self-farming-method) above. 
 
 Once you have a vinyl group downloaded that you want to farm uses for:
-1. Inside your garage go to "Designs & Paints" -> Apply Vinyls & Decals".
+1. Inside your garage go to "Designs & Paints" -> "Apply Vinyls & Decals".
 2. With the [+] (add layer) button selected, tap A to add.
 3. Navigate 2 options down to "Load a vinyl group", tap A to select.
 4. Select your downloaded vinyl, tap A to load, tap A to confirm placement.
