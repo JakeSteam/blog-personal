@@ -2,7 +2,7 @@
 title: Reviewing ALL 82 Steam games from the Yogscast's Jingle Jam charity bundle (part 2 of 3)
 author: Jake Lee
 layout: post
-image: /assets/images/2022/jj-header-1.jpg
+image: /assets/images/2022/jj-header-2.jpg
 tags:
     - Steam
     - Gaming
@@ -79,6 +79,22 @@ The story was very much not my thing, but ignoring it and the aesthetic reveals 
 
 ## 3/5
 
+### Lucifer Within Us
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [73.66% - Store page](https://store.steampowered.com/app/717560/) | £7.49 | Mystery | October 2020 | 90 (October 2020) |
+
+Lucifer Within Us was quite unlike other detective / mystery games I've played, in that it really was almost entirely about the evidence and any contradictions, instead of interrogation minigames etc. The core gameplay is focused around a timeline, as told by all potential suspects. Elements of this can then be investigated, and compared to other suspects' testimonies.
+
+Whilst I did like the mostly mental challenge behind the investigation, some elements were too unpredictable or unknowable. For example, at several points during the investigation I got stuck, until eventually I discovered the character's "psyche" needed to be clicked on, to gain an insight into their mind. This could then be used as part of the investigation process. This very game-y element took away from the usually logic based challenge, but wasn't a major issue.
+
+Overall the replayability is pretty much zero, and whilst the story is somewhat interesting there is not much motivation to continue investigating murders. The supernatural / demonic possession elements feel a little out of place, and I'd be interested in this gameplay style in a more contemporary setting. 
+
+| Early timeline | Late timeline | Inside a mind |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-lucifer-early-thumbnail.jpg)](/assets/images/2022/jj-lucifer-early.jpg) | [![](/assets/images/2022/jj-lucifer-late-thumbnail.jpg)](/assets/images/2022/jj-lucifer-late.jpg) | [![](/assets/images/2022/jj-lucifer-mind-thumbnail.jpg)](/assets/images/2022/jj-lucifer-mind.jpg) |
+
 ### Absolute Drift
 
 | Steam rating | Price | Genre | Released | Peak players
@@ -92,6 +108,22 @@ The controls are pretty simple if you've done much drifting in other games, it'l
 | Gameplay 1 | Gameplay 2 | Menu |
 | --- | --- | --- |
 | [![](/assets/images/2022/jj-drift-gameplay1-thumbnail.jpg)](/assets/images/2022/jj-drift-gameplay1.jpg) | [![](/assets/images/2022/jj-drift-gameplay2-thumbnail.jpg)](/assets/images/2022/jj-drift-gameplay2.jpg) | [![](/assets/images/2022/jj-drift-menu-thumbnail.jpg)](/assets/images/2022/jj-drift-menu.jpg) |
+
+### Men of War: Assault Squad 2
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [89.21% - Store page](https://store.steampowered.com/app/244450/) | £19.99 | Strategy | May 2014 | 9.7k (March 2015) |
+
+This is another one of those games that (at least based on reviews) is probably pretty good, but so far outside of my interest zone that it's impossible for me to rate it highly.
+
+Playing this game was a bit of a trial by fire, with no tutorial on movement, unit selection, etc. I think I figured the basics out after a little bit of confusion over right / left clicking, but throughout the tutorial mission I never had much control or confidence in my actions.
+
+The unit AI seemed pretty creative, with troop movement offering various options for taking decent firing positions, and troops covering each other automatically if they came under fire. Overall, it's a popular game but I'm not into RTS! 
+
+| Combat | Close-up | Movement positioning |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-mow-combat-thumbnail.jpg)](/assets/images/2022/jj-mow-combat.jpg) | [![](/assets/images/2022/jj-mow-closeup-thumbnail.jpg)](/assets/images/2022/jj-mow-closeup.jpg) | [![](/assets/images/2022/jj-mow-movement-thumbnail.jpg)](/assets/images/2022/jj-mow-movement.jpg) |
 
 ### Orbi Universo
 
@@ -130,6 +162,22 @@ Plague Inc might be fun for a few hours if you can include the slightly too-clos
 | [![](/assets/images/2022/jj-plague-map-thumbnail.jpg)](/assets/images/2022/jj-plague-map.jpg) | [![](/assets/images/2022/jj-plague-disease-thumbnail.jpg)](/assets/images/2022/jj-plague-disease.jpg) | [![](/assets/images/2022/jj-plague-world-thumbnail.jpg)](/assets/images/2022/jj-plague-world.jpg) |
 
 ## 2/5
+
+### Mad Experiments: Escape Room
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [70.52% - Store page](https://store.steampowered.com/app/1201550/) | £9.68 | Puzzle | November 2020 | 58 (July 2020) |
+
+Getting it out of the way upfront, I'm not a fan of escape rooms. I played this room alone, and perhaps having other players around would have made it a bit easier. As it was however, it was a frustrating experience of blundering around, occasionally finding something unexpected, then blundering around until I worked out what to do with this information.
+
+The game itself only consists of 3 escape rooms, with zero real replayability (the solution is always the same). Whilst there is DLC, it only consists of cosmetics masks and a soundtrack, instead of any actual new rooms.
+
+There are plenty of escape room games, and it's the kind of genre that from my experience loses too much when translated into a game. I'd recommend a VR solution over this, or the real thing ideally!
+
+| Lobby | Escape Room | Clue? |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-mad-lobby-thumbnail.jpg)](/assets/images/2022/jj-mad-lobby.jpg) | [![](/assets/images/2022/jj-mad-puzzle-thumbnail.jpg)](/assets/images/2022/jj-mad-puzzle.jpg) | [![](/assets/images/2022/jj-mad-red-thumbnail.jpg)](/assets/images/2022/jj-mad-red.jpg) |
 
 ### Mech Mechanic Simulator
 
