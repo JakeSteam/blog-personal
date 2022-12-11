@@ -47,6 +47,20 @@ I played for around 90 minutes, and unfortunately experienced a bug where I beca
 
 ## 4/5
 
+### Moon Hunters
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [76.91% - Store page](https://store.steampowered.com/app/320040/) | £1.13 | Roguelite | March 2016 | 324 (February 2017) |
+
+I only did 1 run of this RPG / roguelite, but got hints of a much, much bigger world with far more complexity. The combat was challenging, but it never felt unfair or unbalanced. It was always a matter of balancing the abilities against their energy cost and effect on movement. The story went over my head a little bit, but I could easily see myself giving this a few more runs to try out the different classes, and the new cosmetics / features unlocked after each run.
+
+Most of the negative reviews mention low replayability, and an almost requirement of multiplayer for later levels. Whilst those do sounds like major downsides, I didn't get that far!
+
+| Screen effects | Bullet hell | Damage areas |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-moon-boss-thumbnail.jpg)](/assets/images/2022/jj-moon-boss.jpg) | [![](/assets/images/2022/jj-moon-map-thumbnail.jpg)](/assets/images/2022/jj-moon-map.jpg) | [![](/assets/images/2022/jj-moon-recipes-thumbnail.jpg)](/assets/images/2022/jj-moon-recipes.jpg) |
+
 ### Maiden & Spell
 
 | Steam rating | Price | Genre | Released | Peak players
@@ -64,6 +78,20 @@ The story was very much not my thing, but ignoring it and the aesthetic reveals 
 | [![](/assets/images/2022/jj-maiden-text-thumbnail.jpg)](/assets/images/2022/jj-maiden-text.jpg) | [![](/assets/images/2022/jj-maiden-bullethell-thumbnail.jpg)](/assets/images/2022/jj-maiden-bullethell.jpg) | [![](/assets/images/2022/jj-maiden-areas-thumbnail.jpg)](/assets/images/2022/jj-maiden-areas.jpg) |
 
 ## 3/5
+
+### Absolute Drift
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [84.95% - Store page](https://store.steampowered.com/app/320140/) | £2.69 | Driving | July 2015 | 352 (June 2016) |
+
+This is a tricky game to review. If you like drifting a car through (mostly) 2D environments then this is *the* game for you. If you want anything else, it doesn't have it.
+
+The controls are pretty simple if you've done much drifting in other games, it'll be the usual mix of feathering the throttle and careful steering. "Free play" is definitely the mode to play, with the tutorial and all progression being shown in a gradual and natural manner. Overall it's a pretty simple game, but implemented well.
+
+| Gameplay 1 | Gameplay 2 | Menu |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-drift-gameplay1-thumbnail.jpg)](/assets/images/2022/jj-drift-gameplay1.jpg) | [![](/assets/images/2022/jj-drift-gameplay2-thumbnail.jpg)](/assets/images/2022/jj-drift-gameplay2.jpg) | [![](/assets/images/2022/jj-drift-menu-thumbnail.jpg)](/assets/images/2022/jj-drift-menu.jpg) |
 
 ### Orbi Universo
 
@@ -100,3 +128,21 @@ Plague Inc might be fun for a few hours if you can include the slightly too-clos
 | Main map screen | Disease info | Country info |
 | --- | --- | --- |
 | [![](/assets/images/2022/jj-plague-map-thumbnail.jpg)](/assets/images/2022/jj-plague-map.jpg) | [![](/assets/images/2022/jj-plague-disease-thumbnail.jpg)](/assets/images/2022/jj-plague-disease.jpg) | [![](/assets/images/2022/jj-plague-world-thumbnail.jpg)](/assets/images/2022/jj-plague-world.jpg) |
+
+## 2/5
+
+### Mech Mechanic Simulator
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [65.82% - Store page](https://store.steampowered.com/app/1044980/) | £16.99 | Simulator | March 2021 | 609 (March 2021) |
+
+This is a pretty simple game. Accept a job, take off mech part, take it apart, replace faulty parts, put back together, and repeat.
+
+Whilst mech part repair does open up later on (instead of just replacement), there's really not enough here to justify the work required. Navigating the repair shop is a chore (no jumping barriers, no sprinting, etc), and the actual gameplay is mostly annoying without any challenge. You'll just be clicking the green parts until you can access the one you need to replace. That's it.
+
+I can't really recommend this unfortunately, some kind of overarching story would be a great way to improve this. Any element of a sideplot or subplot would have helped.
+
+| Mech cleaning | Mech disassembly | Parts shop |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-mms-cleaning-thumbnail.jpg)](/assets/images/2022/jj-mms-cleaning.jpg) | [![](/assets/images/2022/jj-mms-disassembly-thumbnail.jpg)](/assets/images/2022/jj-mms-disassembly.jpg) | [![](/assets/images/2022/jj-mms-shop-thumbnail.jpg)](/assets/images/2022/jj-mms-shop.jpg) |
