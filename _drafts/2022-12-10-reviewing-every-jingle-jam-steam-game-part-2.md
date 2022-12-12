@@ -47,6 +47,20 @@ I played for around 90 minutes, and unfortunately experienced a bug where I beca
 
 ## 4/5
 
+### Bonfire Peaks
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [87.70% - Store page](https://store.steampowered.com/app/1147890/) | £15.49 | Puzzle | September 2021 | 57 (October 2021) |
+
+This is a just a very solid puzzler. Each level you need to get your box of belongings into the fire (don't ask), with this usually requiring climbing up a few levels. Of course, if your box is in front of you, you can't climb moving forward, hence the complexity.
+
+To get around this, you'll spend most of your time rotating yourself and your box and shuffling crates around to make your way up to the fire. The difficulty ramps up gradually, with all the puzzles hitting that perfect sweet spot of requiring some thought, but always feeling possible. Due to this excellent game designs, I'm pretty sure I'll be coming back to this once my brain has recharged a bit!
+
+| Overworld | Puzzle example 1 | Puzzle example 2 |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-bonfire-overworld-thumbnail.jpg)](/assets/images/2022/jj-bonfire-overworld.jpg) | [![](/assets/images/2022/jj-bonfire-puzzle1-thumbnail.jpg)](/assets/images/2022/jj-bonfire-puzzle1.jpg) | [![](/assets/images/2022/jj-bonfire-puzzle2-thumbnail.jpg)](/assets/images/2022/jj-bonfire-puzzle2.jpg) |
+
 ### Moon Hunters
 
 | Steam rating | Price | Genre | Released | Peak players
@@ -163,6 +177,24 @@ Plague Inc might be fun for a few hours if you can include the slightly too-clos
 
 ## 2/5
 
+### Aeronautica Imperialis: Flight Command
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [46.41% - Store page](https://store.steampowered.com/app/610160/Aeronautica_Imperialis_Flight_Command/) | £1.89 | Strategy | May 2020 | 142 (May 2020) |
+
+This is a rough game, with a very early-access feel. UIs are very basic, and there's no voice acting or sounds leading to creepily quiet air battles. These are usually quite noisy environments! There are no cinematics, and the UI impressively stutters on simple tasks like assigning a new pilot attribute.
+
+I didn't realise this was a Warhammer 40k game until I read Steam reviews, nor did I realise it was based on a tabletop game which explains some odd elements of the gameplay. For example, planes will often intersect each other completely when performing moves, with no physics interaction.
+
+The post-move camera is a bit of a mess, with quick cuts all over the place. There is a way to view the entire move from a static position, but this preference resets after every turn! Same with boundary visibility, targeting arcs, etc. Finally, the tutorial was longer than it needed to be, whilst explaining very little. 
+
+Unfortunately not much fun.
+
+| Move planning | Move combat | Overall UI |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-aeronautica-planning-thumbnail.jpg)](/assets/images/2022/jj-aeronautica-planning.jpg) | [![](/assets/images/2022/jj-aeronautica-combat-thumbnail.jpg)](/assets/images/2022/jj-aeronautica-combat.jpg) | [![](/assets/images/2022/jj-aeronautica-ui-thumbnail.jpg)](/assets/images/2022/jj-aeronautica-ui.jpg) |
+
 ### Mad Experiments: Escape Room
 
 | Steam rating | Price | Genre | Released | Peak players
@@ -194,3 +226,23 @@ I can't really recommend this unfortunately, some kind of overarching story woul
 | Mech cleaning | Mech disassembly | Parts shop |
 | --- | --- | --- |
 | [![](/assets/images/2022/jj-mms-cleaning-thumbnail.jpg)](/assets/images/2022/jj-mms-cleaning.jpg) | [![](/assets/images/2022/jj-mms-disassembly-thumbnail.jpg)](/assets/images/2022/jj-mms-disassembly.jpg) | [![](/assets/images/2022/jj-mms-shop-thumbnail.jpg)](/assets/images/2022/jj-mms-shop.jpg) |
+
+## 1/5
+
+### Big Crown Showdown
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [63.88% - Store page](https://store.steampowered.com/app/793360/) | £9.99 | Multiplayer | December 2018 | 8 (December 2022) |
+
+This is a multiplayer only game that seems to have no servers, and has never had more than 8 players online at once.
+
+I tried every menu option to try and actually play the game, and eventually had to just add myself twice to the party (keyboard + mouse) and play an offline custom game. The levels were pretty simple, and there was no challenge to complete them, so I started controlling 2 characters at once just to try to have some fun. I actually initially thought the levels were procedurally generated, but no, they just use the same few assets repeatedly. 
+
+As a far more minor complaint than the whole "there's no game to play", there are zero(!) cosmetic options available on first launch, despite a whole shop full of hats that can be purchased. 
+
+If you have someone sitting next to you, maybe you can find some fun here. I couldn't.
+
+| Ice level | Castle level | Server issues |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-bigcrown-ice-thumbnail.jpg)](/assets/images/2022/jj-bigcrown-ice.jpg) | [![](/assets/images/2022/jj-bigcrown-castle-thumbnail.jpg)](/assets/images/2022/jj-bigcrown-castle.jpg) | [![](/assets/images/2022/jj-bigcrown-servers-thumbnail.jpg)](/assets/images/2022/jj-bigcrown-servers.jpg) |
