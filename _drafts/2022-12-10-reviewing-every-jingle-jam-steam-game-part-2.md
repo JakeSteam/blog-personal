@@ -47,6 +47,22 @@ I played for around 90 minutes, and unfortunately experienced a bug where I beca
 
 ## 4/5
 
+### Chroma Squad
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [89.46% - Store page](https://store.steampowered.com/app/251130/) | £11.39 | Strategy | April 2015 | 949 (May 2015) |
+
+What a great lightweight tactical RPG! You essentially play as the power rangers, fighting a mixture of real and fictional enemies. There are various mechanics to let your team members perform attacks together, and the core gameplay mechanics are simple to understand but hard to master.
+
+The writing is pretty good, but even more importantly there is a built-in option to fast-forward through all of it! Character customisation is solid, and the overall progression is satisfying. If even an amateur like myself can make decent progress, anyone can. 
+
+In short, whilst this may not be the deepest or most realistic tactical RPG, it's well worth a few hours of time.
+
+| Combat | End of level | Shop |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-chroma-combat-thumbnail.jpg)](/assets/images/2022/jj-chroma-combat.jpg) | [![](/assets/images/2022/jj-chroma-levelend-thumbnail.jpg)](/assets/images/2022/jj-chroma-levelend.jpg) | [![](/assets/images/2022/jj-chroma-shop-thumbnail.jpg)](/assets/images/2022/jj-chroma-shop.jpg) |
+
 ### Bonfire Peaks
 
 | Steam rating | Price | Genre | Released | Peak players
@@ -75,6 +91,22 @@ Most of the negative reviews mention low replayability, and an almost requiremen
 | --- | --- | --- |
 | [![](/assets/images/2022/jj-moon-boss-thumbnail.jpg)](/assets/images/2022/jj-moon-boss.jpg) | [![](/assets/images/2022/jj-moon-map-thumbnail.jpg)](/assets/images/2022/jj-moon-map.jpg) | [![](/assets/images/2022/jj-moon-recipes-thumbnail.jpg)](/assets/images/2022/jj-moon-recipes.jpg) |
 
+### Ato
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [89.36% - Store page](https://store.steampowered.com/app/1096180/) | £11.39 | Platformer | February 2020 | 130 (February 2022) |
+
+A solid Metroid-style platformer. Tight controls, a straightforward story, and satisfying platforming. 
+
+There's plenty of secrets (coins / talismans for bonus health) hidden away in corners, rewarding those that backtrack and hunt down newly accessible corners. The only downside is that backtracking across large areas of the map can be a bit time consuming. 
+
+Finally, the art style is atmospheric and beautiful, with the particle effects being noticeable without distracting. Fully intend to come back to this game later.
+
+| Platforming | Boss fight | Map view |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-ato-platforming-thumbnail.jpg)](/assets/images/2022/jj-ato-platforming.jpg) | [![](/assets/images/2022/jj-ato-boss-thumbnail.jpg)](/assets/images/2022/jj-ato-boss.jpg) | [![](/assets/images/2022/jj-ato-map-thumbnail.jpg)](/assets/images/2022/jj-ato-map.jpg) |
+
 ### Maiden & Spell
 
 | Steam rating | Price | Genre | Released | Peak players
@@ -92,6 +124,22 @@ The story was very much not my thing, but ignoring it and the aesthetic reveals 
 | [![](/assets/images/2022/jj-maiden-text-thumbnail.jpg)](/assets/images/2022/jj-maiden-text.jpg) | [![](/assets/images/2022/jj-maiden-bullethell-thumbnail.jpg)](/assets/images/2022/jj-maiden-bullethell.jpg) | [![](/assets/images/2022/jj-maiden-areas-thumbnail.jpg)](/assets/images/2022/jj-maiden-areas.jpg) |
 
 ## 3/5
+
+### Chaos Reborn
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [89.46% - Store page](https://store.steampowered.com/app/319050/) | £2.09 | Strategy | October 2015 | 346 (October 2015) |
+
+Chaos Reborn is an interesting mashup of a complex chess game and a card based battler. Positioning is as important as the luck of the draw, with the combination of both being required to win a battle.
+
+Initial impressions are that the game is very, very hard. There is a lot going on, a lot of interlocking systems, and even complex geography and lines of sight to consider at all times. On top of these, there is the ability to "bluff" that you have summoned a creature, with the intention of forcing your opponent to change their strategy.
+
+This is evidently a deep, challenging game that will take at least a few hours to get to grips with. I suspect it's probably worth the effort, if you can handle the complexity! 
+
+| Battle 1 | Battle 2 | Character creation |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-chaos-battle1-thumbnail.jpg)](/assets/images/2022/jj-chaos-battle1.jpg) | [![](/assets/images/2022/jj-chaos-battle2-thumbnail.jpg)](/assets/images/2022/jj-chaos-battle2.jpg) | [![](/assets/images/2022/jj-chaos-character-thumbnail.jpg)](/assets/images/2022/jj-chaos-character.jpg) |
 
 ### Lucifer Within Us
 
@@ -183,7 +231,7 @@ Plague Inc might be fun for a few hours if you can include the slightly too-clos
 | --- | --- | --- | --- | --- |
 | [46.41% - Store page](https://store.steampowered.com/app/610160/Aeronautica_Imperialis_Flight_Command/) | £1.89 | Strategy | May 2020 | 142 (May 2020) |
 
-This is a rough game, with a very early-access feel. UIs are very basic, and there's no voice acting or sounds leading to creepily quiet air battles. These are usually quite noisy environments! There are no cinematics, and the UI impressively stutters on simple tasks like assigning a new pilot attribute.
+This is a rough game, with a very early-access feel. UIs are very basic, and there's no voice acting or ambient sound leading to creepily quiet air battles. These are usually quite noisy environments! There are no cinematics, and the UI impressively stutters on simple tasks like assigning a new pilot attribute.
 
 I didn't realise this was a Warhammer 40k game until I read Steam reviews, nor did I realise it was based on a tabletop game which explains some odd elements of the gameplay. For example, planes will often intersect each other completely when performing moves, with no physics interaction.
 
