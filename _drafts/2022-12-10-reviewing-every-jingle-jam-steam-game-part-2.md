@@ -29,6 +29,26 @@ Finally, if you [purchase the bundle](https://jinglejam.tiltify.com/) you'll be 
 
 ## 5/5 Games
 
+### Danger Scavenger
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [73.13% - Store page](https://store.steampowered.com/app/1169740/) | £7.19 | Roguelite | March 2021 | 40 (June 2020) |
+
+I'm amazed I've never heard of this game, it's one of my favourites in this entire bundle!
+
+Danger Scavenger is a roguelite dungeon crawler in a cyberpunk setting, with plenty of enemies, weapons, upgrades, etc. Each run unlocks new weapons whilst also letting you keep some of your equipment. I particularly liked how flexible the combat was, with my initial choice of shotgun being easily replaceable later on when a revolver proved far more useful.
+
+At specific points in your run, you'll have a chance to make a very tempting risk vs reward gamble. If you accept a debuff, you'll be given a specific item. Some of these deals are much more reasonable than others, with the very best rewards requiring crazy risks like "Any damage kills you"!
+
+The gameplay is very, very smooth, with the ability to peek at where enemies are and get shots in, or risk trying to use environmental weapons like explosive barrels. There's also multiple characters with their own specialities, and I'm very, very interested in how the gameplay differs between characters.
+
+I'll absolutely be playing more of this, I'm very interested in what unlocks later on!
+
+| Combat | Shop | Risk v Reward |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-danger-combat-thumbnail.jpg)](/assets/images/2022/jj-danger-combat.jpg) | [![](/assets/images/2022/jj-danger-shop-thumbnail.jpg)](/assets/images/2022/jj-danger-shop.jpg) | [![](/assets/images/2022/jj-danger-risk-thumbnail.jpg)](/assets/images/2022/jj-danger-risk.jpg) |
+
 ### Lost Nova
 
 | Steam rating | Price | Genre | Released | Peak players
@@ -45,7 +65,43 @@ I played for around 90 minutes, and unfortunately experienced a bug where I beca
 | --- | --- | --- |
 | [![](/assets/images/2022/jj-lostnova-town-thumbnail.jpg)](/assets/images/2022/jj-lostnova-town.jpg) | [![](/assets/images/2022/jj-lostnova-desert-thumbnail.jpg)](/assets/images/2022/jj-lostnova-desert.jpg) | [![](/assets/images/2022/jj-lostnova-puzzle-thumbnail.jpg)](/assets/images/2022/jj-lostnova-puzzle.jpg) |
 
+### Ancient Enemy
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [85.18% - Store page](https://store.steampowered.com/app/993790/) | £11.39 | Card | April 2020 | 177 (April 2012) |
+
+I'm an absolute sucker for tripeaks solitaire. This uses that as a basic mechanic, then builds all kinds of RPG elements on top of it, absolutely perfect!
+
+Before each battle you select your cards accordingly (e.g. don't use fire cards on an enemy with fire resistance), load up on any consumables, all of which help give you an edge. Interestingly, clearing the board isn't how you win the battles, it's killing the enemy. Of course, emptying the board gives you a new board, so is likely a good idea for new cards anyway.
+
+In my hour or so of gameplay I got to the end of Chapter 3, with the bosses noticeably becoming more challenging to beat. At the default difficulty your health carries over between each battle, meaning each of them is a chance to heal up or accidentally lose health. Having lower health makes the tactical elements much riskier, but usually still possible. For example, I entered the Chapter 3 boss battle with < 25% of my health, and still managed to win! This was due to wildcards being stackable, and working through my stash.
+
+Between each chapter new cards (attacks, passive perks, active perks) can be purchased, and the currency required for these are pretty easy to obtain so long as you complete all side missions. Rushing straight for the boss would be much quicker, but a bit too risky. Additionally, there's quite a few mechanics that keep each battle feeling fresh (locked gates, gates requiring card matches, instant damage cards, stats boosting cards).
+
+The default difficulty is perhaps a little easy, but I'm looking forward to coming back to this and completing it! 
+
+| Combat | Boss Fight | Map |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-ancient-combat-thumbnail.jpg)](/assets/images/2022/jj-ancient-combat.jpg) | [![](/assets/images/2022/jj-ancient-boss-thumbnail.jpg)](/assets/images/2022/jj-ancient-boss.jpg) | [![](/assets/images/2022/jj-ancient-map-thumbnail.jpg)](/assets/images/2022/jj-ancient-map.jpg) |
+
 ## 4/5
+
+### PlateUp!
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [93.67% - Store page](https://store.steampowered.com/app/1599600/) | £14.99 | Casual | August 2022 | 12.4k (September 2022) |
+
+Full disclosure, I've watched easily 100+ hours of this game being played, and I love watching others play it. However, I was sure I would not like playing it myself, hence why I hadn't bought it yet. After trying it myself, I was correct!
+
+The game design is great, but it is a very multiplayer-first restaurant management game. This works excellent for streams (especially with the Twitch integration), but when playing alone the time taken to move is just a bit too frustrating, and my little brain can't keep up with everything.
+
+I'm very envious of people like Pedguin who can build up insanely complex restaurants with automation, I struggled to even cook steaks to the correct rarity! If you have friends, definitely pick this up, but for solo players who don't like timers it's maybe not what you're after.
+
+| Simple gameplay | Slightly less simple gameplay | Upgrading restaurant |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-plateup-simple-thumbnail.jpg)](/assets/images/2022/jj-plateup-simple.jpg) | [![](/assets/images/2022/jj-plateup-complex-thumbnail.jpg)](/assets/images/2022/jj-plateup-complex.jpg) | [![](/assets/images/2022/jj-plateup-layout-thumbnail.jpg)](/assets/images/2022/jj-plateup-layout.jpg) |
 
 ### Chroma Squad
 
@@ -62,6 +118,23 @@ In short, whilst this may not be the deepest or most realistic tactical RPG, it'
 | Combat | End of level | Shop |
 | --- | --- | --- |
 | [![](/assets/images/2022/jj-chroma-combat-thumbnail.jpg)](/assets/images/2022/jj-chroma-combat.jpg) | [![](/assets/images/2022/jj-chroma-levelend-thumbnail.jpg)](/assets/images/2022/jj-chroma-levelend.jpg) | [![](/assets/images/2022/jj-chroma-shop-thumbnail.jpg)](/assets/images/2022/jj-chroma-shop.jpg) |
+
+### Aporia: Beyond The Valley
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [79.95% - Store page](https://store.steampowered.com/app/573130/) | £13.49 | Adventure | July 2017 | 96 (May 2018) |
+
+A slow, but very beautiful adventure / puzzle game. 
+
+The puzzling is fairly simple and minimal, with the main challenge being figuring out which way to go next (or how to read the map). The basic controls are intuitive enough, but those unlocked later on can be awkward at times.
+
+Unfortunately the game had a few technical issues whilst I played it. Most of these were relatively minor (lighting lamps through walls accidentally, weird water reflections), but my experience culminated in the game freezing up entirely and crashing. Still, despite these issues I'm intending to come back to this and finish it.
+
+| Treetops | Forest floor | Story projection |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-aporia-treetops-thumbnail.jpg)](/assets/images/2022/jj-aporia-treetops.jpg) | [![](/assets/images/2022/jj-aporia-gloomy-thumbnail.jpg)](/assets/images/2022/jj-aporia-gloomy.jpg) | [![](/assets/images/2022/jj-aporia-projection-thumbnail.jpg)](/assets/images/2022/jj-aporia-projection.jpg) |
+
 
 ### Bonfire Peaks
 
@@ -225,6 +298,22 @@ Plague Inc might be fun for a few hours if you can include the slightly too-clos
 
 ## 2/5
 
+### Age of Wonders: Planetfall
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [78.13% - Store page](https://store.steampowered.com/app/718850/) | £41.99 | Strategy | August 2019 | 10.4k (August 2019) |
+
+This game didn't give off a great impression from the start. It required a standalone launcher, required patch downloading, then encouraged making an account, then a 60s+ loading time. 
+
+But, after that, the game itself seemed... fine, I guess. It's yet another hex based 4X, with all the usual resource management that comes along with it. This had nice unit on unit battles, where the gameplay "zooms in" to a strategic battle. I can imagine this would get a bit frustrating for larger battles, as even a small battle took far too long to complete.
+
+I don't think this is necessarily a bad game, it's just not my genre, and seems to demand tens of hours of investment to understand all the nuances. 
+
+| Overworld | Battle | Tech tree |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-aow-overworld-thumbnail.jpg)](/assets/images/2022/jj-aow-overworld.jpg) | [![](/assets/images/2022/jj-aow-battle-thumbnail.jpg)](/assets/images/2022/jj-aow-battle.jpg) | [![](/assets/images/2022/jj-aow-techtree-thumbnail.jpg)](/assets/images/2022/jj-aow-techtree.jpg) |
+
 ### Aeronautica Imperialis: Flight Command
 
 | Steam rating | Price | Genre | Released | Peak players
@@ -275,7 +364,39 @@ I can't really recommend this unfortunately, some kind of overarching story woul
 | --- | --- | --- |
 | [![](/assets/images/2022/jj-mms-cleaning-thumbnail.jpg)](/assets/images/2022/jj-mms-cleaning.jpg) | [![](/assets/images/2022/jj-mms-disassembly-thumbnail.jpg)](/assets/images/2022/jj-mms-disassembly.jpg) | [![](/assets/images/2022/jj-mms-shop-thumbnail.jpg)](/assets/images/2022/jj-mms-shop.jpg) |
 
+### CHUCHEL
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [79.22% - Store page](https://store.steampowered.com/app/711660/) | £7.99 | Arcade | March 2018 | 243 (March 2018) |
+
+This was a game where every single noise hurt my ears. Each screen is a simple puzzle, a self-contained point and click adventure. The solutions are extremely convoluted, with the only real approach being trial and error clicking on objects, making this a game a bot could complete as easily as a human. 
+
+Yes the art style is unique, and I can see how it would be appealing to some. For me, I found it too oh-so-quirky without much actual gameplay underneath the polish. Each screen only has 3-4 things on, just click them until you're arbitrarily allowed to leave.
+
+I noticed the developers previously created 3 games I've enjoyed with a lot of similarities: Machinarium, Botanicula, Samorost. Whilst all of these games have a lot in common, somehow the previous games seemed to have more of a cohesive / engaging story, whereas CHUCHEL felt more like I'd wandered into a kid's TV show. 
+
+| First puzzle | Second puzzle | Third puzzle |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-chuchel-first-thumbnail.jpg)](/assets/images/2022/jj-chuchel-first.jpg) | [![](/assets/images/2022/jj-chuchel-second-thumbnail.jpg)](/assets/images/2022/jj-chuchel-second.jpg) | [![](/assets/images/2022/jj-chuchel-third-thumbnail.jpg)](/assets/images/2022/jj-chuchel-third.jpg) |
+
 ## 1/5
+
+### City Climber
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [71.18% - Store page](https://store.steampowered.com/app/538840/) | £5.19 | Arcade | February 2017 | 92 (January 2022) |
+
+This isn't necessarily a bad game, but it isn't a complete one. City Climber is a casual arcade game where you control your left and right hands, and try to climb walls or complete challenges.
+
+Levels are either pointlessly easy, impossibly hard, or based entirely on how the physics engine decides to throw your ragdoll. There's no sense of accomplishment or problem solving after each level, just a vague relief it's over. Whilst this is obviously from a solo developer, there's a few typos and confusing interfaces that really should be fixed 5 years after release!
+
+Overall this feels more like a free mobile game than a paid-for PC title.
+
+| Story level | Challenge level | Level select |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-city-story-thumbnail.jpg)](/assets/images/2022/jj-city-story.jpg) | [![](/assets/images/2022/jj-city-challenge-thumbnail.jpg)](/assets/images/2022/jj-city-challenge.jpg) | [![](/assets/images/2022/jj-city-level-thumbnail.jpg)](/assets/images/2022/jj-city-level.jpg) |
 
 ### Big Crown Showdown
 
