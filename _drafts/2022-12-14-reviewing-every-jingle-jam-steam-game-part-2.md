@@ -2,7 +2,7 @@
 title: Reviewing ALL 82 Steam games from the Yogscast's Jingle Jam charity bundle (part 2 of 3)
 author: Jake Lee
 layout: post
-image: /assets/images/2022/jj-header-2.jpg
+image: /assets/images/2022/jj-header-2.png
 tags:
     - Steam
     - Gaming
@@ -196,6 +196,24 @@ The story was very much not my thing, but ignoring it and the aesthetic reveals 
 | --- | --- | --- |
 | [![](/assets/images/2022/jj-maiden-text-thumbnail.jpg)](/assets/images/2022/jj-maiden-text.jpg) | [![](/assets/images/2022/jj-maiden-bullethell-thumbnail.jpg)](/assets/images/2022/jj-maiden-bullethell.jpg) | [![](/assets/images/2022/jj-maiden-areas-thumbnail.jpg)](/assets/images/2022/jj-maiden-areas.jpg) |
 
+### Concrete Jungle
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [82.10% - Store page](https://store.steampowered.com/app/400160/) | £5.19 | Puzzle | September 2015 | 130 (September 2015) |
+
+What a lovely puzzle game! You're tasked with building a city, row by row, keeping track of the points required whilst also balancing the "cost" of each building.
+
+This is made challenging by the changing nature of each level. Each building has a varying "positive" cost (used to access the card shop), and "negative" cost (automatically making higher requirements per column). Additionally, some columns will have buildings already existing, taking up space. Each level can be challenging, but never feels impossible. There's no undo, but there are "lives" that let you delete a failed column.
+
+Finally, the aesthetic of the game is very appealing, with lots of details revealing it is a labour of love. Each building placed becomes a named, unique structure, with lots of potential appearances. This makes placing each building satisfying, especially when 2 of the same buildings are placed next to each other, forming a merged "block".
+
+Concrete Jungle is a great puzzle game, easy to get into and relaxing, yet also challenging.
+
+| Gameplay | Zoomed out | Card shop |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-concrete-level-thumbnail.jpg)](/assets/images/2022/jj-concrete-level.jpg) | [![](/assets/images/2022/jj-concrete-zoomedout-thumbnail.jpg)](/assets/images/2022/jj-concrete-zoomedout.jpg) | [![](/assets/images/2022/jj-concrete-shop-thumbnail.jpg)](/assets/images/2022/jj-concrete-shop.jpg) |
+
 ## 3/5
 
 ### Chaos Reborn
@@ -296,7 +314,69 @@ Plague Inc might be fun for a few hours if you can include the slightly too-clos
 | --- | --- | --- |
 | [![](/assets/images/2022/jj-plague-map-thumbnail.jpg)](/assets/images/2022/jj-plague-map.jpg) | [![](/assets/images/2022/jj-plague-disease-thumbnail.jpg)](/assets/images/2022/jj-plague-disease.jpg) | [![](/assets/images/2022/jj-plague-world-thumbnail.jpg)](/assets/images/2022/jj-plague-world.jpg) |
 
+### A Total War Saga: TROY
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [69.83% - Store page](https://store.steampowered.com/app/1099410/) | £34.99 | Strategy | September 2021 | 4.7k (September 2021) |
+
+Whilst strategy isn't usually my genre, especially not long-running established series like Total War, I can see the appeal. 
+
+There's a very immediate and rewarding payoff to moving units around freely, and having each individual soldier battling. Most strategy games abstract this away into a single representative, or a grid, making the strategy more about knowing game mechanics.
+
+With Total War, whilst mechanics are obviously crucial, using realistic tactics like flanking are effective, and work as planned. TROY specifically seems to be similar to other Roman empire-y strategy games, but has elements of mythology thrown in. I could see myself getting into Total War in general, but this might not be where I'd start, given the excessive DLC pushed throughout.
+
+| Battle | Area map | Post-battle results |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-troy-battle-thumbnail.jpg)](/assets/images/2022/jj-troy-battle.jpg) | [![](/assets/images/2022/jj-troy-overworld-thumbnail.jpg)](/assets/images/2022/jj-troy-overworld.jpg) | [![](/assets/images/2022/jj-troy-result-thumbnail.jpg)](/assets/images/2022/jj-troy-result.jpg) |
+
 ## 2/5
+
+### Dark Nights with Poe and Munro
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [75.51% - Store page](https://store.steampowered.com/app/1098170/) | £9.99 | Adventure | May 2020 | 50 (May 2020) |
+
+This isn't really a game, it's a slightly interactive TV show in the style of Netflix's Bandersnatch.
+
+The story is straightforward and simple, the acting and cinematography is alright, but not a TV show I'd actually watch. The choices are very limited, with the first episode (1/6th of the game) only having 8 interactions in ~15 minutes of video. That's approximately 1 click every 2 minutes. These decisions did seem to have real impacts, but it's hard to tell without multiple playthroughs.
+
+If the story sounds interesting to you, then you might be able to enjoy it as a made-for-TV movie. It's not much of a game though.
+
+| Poe | Munro | Episode 1 choices |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-poe-poe-thumbnail.jpg)](/assets/images/2022/jj-poe-poe.jpg) | [![](/assets/images/2022/jj-poe-munro-thumbnail.jpg)](/assets/images/2022/jj-poe-munro.jpg) | [![](/assets/images/2022/jj-poe-choices-thumbnail.jpg)](/assets/images/2022/jj-poe-choices.jpg) |
+
+### Chronicon
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [92.43% - Store page](https://store.steampowered.com/app/375480/) | £10.99 | RPG | August 2020 | 4.8k (September 2020) |
+
+Chronicon looks like it might be a fun RPG, but I really didn't get on with it. The movement and combat felt pretty clunky, and interfaces / inventory management was like a puzzle all by itself.
+
+It seems to have plenty of depth, but I couldn't work my way past the interfaces and general jankiness. 
+
+| Starting castle | Combat | Skills |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-chronicon-castle-thumbnail.jpg)](/assets/images/2022/jj-chronicon-castle.jpg) | [![](/assets/images/2022/jj-chronicon-combat-thumbnail.jpg)](/assets/images/2022/jj-chronicon-combat.jpg) | [![](/assets/images/2022/jj-chronicon-skills-thumbnail.jpg)](/assets/images/2022/jj-chronicon-skills.jpg) |
+
+### Crazy Machines 3
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [91.99% - Store page](https://store.steampowered.com/app/351920/) | £7.99 | Sandbox | October 2016 | 1.1k (March 2021) |
+
+It's hard to judge this game, as it isn't really a game. Instead, it's a sandbox of physics objects, and semi-realistic interactions with each other.
+
+Sure, these interactions are reasonable. A ball knocks another ball. But in terms of actual gameplay, there isn't very much here. A small collection of minigames, some physics puzzles that have already been reproduced in tens of other games, and then you're out of content.
+
+Whilst the lifeblood of this title is clearly the Steam Workshop, the built-in content is still very lacking. It's hard to recommend this game when so many physics simulators exist, but just happen to be less popular. 
+
+| Menu | Puzzle level | Minigame level |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-crazy-menu-thumbnail.jpg)](/assets/images/2022/jj-crazy-menu.jpg) | [![](/assets/images/2022/jj-crazy-puzzle-thumbnail.jpg)](/assets/images/2022/jj-crazy-puzzle.jpg) | [![](/assets/images/2022/jj-crazy-minigame-thumbnail.jpg)](/assets/images/2022/jj-crazy-minigame.jpg) |
 
 ### Age of Wonders: Planetfall
 
@@ -380,6 +460,20 @@ I noticed the developers previously created 3 games I've enjoyed with a lot of s
 | --- | --- | --- |
 | [![](/assets/images/2022/jj-chuchel-first-thumbnail.jpg)](/assets/images/2022/jj-chuchel-first.jpg) | [![](/assets/images/2022/jj-chuchel-second-thumbnail.jpg)](/assets/images/2022/jj-chuchel-second.jpg) | [![](/assets/images/2022/jj-chuchel-third-thumbnail.jpg)](/assets/images/2022/jj-chuchel-third.jpg) |
 
+### ConnecTank
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [74.53% - Store page](https://store.steampowered.com/app/1597200/) | £26.99 | Multiplayer | September 2021 | 28 (December 2022) |
+
+This is a pretty shallow game: put coloured materials into the machine to craft ammo to fire at the enemy tank.
+
+There's an unnecessary conveyor belt mechanic, tank loadouts, but in general if you've played 1 level you've played them all. Perhaps more fun with friends, but alone it's very repetitive and mindless. As a positive, the art style is appealing without being too childish. 
+
+| Loadout | Level | Battle start |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-connectank-loadout-thumbnail.jpg)](/assets/images/2022/jj-connectank-loadout.jpg) | [![](/assets/images/2022/jj-connectank-level-thumbnail.jpg)](/assets/images/2022/jj-connectank-level.jpg) | [![](/assets/images/2022/jj-connectank-vs-thumbnail.jpg)](/assets/images/2022/jj-connectank-vs.jpg) |
+
 ## 1/5
 
 ### City Climber
@@ -415,3 +509,15 @@ If you have someone sitting next to you, maybe you can find some fun here. I cou
 | Ice level | Castle level | Server issues |
 | --- | --- | --- |
 | [![](/assets/images/2022/jj-bigcrown-ice-thumbnail.jpg)](/assets/images/2022/jj-bigcrown-ice.jpg) | [![](/assets/images/2022/jj-bigcrown-castle-thumbnail.jpg)](/assets/images/2022/jj-bigcrown-castle.jpg) | [![](/assets/images/2022/jj-bigcrown-servers-thumbnail.jpg)](/assets/images/2022/jj-bigcrown-servers.jpg) |
+
+### Cryofall
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [78.01% - Store page](https://store.steampowered.com/app/829590/) | £15.99 | Multiplayer | April 2021 | 3.6k (May 2021) |
+
+I can't review Cryofall as it doesn't work for me whatsoever. Starting it up let me pick the language, then endlessly connect to the main server until I Alt + F4 the game. This happened every time I started it.
+
+If only there was some sort of offline mode, huh? Based on the other reviews it looks like it might have been interesting.
+
+[![](/assets/images/2022/jj-cryofall-thumbnail.jpg)](/assets/images/2022/jj-cryofall.jpg)
