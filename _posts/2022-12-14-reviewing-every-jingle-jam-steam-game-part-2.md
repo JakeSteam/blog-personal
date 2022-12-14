@@ -9,31 +9,11 @@ tags:
     - Charity
 ---
 
-REDO INTRO
-
-Every Christmas since 2011, one of my favourite content creators The Yogscast have organised the "Jingle Jam", a collection of streams with [an associated bundle](https://jinglejam.tiltify.com/) with TONS of great games to raise money for charity. This year, I'm trying to review all 80+ of them despite only playing 2-3 games all year before this! Here's part 2, with games 31-60. 
-
-## Rating system
-
-Before diving into the reviews, it's worth clarifying what these ratings mean. They *aren't* a typical game reviewer's "how good is this game", instead they are an entirely subjective "how much do I enjoy it". With that in mind, here's what the 5 ratings mean to me:
-
-* **5/5**: I had to stop myself playing this game, this is a great game I'm very happy I've discovered.
-* **4/5**: This was a good experience, but maybe a bit flawed. I'd still play this again, but maybe with not quite as much passion.
-* **3/5**: The game was alright. Perhaps it had a few serious flaws, or had decisions made during development that make no sense. I probably wouldn't play these again, but might look at new games from the developer.
-* **2/5**: I didn't enjoy the game. Maybe it has a few redeeming characteristics, but there's pretty much a 0% chance I'll ever pick this up again.
-* **1/5**: The game experience was actively unpleasant. I had to force myself to play more than a few minutes of it, and was relieved when I finally closed the game. 
-
-I aimed to play most of the games for around an hour, but many were small and understood after 15-20 minutes. Information on peak player count are [from SteamDB.info](https://steamdb.info/).
-
-Finally, if you [purchase the bundle](https://jinglejam.tiltify.com/) you'll be sent an email with a long list of game keys. These can be entered manually into Steam (what I did, takes a while!), or [third party tools](https://jinglejam.tiltify.com/) can be used to speed up the process.
+Every Christmas since 2011, one of my favourite content creators The Yogscast have organised the "Jingle Jam" [charity games bundle](https://jinglejam.tiltify.com/), which finishes *today*. Here's part 2, with games 31-60. 
 
 ## 5/5 Games
 
 ### Danger Scavenger
-
-| Steam rating | Price | Genre | Released | Peak players
-| --- | --- | --- | --- | --- |
-| [73.13% - Store page](https://store.steampowered.com/app/1169740/) | £7.19 | Roguelite | March 2021 | 40 (June 2020) |
 
 I'm amazed I've never heard of this game, it's one of my favourites in this entire bundle!
 
@@ -44,6 +24,10 @@ At specific points in your run, you'll have a chance to make a very tempting ris
 The gameplay is very, very smooth, with the ability to peek at where enemies are and get shots in, or risk trying to use environmental weapons like explosive barrels. There's also multiple characters with their own specialities, and I'm very, very interested in how the gameplay differs between characters.
 
 I'll absolutely be playing more of this, I'm very interested in what unlocks later on!
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [73.13% - Store page](https://store.steampowered.com/app/1169740/) | £7.19 | Roguelite | March 2021 | 40 (June 2020) |
 
 | Combat | Shop | Risk v Reward |
 | --- | --- | --- |
