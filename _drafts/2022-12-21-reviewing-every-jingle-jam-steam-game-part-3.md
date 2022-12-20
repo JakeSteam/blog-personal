@@ -19,9 +19,9 @@ Every Christmas since 2011, one of my favourite content creators The Yogscast ha
 | --- | --- | --- | --- | --- |
 | [81.71% - Store page](https://store.steampowered.com/app/574560/) | £11.99 | Puzzle | June 2018 | 158 (June 2018) |
 
-Okay, yes, this is a pretty simple game that I perhaps only enjoy because of it's similarity to old meta Kongregate / Newgrounds games.
+Okay, yes, this is a pretty simple game that I perhaps only enjoy because of its similarity to old meta Kongregate / Newgrounds games.
 
-Dude, Stop is a collection of puzzles organised into packs, with "cups" unlocked for certain behaviours (e.g., failing all tasks). It's extremely self aware, in a similar vein to The Stanley Parable, and there's absolutely tons of content for every minute you'll be playing the game.
+Dude, Stop is a collection of puzzles organised into packs, with "cups" unlocked for certain behaviours (e.g., failing all tasks). It's extremely self-aware, in a similar vein to The Stanley Parable, and there's absolutely tons of content for every minute you'll be playing the game.
 
 I suspect it isn't a super long game you can spend tens of hours with, but I'm still very eager to come back to this and complete it, and probably get 100% achievements.
 
@@ -29,8 +29,91 @@ I suspect it isn't a super long game you can spend tens of hours with, but I'm s
 | --- | --- | --- |
 | [![](/assets/images/2022/jj-dude-pack7-thumbnail.jpg)](/assets/images/2022/jj-dude-pack7.jpg) | [![](/assets/images/2022/jj-dude-results-thumbnail.jpg)](/assets/images/2022/jj-dude-results.jpg) | [![](/assets/images/2022/jj-dude-puzzle-thumbnail.jpg)](/assets/images/2022/jj-dude-puzzle.jpg) |
 
+### Here Comes Niko
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [86.35% - Store page](https://store.steampowered.com/app/925950/) | £19.49 | Adventure | August 2021 | 415 (August 2021) |
+
+Very cute, very comfy, very chill!
+
+Here Comes Niko is pretty much solving mini puzzles and exploring various islands, with your main objectives being to help others and make new friends. Whilst this game isn't challenging or competitive, it is a nice way to spend a few hours. The writing / light storytelling is addictive, with little bits of humour here and there providing motivation to talk to new characters.
+
+I played through the first couple of islands, I'm interested to see how much more content there is, and whether it can be 100%'d. The only downside is the controller buttons are a bit odd, with "B" acting as "A" and "Start" acting as "Back". Still, this only applies to the menu, within the game itself it's all very intuitive.
+
+| Snail Pet | Island Tasks | Earning a coin |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-niko-snail-thumbnail.jpg)](/assets/images/2022/jj-niko-snail.jpg) | [![](/assets/images/2022/jj-niko-island-thumbnail.jpg)](/assets/images/2022/jj-niko-island.jpg) | [![](/assets/images/2022/jj-niko-coin-thumbnail.jpg)](/assets/images/2022/jj-niko-coin.jpg) |
+
+### Discolored
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [76.11% - Store page](https://store.steampowered.com/app/933860/) | £5.49 | Puzzle | November 2019 | 34 (December 2022) |
+
+Whilst Discolored is technically a point and click game, it's done in such an intuitive and mysterious way that I deeply enjoyed it. 
+
+It was a relatively short experience (1-2 hours depending on puzzle solving), but at no point did I feel completely lost. Instead, I could solve each stage logically after a few minutes of considering the unknown objects / areas I hadn't found a use for yet. There's also a pretty helpful "hint" feature that I used a couple of times, that gives enough of a clue to avoid feeling completely lost, but doesn't just solve a puzzle for you.
+
+This is an excellent example of the kind of point and click game I like, where each step feels logically solvable without random clicking, and every item has a specific purpose. [The sequel comes out next year](https://store.steampowered.com/app/1859720/Discolored_2/), I can't wait!
+
+| Bedroom | Basement | Attic |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-discolored-bedroom-thumbnail.jpg)](/assets/images/2022/jj-discolored-bedroom.jpg) | [![](/assets/images/2022/jj-discolored-basement-thumbnail.jpg)](/assets/images/2022/jj-discolored-basement.jpg) | [![](/assets/images/2022/jj-discolored-attic-thumbnail.jpg)](/assets/images/2022/jj-discolored-attic.jpg) |
+
+## 4/5 Games
+
+### Gene Shift Auto
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [78.25% - Store page](https://store.steampowered.com/app/308600/) | £12.79 (base game free) | Action | May 2017 | 214k (December 2018) |
+
+I'll admit, I judged this game by its title, and was expecting a cheap GTA rip-off. Luckily I was very wrong!
+
+This is a battle royale style interpretation of classic GTA titles. It's a chaotic mess of bullets, explosions, and NPCs, and very, very fun. The game itself is actually free (which explains why it once had 214k(!) players), but the premium upgrade was included in the Jingle Jam pack. As far as I can tell this doesn't give many benefits besides extra coins / XP drops, used to unlock new skills.
+
+The skills are nice and silly, with things like increased bullet speed, vampirism, spawning homing rockets etc. All of these help make every fight unpredictable, whether it's against police or other players.
+
+I won my first game, but given the skill level of some players I strongly suspect it was a "new players only" matchmaking game! Whilst Gene Shift Auto maybe isn't for me, it's a very good free game for someone seeking an old GTA-style online experience.
+
+| Combat | Unlockable skills | Victory |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-gsa-combat-thumbnail.jpg)](/assets/images/2022/jj-gsa-combat.jpg) | [![](/assets/images/2022/jj-gsa-skills-thumbnail.jpg)](/assets/images/2022/jj-gsa-skills.jpg) | [![](/assets/images/2022/jj-gsa-victory-thumbnail.jpg)](/assets/images/2022/jj-gsa-victory.jpg) |
+
+### Sokpop: Hellblusser
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [81.04% - Store page](https://store.steampowered.com/app/1695480/) | £4.99 | RPG | August 2021 | 16 (August 2021) |
+
+This is a bare bones but interesting RPG, with the typical Sokpop-style distortion of the camera. 
+
+As with many RPGs, you're mostly wandering through corridors killing everything with your sword or magic, then upgrading equipment / perks when possible. The unique gimmick is the ability to "absorb" fire from ambient sources and use it as a fireball, leading to desperate environment hunting when a melee-immune enemy is chasing you!
+
+I found the boss at the end of the sewer levels a bit too challenging, as I couldn't figure out a way to inflict a single point of damage on it. Considering this is after 7-8 levels of combat, and death means starting from the beginning, it's quite a punishing learning curve.
+
+Overall this is worth a few runthroughs, although the levels can be a bit repetitive. Looking at the Steam page, these levels are procedurally generated, with 3 "areas" (themes) to beat. 
+
+| Sewer | Shop | Combat |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-hellblusser-sewer-thumbnail.jpg)](/assets/images/2022/jj-hellblusser-sewer.jpg) | [![](/assets/images/2022/jj-hellblusser-shop-thumbnail.jpg)](/assets/images/2022/jj-hellblusser-shop.jpg) | [![](/assets/images/2022/jj-hellblusser-combat-thumbnail.jpg)](/assets/images/2022/jj-hellblusser-combat.jpg) |
 
 ## 3/5 Games
+
+### JARS
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [73.36% - Store page](https://store.steampowered.com/app/1590750/) | £9.99 | Puzzle | October 2021 | 18 (December 2022) |
+
+JARS claims to be a strategy / tower defense game, but there's really not enough time per level to call it that. Instead, each level is a few seconds of frantic clicking / hotkeying to open jars and handle their contents, then it's over either positively or negatively!
+
+Whilst there are some elements of puzzle solving, this is more a challenge of prioritisation, not any actual challenging aspect. As such, winning a level doesn't feel too rewarding. However, there does seem to be quite a lot of content. From minions to enemies to comic books and cutscenes, new significant content is unlocked every level or two. If you're into the gameplay style, there's plenty here to play with!
+
+| Level select | Level | Perks |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-jars-levelselect-thumbnail.jpg)](/assets/images/2022/jj-jars-levelselect.jpg) | [![](/assets/images/2022/jj-jars-level-thumbnail.jpg)](/assets/images/2022/jj-jars-level.jpg) | [![](/assets/images/2022/jj-jars-perks-thumbnail.jpg)](/assets/images/2022/jj-jars-perks.jpg) |
 
 ### Factory Town
 
@@ -91,3 +174,17 @@ Overall this isn't a bad game at all, it's just hard to appreciate it when it we
 | Story telling | Normal mode | Shadow mode |
 | --- | --- | --- |
 | [![](/assets/images/2022/jj-eternal-story-thumbnail.jpg)](/assets/images/2022/jj-eternal-story.jpg) | [![](/assets/images/2022/jj-eternal-good-thumbnail.jpg)](/assets/images/2022/jj-eternal-good.jpg) | [![](/assets/images/2022/jj-eternal-evil-thumbnail.jpg)](/assets/images/2022/jj-eternal-evil.jpg) |
+
+## 2/5
+
+### Desolate
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [66.44% - Store page](https://store.steampowered.com/app/671510/) | £19.99 | Puzzle | January 2019 | 1.8k (February 2018) |
+
+This is perhaps one of those games that is better with friends. By myself, it was just a janky experience wandering around a wilderness, where everything I meet kills me pretty quickly. Fun. The late game might be fun, but the beginning is just an unpleasant experience, doing pointless tasks just for a generic mob to kill you. 
+
+| Archives | Combat | Outside |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-desolate-archives-thumbnail.jpg)](/assets/images/2022/jj-desolate-archives.jpg) | [![](/assets/images/2022/jj-desolate-combat-thumbnail.jpg)](/assets/images/2022/jj-desolate-combat.jpg) | [![](/assets/images/2022/jj-desolate-outside-thumbnail.jpg)](/assets/images/2022/jj-desolate-outside.jpg) |
