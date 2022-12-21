@@ -245,6 +245,24 @@ Overall this isn't a bad game at all, it's just hard to appreciate it when it we
 
 ## 2/5
 
+### Kitaria Fables
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [74.28% - Store page](https://store.steampowered.com/app/1356280/) | £16.99 | RPG | September 2021 | 1.0k (September 2021) |
+
+Kitaria Fables was a very slow experience. VERY dialog heavy, VERY fetch quest heavy, and I quickly found myself just mashing the A button to try and get through the endless dialog ASAP. This meant I accidentally selected a few dialog options, but it was worth it to avoid the boredom!
+
+The combat itself is actually pretty fun, with a simple attack (or use skills) and dodge system. Unfortunately, the story was too over the top and needlessly wordy to make it worth the effort. As an example, the very start of the game is walking between 3 locations multiple times just to talk to the same NPCs. All immediately after a length cutscene, a ridiculously lengthy initial 4-way conversation.
+
+Looking at other reviews, they all mention that the game gets even more grindy later on, so one to avoid as far as I can tell. On the plus side, my cat liked the repetitive nature of the movement during combat / walking!
+
+[![](/assets/images/2022/jj-kitaria-cat-thumbnail.jpg)](/assets/images/2022/jj-kitaria-cat.jpg)
+
+| Town | Dialog | Dungeon |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-kitaria-town-thumbnail.jpg)](/assets/images/2022/jj-kitaria-town.jpg) | [![](/assets/images/2022/jj-kitaria-dialog-thumbnail.jpg)](/assets/images/2022/jj-kitaria-dialog.jpg) | [![](/assets/images/2022/jj-kitaria-dungeon-thumbnail.jpg)](/assets/images/2022/jj-kitaria-dungeon.jpg) |
+
 ### Desolate
 
 | Steam rating | Price | Genre | Released | Peak players
@@ -256,3 +274,25 @@ This is perhaps one of those games that is better with friends. By myself, it wa
 | Archives | Combat | Outside |
 | --- | --- | --- |
 | [![](/assets/images/2022/jj-desolate-archives-thumbnail.jpg)](/assets/images/2022/jj-desolate-archives.jpg) | [![](/assets/images/2022/jj-desolate-combat-thumbnail.jpg)](/assets/images/2022/jj-desolate-combat.jpg) | [![](/assets/images/2022/jj-desolate-outside-thumbnail.jpg)](/assets/images/2022/jj-desolate-outside.jpg) |
+
+## 1/5
+
+### First Class Trouble
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [76.53% - Store page](https://store.steampowered.com/app/953880/) | £10.99 | Multiplayer | November 2021 | 1.2k (April 2021) |
+
+Here's the story of me trying to play this:
+
+1. I open the game, and immediately have to scroll to the bottom of & approve *three* different agreements.
+2. I go to play the tutorial, it's just a few pages of text.
+3. I click play, get put into a lobby as the traitor / humanoid, experience horrific frame rate drops.
+4. 2 players walk up to me, grab me & strangle me. I die.
+5. I mess around as a flying hoover for 10 minutes.
+
+At no point was there any fun. Perhaps this is a good game if you have friends to play in a lobby, but online matchmaking doesn't seem great. I know [The Yogscast](https://www.youtube.com/playlist?list=PLpRe-VsLz6CTFBcBo8eHWgJP67FuoxOX2) used to play it, and personally I skipped the videos as it just felt like GMod TTT but not as good.
+
+| Tutorial | Murdered | Vruumba |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-first-tutorial-thumbnail.jpg)](/assets/images/2022/jj-first-tutorial.jpg) | [![](/assets/images/2022/jj-first-murder-thumbnail.jpg)](/assets/images/2022/jj-first-murder.jpg) | [![](/assets/images/2022/jj-first-vruumba-thumbnail.jpg)](/assets/images/2022/jj-first-vruuma.jpg) |
