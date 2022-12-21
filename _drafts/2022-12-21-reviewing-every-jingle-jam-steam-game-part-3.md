@@ -2,7 +2,7 @@
 title: Reviewing ALL 83 Steam games from the Yogscast's Jingle Jam charity bundle (part 3 of 3)
 author: Jake Lee
 layout: post
-image: /assets/images/2022/jj-header-2.png
+image: /assets/images/2022/jj-header-3.png
 tags:
     - Steam
     - Gaming
@@ -63,6 +63,24 @@ This is an excellent example of the kind of point and click game I like, where e
 
 ## 4/5 Games
 
+### Fury Unleashed
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [85.68% - Store page](https://store.steampowered.com/app/465200/) | £17.99 | Platformer | May 2020 | 521 (July 2021) |
+
+Fury Unleashed is a roguelite platformer shooter, with a meta story backing it up. 
+
+The movement and gameplay is solid, and reminds me a lot of the frantic yet precise feel to games like Spelunky. I only played through the first 2 chapters (twice, it is a roguelite after all!) and the story had some intriguing meta elements to it, with a comic book style without. This manifests itself in "ink" as currency, the occasional "sketched" levels, and a narrator describing each chapter.
+
+The levels can get a bit bullet-hell at times, with enemy movement and various projectiles all over the place. Because of this, I found it tricky to get through a level perfectly, something that is usually possible in games like Spelunky. Due to this, there's more of a reliance on accepting damage, but then healing from it moving forward.
+
+Definitely looking forward to a few more runs through this!
+
+| Chapter 1 | Chapter 2 | Meta |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-fury-chapter1-thumbnail.jpg)](/assets/images/2022/jj-fury-chapter1.jpg) | [![](/assets/images/2022/jj-fury-chapter2-thumbnail.jpg)](/assets/images/2022/jj-fury-chapter2.jpg) | [![](/assets/images/2022/jj-fury-meta-thumbnail.jpg)](/assets/images/2022/jj-fury-meta.jpg) |
+
 ### Gene Shift Auto
 
 | Steam rating | Price | Genre | Released | Peak players
@@ -99,7 +117,57 @@ Overall this is worth a few runthroughs, although the levels can be a bit repeti
 | --- | --- | --- |
 | [![](/assets/images/2022/jj-hellblusser-sewer-thumbnail.jpg)](/assets/images/2022/jj-hellblusser-sewer.jpg) | [![](/assets/images/2022/jj-hellblusser-shop-thumbnail.jpg)](/assets/images/2022/jj-hellblusser-shop.jpg) | [![](/assets/images/2022/jj-hellblusser-combat-thumbnail.jpg)](/assets/images/2022/jj-hellblusser-combat.jpg) |
 
+### Kaiju Wars
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [79.90% - Store page](https://store.steampowered.com/app/1508400/) | £15.49 | Strategy | April 2022 | 91 (May 2022) |
+
+This is another game that I watched on Twitch during the Jingle Jam [by Lewis & Ben](https://www.youtube.com/watch?v=i7xKszO_aVc). The aesthetic appealed, and who doesn't like giant kaijus?
+
+The strategy (at least in the first few levels) was pretty simple, mostly around pumping out units to try and slow the kaiju down whilst also saving up for new bases and other larger investments. There's lots of acted cutscenes and backstory that adds some atmosphere to the combat, with custom missions and power-ups to add some complexity.
+
+I liked the semi-nihilistic tone of the game, with each battle obviously just being trying to survive for a bit longer, not actually wiping out any opponents permanently. The overall style reminded me a lot of older XCOM games, with a bit of the "rock paper scissors" style combat of Advance Wars. Definitely an easy game to spend a few hours in if the aesthetic appeals.
+
+| Map | Dialog | Close-up |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-kaiju-map-thumbnail.jpg)](/assets/images/2022/jj-kaiju-map.jpg) | [![](/assets/images/2022/jj-kaiju-dialog-thumbnail.jpg)](/assets/images/2022/jj-kaiju-dialog.jpg) | [![](/assets/images/2022/jj-kaiju-closeup-thumbnail.jpg)](/assets/images/2022/jj-kaiju-closeup.jpg) |
+
+### Killrun
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [64.21% - Store page](https://store.steampowered.com/app/1442170/) | £3.99 | FPS | August 2022 | 88 (August 2022) |
+
+Take CounterStrike, merge it with Superhot (minus the time manipulation elements), and you'd end up with Killrun!
+
+Each short level is a combination puzzle / test of FPS ability, with the entire goal being getting the quickest checkpoint touching & enemy killing completion possible. These enemies don't shoot back, so they're essentially 3D target practice. A good run feels absolutely amazing, and looks like an edited highlights reel from a montage. With crouching, powerups, quickscoping, and all the FPS staples, it definitely felt a lot like I was playing a serious shooter. Spoiling that illusion (for the better!) are various powerups that give temporary abilities like dashing forward and enemy highlighting (looks just like Superhot!).
+
+It's very hard to represent this game in still images, since it's all about the speed of the run, and how each kill flows into the next. [The trailer](https://www.youtube.com/watch?v=HreilFYfumw) does a much better job than words and images ever could. There are 60 levels currently available, with more packs on the way.
+
+Finally, there's also "mods" for your weapons, which are just cosmetic skins. Whilst looking at this, I discovered the developer is the same one behind The Turing Test, also in this bundle, [which I rated 5/5](/reviewing-every-jingle-jam-steam-game/#the-turing-test)!
+
+| Combat | Movement map | Level select |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-killrun-fps-thumbnail.jpg)](/assets/images/2022/jj-killrun-fps.jpg) | [![](/assets/images/2022/jj-killrun-movement-thumbnail.jpg)](/assets/images/2022/jj-killrun-movement.jpg) | [![](/assets/images/2022/jj-killrun-level-thumbnail.jpg)](/assets/images/2022/jj-killrun-level.jpg) |
+
 ## 3/5 Games
+
+### House
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [91.98% - Store page](https://store.steampowered.com/app/1444350/) | £7.19 | Puzzle | October 2020 | 202 (July 2021) |
+
+Full confession, I saw half a playthrough of this game on a [Yogscast Jingle Jam stream with Sips & Lydia](https://www.youtube.com/watch?v=LzGYPnZMZ7o), so already had a few preconceptions going in.
+
+House is essentially a puzzle game where you have a limited period of time to find various endings to the story. This can be done by finding objects, using them on the environment, interacting with characters, etc. My first playthrough I impressively walked into my own beartrap, which was such a lame ending it didn't even unlock an achievement! 
+
+This is undoubtedly a very creative game, and I can see how hunting all of the unique endings could be addictive. It's not really for me, but the gory mystery solving may be for you.
+
+| Kitchen | Cat | Piano |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-house-kitchen-thumbnail.jpg)](/assets/images/2022/jj-house-kitchen.jpg) | [![](/assets/images/2022/jj-house-cat-thumbnail.jpg)](/assets/images/2022/jj-house-cat.jpg) | [![](/assets/images/2022/jj-house-piano-thumbnail.jpg)](/assets/images/2022/jj-house-piano.jpg) |
 
 ### JARS
 
