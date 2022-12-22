@@ -151,6 +151,22 @@ Finally, there's also "mods" for your weapons, which are just cosmetic skins. Wh
 | --- | --- | --- |
 | [![](/assets/images/2022/jj-killrun-fps-thumbnail.jpg)](/assets/images/2022/jj-killrun-fps.jpg) | [![](/assets/images/2022/jj-killrun-movement-thumbnail.jpg)](/assets/images/2022/jj-killrun-movement.jpg) | [![](/assets/images/2022/jj-killrun-level-thumbnail.jpg)](/assets/images/2022/jj-killrun-level.jpg) |
 
+### Imagine Earth
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [76.81% - Store page](https://store.steampowered.com/app/280720/) | £11.49 | Strategy | May 2021 | 327 (May 2021) |
+
+Imagine Earth is a strategy game, but with a focus on balancing the needs and wants of your city, not on fighting other civilisations. This means choices have to be made about how to exploit resources and what to prioritise.
+
+I only played through the tutorial, but I really liked the fairly laid back gameplay style, and I could easily see myself getting sucked into building civilisations. It helps that the graphics are decent, and that it uses a triangular grid instead of the typical hexagonal.
+
+One complaint would be that it's quite hard to distinguish the different buildings, at least when first starting. I had to keep mousing over buildings to remember what they were, and some natural resources looked quite similar to mining buildings.
+
+| Zoomed out | Zoomed in | Research |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-imagine-zoomout-thumbnail.jpg)](/assets/images/2022/jj-imagine-zoomout.jpg) | [![](/assets/images/2022/jj-imagine-zoomin-thumbnail.jpg)](/assets/images/2022/jj-imagine-zoomin.jpg) | [![](/assets/images/2022/jj-imagine-research-thumbnail.jpg)](/assets/images/2022/jj-imagine-research.jpg) |
+
 ## 3/5 Games
 
 ### House
@@ -242,6 +258,38 @@ Overall this isn't a bad game at all, it's just hard to appreciate it when it we
 | Story telling | Normal mode | Shadow mode |
 | --- | --- | --- |
 | [![](/assets/images/2022/jj-eternal-story-thumbnail.jpg)](/assets/images/2022/jj-eternal-story.jpg) | [![](/assets/images/2022/jj-eternal-good-thumbnail.jpg)](/assets/images/2022/jj-eternal-good.jpg) | [![](/assets/images/2022/jj-eternal-evil-thumbnail.jpg)](/assets/images/2022/jj-eternal-evil.jpg) |
+
+### Fit For a King
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [82.68% - Store page](https://store.steampowered.com/app/1110380/) | £3.14 | RPG | September 2019 | 12 (September 2019) |
+
+Unlike many other 3/5 games, Fit For a King isn't just average throughout. Instead, it has some great bits (the interactions, the writing), and some bits I can't stand (the size of text, the interface). On a larger monitor, the text is almost unreadably big, yet also constantly scrolling off-screen!
+
+The list of commands is impressively detailed, and I liked the freedom of being able to get absolutely wasted on my wine reserves, go out into the town and execute all the villagers, then get killed by a bear. A perfect day out.
+
+I'm sure this game has WAY more depth than my initial look around, and if the visual style isn't too off-putting you'll probably have a great time!
+
+| Commands | Drinking wine | Killed by a bear |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-king-commands-thumbnail.png)](/assets/images/2022/jj-king-commands.png) | [![](/assets/images/2022/jj-king-wine-thumbnail.png)](/assets/images/2022/jj-king-wine.png) | [![](/assets/images/2022/jj-king-bear-thumbnail.png)](/assets/images/2022/jj-king-bear.png) |
+
+### Epic Battle Fantasy 5
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [94.92% - Store page](https://store.steampowered.com/app/432350/) | £8.99 | RPG | November 2018 | 2.4k (December 2018) |
+
+Coming in at the 5th game series is always going to be a tricky sell, and this one totally missed the mark for me unfortunately. The description proudly boasts of "video game references, juvenile dialogue, and anime fanservice", none of which I'm particularly keen on.
+
+The combat itself was fairly standard Final Fantasy-esque turn based combat, with all the status effects and attacks you'd expect. There's also overworld puzzles, and pretty good animation on each attack. Unfortunately these weren't enough to outweigh the overall mood of the game for me.
+
+Looking at other reviews it's an extremely popular game, so I assume this aesthetic and writing style appeals to a lot of people, just not people like me! 
+
+| Story | World | Combat |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-epic-comic-thumbnail.jpg)](/assets/images/2022/jj-epic-comic.jpg) | [![](/assets/images/2022/jj-epic-world-thumbnail.jpg)](/assets/images/2022/jj-epic-world.jpg) | [![](/assets/images/2022/jj-epic-combat-thumbnail.jpg)](/assets/images/2022/jj-epic-combat.jpg) |
 
 ## 2/5
 
