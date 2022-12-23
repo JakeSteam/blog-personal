@@ -9,21 +9,23 @@ tags:
     - Charity
 ---
 
-Every Christmas since 2011, one of my favourite content creators The Yogscast have organised the "Jingle Jam" [charity games bundle](https://jinglejam.tiltify.com/), which finishes *today*. Here's part 3, with games 61-83. 
+Every Christmas since 2011, one of my favourite content creators The Yogscast have organised the "Jingle Jam" [charity games bundle](https://jinglejam.tiltify.com/), which finished a week or so ago. Here's the final part to complete the trilogy, with games 61-83. 
+
+This final batch had a LOT of okayish games, but much fewer games I truly disliked. Overall it was amazing collection, easily worth the price, and even a picky gamer like myself has still found plenty of new games I'm into!
 
 ## 5/5 Games
 
 ### Dude, Stop
-
-| Steam rating | Price | Genre | Released | Peak players
-| --- | --- | --- | --- | --- |
-| [81.71% - Store page](https://store.steampowered.com/app/574560/) | £11.99 | Puzzle | June 2018 | 158 (June 2018) |
 
 Okay, yes, this is a pretty simple game that I perhaps only enjoy because of its similarity to old meta Kongregate / Newgrounds games.
 
 Dude, Stop is a collection of puzzles organised into packs, with "cups" unlocked for certain behaviours (e.g., failing all tasks). It's extremely self-aware, in a similar vein to The Stanley Parable, and there's absolutely tons of content for every minute you'll be playing the game.
 
 I suspect it isn't a super long game you can spend tens of hours with, but I'm still very eager to come back to this and complete it, and probably get 100% achievements.
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [81.71% - Store page](https://store.steampowered.com/app/574560/) | £11.99 | Puzzle | June 2018 | 158 (June 2018) |
 
 | Pack Picker | Puzzle Results | Puzzle |
 | --- | --- | --- |
@@ -185,6 +187,22 @@ This is undoubtedly a very creative game, and I can see how hunting all of the u
 | --- | --- | --- |
 | [![](/assets/images/2022/jj-house-kitchen-thumbnail.jpg)](/assets/images/2022/jj-house-kitchen.jpg) | [![](/assets/images/2022/jj-house-cat-thumbnail.jpg)](/assets/images/2022/jj-house-cat.jpg) | [![](/assets/images/2022/jj-house-piano-thumbnail.jpg)](/assets/images/2022/jj-house-piano.jpg) |
 
+### Demolish & Build 2018
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [73.71% - Store page](https://store.steampowered.com/app/577670/) | £0.71 | Simulation | March 2018 | 462 (March 2018) |
+
+Simulation games have a lot in common. Repetitive gameplay, simple tasks, and a weirdly dead and sterile world. D&B 2018 is no exception, and whilst the writing was kinda engaging, the actual gameplay was too mindless for me. I tried injecting some excitement by driving head-on into other cars / buildings and nothing much happened. 
+
+The overall goal is to do tasks, upgrade your business, buy some vehicles, etc etc etc. If you're into house flipper and want explicit instructions at every step, this might be for you. Otherwise, maybe not.
+
+All that being said, this is currently on sale for under £1 / $1, hard to complain too much at that price point!
+
+| Inside | Bulldozer | Sun..? |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-demolish-inside-thumbnail.jpg)](/assets/images/2022/jj-demolish-inside.jpg) | [![](/assets/images/2022/jj-demolish-bulldozer-thumbnail.jpg)](/assets/images/2022/jj-demolish-bulldozer.jpg) | [![](/assets/images/2022/jj-demolish-sun-thumbnail.jpg)](/assets/images/2022/jj-demolish-sun.jpg) 
+
 ### JARS
 
 | Steam rating | Price | Genre | Released | Peak players
@@ -290,6 +308,38 @@ Looking at other reviews it's an extremely popular game, so I assume this aesthe
 | Story | World | Combat |
 | --- | --- | --- |
 | [![](/assets/images/2022/jj-epic-comic-thumbnail.jpg)](/assets/images/2022/jj-epic-comic.jpg) | [![](/assets/images/2022/jj-epic-world-thumbnail.jpg)](/assets/images/2022/jj-epic-world.jpg) | [![](/assets/images/2022/jj-epic-combat-thumbnail.jpg)](/assets/images/2022/jj-epic-combat.jpg) |
+
+### Driftland: The Magic Revival
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [71.45% - Store page](https://store.steampowered.com/app/718650/) | £1.59 | Strategy | April 2019 | 456 (December 2020) |
+
+I liked the twist to this low level empire management game. The world is a collection of floating islands, and you can move them or create bridges / portals to gain access. Alongside this, there's all the usual resource management (wood, stone, soldiers) that you'd expect. It actually reminded me quite a bit of the Settlers series (specifically 3, my beloved).
+
+I didn't get too far into Driftland, but found it quite tricky to keep track of my soldiers and civilians. Soldiers are based in camps, but even then I was unsure how many of them there were, what they were doing, how they were handling combat, etc. Same story with civilians, each building manually needed civilians assigned to it, even if you had 20 wandering around doing nothing already.
+
+I really liked the mixture of traditional medieval content (mining, knights) mixed with a bit of magic (spying on areas of the map, moving entire islands, teleporting portals) and dragons etc. The game definitely gets a lot more complex later on, although the number of buildings seemed relatively limited from what I could see. All in all, worth a look if you want a break from the more grid-based strategy games. 
+
+| Map | Combat | Perks |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-driftland-map-thumbnail.jpg)](/assets/images/2022/jj-driftland-map.jpg) | [![](/assets/images/2022/jj-driftland-combat-thumbnail.jpg)](/assets/images/2022/jj-driftland-combat.jpg) | [![](/assets/images/2022/jj-driftland-perks-thumbnail.jpg)](/assets/images/2022/jj-driftland-perks.jpg) |
+
+### ΔV: Rings of Saturn
+
+| Steam rating | Price | Genre | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [89.95% - Store page](https://store.steampowered.com/app/846030/) | £3.59 | Action | August 2019 | 360 (November 2022) |
+
+This is a good game! I am just an idiot who could not get my head around the controls. I finished the tutorial, but still felt like I was just bumbling around and only occasionally even going in the right direction. This is entirely my problem, and the game tried to help by offering multiple buttons for actions. 
+
+I didn't get far enough into the game to properly appreciate its depth, so it's not especially fair to rate this. I'm very aware this is [some people's](https://www.reddit.com/r/Yogscast/comments/zf794b/im_reviewing_every_jingle_jam_game_this_december/izbmyjl/) favourite, and I [watched Lewis & Barry play it for a bit](https://www.youtube.com/watch?v=N5istfT3zrc) and was glad to see they had the same control issues I did!
+
+If you'd like to play a Asteroids-y mining sim and can handle complicated controls, give it a go! 
+
+| Flying | Controls | Repairs |
+| --- | --- | --- |
+| [![](/assets/images/2022/jj-rings-flying-thumbnail.jpg)](/assets/images/2022/jj-rings-flying.jpg) | [![](/assets/images/2022/jj-rings-controls-thumbnail.jpg)](/assets/images/2022/jj-rings-controls.jpg) | [![](/assets/images/2022/jj-rings-repairs-thumbnail.jpg)](/assets/images/2022/jj-rings-repairs.jpg) |
 
 ## 2/5
 
