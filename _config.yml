@@ -1,7 +1,7 @@
 # Blog settings
 title: Jake Lee
 email: blog@jakelee.co.uk
-description: Hello! These are all my non-programming posts, maybe a bit of gaming, maybe a bit of data analysis, maybe a bit of finance, who knows!
+description: In-depth ad-free articles about finance, gaming, data analysis, travel, aaaand everything else non-technical.
 baseurl: ""
 url: "https://jakelee.co.uk"
 permalink: /:title/
