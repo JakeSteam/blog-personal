@@ -8,7 +8,7 @@ tags:
     - Gaming
 ---
 
-Badges are a post-release addition to Forza Horizon 5 in April 2022 that provide an extra incentive for online gameplay: unlocking badges next to your name in-game. Here's detailed instructions on how to obtain every single badge and detailed tips for winning online races, so you can get your elusive gold Horizon Open Champion badge too!
+Badges are a post-release addition to Forza Horizon 5 in April 2022 that provide an extra incentive for online gameplay: unlocking badges next to your name in-game. Here's detailed instructions on how to obtain every badge and detailed tips for winning online races, so you can get your elusive gold Horizon Open Champion badge too!
 
 ## Badges
 
@@ -39,10 +39,10 @@ For advice on progressing through these levels as quickly as possible, see the d
 
 |  |  |  |
 | --- | --- | --- |
-| ![](/assets/images/2023/badges-lv10.png)<br>The Grand Opening<br>Level 10 | ![](/assets/images/2023/badges-lv100.png)<br>Horizon Open Newcomer<br>Level 100 | ![](/assets/images/2023/badges-lv200.png)<br>Horizon Open Rookie<br>Level 200 |
-| ![](/assets/images/2023/badges-lv300.png)<br>Horizon Open Amateur<br>Level 300 | ![](/assets/images/2023/badges-lv400.png)<br>Horizon Open Enthusiast<br>Level 400 | ![](/assets/images/2023/badges-lv500.png)<br>Horizon Open Expert<br>Level 500 |
-| ![](/assets/images/2023/badges-lv600.png)<br>Horizon Open Pro<br>Level 600 | ![](/assets/images/2023/badges-lv700.png)<br>Horizon Open Elite<br>Level 700 | ![](/assets/images/2023/badges-lv800.png)<br>Horizon Open Specialist<br>Level 800 |
-| ![](/assets/images/2023/badges-lv900.png)<br>Horizon Open Master<br>Level 900 | ![](/assets/images/2023/badges-lv1000.png)<br>Horizon Open Champion<br>Level 1000 |  |
+| ![](/assets/images/2023/badges-lv10.png)<br>**The Grand Opening**<br>Level 10 | ![](/assets/images/2023/badges-lv100.png)<br>**Horizon Open Newcomer**<br>Level 100 | ![](/assets/images/2023/badges-lv200.png)<br>**Horizon Open Rookie**<br>Level 200 |
+| ![](/assets/images/2023/badges-lv300.png)<br>**Horizon Open Amateur**<br>Level 300 | ![](/assets/images/2023/badges-lv400.png)<br>**Horizon Open Enthusiast**<br>Level 400 | ![](/assets/images/2023/badges-lv500.png)<br>**Horizon Open Expert**<br>Level 500 |
+| ![](/assets/images/2023/badges-lv600.png)<br>**Horizon Open Pro**<br>Level 600 | ![](/assets/images/2023/badges-lv700.png)<br>**Horizon Open Elite**<br>Level 700 | ![](/assets/images/2023/badges-lv800.png)<br>**Horizon Open Specialist**<br>Level 800 |
+| ![](/assets/images/2023/badges-lv900.png)<br>**Horizon Open Master**<br>Level 900 | ![](/assets/images/2023/badges-lv1000.png)<br>**Horizon Open Champion**<br>Level 1000 |  |
 
 ### Completion based badges
 
@@ -50,7 +50,7 @@ These badges are straightforward, and another grind. You don't need to win these
 
 |  |  |  |
 | --- | --- | --- |
-| ![](/assets/images/2023/badges-100races.png)<br>Games Leader<br>Complete 100 Rounds of PG Games |  ![](/assets/images/2023/badges-drift.png)<br>Drift Leader<br>Complete 50 Horizon Open Drift Rounds |  ![](/assets/images/2023/badges-playground.png)<br>Games Leader<br>Complete 100 Rounds of PG Games | 
+| ![](/assets/images/2023/badges-100races.png)<br>**Games Leader**<br>Complete 100 Rounds of PG Games |  ![](/assets/images/2023/badges-drift.png)<br>**Drift Leader**<br>Complete 50 Horizon Open Drift Rounds |  ![](/assets/images/2023/badges-playground.png)<br>**Games Leader**<br>Complete 100 Rounds of PG Games | 
 
 ### Action based badges
 
@@ -60,8 +60,8 @@ Also, I believe "Beep, Beep, Coming Through" originally required banking 100k sc
 
 |  |  |  |
 | --- | --- | --- |
-| ![](/assets/images/2023/badges-lucky.png)<br>Lucky Streak<br>Win 3 PG Games Rounds in a row | ![](/assets/images/2023/badges-score.png)<br>Give Me Five!<br>Bank a total of 5,000,000 Skill Score in Horizon Open | ![](/assets/images/2023/badges-score-100k.png)<br>Beep, Beep, Coming Through<br>Bank a total of 100,000 Skill Score in Horizon Open |
-| ![](/assets/images/2023/badges-speed.png)<br>Can't Touch This<br>Earn 200 Speed Skills in Horizon Open | ![](/assets/images/2023/badges-clean.png)<br>Love You 3000<br>Earn 3000 Clean Racing Skills in Horizon Open | ![](/assets/images/2023/badges-drifting.png)<br>Drifter's Paradise<br>Earn 6000 Drifting or E-Drifting Skills in Horizon Open |
+| ![](/assets/images/2023/badges-lucky.png)<br>**Lucky Streak**<br>Win 3 PG Games Rounds in a row | ![](/assets/images/2023/badges-score.png)<br>**Give Me Five!**<br>Bank a total of 5,000,000 Skill Score in Horizon Open | ![](/assets/images/2023/badges-score-100k.png)<br>**Beep, Beep, Coming Through**<br>Bank a total of 100,000 Skill Score in Horizon Open |
+| ![](/assets/images/2023/badges-speed.png)<br>**Can't Touch This**<br>Earn 200 Speed Skills in Horizon Open | ![](/assets/images/2023/badges-clean.png)<br>**Love You 3000**<br>Earn 3000 Clean Racing Skills in Horizon Open | ![](/assets/images/2023/badges-drifting.png)<br>**Drifter's Paradise**<br>Earn 6000 Drifting or E-Drifting Skills in Horizon Open |
 
 ### Limited edition badges
 
@@ -71,9 +71,9 @@ They were very easy to unlock by just playing the game each week and completing 
 
 ||||
 | --- | --- | --- |
-| ![](/assets/images/2023/badges-wet.png)<br>May The Forza Be With You<br>Play Forza Horizon 5 during the Wet Season of the 'Horizon 10-Year Anniversary' | ![](/assets/images/2023/badges-storm.png)<br>We Meet Again!<br>Play Forza Horizon 5 during the Storm Season of the 'Horizon 10-Year Anniversary' | ![](/assets/images/2023/badges-spring.png)<br>You're The Boss<br>Play Forza Horizon 5 during the Dry Season of the 'Horizon 10-Year Anniversary' |
-| ![](/assets/images/2023/badges-spring.png)<br>Spring Into Action!<br>Play Forza Horizon 5 during the Storm Season of the 'Horizon 10-Year Anniversary'^ | ![](/assets/images/2023/badges-story.png)<br>Welcome to Horizon 2.0!<br>Complete the 'Horizon 10-Year Anniversary' Initial Experience or the 'Welcome to Mexico' chapter of the 'Horizon Origins' Story | ![](/assets/images/2023/badges-reward1.png)<br>Happy Anniversary!<br>Earn the first Series Reward during the 'Horizon 10-Year Anniversary' |
-| ![](/assets/images/2023/badges-reward2.png)<br>Piece of Cake!<br>Earn the second Series Reward during the 'Horizon 10-Year Anniversary' |
+| ![](/assets/images/2023/badges-wet.png)<br>**May The Forza Be With You**<br>Play Forza Horizon 5 during the Wet Season of the 'Horizon 10-Year Anniversary' | ![](/assets/images/2023/badges-storm.png)<br>**We Meet Again!**<br>Play Forza Horizon 5 during the Storm Season of the 'Horizon 10-Year Anniversary' | ![](/assets/images/2023/badges-spring.png)<br>**You're The Boss**<br>Play Forza Horizon 5 during the Dry Season of the 'Horizon 10-Year Anniversary' |
+| ![](/assets/images/2023/badges-spring.png)<br>**Spring Into Action!**<br>Play Forza Horizon 5 during the Storm Season of the 'Horizon 10-Year Anniversary'^ | ![](/assets/images/2023/badges-story.png)<br>**Welcome to Horizon 2.0!**<br>Complete the 'Horizon 10-Year Anniversary' Initial Experience or the 'Welcome to Mexico' chapter of the 'Horizon Origins' Story | ![](/assets/images/2023/badges-reward1.png)<br>**Happy Anniversary!**<br>Earn the first Series Reward during the 'Horizon 10-Year Anniversary' |
+| ![](/assets/images/2023/badges-reward2.png)<br>**Piece of Cake!**<br>Earn the second Series Reward during the 'Horizon 10-Year Anniversary' |
 
 *^Note this is actually unlocked in the Spring season, the in-game description is incorrect.*
 
