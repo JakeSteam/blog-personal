@@ -47,7 +47,7 @@ What? Not all the accolades? Nope, 8 of them (see below) are 100% unobtainable!
 The accolades are probably the main "over the top completionist" goal in this game, since there are nearly 2000 of them covering every single element of the game. Most of them are fairly straightforward, but there are a few potentially tricky areas:
 
 * **Evolving World**: The first tab of accolades within this category are for a limited time only, such as christmas. They can likely be reobtained the next time this event takes place, but you could be waiting up to a year!
-* **Creative**: These accolades are extremely hard to do, and will require sustained, repetitive effort. [I've written a full guide in the past](https://jakelee.co.uk/forza-horizon-5-creative-accolades/)!
+* **Creative**: These accolades are extremely hard to do, and will require sustained, repetitive effort. [I've written a full guide in the past](/forza-horizon-5-creative-accolades/)!
 * **Broken Accolades**: There are 6 accolades for vinyl shape uses that have been broken since release. This also means the overall creative accolade in the hall of fame can't be obtained, nor can the accolade for completing all other accolades. As such, the 8 final accolades can currently nor be obtained.
 
 [![forza horizon 5 accolades](/assets/images/2022/fh5-completionist-accolades.png)](/assets/images/2022/fh5-completionist-accolades.png)
@@ -56,7 +56,7 @@ The accolades are probably the main "over the top completionist" goal in this ga
 
 Badges were added to Forza Horizon 5 relatively recently, and are displayed next to your name in most places in-game. They are generally unlocked through Horizon Open (online) events, primarily overall level. Some of the badges require grinding a specific action ("Earn 6000 drifting skills"), but most simply require completing hundreds of races or drift events, or increasing your overall level.
 
-Completing all of the level-based badges requires level 1000, which realistically will take tens of hours. The easiest technique is only racing S2 road races, as XP is based on distance travelled and position finished.
+Completing all of the level-based badges requires level 1000, which realistically will take 100+ hours. The easiest technique is only racing S2 road races, as XP is based on distance travelled and position finished. I've [written a full guide to earning all badges](/complete-guide-to-forza-horizon-5-badges/).
 
 Finally, the last few badges require playing the game during the (current) 10-year celebration, but hopefully they will be unlockable through alternative methods in the future!
 
