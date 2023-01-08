@@ -154,3 +154,5 @@ Predicting an all-in one-off ram attempt is hard, but many rammers will do 1-2 s
 Regardless of whether your countering works or not, keep a note of their name since you'll be stuck with them for the rest of the championship, and potentially the next one too. If they're particularly bad, just quit and join a new championship lobby.
 
 ## Conclusion
+
+Badges are a great addition to Horizon Open, and provide a way for competitive online racers to notice each other in any context. Personally I'm hoping the team add more badges in the future, as they're a far more tangible reward than accolades. That being said... I'm glad my grind to level 1000 is over, there's only so much S2 road racing I can take!
