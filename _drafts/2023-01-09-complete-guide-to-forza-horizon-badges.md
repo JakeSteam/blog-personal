@@ -1,5 +1,5 @@
 ---
-title: The complete guide to Forza Horizon 5's badges, and tips for online racing (Horizon Open)
+title: The complete guide to Forza Horizon 5's badges, and detailed tips for online racing (Horizon Open)
 author: Jake Lee
 layout: post
 image: /assets/images/2023/badges-banner.jpeg
@@ -8,10 +8,9 @@ tags:
     - Gaming
 ---
 
+Badges are a post-release addition to Forza Horizon 5 in April 2022 that provide an extra incentive for online gameplay: unlocking badges next to your name in-game. Here's detailed instructions on how to obtain every single badge, so you can get your elusive gold Horizon Open Champion badge too! Additionally, detailed tips for winning online races.
 
 ## Badges
-
-### What are badges?
 
 ### Level based badges
 
@@ -44,7 +43,28 @@ These badges are straightforward, and another grind. You don't need to win these
 
 ### Action based badges
 
+Whilst these badges mostly explain themselves, most people don't know **these can all be earned whilst waiting to join an event**. Since this is usually wasted time, repeatedly drifting / driving fast / earning skill score is a good way to speed up the earning of these badges.
+
+Also, I believe "Beep, Beep, Coming Through" originally required banking 100k score in one go, but the description now implies this is no longer the case. If you have banked 100k in total and not earned it yet, try getting one long streak.
+
+|  |  |  |
+| --- | --- | --- |
+| ![](/assets/images/2023/badges-lucky.png)<br>Lucky Streak<br>Win 3 PG Games Rounds in a row | ![](/assets/images/2023/badges-score.png)<br>Give Me Five!<br>Bank a total of 5,000,000 Skill Score in Horizon Open | ![](/assets/images/2023/badges-score-100k.png)<br>Beep, Beep, Coming Through<br>Bank a total of 100,000 Skill Score in Horizon Open |
+| ![](/assets/images/2023/badges-speed.png)<br>Can't Touch This<br>Earn 200 Speed Skills in Horizon Open | ![](/assets/images/2023/badges-clean.png)<br>Love You 3000<br>Earn 3000 Clean Racing Skills in Horizon Open | ![](/assets/images/2023/badges-drifting.png)<br>Drifter's Paradise<br>Earn 6000 Drifting or E-Drifting Skills in Horizon Open |
+
 ### Limited edition badges
+
+Unfortunately these were all unlocked during the 10 year anniversary series between mid-October and mid-November, and no longer seem unobtainable (with the exception of "Welcome To Horizon 2.0!").
+
+They were very easy to unlock by just playing the game each week and completing the festival tasks, hopefully a future update provides an alternative way to earn them. No content should be unobtainable for new players eventually!
+
+||||
+| --- | --- | --- |
+| ![](/assets/images/2023/badges-wet.png)<br>May The Forza Be With You<br>Play Forza Horizon 5 during the Wet Season of the 'Horizon 10-Year Anniversary' | ![](/assets/images/2023/badges-storm.png)<br>We Meet Again!<br>Play Forza Horizon 5 during the Storm Season of the 'Horizon 10-Year Anniversary' | ![](/assets/images/2023/badges-spring.png)<br>You're The Boss<br>Play Forza Horizon 5 during the Dry Season of the 'Horizon 10-Year Anniversary' |
+| ![](/assets/images/2023/badges-spring.png)<br>Spring Into Action!<br>Play Forza Horizon 5 during the Storm Season of the 'Horizon 10-Year Anniversary'^ | ![](/assets/images/2023/badges-story.png)<br>Welcome to Horizon 2.0!<br>Complete the 'Horizon 10-Year Anniversary' Initial Experience or the 'Welcome to Mexico' chapter of the 'Horizon Origins' Story | ![](/assets/images/2023/badges-reward1.png)<br>Happy Anniversary!<br>Earn the first Series Reward during the 'Horizon 10-Year Anniversary' |
+| ![](/assets/images/2023/badges-reward2.png)<br>Piece of Cake!<br>Earn the second Series Reward during the 'Horizon 10-Year Anniversary' |
+
+*^Note this is actually unlocked in the Spring season, the in-game description is incorrect.*
 
 ## Online racing
 
