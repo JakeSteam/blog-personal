@@ -8,9 +8,20 @@ tags:
     - Gaming
 ---
 
-Badges are a post-release addition to Forza Horizon 5 in April 2022 that provide an extra incentive for online gameplay: unlocking badges next to your name in-game. Here's detailed instructions on how to obtain every single badge, so you can get your elusive gold Horizon Open Champion badge too! Additionally, detailed tips for winning online races.
+Badges are a post-release addition to Forza Horizon 5 in April 2022 that provide an extra incentive for online gameplay: unlocking badges next to your name in-game. Here's detailed instructions on how to obtain every single badge and detailed tips for winning online races, so you can get your elusive gold Horizon Open Champion badge too!
 
 ## Badges
+
+There are a total of 27 badges to earn, taking a total of around 100-150 hours:
+
+* 11 Level based badges
+* 3 Completion based badges
+* 6 Action based badges
+* 7 Limited edition badges 
+
+Here's how to earn them all!
+
+[![](/assets/images/2023/badges-thumbnail.jpeg)](/assets/images/2023/badges.jpeg)
 
 ### Level based badges
 
@@ -43,7 +54,7 @@ These badges are straightforward, and another grind. You don't need to win these
 
 ### Action based badges
 
-Whilst these badges mostly explain themselves, most people don't know **these can all be earned whilst waiting to join an event**. Since this is usually wasted time, repeatedly drifting / driving fast / earning skill score is a good way to speed up the earning of these badges.
+Whilst these badges mostly explain themselves, most people don't know **these can all be earned whilst waiting to join an event**. Since this is usually wasted time, repeatedly drifting / driving fast / earning skill score whilst waiting is a good way to speed up the earning of these badges.
 
 Also, I believe "Beep, Beep, Coming Through" originally required banking 100k score in one go, but the description now implies this is no longer the case. If you have banked 100k in total and not earned it yet, try getting one long streak.
 
@@ -97,7 +108,7 @@ The 2nd person to reach level 1000 stated it takes [10 million XP](https://www.r
 
 If level 1000 takes 10 million XP, and we can earn 100k/hour, this means **Horizon Open level 1000 takes 100 hours**. During this time you'll also earn around 20 million credits, and tens of millions more from all the wheelspins. This grind actually isn't too bad in comparison to [grinding the creative accolades](/forza-horizon-5-creative-accolades/)!
 
-## Cars & Tunes
+### Cars & Tunes
 
 There is no "best car" for online racing. There are good cars, and good tunes, but no objectively best car!
 
@@ -109,9 +120,11 @@ I personally love the Brabham BT62, since it corners well whilst also having a g
 * **2013 Dodge SRT Viper GTS Anniversary Edition**: Extremely fast, but I found it to turn *too* easily regardless of tune, making cornering a bit scary due to the risk of spinning out. 
 * **2008 Koenigsegg CCGT**: Fast, easy to control, an overall solid choice.
 
+For drifting it's even more down to personal preference. I just Googled / looked on Reddit for drift tunes in each class until I found some that worked for me. Personally I don't enjoy drifting that much, so I didn't worry about optimising my car so long as I finished in the top 2-3 each time.
+
 ### Tactics
 
-Whilst driving the perfect line quickly is obviously the way to win races, reliability and consistency matters far, far more. There's no point cutting a corner and just about getting the checkpoint if you miss it 10% of the time and have to rewind, ruining your entire race.
+Whilst driving the perfect line quickly is obviously the way to win races, reliability and consistency matter far more. There's no point cutting a corner and just about getting the checkpoint if you miss it 10% of the time and have to rewind, ruining your entire race.
 
 Overall not making mistakes matters far more than driving the maximum speed, so it's sensible to be cautious around tracks the first few times you race on them. During this time, keep an eye on your opponents, you'll quickly pick up on more efficient lines than the one Forza's guideline might be showing. For example, quite a few of the desert tracks can be taken fullspeed for large portions, but the braking line will be orange and even red around most of the corners.
 
@@ -123,7 +136,7 @@ Whilst you shouldn't judge a book by its cover, you can usually judge a Forza pl
 
 [![](/assets/images/2023/badges-opponents-740w.png)](/assets/images/2023/badges-opponents.png)
 
-* **1: Level**: This refers to their overall Forza level. Generally people who have prestiged a couple of times (the small number next to the star) are going to be better drivers.
+* **1: Level**: This refers to their overall Forza level. Generally people who have prestiged a couple of times (the small number under the star) are going to be better drivers.
 * **2: Badge**: Players often have their highest level based badge equipped, or their rarest action / completion based one. As such, someone with the gold level 1000 badge are probably going to be very, very fast!
 * **3: Car**: Whilst different cars suit different play styles (see [Cars & Tunes](#cars--tunes)), some are just objectively bad. If you see "meta" cars like the Hot Wheels BTTB, Brabham BT62, or Viper ACR, the player knows a bit about tuning and online racing.
 * **4: Class**: An easy check. If their car isn't close to the max for that class, it's not going to be fast. E.g., good luck to a 940 rated car in S2 (900-998)!
@@ -139,3 +152,5 @@ Whilst reporting these players is possible by recording video footage and [submi
 Predicting an all-in one-off ram attempt is hard, but many rammers will do 1-2 smaller and less risky nudges first down a long straight, almost guaranteeing they'll try to take you out at the next corner. 
 
 Regardless of whether your countering works or not, keep a note of their name since you'll be stuck with them for the rest of the championship, and potentially the next one too. If they're particularly bad, just quit and join a new championship lobby.
+
+## Conclusion
