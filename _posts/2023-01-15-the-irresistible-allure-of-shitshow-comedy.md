@@ -76,7 +76,6 @@ How can [a game](https://store.steampowered.com/app/1620340/Wrestling_Empire/) c
 
 It's the game behind [my favourite Jerma stream](https://www.youtube.com/watch?v=6FjUwYjKLHM) and [itswill had a similar shitshow experience](https://www.youtube.com/watch?v=7gELm-834XI). In fact, [every](https://www.youtube.com/watch?v=_gAGO-Nkrnw) [single](https://www.youtube.com/watch?v=ph4u-9MJU3U) [video](https://www.youtube.com/watch?v=CDRXBccL32o) I saw of it was excellent shitshow comedy throughout. You don't truly know a man until you've watched him try to comprehend a surreal wrestling match. 
 
-
 ## What's the appeal?
 
 ### Noncommercial
