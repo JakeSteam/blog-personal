@@ -20,7 +20,7 @@ It can be a podcast, a video, a livestream, it can even be a game. It can be a f
 
 The appeal is hard to define, there are no jokes or slapstick comedy. And yet... it's undeniably funny. Here's an example that is a one-off, short, unintentional video, courtesy of DJ Akademiks: 
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RTGxWP5ieFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/RTGxWP5ieFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Examples
 
