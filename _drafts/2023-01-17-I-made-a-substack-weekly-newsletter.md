@@ -1,5 +1,5 @@
 ---
-title: Introducing 'Jake Week Lee', a weekly newsletter of all new articles & found content around the internet
+title: Introducing 'Jake Week Lee', a weekly newsletter of all new articles & found content from around the internet
 author: Jake Lee
 layout: post
 image: /assets/images/2023/substack-banner.png
@@ -16,9 +16,9 @@ As the number of distinct sites I write articles on has slowly grown to 3 (and f
 
 Having an informal newsletter every week lets me put any new content in one place, as well as any interesting things I've found elsewhere. Whilst the newsletter will obviously include a lot of self-promotion, I'm hoping the linked videos etc will make it worth reading to anyone without any interest in my work. 
 
-The newsletter idea is ~~stolen from~~ heavily inspired by [Tom Scott's excellent weekly newsletter](https://pad26.aweb.page/subscribe), as well as the freedom of topic for creators like [Atomic Shrimp](https://www.youtube.com/@AtomicShrimp). An excerpt from Tom's latest email is below, and whilst the content is perfect, the overall impression and usability unfortunately could do with some improvements. This is where Substack steps in.
+The newsletter idea is ~~stolen from~~ heavily inspired by [Tom Scott's excellent weekly newsletter](https://pad26.aweb.page/subscribe), as well as the freedom of topic choice enjoyed by creators like [Atomic Shrimp](https://www.youtube.com/@AtomicShrimp). An excerpt from Tom's latest email is below, and whilst the content is perfect, the overall experience and convenience unfortunately could do with some improvements. This is where Substack steps in.
 
-[![](/assets/images/2023/substack-tomscott-thumbnail.png)](/assets/images/2023/substack-tomscott.png)
+[![](/assets/images/2023/substack-tomscott-740w.png)](/assets/images/2023/substack-tomscott.png)
 
 ## Why on Substack?
 
@@ -34,7 +34,7 @@ Whilst these requirements seem pretty simple, it's amazing how few services actu
 
 Admittedly I'm not using Substack for its main purpose (paid subscriptions), but so far I'm very happy with it. The only negative is the $50 one-off fee if you wish to use a custom domain, which I'll probably end up paying in a few months.
 
-[![](/assets/images/2023/substack-week1-thumbnail.png)](/assets/images/2023/substack-week1.png)
+I read a few comparison articles ([with this one by Sah Kilic being my favourite](https://bettermarketing.pub/should-your-blog-be-on-medium-wordpress-substack-or-ghost-8ced516cd8d3)) before deciding on Substack. Your needs will undoubtedly differ from mine, give the linked article a read for pros & cons!
 
 ## How can I subscribe?
 
@@ -44,4 +44,4 @@ New editions will come out every Sunday lunchtime. The newsletter is lazy Sunday
 
 Thanks for indulging a very self-promoting a post. Maybe there's a newsletter you could start writing too?
 
-[![](/assets/images/2023/example-thumbnail.png)](/assets/images/2023/example.png)
+[![](/assets/images/2023/substack-week1-740w.png)](/assets/images/2023/substack-week1.png)
