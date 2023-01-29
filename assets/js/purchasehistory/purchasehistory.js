@@ -15,17 +15,17 @@ function handlePurchasesFile(json) {
 
 function getPurchasesSummary(purchases) {
     return purchases.reduce((totals, purchase) => {
-        var amount = Number(purchase.purchaseHistory.invoicePrice.replace(/[^0-9.-]+/g, ""));
+        var amount = Number((purchase.purchaseHistory.invoicePrice ??= '0').replace(/[^0-9.-]+/g, ""));
         if (amount == 0) {
             return totals;
         }
 
         updateTotals(totals, 'Overall total', "All purchases", amount);
 
-        var type = purchase.purchaseHistory.doc.documentType;
+        var type = purchase.purchaseHistory.doc.documentType ??= '';
         updateTotals(totals, 'Grouped by purchase type', type, amount);
 
-        var paymentType = purchase.purchaseHistory.paymentMethodTitle;
+        var paymentType = purchase.purchaseHistory.paymentMethodTitle ??= '';
         paymentType = paymentType.startsWith('Google Play balance') ? 'Google Play balance' : paymentType;
         paymentType = paymentType == '' ? 'Unknown' : paymentType;
         updateTotals(totals, 'Grouped by payment method', paymentType, amount);
