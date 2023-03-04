@@ -1,8 +1,8 @@
 # Basic site setup
-remote_theme: JakeSteam/minimaJake@1.0.2
+remote_theme: JakeSteam/minimaJake@1.0.4
 title: Jake Lee
 description: In-depth ad-free articles about finance, gaming, data analysis, travel, aaaand everything else non-technical.
-accent_colour: "#cfcfcf"
+accent_colour: "#acacac"
 
 # Optional native feature customisation (delete to turn off)
 table_of_contents_header: "Jump to:"
@@ -14,6 +14,13 @@ giscus_repo: JakeSteam/blog-personal
 giscus_repo_id: R_kgDOG3ebnw
 giscus_category: Comments
 giscus_category_id: DIC_kwDOG3ebn84CQ06P
+
+network:
+  - { name: Programming, url: "https://blog.jakelee.co.uk", colour: "#2a7ae2" }
+  - { name: Internet History, url: "https://history.jakelee.co.uk", colour: "#075e78" }
+  - { name: Theme, url: "https://minima.jakelee.co.uk", colour: "#951A00" }
+  - { name: Everything Else, url: "https://jakelee.co.uk", colour: "#acacac" }
+
 
 # Social / dark mode settings
 minima:
