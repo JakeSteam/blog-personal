@@ -36,13 +36,51 @@ At S+ class the oncoming traffic can be a bit hard to see in time, especially du
 
 ### 5. Side missions are the best events
 
-### 6. Don't worry about drifting
+The car delivery and racer escort side missions are absolutely always worth doing. They're usually pretty easy to get the maximum cash, have no buy-in price, don't earn you any heat, and even unlock new cars to buy!
+
+### 6. Side missions can be cheesed
+
+For these side missions, just remember that you don't need to *strictly* follow the suggested routes. If you're asked to deliver an undamaged car, just drive by a gas station immediately before handing it over! If you're asked to drive a route quickly, feel free to skip corners and break through road barriers.
+
+### 6. Don't worry about drifting or takeovers
+
+The game makes it seem like "takeovers" are the main focus of the game, with A$AP Rocky introducing himself as part of one. They aren't. The races are.
+
+Whilst the rewards can be great, you don't need to complete these events at all, and the story missions are all races. You definitely shouldn't buy a car just for these events, all cars can be tuned to be more drift friendly, and events give bonus points for speed anyway. I found that even a regular race car could usually come 1st / 2nd in these events when adjusted to focus on drift.
+
+### 7. You can tune your car in the pause menu
+
+Nope, you can't tune your car's drift vs grip in the event selection screen, but you *can* by pausing the game!
+
+This really doesn't make much sense, but is worth keeping in mind before you accidentally take your drift tuned car into a high speed race.
 
 ### 7. Know when to quit
 
+The risk system is the core of the game, and you'll constantly be tempted to do one more race when at heat level 5. Losing all your earnings to the police is... extremely painful and frustrating, so you'll need to balance risk vs reward.
+
+I usually targeted $50k for the first couple of weeks, then $100k later on, and by the end having a good car meant there wasn't much risk, so I could complete any events I wanted. 
+
 ### 8. Plan your race order
 
+Each day / night, you'll probably have 3-4 events you want to complete. They'll all use different car classes and give different amounts of heat, so doing them in a tactical order is important!
+
+Obviously, higher heat levels are more risky. This is especially true when at lower car classes. As such, getting the lower class races done first is sensible, as they'll often have a post-race police chase, and you really don't want to be trundling along in a B class car against heavy police cars!
+
+Additionally, within this grouping by class, completing the lower heat gain events first makes it all a bit safer.
+
 ### 9. Save your restarts
+
+You don't need to win every race. If you come 2nd / 3rd, so long as you make more than your buy-in (and it's not a "first place wins a car" race), it's often better to accept the result and move to another race. I generally only used restarts for extremely profitable races, or when a race had an expensive buy-in.
+
+### 10. Save your restarts (really)
+
+Okay, so turn 1, you drop from 1st to 8th, might as well restart to try again? Nope!
+
+With drafting and some good luck, you can easily go from last to first in a race. This combined with short race durations mean it's pointless using a restart until you KNOW you've got an unacceptable result, usually around the 85%+ mark.
+
+### 11. Don't buy cars
+
+I completed the game only using the pre-upgraded cars received for free when progressing between weeks. They are plenty fast enough, and spending your money on end-game upgrades for your existing cars is usually a much better idea than buying a new car and trying to tune it up to a usable machine.
 
 ## Race tips
 
