@@ -86,27 +86,71 @@ I completed the game only using the pre-upgraded cars received for free when pro
 
 ### 10. Surviving is top priority
 
+Crashes are very easy to get into, and hard to recover from. Especially in higher class cars, a single crash halfway through the race can permanently drop you a few positions, and should be avoided at all costs.
+
+In practice, this means you always need to prioritise NOT crashing over the following the driving line or getting an overtake. It's much better to take a safer but slower line round a corner if it stops you hitting oncoming traffic.
+
+Whilst the AI cars sometimes take "creative" routes, doing crazy drifts through fences, just make sure you get to the checkpoints in one piece!
+
 ### 11. Drafting is essential
+
+Driving immediately behind a competitor (or police!) provides a speed increase, and builds your temporary nitro quickly. The AI doesn't have as much of a boost from this as you, so in a straight line you'll always get the overtake and win.
+
+Whenever you're not in first place, you should be doing your best to draft any car you can.
 
 ### 12. 2nd place might be better
 
+When on an unfamiliar track, especially high speed ones on the highway, corners and vehicles can seemingly appear out of nowhere. It's extremely easy (and embarrassing) to completely miss a corner due to the vague arrows displayed on the checkpoints.
+
+One way to avoid this on circuit tracks is stay close behind 1st place for the first lap, and use their rear lights to learn the track. Once you've found the tricky bits just take the lead. 
+
 ### 13. Always race dirty
+
+If, like me, you've played a lot of online racing in games like Forza Horizon, it might be almost instinctive to "drive clean". But... this is an offline campaign, do whatever you need to!
+
+The classic technique of using opponents' cars to help you turn works very well, with a couple of positions easily be gained on the first corner or two. Additionally, the extremely cruel "nudge enemy so they hit a wall" works extremely well. If you find yourself feeling guilty, just remember that the AI cars can miss checkpoints without penalty, so you're just leveling the playing field.
 
 ### 14. Don't trust police cars
 
+Police vehicles seem predictable right up until they surprise you. Interceptors will try to PIT maneuver you, heavies will barge you unexpectedly, and off road vehicles will land on top of you.
+
+If you're driving along a high speed road and you see a police vehicle going oddly slowly, there's a pretty good chance they're about to rapidly accelerate and hit you off the road. Give them plenty of space!
+
+### 15. Ignore voice lines
+
+A$AP Rocky will regularly tell you he's right behind you. He's not. All the AI voice lines can be ignored, they don't provide any useful information despite seeming to. As an added bonus, ignoring their taunts will make losses a little less frustrating.
+
 ## Police chase tips
+
+### 15. Turn your engine off
+
+Obviously the minimap is crucial when hiding from police and waiting for the escape timer to run out. If you look at a police car's cone of vision and turn off your engine (hold B on Xbox controller), it will drastically shrink. You'll still be caught if they drive directly past you however, so this tip is more useful for escaping helicopters.
 
 ### 15. Proactively take out police
 
+If you're wanted by police and see a police car further up the road, it's probably worth nitro boosting them for a takedown before they spot you and resume the chase. This works for an interceptor or regular police car, plus you'll gain a temporary nitro boost as a reward.
+
 ### 16. Find "safe" areas
 
-### 17. Helicopters are worse than they seem
+After playing the game for a few hours, you'll likely have worked out a couple of areas you're especially familiar with. For these areas, knowing a reliable way to escape the police search is very valuable. Personally I love the massive ski jump in the bottom left of the map, as the police cars struggle to follow you up & down the ramps, and doing the giant jump usually gives you breathing room.
+
+### 17. Helicopters are easier than they seem
+
+Helicopters have a large area on the minimap, but... they're in the sky. If you go under a bridge or large tree, or even just turn your engine off whilst out of range, they'll lose you. 
+
+Helicopters also leave to refuel pretty often, so a valid technique is to just drive as fast as possible in one direction, wait for the helicopter to refuel / lose track of you, then just turn off your engine and escape.
 
 ### 18. Not every police vehicle is equal
 
+I won't go into much detail on this since it's all over the in-game tip screens, but treat the different police cars appropriately. Barge normal cars / interceptors, outrun offroad vehicles and heavies.
+
 ### 19. Fast offroad jumps are your escape plan
 
+The police cars are trying to get close to you, and destroy your car or arrest you. My preferred way of escaping is to drive full speed up any hill or jumps I see. The speed helps escape offroad vehicles and helicopters, and the unpredictable jumps escapes interceptors. Just aim for any treeless hills you see, you'll always land safely!
+
 ### 20. Damage prevention is the best investment 
+
+In your garage, you can add "perks" to your car. Damage reduction is my favourite, since there's no point gaining extra nitro etc if you never make it home with your earnings!
 
 ### 21. Driving in a circle is surprisingly effective
 
