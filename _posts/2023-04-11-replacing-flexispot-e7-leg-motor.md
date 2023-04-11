@@ -7,7 +7,7 @@ tags:
     - DIY
 ---
 
-I purchased a Flexispot E7 recently, and had a great experience with it. I then purchased an additional one for my partner and encountered an issue. After contacting support, replacement motors were sent, but with no instructions! Here's how to replace them.
+I purchased a Flexispot E7 recently, and had a great experience with it. I then purchased an additional one for my partner and encountered an issue. After contacting support, replacement motors were sent, but with no instructions on how to fit them! Here's the missing guide on how to replace Flexispot leg motors.
 
 Note that there is [a semi-official guide](https://www.reddit.com/r/FlexiSpot_Official/comments/zpf07i/motor_replacement_tutorial/) posted by a support rep, but the images are tiny and extremely low quality.
 
@@ -43,11 +43,11 @@ Next, slide off the black case. Note that the case will be wedged into a rubber 
 
 ## Step 5: Replacing the motor
 
-Unscrew the 2 long screws using the Flexispot tool again, and the central nut holding the motor on.
+Unscrew the 2 long screws using the Flexispot tool again. Note that I unscrewed the central nut, but this doesn't need doing.
 
 [![](/assets/images/2023/flexispot_6_unscrew_thumbnail.jpg)](/assets/images/2023/flexispot_6_unscrew.jpg)
 
-Slide the motor off vertically, and put the new one in. Then replace all of the screws, making sure the central nut is the correct way up (rounded bit facing away from the motor).
+Slide the motor off vertically, and put the new one in. Then replace all of the screws, making sure the central nut is the correct way up if you removed it (rounded bit facing away from the motor).
 
 ## Step 6: Reinstalling the leg
 
