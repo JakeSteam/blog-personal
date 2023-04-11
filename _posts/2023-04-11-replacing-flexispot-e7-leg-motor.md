@@ -2,7 +2,7 @@
 title: How to replace a faulty Flexispot standing desk leg motor
 author: Jake Lee
 layout: post
-image: /assets/images/2023/
+image: /assets/images/2023/flexispot_header.jpg
 tags:
     - DIY
 ---
