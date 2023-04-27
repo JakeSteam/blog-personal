@@ -8,16 +8,17 @@ tags:
     - Gaming
 ---
 
-Badges are a post-release addition to Forza Horizon 5 in April 2022 that provide an extra incentive for online gameplay: unlocking badges next to your name in-game. Here's detailed instructions on how to obtain every badge and detailed tips for winning online races, so you can get your elusive gold Horizon Open Champion badge too!
+Badges are a post-release addition to Forza Horizon 5 in April 2022 that provide an extra incentive for online gameplay: unlocking badges next to your name in-game. Here's detailed instructions on how to obtain every badge and detailed tips for winning online races, so you can get your elusive gold Horizon Open Champion badge too! Also includes April 2023 new badges.
 
 ## Badges
 
-There are a total of 27 badges to earn, taking a total of around 100-150 hours:
+There are a total of 30 badges to earn, taking a total of around 100-150 hours:
 
 * 11 Level based badges
 * 3 Completion based badges
 * 6 Action based badges
 * 7 Limited edition badges 
+* 3 Car collection based badges
 
 Here's how to earn them all!
 
@@ -51,6 +52,14 @@ These badges are straightforward, and another grind. You don't need to win these
 |  |  |  |
 | --- | --- | --- |
 | ![](/assets/images/2023/badges-100races.png)<br>**Games Leader**<br>Complete 100 Rounds of PG Games |  ![](/assets/images/2023/badges-drift.png)<br>**Drift Leader**<br>Complete 50 Horizon Open Drift Rounds |  ![](/assets/images/2023/badges-playground.png)<br>**Games Leader**<br>Complete 100 Rounds of PG Games | 
+
+### Car collection based badges
+
+These are also self-explanatory, and just require collecting as many cars as possible. At the time of writing (April 2023) the highest level badge requires collecting every car normally available in the car, plus 2 of the 3 real-life DLC (Opi / Oreo / Controller) cars. This is pretty tricky to do unless you've been keeping up with each week's new cars since release, so don't expect to see this badge often!
+
+|  |  |  |
+| --- | --- | --- |
+| ![](/assets/images/2023/badges-500cars.png)<br>**A Spooktacular Collection**<br>Own 500 unique cars | ![](/assets/images/2023/badges-600cars.png)<br>**A Heartfelt Collection**<br>Own 600 unique cars | ![](/assets/images/2023/badges-700cars.png)<br>**A T-rexcellent Collection**<br>Own 700 unique cars |
 
 ### Action based badges
 
