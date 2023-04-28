@@ -14,7 +14,7 @@ The games are in descending order of "fun", and might contain mild spoilers:
 
 ## #1: SpinCraft: RogueLike - [Download](https://play.google.com/store/apps/details?id=com.sneakypanda.spincraft)
 
-Slots games have always been a bit of a guilty pleasure, to the extent that I even made an unsuccessful slot-based RPG [Blacksmith Slots](https://play.google.com/store/apps/details?id=uk.co.jakelee.blacksmithslots). Unfortunately most slots games are pretty predatory, force you to pay real money to make any progress, or just having a boring slick casino theme. Luckily, there's a related genre of games where you build a deck of items that can appear in your slots, which tend to be a lot more creative and interesting: SpinCraft is an excellent example of this.
+Slots games have always been a bit of a guilty pleasure, to the extent that I even made an unsuccessful slot-based RPG [Blacksmith Slots](https://play.google.com/store/apps/details?id=uk.co.jakelee.blacksmithslots). Unfortunately most slots games are pretty predatory, forcing you to pay real money to make any progress, or just having a boring slick casino theme. Luckily, there's a related genre of games where you build a deck of items that can appear in your slots, which tend to be a lot more creative and interesting: SpinCraft is an excellent example of this.
 
 ### Review
 
@@ -52,14 +52,36 @@ Whilst you can buy gems via microtransactions to buy more gems, you really don't
 
 | Gameplay | Shop | Items |
 | --- | --- | --- |
-| [![spincraft gameplay](/assets/images/2023/april_sc_game_thumbnail.jpg)](/assets/images/2023/april_sc_game.jpg.jpg) |  [![spincraft shop](/assets/images/2023/april_sc_shop_thumbnail.jpg)](/assets/images/2023/april_sc_shop.jpg.jpg) |  [![spincraft item](/assets/images/2023/april_sc_items_thumbnail.jpg)](/assets/images/2023/april_sc_items.jpg.jpg) | 
+| [![spincraft gameplay](/assets/images/2023/april_sc_game_thumbnail.jpg)](/assets/images/2023/april_sc_game.jpg) |  [![spincraft shop](/assets/images/2023/april_sc_shop_thumbnail.jpg)](/assets/images/2023/april_sc_shop.jpg) |  [![spincraft item](/assets/images/2023/april_sc_items_thumbnail.jpg)](/assets/images/2023/april_sc_items.jpg) | 
 
+## #2: Skrimp Fall - [Download](https://play.google.com/store/apps/details?id=com.blindsidedgames.skrimpdrop)
 
+I like idle games, and I like incremental games. Skrimp Fall is... a very basic example of both, yet it's somehow addictive. The entire gameplay is watching "Skrimp" fall into your portal, and upgrading the gravity / skrimp count / skrimp value / portal size until you earn enough to progress to the next level. You can also move the portal but... that's it, and for most levels you don't need to.
+
+### Review
+
+As you can probably tell from the description, there's really not much to review here. Play the game for 5 minutes and you've had a sneak preview of the next 20 hours!
+
+The level variety is somewhat interesting, but they always end up being a few static / moving platforms, a few portals, and some "speed-up" pads. Once you figure out where the catching portal should go, there's no challenge left. The game really needs a lot more. Achievements? Challenges? A story? 
+
+It does seem to be very actively developed ([Discord server](https://discord.com/invite/blindsided-games-712304553931833385)), with the developer also creating a couple of much more complex games in the past. New features and stages actually got added the day before I wrote this review, so I'm hoping more complex gameplay mechanics come sometime soon!
+
+### Monetisation
+
+Skrimp Fall has 2 forms of monetisation. An advert can be watched to add an additional "Skrimp", but this is rarely worth doing. In-app purchases are entirely cosmetic, with the cat one obviously proving irresistible to me.
+
+### Tips
+
+* If your skrimps get wedged in a corner, you can go to the main menu and back to free them.
+* Usually upgrading skrimp count & value are the best purchases, especially on levels where the fall position is static.
+* Enabling gyro controls and holding your phone diagonally is very overpowered, and will make skrimps reliably fall into your portal.
+
+### Screenshots (spoilers!)
+
+| Gameplay | Levels | Themes |
+| --- | --- | --- |
+| [![skrimp fall gameplay](/assets/images/2023/april_sf_gameplay_thumbnail.jpg)](/assets/images/2023/april_sf_gameplay.jpg) | [![skrimp fall levels](/assets/images/2023/april_sf_levels_thumbnail.jpg)](/assets/images/2023/april_sf_levels.jpg) | [![skrimp fall themes](/assets/images/2023/april_sf_themes_thumbnail.jpg)](/assets/images/2023/april_sf_themes.jpg) |
 
 
 
 ## Conclusion
-
-Unsurprisingly, 4 of the 5 games I've been playing a lot recently are idle to various degrees, with the outlier (Solitaire Golden Prairies) being very casual. This is obviously a persistent trend throughout my game posts (e.g., [May](https://jakelee.co.uk/my-may-top-4-android-games/), [June](https://jakelee.co.uk/my-june-top-4-android-games/)), and I doubt it'll change anytime soon!
-
-Perhaps more interesting is that I've spent real money on all of these games. Usually <£5 in total, and almost always for permanent boosts, but it's still more than I usually spend.
