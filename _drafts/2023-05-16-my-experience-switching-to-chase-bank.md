@@ -2,7 +2,7 @@
 title: My experience switching to Chase Bank's current account (UK)
 author: Jake Lee
 layout: post
-image: /assets/images/2023/
+image: /assets/images/2023/chase-header.jpg
 tags:
     - Finance
 ---
