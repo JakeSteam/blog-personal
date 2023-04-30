@@ -2,7 +2,7 @@
 title: "Advanced tips for SpinCraft: Roguelike (& Skrimp Fall)"
 author: Jake Lee
 layout: post
-image: /assets/images/2023/april-android-games-header.png
+image: /assets/images/2023/header.png
 tags:
     - Android
     - Gaming
@@ -12,7 +12,7 @@ intro
 
 The games are in descending order of "fun", and might contain mild spoilers:
 
-## #1: SpinCraft: RogueLike - [Download](https://play.google.com/store/apps/details?id=com.sneakypanda.spincraft)
+## #1: [SpinCraft: RogueLike](https://play.google.com/store/apps/details?id=com.sneakypanda.spincraft)
 
 Slots games have always been a bit of a guilty pleasure, to the extent that I even made an unsuccessful slot-based RPG [Blacksmith Slots](https://play.google.com/store/apps/details?id=uk.co.jakelee.blacksmithslots). Unfortunately most slots games are pretty predatory, forcing you to pay real money to make any progress, or just having a boring slick casino theme. Luckily, there's a related genre of games where you build a deck of items that can appear in your slots, which tend to be a lot more creative and interesting: SpinCraft is an excellent example of this.
 
@@ -48,13 +48,13 @@ Whilst you can buy gems via microtransactions to buy more gems, you really don't
 * Legendaries with negative trade-offs (e.g. Monk with gold cost, Dragon with negative symbols) are rarely worth it.
 * The "First place" item (+8 every item) is bugged, and the animation will play 10 times. This means it might not be worth using, since it's pretty frustrating waiting for the animation every time!
 
-### Screenshots (spoilers!)
+### Screenshots
 
 | Gameplay | Shop | Items |
 | --- | --- | --- |
 | [![spincraft gameplay](/assets/images/2023/april_sc_game_thumbnail.jpg)](/assets/images/2023/april_sc_game.jpg) |  [![spincraft shop](/assets/images/2023/april_sc_shop_thumbnail.jpg)](/assets/images/2023/april_sc_shop.jpg) |  [![spincraft item](/assets/images/2023/april_sc_items_thumbnail.jpg)](/assets/images/2023/april_sc_items.jpg) | 
 
-## #2: Skrimp Fall - [Download](https://play.google.com/store/apps/details?id=com.blindsidedgames.skrimpdrop)
+## #2: [Skrimp Fall](https://play.google.com/store/apps/details?id=com.blindsidedgames.skrimpdrop)
 
 I like idle games, and I like incremental games. Skrimp Fall is... a very basic example of both, yet it's somehow addictive. The entire gameplay is watching "Skrimp" fall into your portal, and upgrading the gravity / skrimp count / skrimp value / portal size until you earn enough to progress to the next level. You can also move the portal but... that's it, and for most levels you don't need to.
 
@@ -76,7 +76,7 @@ Skrimp Fall has 2 forms of monetisation. An advert can be watched to add an addi
 * Usually upgrading skrimp count & value are the best purchases, especially on levels where the fall position is static.
 * Enabling gyro controls and holding your phone diagonally is very overpowered, and will make skrimps reliably fall into your portal.
 
-### Screenshots (spoilers!)
+### Screenshots
 
 | Gameplay | Levels | Themes |
 | --- | --- | --- |
