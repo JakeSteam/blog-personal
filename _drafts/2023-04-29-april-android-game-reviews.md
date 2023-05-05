@@ -1,5 +1,5 @@
 ---
-title: "Advanced tips for SpinCraft: Roguelike (& Skrimp Fall)"
+title: "Reviews of my 3 favourite recent incremental games: SpinCraft, Power Inc, and Skrimp Fall"
 author: Jake Lee
 layout: post
 image: /assets/images/2023/header.png
@@ -8,7 +8,7 @@ tags:
     - Gaming
 ---
 
-intro
+As always, I've ended up playing almost exclusively "casual" incremental / idle mobile games recently! Luckily I've found a few that have been deeply enjoyable. I've finished all 3 after a period of semi-addiction, so I've also added a few tips for anyone looking for a helpful nudge.
 
 The games are in descending order of "fun", and might contain mild spoilers:
 
@@ -54,7 +54,43 @@ Whilst you can buy gems via microtransactions to buy more gems, you really don't
 | --- | --- | --- |
 | [![spincraft gameplay](/assets/images/2023/april_sc_game_thumbnail.jpg)](/assets/images/2023/april_sc_game.jpg) |  [![spincraft shop](/assets/images/2023/april_sc_shop_thumbnail.jpg)](/assets/images/2023/april_sc_shop.jpg) |  [![spincraft item](/assets/images/2023/april_sc_items_thumbnail.jpg)](/assets/images/2023/april_sc_items.jpg) | 
 
-## #2: [Skrimp Fall](https://play.google.com/store/apps/details?id=com.blindsidedgames.skrimpdrop)
+
+## #2: [Power Inc](https://play.google.com/store/apps/details?id=com.tinkerlabs.power.inc.idle)
+
+Power Inc is a short and sweet incremental game. I actually spotted it [on r/incremental_games with the 0.2 update](https://www.reddit.com/r/incremental_games/comments/135rs2j/android_power_inc_open_beta_02/) that added half of the current features! The timing was definitely lucky, as without these new features it would have been a very different experience.
+
+### Review
+
+This game hit the perfect balance between grinding and the dopamine of new feature unlocking, keeping me pretty hooked for a couple of days. New mechanics and capabilities are unveiled slowly yet are achievable, with no "wall" being hit until the very end game. 
+
+In addition to the usual coins, it uses an interesting "power" mechanic whereby you need to balance power generation (and all the automation, boosters, upgrading you'd expect) and power utilisation (new houses, new products to customers). This ensures you always have multiple ways to progress, and need to engage with all the game's mechanics. Finally, there's also a science / research mechanic used to discover new products (income boosters) for customers, and of course upgrade the science generation itself.
+
+The game is also full of little visual easter eggs, such as the automated workers becoming more "muscular" as you upgrade them, and various game elements having cute animations tied to their speed. For example, the coin icon "pulses" every game tick as new money is earned.
+
+With this complex-yet-achievable progression system, and powerful prestiging, Power Inc is a very easy game to get very involved in. However, there is a downside. As a game still pretty early in development, you *will* reach the end of the game before you've stopped having fun. I reached it after ~2 days after 2 prestiges (at 1000 and 100,000 prestige points), where I ran out of new content to unlock, and could just infinitely grind if I chose to. 
+
+That being said, as a free game it's totally worth the time in its current state. The developer definitely seems to know their way around balancing an incremental game, so I'm optimistic future updates will add features without negatively impacting the existing setup. Personally I'd really like a cloud backup or save export / import functionality, so that the game doesn't have to stay installed.
+
+### Monetisation
+
+The game is absolutely playable for free. I chose to watch a few ads throughout my experience, as they had reasonable rewards (10m earnings instantly, or doubling offline earnings). Alternatively, there is a "remove ads" purchase that is perhaps a bit too expensive (£4.69) for the current game length, if it had been around half the price I might have purchased it to get the ad boosts without watching.
+
+### Tips
+
+* Most of your interaction with the late-stage game will be tapping the research claiming button. The autoclaimer is worth buying, but don't save up ages for it as it only collects once per 30 seconds by default!
+* You probably don't need Nikola Tesla's research power until the very end of the game, and certainly no need to upgrade him. 
+* Tap the "add house" icon if you seem stuck, it'll tell you what you need to do to progress. Often this will be purchasing a locked area at the top of the screen.
+* Prestiging often doesn't seem a good idea, as the perks aren't overwhelmingly powerful. 
+* The game has a surprisingly active [Discord](https://discord.com/invite/CgRmU8NB29) (and very active dev!) considering the low number of players, as well as a [subreddit with updates](https://www.reddit.com/r/power_inc/).
+
+### Screenshots
+
+| Main factory | Research | Prestige |
+| --- | --- | --- |
+| [![power inc main factory](/assets/images/2023/april_pi_main_thumbnail.jpg)](/assets/images/2023/april_sf_gameplay.jpg) | [![power inc science research](/assets/images/2023/april_pi_research_thumbnail.jpg)](/assets/images/2023/april_sf_research.jpg) | [![power inc prestige](/assets/images/2023/april_pi_prestige_thumbnail.jpg)](/assets/images/2023/april_sf_prestige_.jpg) |
+
+
+## #3: [Skrimp Fall](https://play.google.com/store/apps/details?id=com.blindsidedgames.skrimpdrop)
 
 I like idle games, and I like incremental games. Skrimp Fall is... a very basic example of both, yet it's somehow addictive. The entire gameplay is watching "Skrimp" fall into your portal, and upgrading the gravity / skrimp count / skrimp value / portal size until you earn enough to progress to the next level. You can also move the portal but... that's it, and for most levels you don't need to.
 
