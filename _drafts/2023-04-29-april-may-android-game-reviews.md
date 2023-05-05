@@ -2,13 +2,13 @@
 title: "Reviews of my 3 favourite recent incremental games: SpinCraft, Power Inc, and Skrimp Fall"
 author: Jake Lee
 layout: post
-image: /assets/images/2023/header.png
+image: /assets/images/2023/april_android_header.png
 tags:
     - Android
     - Gaming
 ---
 
-As always, I've ended up playing almost exclusively "casual" incremental / idle mobile games recently! Luckily I've found a few that have been deeply enjoyable. I've finished all 3 after a period of semi-addiction, so I've also added a few tips for anyone looking for a helpful nudge.
+As always, I've ended up playing almost exclusively "casual" incremental / idle mobile games recently! Luckily I've found a few that have been deeply enjoyable. I've completed(ish) all 3 after a period of semi-addiction, so I've also added a few tips for anyone looking for a helpful nudge.
 
 The games are in descending order of "fun", and might contain mild spoilers:
 
@@ -87,7 +87,7 @@ The game is absolutely playable for free. I chose to watch a few ads throughout 
 
 | Main factory | Research | Prestige |
 | --- | --- | --- |
-| [![power inc main factory](/assets/images/2023/april_pi_main_thumbnail.jpg)](/assets/images/2023/april_sf_gameplay.jpg) | [![power inc science research](/assets/images/2023/april_pi_research_thumbnail.jpg)](/assets/images/2023/april_sf_research.jpg) | [![power inc prestige](/assets/images/2023/april_pi_prestige_thumbnail.jpg)](/assets/images/2023/april_sf_prestige_.jpg) |
+| [![power inc main factory](/assets/images/2023/april_pi_main_thumbnail.jpg)](/assets/images/2023/april_pi_main.jpg) | [![power inc science research](/assets/images/2023/april_pi_research_thumbnail.jpg)](/assets/images/2023/april_pi_research.jpg) | [![power inc prestige](/assets/images/2023/april_pi_prestige_thumbnail.jpg)](/assets/images/2023/april_pi_prestige.jpg) |
 
 
 ## #3: [Skrimp Fall](https://play.google.com/store/apps/details?id=com.blindsidedgames.skrimpdrop)
@@ -119,5 +119,8 @@ Skrimp Fall has 2 forms of monetisation. An advert can be watched to add an addi
 | [![skrimp fall gameplay](/assets/images/2023/april_sf_gameplay_thumbnail.jpg)](/assets/images/2023/april_sf_gameplay.jpg) | [![skrimp fall levels](/assets/images/2023/april_sf_levels_thumbnail.jpg)](/assets/images/2023/april_sf_levels.jpg) | [![skrimp fall themes](/assets/images/2023/april_sf_themes_thumbnail.jpg)](/assets/images/2023/april_sf_themes.jpg) |
 
 
-
 ## Conclusion
+
+Overall, only 2 of these are idle games, with SpinCraft being more of a roguelike. The idle games also both fall into the common trap of not quite having enough content, which is honestly a real shame for great games like Power Inc. 
+
+I'll be sticking around on the Discord / Subreddit for these games to keep an eye out for future updates, I really hope to see them expanded much more in the future! Power Inc definitely has a ton of potential.
