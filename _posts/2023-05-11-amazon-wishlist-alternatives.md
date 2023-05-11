@@ -10,7 +10,7 @@ tags:
 
 For many years I've had a [public Amazon wishlist](https://www.amazon.co.uk/hz/wishlist/ls/25U6KHU9XCK4B/) that I can share with friends & family. I add to it throughout the year, and it lets people buy me things I'll *definitely* love. This has worked well, but recently Amazon removed support for third party products... so here's where to migrate to.
 
-Here's what the ideal wishlist site would have:
+Here's what my ideal wishlist site would have:
 
 * Ability to easily add new items.
 * Able to share the list publicly, ideally with a simple URL.
