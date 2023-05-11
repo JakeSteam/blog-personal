@@ -1,5 +1,5 @@
 ---
-title: Had enough of Amazon wishlists? Here's a comparison of alternative, better services!
+title: Had enough of Amazon wishlists? Here's a comparison of alternative services!
 author: Jake Lee
 layout: post
 image: /assets/images/2023/wishlist-amazon-header.jpg
