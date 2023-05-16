@@ -78,7 +78,7 @@ The bold, outlined number below indicates what each person needs to pay, and the
 
 Things like day to day shopping or DIY equipment can't be predicted, so we instead log these in a cost splitting app [Splitwise](https://www.splitwise.com/).
 
-The free plan is plenty for us, and whilst you can add receipts / details, in a relationship there's hopefully enough trust that just adding the name of the shop is enough!
+The free plan is plenty for us, and whilst you can add receipts / details, in a relationship there's hopefully enough trust that just adding the name of the shop is enough! 
 
 We also use Splitwise for specific expense tracking, such as hotels / flights / bookings for a holiday.
 
