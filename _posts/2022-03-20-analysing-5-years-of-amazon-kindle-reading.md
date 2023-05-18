@@ -37,7 +37,7 @@ If they're both there, then you've got all you need!
 
 ### Creating the spreadsheet
 
-Head over to [my Kindle analysis spreadsheet](), and click `File` -> `Make a copy`, then save it as whatever you want in your Google Drive:
+Head over to [my Kindle analysis spreadsheet](https://docs.google.com/spreadsheets/d/1eH3KU0Htb_cMmO6-vij0pQBjInj9gX6-5KQACSqBj4s/edit?usp=sharing), and click `File` -> `Make a copy`, then save it as whatever you want in your Google Drive:
 
 [![](/assets/images/2022/kindle-copy.png)](/assets/images/2022/kindle-copy.png)
 
