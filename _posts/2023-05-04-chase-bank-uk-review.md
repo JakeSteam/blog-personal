@@ -15,9 +15,11 @@ As a disclaimer, this article is totally unsponsored, and all of this is just *m
 
 I opened my Chase current & savings account in early 2022, primarily to use their card abroad without any transaction fees. Since then, their instant access savings rate had steadily risen, so I ended up using it as my main savings. In addition, their daily cashback was reliable and generous, so using Chase for almost all transactions made sense. This cashback was [recently changed to be a permanent benefit](https://www.moneysavingexpert.com/news/2023/02/chase-cashback-changes/).
 
-Once I was using Chase for savings AND day to day spending, it didn't make much sense to have my main current account with a typical high street bank. I went through the [hassle of requesting a switch via a paper form](https://www.chase.co.uk/gb/en/support/switching-to-chase/) (as Chase are not part of the UK [current account switch service](https://www.currentaccountswitch.co.uk/)), and received a message a few days later that it wouldn't be possible due to my old current account provider not cooperating. Oh well! 
+Once I was using Chase for savings AND day to day spending, it didn't make much sense to have my main current account with a typical high street bank. I went through the [hassle of requesting a switch via a paper form](https://www.chase.co.uk/gb/en/support/switching-to-chase/) ~~(as Chase are not part of the UK [current account switch service](https://www.currentaccountswitch.co.uk/)), and received a message a few days later that it wouldn't be possible due to my old current account provider not cooperating. Oh well!~~
 
-As such, I'm slowly manually switching all my direct debits etc, definitely a downside of the account.
+~~As such, I'm slowly manually switching all my direct debits etc, definitely a downside of the account.~~
+
+**May 2023 update**: [Chase is now part of the current account switch service!](https://www.chase.co.uk/gb/en/support/switching-to-chase/)
 
 ## Benefits
 
@@ -57,7 +59,7 @@ As mentioned, I originally started using Chase for the international usage, and 
 ## Downsides
 
 Whilst I obviously really like the account, it isn't perfect. Here are the issues I've experienced in the last year or so:
-* It's not part of the Current Account Switch Service, and even their manual switch doesn't seem to work.
+* ~~It's not part of the Current Account Switch Service, and even their manual switch doesn't seem to work.~~ May 2023 edit: [Now part of CASS](https://www.chase.co.uk/gb/en/support/switching-to-chase/).
 * Last year the app had a bug that broke logging in, and I needed to clear the app cache to fix it. 
 * The card is Mastercard, but debit, causing 1-2 online retailers to not quite understand how it works and fail to charge it.
 * There's no overdraft, which I prefer having just in case.
@@ -66,6 +68,6 @@ Whilst I obviously really like the account, it isn't perfect. Here are the issue
 
 ## Conclusion
 
-Overall, the account is *almost* exactly what I want, with by far the biggest drawback being the inability to easily switch to it. This, plus the inability to make international payments means having an additional current account is still a good idea just in case.
+Overall, the account is *almost* exactly what I want, with by far the biggest drawback being the ~~inability to easily switch to it~~ (now part of CASS). This, plus the inability to make international payments means having an additional current account is still a good idea just in case.
 
 Still, if your current account is earning pretty much nothing in terms of interest / cashback / linked savings, it's a no-brainer to switch in my opinion. Hopefully Chase's high financial benefits will prompt less digital banks to improve their offerings.
