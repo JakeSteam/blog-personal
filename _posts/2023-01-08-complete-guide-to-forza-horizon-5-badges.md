@@ -8,16 +8,16 @@ tags:
     - Gaming
 ---
 
-Badges are a post-release addition to Forza Horizon 5 in April 2022 that provide an extra incentive for online gameplay: unlocking badges next to your name in-game. Here's detailed instructions on how to obtain every badge and detailed tips for winning online races, so you can get your elusive gold Horizon Open Champion badge too! Also includes April 2023 new badges.
+Badges are a post-release addition to Forza Horizon 5 in April 2022 that provide an extra incentive for online gameplay: unlocking badges next to your name in-game. Here's detailed instructions on how to obtain every badge and detailed tips for winning online races, so you can get your elusive gold Horizon Open Champion badge too! Also includes April & May 2023's new badges.
 
 ## Badges
 
-There are a total of 30 badges to earn, taking a total of around 100-150 hours:
+There are a total of 32 badges to earn, taking a total of around 100-150 hours:
 
 * 11 Level based badges
 * 3 Completion based badges
-* 6 Action based badges
-* 7 Limited edition badges 
+* 7 Action based badges
+* 8 Limited edition badges 
 * 3 Car collection based badges
 
 Here's how to earn them all!
@@ -71,10 +71,11 @@ Also, I believe "Beep, Beep, Coming Through" originally required banking 100k sc
 | --- | --- | --- |
 | ![](/assets/images/2023/badges-lucky.png)<br>**Lucky Streak**<br>Win 3 PG Games Rounds in a row | ![](/assets/images/2023/badges-score.png)<br>**Give Me Five!**<br>Bank a total of 5,000,000 Skill Score in Horizon Open | ![](/assets/images/2023/badges-score-100k.png)<br>**Beep, Beep, Coming Through**<br>Bank a total of 100,000 Skill Score in Horizon Open |
 | ![](/assets/images/2023/badges-speed.png)<br>**Can't Touch This**<br>Earn 200 Speed Skills in Horizon Open | ![](/assets/images/2023/badges-clean.png)<br>**Love You 3000**<br>Earn 3000 Clean Racing Skills in Horizon Open | ![](/assets/images/2023/badges-drifting.png)<br>**Drifter's Paradise**<br>Earn 6000 Drifting or E-Drifting Skills in Horizon Open |
+| ![](/assets/images/2023/badges-43.png)<br>**#43**<br>Drive any Hoonigan vehicle for 4.3 miles (7km) | | |
 
 ### Limited edition badges
 
-Unfortunately these were all unlocked during the 10 year anniversary series between mid-October and mid-November, and no longer seem unobtainable (with the exception of "Welcome To Horizon 2.0!").
+Unfortunately these were all unlocked during various seasonal events, and no longer seem obtainable. Most are from the 10 year anniversary series between October-November 2022, with "Master Explorer" from between May-June 2023.
 
 They were very easy to unlock by just playing the game each week and completing the festival tasks, hopefully a future update provides an alternative way to earn them. No content should be unobtainable for new players eventually!
 
@@ -82,7 +83,7 @@ They were very easy to unlock by just playing the game each week and completing 
 | --- | --- | --- |
 | ![](/assets/images/2023/badges-wet.png)<br>**May The Forza Be With You**<br>Play Forza Horizon 5 during the Wet Season of the 'Horizon 10-Year Anniversary' | ![](/assets/images/2023/badges-storm.png)<br>**We Meet Again!**<br>Play Forza Horizon 5 during the Storm Season of the 'Horizon 10-Year Anniversary' | ![](/assets/images/2023/badges-spring.png)<br>**You're The Boss**<br>Play Forza Horizon 5 during the Dry Season of the 'Horizon 10-Year Anniversary' |
 | ![](/assets/images/2023/badges-spring.png)<br>**Spring Into Action!**<br>Play Forza Horizon 5 during the Storm Season of the 'Horizon 10-Year Anniversary'^ | ![](/assets/images/2023/badges-story.png)<br>**Welcome to Horizon 2.0!**<br>Complete the 'Horizon 10-Year Anniversary' Initial Experience or the 'Welcome to Mexico' chapter of the 'Horizon Origins' Story | ![](/assets/images/2023/badges-reward1.png)<br>**Happy Anniversary!**<br>Earn the first Series Reward during the 'Horizon 10-Year Anniversary' |
-| ![](/assets/images/2023/badges-reward2.png)<br>**Piece of Cake!**<br>Earn the second Series Reward during the 'Horizon 10-Year Anniversary' |
+| ![](/assets/images/2023/badges-reward2.png)<br>**Piece of Cake!**<br>Earn the second Series Reward during the 'Horizon 10-Year Anniversary' | ![](/assets/images/2023/badges-masterexplorer.png)<br>**Master Explorer**<br>Complete all 16 Pathfinder Accolades |
 
 *^Note this is actually unlocked in the Spring season, the in-game description is incorrect.*
 
