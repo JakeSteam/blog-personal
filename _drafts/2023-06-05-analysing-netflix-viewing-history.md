@@ -1,5 +1,5 @@
 ---
-title: 
+title: "Analysing your Netflix viewing history: How much have you watched, when?"
 author: Jake Lee
 layout: post
 image: /assets/images/2023/
@@ -9,7 +9,7 @@ tags:
     - Data
 ---
 
-intro intro intro
+intro intro intro (mention netflix change in household policy)
 
 All of the calculations used in this post [are available in a spreadsheet](), feel free to look at how the data is calculated. There is also a [separate technical write-up]() with more detail on all the formulas.
 
@@ -51,17 +51,19 @@ On each of these sheets click `File` -> `Import` -> `Upload` tab, and pick your 
 
 ### Users
 
-
-
 ### By time of day / year
-
-
 
 ### By country / device
 
 ### By content watched
 
+## Technical
 
+### Adding counts to table headers
+
+### Finding unique substrings
+
+### Filter rows by part of timestamp
 
 ## Conclusion
 
