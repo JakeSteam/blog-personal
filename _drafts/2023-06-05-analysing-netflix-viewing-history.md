@@ -1,19 +1,19 @@
 ---
-title: "Analysing your Netflix viewing history: How much have you watched, when?"
+title: "Analysing your Netflix viewing history: How much have you watched, when, and how?"
 author: Jake Lee
 layout: post
-image: /assets/images/2023/
+image: /assets/images/2023/netflix-banner.jpg
 tags:
     - Netflix
     - Analysis
     - Data
 ---
 
-With Netflix's recent changes to account sharing, I was curious how my (shared!) account had been used over the last 10 years. To do this, I made a spreadsheet, and you can analyse your viewing history easily too!
+With Netflix's [recent changes to account sharing](https://www.bbc.co.uk/news/business-65691127), I was curious how my (shared!) account had been used over the last 10 years. To do this, I made a spreadsheet, and you can analyse your viewing history with it easily too!
 
 All of the calculations used in this post [are available in a spreadsheet](https://docs.google.com/spreadsheets/d/1rmQ0BNOr5BrFJQpvTdse7nj_KpFwYDPKW4cmg_3TLXQ/edit?usp=sharing), feel free to look at how the data is calculated. There's also more information [on the formulas](#technical) later on.
 
-Additionally, I've also provided guides previously on how to analyse your data from [Twitch](https://jakelee.co.uk/analysing-my-twitch-data/), [Amazon](https://jakelee.co.uk/analysing-my-amazon-purchases/), [Google Play](https://jakelee.co.uk/analysing-my-google-play-purchase-history/), [YouTube](https://jakelee.co.uk/analysing-my-youtube-subscriptions/), [Kindle](https://jakelee.co.uk/analysing-5-years-of-amazon-kindle-reading/), and [Goodreads](https://jakelee.co.uk/analysing-my-goodreads-book-history/)!
+Additionally, I've previously provided guides on how to analyse your data from [Twitch](https://jakelee.co.uk/analysing-my-twitch-data/), [Amazon](https://jakelee.co.uk/analysing-my-amazon-purchases/), [Google Play](https://jakelee.co.uk/analysing-my-google-play-purchase-history/), [YouTube](https://jakelee.co.uk/analysing-my-youtube-subscriptions/), [Kindle](https://jakelee.co.uk/analysing-5-years-of-amazon-kindle-reading/), and [Goodreads](https://jakelee.co.uk/analysing-my-goodreads-book-history/)!
 
 ## Getting your data
 
@@ -91,6 +91,8 @@ This was by far the hardest part of this spreadsheet to write a formula for, and
 
 ## Technical
 
+As always when I make these spreadsheets, I end up having to learn plenty of new things. Here's a few of the more useful techniques, I'm sure I'll be needing them for the next analysis!
+
 ### Adding counts to table headers
 
 This is a small addition, but adding a row count to the table header adds a bit of utility to a usually redundant title cell:
@@ -117,7 +119,7 @@ The full code to do this (made more readable) is:
         TO_TEXT(
             INDEX(
                 SPLIT(
-                    FILTER(ViewingActivity!E$2:E, ISBLANK(ViewingActivity!F$2:F))
+                    FILTER(ViewingActivity!E2:E, ISBLANK(ViewingActivity!F2:F))
                 , ":")
             , 0, 1)
         )
@@ -127,7 +129,7 @@ The full code to do this (made more readable) is:
 
 I know, it's a bit chaotic when seen all at once. Here's what each bit does, from the middle outwards:
 
-* [`FILTER...`](https://support.google.com/docs/answer/3093197?hl=en-GB) & [`ISBLANK...`](https://support.google.com/docs/answer/3093290?hl=en-GB): This fetches all titles (`ViewingActivity!E$2:E`) that don't have anything in column F, which is used to indicate trailers or other non-standard content.
+* [`FILTER...`](https://support.google.com/docs/answer/3093197?hl=en-GB) & [`ISBLANK...`](https://support.google.com/docs/answer/3093290?hl=en-GB): This fetches all titles (`ViewingActivity!E2:E`) that don't have anything in column F, which is used to indicate trailers or other non-standard content.
 * [`SPLIT...`](https://support.google.com/docs/answer/3094136?hl=en-GB): This splits each title by `:`, separating the show name from any episode information.
 * [`INDEX...`](https://support.google.com/docs/answer/3098242?hl=en-GB): This grabs the first split value, e.g. the show's name. Google Sheets is not zero-indexed!
 * [`TO_TEXT...`](https://support.google.com/docs/answer/3094285?hl=en-GB): This converts the value into plaintext, avoiding any numerical show titles breaking the formula.
@@ -148,7 +150,7 @@ I'll walk through the "Sessions" count, since "Total Duration" is just an extens
 =ArrayFormula(
     COUNTIFS(
         TIME(
-            HOUR(ViewingActivity!B$2:B)
+            HOUR(ViewingActivity!B2:B)
         , 0, 0), 
     A22&":00:00")
 )
@@ -163,6 +165,10 @@ Not as bad as the last formula, but still confusing. Here's how it works, from t
 
 ## Conclusion
 
-words
+Overall, I'm pretty happy with how the analysis went. I'd have liked to share my viewing data, but since multiple people use my account it wasn't possible. 
+
+I'll avoid complaining about the [changes to Netflix's account sharing policies](https://www.bbc.co.uk/news/business-65691127), since I've already (somewhat) acted with my wallet by reducing my plan. Since I no longer need the 4 active screens perk of the highest plan, I downgraded to save £5/mo! 
+
+Whilst analysing the content itself (e.g. genre, % of shows finished, rewatches) would have been a useful addition, it would be pretty tricky without hooking up to IMDb's datasets. The metadata analysis itself is still pretty interesting, I was definitely surprised how much other family members use my shared account.
 
 One last time, [here's the spreadsheet](https://docs.google.com/spreadsheets/d/1rmQ0BNOr5BrFJQpvTdse7nj_KpFwYDPKW4cmg_3TLXQ/edit?usp=sharing)!
