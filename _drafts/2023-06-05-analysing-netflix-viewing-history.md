@@ -93,12 +93,76 @@ This was by far the hardest part of this spreadsheet to write a formula for, and
 
 ### Adding counts to table headers
 
+This is a small addition, but adding a row count to the table header adds a bit of utility to a usually redundant title cell:
+
+[![](/assets/images/2023/netflix-header-count.png)](/assets/images/2023/netflix-header-count.png)
+
+The formula for this is just basic string concatanation, with `COUNTA` used to count non-empty cells:
+
+```
+="Device breakdown ("&COUNTA(L3:L)&")"
+```
+
 ### Finding unique substrings
 
+The "Content breakdown" table requires gathering a list of all unique shows / films watched. This requires finding all unique substrings from a massive range of data. In this case, I want to find unique values before the first `:`, as shows are logged in the format `My Show: Season 1 Episode 1`.
+
+[![](/assets/images/2023/netflix-content-small.png)](/assets/images/2023/netflix-content-small.png)
+
+The full code to do this (made more readable) is:
+
+```
+=SORT(
+    UNIQUE(
+        TO_TEXT(
+            INDEX(
+                SPLIT(
+                    FILTER(ViewingActivity!E$2:E, ISBLANK(ViewingActivity!F$2:F))
+                , ":")
+            , 0, 1)
+        )
+    )
+)
+```
+
+I know, it's a bit chaotic when seen all at once. Here's what each bit does, from the middle outwards:
+
+* [`FILTER...`](https://support.google.com/docs/answer/3093197?hl=en-GB) & [`ISBLANK...`](https://support.google.com/docs/answer/3093290?hl=en-GB): This fetches all titles (`ViewingActivity!E$2:E`) that don't have anything in column F, which is used to indicate trailers or other non-standard content.
+* [`SPLIT...`](https://support.google.com/docs/answer/3094136?hl=en-GB): This splits each title by `:`, separating the show name from any episode information.
+* [`INDEX...`](https://support.google.com/docs/answer/3098242?hl=en-GB): This grabs the first split value, e.g. the show's name. Google Sheets is not zero-indexed!
+* [`TO_TEXT...`](https://support.google.com/docs/answer/3094285?hl=en-GB): This converts the value into plaintext, avoiding any numerical show titles breaking the formula.
+* [`UNIQUE...`](https://support.google.com/docs/answer/10522653?hl=en-GB): This filters all the show / film titles to be unique.
+* [`SORT...`](https://support.google.com/docs/answer/3093150?hl=en-GB): Finally, this sorts all the titles alphabetically.
+
+Note that the session count and duration total are just basic `SUMIF` and `COUNTIF`s, used throughout the analysis sheet.
+
 ### Filter rows by part of timestamp
+
+The "Hour breakdown" table splits all viewing timestamps by the hour they took place in. I hadn't worked with timestamps much before, and this turned out to be trickier than expected:
+
+[![](/assets/images/2023/netflix-hour.png)](/assets/images/2023/netflix-hour.png)
+
+I'll walk through the "Sessions" count, since "Total Duration" is just an extension of it. Here's a formula that counts the number of events between 10AM and 11AM (new lines added for readability):
+
+```
+=ArrayFormula(
+    COUNTIFS(
+        TIME(
+            HOUR(ViewingActivity!B$2:B)
+        , 0, 0), 
+    A22&":00:00")
+)
+```
+
+Not as bad as the last formula, but still confusing. Here's how it works, from the inside out:
+
+* [`HOUR...`](https://support.google.com/docs/answer/3093045?hl=en-GB): This pulls the hour from all viewing events, e.g. "10" from "10:33:21".
+* [`TIME...`](https://support.google.com/docs/answer/3093056?hl=en-GB): This creates a new time with the previously retrieved `HOUR`, and a minute & second of `0`. E.g. "10:00:00" from "10".
+* [`COUNTIFS...`](https://support.google.com/docs/answer/3256550?hl=en-GB): This counts every one of these new timestamps that matches one we've built using `A22`. For example if `A22` contained "10", we'd be matching all rows with "10:00:00".
+* [`ARRAYFORMULA...`](https://support.google.com/docs/answer/3093275?hl=en-GB): I don't understand `ArrayFormula` honestly, but it converts the count into a format that can be displayed in a cell!
 
 ## Conclusion
 
 words
 
-One last time, [here's the spreadsheet](), and [here's the technical details]()!
+One last time, [here's the spreadsheet](https://docs.google.com/spreadsheets/d/1rmQ0BNOr5BrFJQpvTdse7nj_KpFwYDPKW4cmg_3TLXQ/edit?usp=sharing)!
