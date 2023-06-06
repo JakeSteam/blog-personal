@@ -29,7 +29,10 @@ Once the email arrives, click the download link, confirm your password, and ther
 
 [![](/assets/images/2023/netflix-download_740w.png)](/assets/images/2023/netflix-download.png)
 
-Finally unzip the downloaded file ([how to unzip](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-f6dde0a7-0fec-8294-e1d3-703ed85e7ebc)), and you'll have all your data! You need the file `netflix-report/CONTENT_INTERACTION/ViewingActivity.csv`.
+Once downloaded, unzip the downloaded file ([how to unzip](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-f6dde0a7-0fec-8294-e1d3-703ed85e7ebc)), and you'll have all your data! You need: 
+```
+netflix-report/CONTENT_INTERACTION/ViewingActivity.csv
+```
 
 ## Preparing your spreadsheet
 
@@ -85,7 +88,7 @@ Okay okay, this looks a little bit suspicious... I used to have an extension tha
 
 The "Content breakdown" table is a couple of thousand rows long, and lists every single show / film watched on my Netflix account. 
 
-This was by far the hardest part of this spreadsheet to write a formula for, and it's amazing how many awkward TV show names break any code. For example, the show "3%" is formatted as `0.03` and... I've given up fixing it! All other shows / films seem OK, let me know if any others seem broken.
+This was by far the hardest part of this spreadsheet to write a formula for (see ["finding unique substrings"](#finding-unique-substrings)), and it's amazing how many awkward TV show names break any code. For example, the show "3%" is formatted as `0.03` and... I've given up fixing it! All other shows / films seem OK, let me know if any others seem broken.
 
 [![](/assets/images/2023/netflix-content-thumbnail.png)](/assets/images/2023/netflix-content.png)
 
@@ -165,7 +168,7 @@ Not as bad as the last formula, but still confusing. Here's how it works, from t
 
 ## Conclusion
 
-Overall, I'm pretty happy with how the analysis went. I'd have liked to share my viewing data, but since multiple people use my account it wasn't possible. 
+Overall, I'm pretty happy with how the analysis went. I'd have liked to share my full viewing data, but since multiple people use the account it wasn't possible. 
 
 I'll avoid complaining about the [changes to Netflix's account sharing policies](https://www.bbc.co.uk/news/business-65691127), since I've already (somewhat) acted with my wallet by reducing my plan. Since I no longer need the 4 active screens perk of the highest plan, I downgraded to save £5/mo! 
 
