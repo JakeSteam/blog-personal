@@ -43,7 +43,7 @@ Next, click `File` -> `Make a copy` to create an editable version for yourself:
 
 ### Adding your data
 
-Now you've got a blank spreadsheet, we need to add your data! Navigate to the `ViewingActivity` sheet, and click `File` -> `Import` -> `Upload` tab, and pick `ViewingActivity.csv`. Make sure to change "Import location" for each to "Replace current sheet":
+Now you've got a blank spreadsheet, we need to add your data! Navigate to the `ViewingActivity` sheet, and click `File` -> `Import` -> `Upload` tab, and pick `ViewingActivity.csv`. Make sure to change "Import location" to "Replace current sheet", then click "Import data":
 
 [![](/assets/images/2023/netflix-import.png)](/assets/images/2023/netflix-import.png)
 
