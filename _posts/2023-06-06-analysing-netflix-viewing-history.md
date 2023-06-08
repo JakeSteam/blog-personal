@@ -29,10 +29,7 @@ Once the email arrives, click the download link, confirm your password, and ther
 
 [![](/assets/images/2023/netflix-download_740w.png)](/assets/images/2023/netflix-download.png)
 
-Once downloaded, unzip the downloaded file ([how to unzip](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-f6dde0a7-0fec-8294-e1d3-703ed85e7ebc)), and you'll have all your data! You need: 
-```
-netflix-report/CONTENT_INTERACTION/ViewingActivity.csv
-```
+Once downloaded, unzip the downloaded file ([how to unzip](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-f6dde0a7-0fec-8294-e1d3-703ed85e7ebc)), and you'll have all your data! Inside the unzipped `netflix-report` folder, navigate to `CONTENT_INTERACTION`, then you need `ViewingActivity.csv`.
 
 ## Preparing your spreadsheet
 
@@ -46,7 +43,7 @@ Next, click `File` -> `Make a copy` to create an editable version for yourself:
 
 ### Adding your data
 
-Now you've got a blank spreadsheet, we need to add your data! Navigate to the `ViewingData` sheet, and click `File` -> `Import` -> `Upload` tab, and pick `ViewingActivity.csv`. Make sure to change "Import location" for each to "Replace current sheet":
+Now you've got a blank spreadsheet, we need to add your data! Navigate to the `ViewingActivity` sheet, and click `File` -> `Import` -> `Upload` tab, and pick `ViewingActivity.csv`. Make sure to change "Import location" for each to "Replace current sheet":
 
 [![](/assets/images/2023/netflix-import.png)](/assets/images/2023/netflix-import.png)
 
