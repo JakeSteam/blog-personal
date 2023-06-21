@@ -17,13 +17,15 @@ This is a **LONG** post, so use the links on the side to get to the section you 
 
 **December 2022 update**: Vinyl uses are now fixed! A [guide to them has been added](#vinyls).
 
+**June 2023 update**: [Test track](#test-track) accolades have been added!
+
 ## My creative accolades
 
-To start with, here's my current global ranking & fully completed creative accolades to prove I at least vaguely know what I'm talking about! 
+To start with, [here's proof I was #87 worldwide](/assets/images/2022/fh5-creative-leaderboard.png) when I initially wrote this guide & my fully completed creative accolades (193) to prove I at least vaguely know what I'm talking about! 
 
-| #87 out of 21m+ players | Painting (44/44) | Tuning (27/27) |
+| Painting (44/44) | Tuning (27/27) | Test track (15/15) |
 | -- | -- | -- |
-| [![](/assets/images/2022/fh5-creative-leaderboard-thumbnail.png)](/assets/images/2022/fh5-creative-leaderboard.png) | [![](/assets/images/2022/fh5-creative-painting-thumbnail.jpg)](/assets/images/2022/fh5-creative-painting.jpg) | [![](/assets/images/2022/fh5-creative-tuning-thumbnail.jpeg)](/assets/images/2022/fh5-creative-tuning.jpeg) |
+| [![](/assets/images/2022/fh5-creative-painting-thumbnail.jpg)](/assets/images/2022/fh5-creative-painting.jpg) | [![](/assets/images/2022/fh5-creative-tuning-thumbnail.jpeg)](/assets/images/2022/fh5-creative-tuning.jpeg) | [![](/assets/images/2022/fh5-creative-testtrack-thumbnail.png)](/assets/images/2022/fh5-creative-testtrack.png)
 
 | Photo (55/55) | Eventlab (20/20) | Super7 (15/15) |
 | -- | -- | -- |
@@ -40,6 +42,16 @@ The painting accolades *"Respray", "By popular request", "Hoods up", "They look 
 The tuning accolades *"The upgrader", "The ultra upgrader", "The tuner",* and *"The ultra tuner"* just require winning events with tunes and upgrades applied, and will probably be completed during normal gameplay.
 
 The accolades *"All expenses paid", "Performance interest", "Picking up the tab", "Worth it",* and *"To the zoom"* require spending up to 2m credits on upgrades, which will likely happen during normal gameplay.
+
+### Test track
+
+The test track accolades *"Testing, testing", "Give me five!", "Tried and tested!", "Testing the waters", "Upgrade-zathon"*, and *"Modification specialist"* can be completed fairly easily, by just purchasing as much as possible for a few cars. Most vehicles can have around 150k of upgrades added, with the engine swap being the main part of this. 
+
+Similarly, *"Track miles", "Making tracks", "Leaving tracks"*, and *Maxing out* just require driving up and down the highway for a bit. Picking a fast car obviously makes this quicker!
+
+*"Fast track", "Short course", "Off track"*, and *"Crash course"* require completing a specific skill in a specific car in a specific class. I recommend filtering your cars by type when starting the test track, then purchasing upgrades to get to the required class. Finally, *"Getting side-tracked"* is very easy, only requiring driving from the test track starting point to the far end of the drag strip in a retro muscle car! You'll need to drive out of & reenter the test track starting zone to trigger the timer start.
+
+Note that you need to grind out 10 million credits worth of purchases for the "Tinker, Tailor, Car Tuner" badge and 500 miles driven for the "Just Keep Driving, Driving, Driving" badge ([more info on badges](https://jakelee.co.uk/complete-guide-to-forza-horizon-5-badges/#test-track-badges)) so you may want to do them at the same time.
 
 ### Photo
 
