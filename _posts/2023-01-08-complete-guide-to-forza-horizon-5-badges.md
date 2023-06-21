@@ -2,27 +2,28 @@
 title: The complete guide to Forza Horizon 5's badges, and detailed tips for online racing (Horizon Open)
 author: Jake Lee
 layout: post
-image: /assets/images/2023/badges-banner.jpeg
+image: /assets/images/2023/badges-banner.png
 tags:
     - Forza Horizon 5
     - Gaming
 ---
 
-Badges are a post-release addition to Forza Horizon 5 in April 2022 that provide an extra incentive for online gameplay: unlocking badges next to your name in-game. Here's detailed instructions on how to obtain every badge and detailed tips for winning online races, so you can get your elusive gold Horizon Open Champion badge too! Also includes April & May 2023's new badges.
+Badges are a post-release addition to Forza Horizon 5 in April 2022 that provide an extra incentive for online gameplay: unlocking badges next to your name in-game. Here's detailed instructions on how to obtain every badge and detailed tips for winning online races, so you can get your elusive gold Horizon Open Champion badge too! Also includes April, May, and June 2023's new badges.
 
 ## Badges
 
-There are a total of 32 badges to earn, taking a total of around 100-150 hours:
+There are a total of 37 badges to earn, taking a total of around 100-150 hours:
 
 * 11 Level based badges
 * 3 Completion based badges
 * 7 Action based badges
 * 8 Limited edition badges 
 * 3 Car collection based badges
+* 5 Test track badges
 
 Here's how to earn them all!
 
-[![](/assets/images/2023/badges-thumbnail.jpeg)](/assets/images/2023/badges.jpeg)
+[![](/assets/images/2023/badges-thumbnail.png)](/assets/images/2023/badges.png)
 
 ### Level based badges
 
@@ -86,6 +87,19 @@ They were very easy to unlock by just playing the game each week and completing 
 | ![](/assets/images/2023/badges-reward2.png)<br>**Piece of Cake!**<br>Earn the second Series Reward during the 'Horizon 10-Year Anniversary' | ![](/assets/images/2023/badges-masterexplorer.png)<br>**Master Explorer**<br>Complete all 16 Pathfinder Accolades |
 
 *^Note this is actually unlocked in the Spring season, the in-game description is incorrect.*
+
+### Test track badges
+
+These were added in June 2023, and are far, far grindier than they might seem at first glance!
+
+For the distance-based badge, you just want to drive as quickly as possible up and down the highway for a few hours. Assuming an average speed of 250mph, it'll take 2 hours of constant driving to reach 500 miles and earn the "Just Keep Driving, Driving, Driving". I used the Rimac Nivera, but anything works.
+
+As painful as that seems, the "Tinker, Tailor, Car Tuner" badge is far worse! It requires spending 10 million credits, but each car's expensive items (such as engine swaps) can only be purchased once. As such, you need to essentially put as much as possible on a car, exit the test track to purchase the items, then repeat with a new car. This process takes almost exactly 2 minutes, and you'll typically spend 120-150k per car. Assuming an optimistic 150k per car, you'll need to upgrade 67 cars, taking a little over 2 hours. However, this requires attention to navigate the menus efficiently, so 3-4 hours is more realistic. Ouch.
+
+||||
+| --- | --- | --- |
+| ![](/assets/images/2023/badges-tt-purchase.png)<br>**Keeping Track**<br>Apply and purchase an upgrade at the Horizon Test Track | ![](/assets/images/2023/badges-tt-purchase50.png)<br>**Track Record**<br>Apply and purchase an upgrade to 50 cars at the Horizon Test Track | ![](/assets/images/2023/badges-tt-500m.png)<br>**Just Keep Driving, Driving, Driving**<br>Drive 500 miles (804.7km) at the Horizon Test Track |
+| ![](/assets/images/2023/badges-tt-spend1m.png)<br>**Break The 'Piggy' Bank**<br>Spend 1,000,000 credits on upgrades at the Horizon Test Track | ![](/assets/images/2023/badges-tt-spend10m.png)<br>**Tinker, Tailor, Car Tuner**<br>Spend 10,000,000 credits on upgrades at the Horizon Test Track | |
 
 ## Online racing
 
