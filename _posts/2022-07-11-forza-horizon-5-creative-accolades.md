@@ -47,7 +47,7 @@ The accolades *"All expenses paid", "Performance interest", "Picking up the tab"
 
 The test track accolades *"Testing, testing", "Give me five!", "Tried and tested!", "Testing the waters", "Upgrade-zathon"*, and *"Modification specialist"* can be completed fairly easily, by just purchasing as much as possible for a few cars. Most vehicles can have around 150k of upgrades added, with the engine swap being the main part of this. 
 
-Similarly, *"Track miles", "Making tracks", "Leaving tracks"*, and *Maxing out* just require driving up and down the highway for a bit. Picking a fast car obviously makes this quicker!
+Similarly, *"Track miles", "Making tracks", "Leaving tracks"*, and *"Maxing out"* just require driving up and down the highway for a bit. Picking a fast car obviously makes this quicker!
 
 *"Fast track", "Short course", "Off track"*, and *"Crash course"* require completing a specific skill in a specific car in a specific class. I recommend filtering your cars by type when starting the test track, then purchasing upgrades to get to the required class. Finally, *"Getting side-tracked"* is very easy, only requiring driving from the test track starting point to the far end of the drag strip in a retro muscle car! You'll need to drive out of & reenter the test track starting zone to trigger the timer start.
 
