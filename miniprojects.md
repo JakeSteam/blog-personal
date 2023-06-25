@@ -21,5 +21,10 @@ Having a list of them in one place will avoid them getting forgotten about or bu
 
 | Date | Miniproject | Blogpost(s) |
 | -- | -- | -- |
-| 2022-03-14 | [Amazon analysis](https://docs.google.com/spreadsheets/d/11faLlOZjgjIRu5zCa9KMKONDCnDs1ZpzDy_mozxVjSg/edit) | [Analysing 12 years of Amazon purchases (and how you can too!)](/analysing-my-amazon-purchases/)
+| 2022-02-28 | [YouTube analysis](https://docs.google.com/spreadsheets/d/1LJBg9aZL42ri1tEoPPzrRX4M2Q_podGX2CDbGC4OCpk/edit) | [Analysing my YouTube subscriptions & views over the last 4 years (and how you can too!)](/analysing-my-youtube-subscriptions/) |
+| 2022-03-01 | Goodreads analysis | [Analysing my Goodreads book history since 2014 (and how you can too!)](/analysing-my-goodreads-book-history/) |
+| 2022-03-14 | [Amazon analysis](https://docs.google.com/spreadsheets/d/11faLlOZjgjIRu5zCa9KMKONDCnDs1ZpzDy_mozxVjSg/edit) | [Analysing 12 years of Amazon purchases (and how you can too!)](/analysing-my-amazon-purchases/) |
 | 2022-03-20 | [Kindle analysis](https://docs.google.com/spreadsheets/d/1eH3KU0Htb_cMmO6-vij0pQBjInj9gX6-5KQACSqBj4s/) | [Analysing 5 years of Amazon Kindle reading (and how you can too!)](/analysing-5-years-of-amazon-kindle-reading/) |
+| 2022-11-01 | [Twitch analysis](https://docs.google.com/spreadsheets/d/16bE6egEtML9t6rPVaqtLMZU7pPjixSlmG_JhVQ0dJkY/edit?usp=sharing) | [How do you use Twitch? A guide to analysing your emotes, subscriptions, chat messages, and viewing history!](/analysing-my-twitch-data/) |
+| 2023-05-16 | [Splitting household income](https://docs.google.com/spreadsheets/d/12Y-qo7uVEvAMLfDzJvbHf4MDrCDiUHGnC4XkhPq5vLY/edit?usp=sharing) | [Using an income ratio spreadsheet & Splitwise to split household expenses fairly and transparently as a couple](/using-income-ratio-spreadsheet-split-bills/) |
+| 2023-06-06 | [Netflix analysis](https://docs.google.com/spreadsheets/d/1rmQ0BNOr5BrFJQpvTdse7nj_KpFwYDPKW4cmg_3TLXQ/edit?usp=sharing) | [Analysing your Netflix viewing history: How much have you watched, when, and how?](/analysing-netflix-viewing-history/) |
