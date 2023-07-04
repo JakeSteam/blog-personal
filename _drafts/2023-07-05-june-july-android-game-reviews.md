@@ -1,8 +1,8 @@
 ---
-title: "Reviewing 3 recent Android games I'm in love with: Slitherlink, Lone Tower, and Cell: Idle Factory"
+title: "Reviewing 3 recent Android games I've greatly enjoyed: Slitherlink, Lone Tower, and Cell: Idle Factory"
 author: Jake Lee
 layout: post
-image: /assets/images/2023/july_android_header.png
+image: /assets/images/2023/july-banner.png
 tags:
     - Android
     - Gaming
@@ -90,6 +90,7 @@ With this pack purchased, chests can be opened without watching an advert, and t
 * When you unlock automation, you probably want to have it turned off. Otherwise, you'll automatically spend all your money on low level stuff, an inefficient usage.
 * Make sure to check your "Player Menu" (in the bottom right tab) for any achievement rewards you can claim. 
 * [The Discord](https://discord.com/invite/CIFI) undoubtedly has lots more tips, I'm intentionally avoiding it for now.
+* There are a few hundred free gems available from the settings page, and viewing the loop modifications advanced tips.
 
 ### Screenshots
 
@@ -100,28 +101,44 @@ With this pack purchased, chests can be opened without watching an advert, and t
 
 ## #3: [Lone Tower](https://play.google.com/store/apps/details?id=com.genetix.lonetower)
 
-intro
+Lone Tower is essentially a (single) tower defense roguelite. Each run you'll upgrade your tower against waves of enemies, and try to survive as long as possible. Simple!
 
 ### Review
 
+Personally I found myself not playing this as much as I'd like due to the full attention required during gameplay. Game speed is an upgradeable value, putting this higher earns coins faster but also increases risk. By the time it is at 2.5x game speed, the damage spikes from enemies is hard to counteract in time, and you'll often see your health go from full to empty in seconds.
 
+There's quite a bit of strategy involved in the upgrades, with a constant balancing of risk, reward, premium currency earning, etc. For example, whilst you can upgrade your coins per day or per kill, it might be wiser to upgrade the chance to steal life, or even overall health. Finding a good balance is pretty much trial and error, and depends on your play style.
+
+I generally prioritised "Lifesteal Amount / Chance" and "Attack Range / Speed". I found the low % chances of "Free Upgrade" and "Supply Drop" not worth the high costs, and generally ignored them. Similarly, "Defense" and "Multishot Chance" didn't seem a good use of money during the early game.
+
+Weirdly, the pause / item buttons didn't seem to... work properly for me. Sometimes they just didn't respond, and were pretty much unusable during gameplay. Due to this inability to reliably pause, I ended up completing runs in single sessions to play it safe.
+
+Overall, Lone Tower is a simple game good for medium-high attention 2-3 minute game sessions, but perhaps relies a bit too heavily on the roguelite elements. Purchasing permanent upgrades is absolutely required to progress in the game, with the first few runs making almost negligible progress. A bit of additional complexity is added via quests and gameplay-affecting cards, but the core loop is pretty simple.
 
 ### Monetisation
 
+There's quite a few opportunities to watch ads for small boosts, and as far I can tell this is the only monetisation. They're all very optional, and I don't think I watched any adverts throughout my 7-8 hours of gameplay.
 
+I didn't find any in-app purchases, which is perhaps a shame as I'd have liked to pay a little to double gem or coin earnings.
 
 ### Tips
 
-
+* I found the "Shockwave", "Magic Orb", and "Flying Axes" cards best, all of them helping to provide general passive damage increase.
+* Keep an eye on the ever-increasing enemy health (number next to skull), and make sure your damage is above this. If it drops below, your run will end quickly!
+* Crops are great! The easy gold from them is super helpful, I recommend using them whenever possible.
+* Sometimes random events will happen, and a dialog will ask if you want to help an old man or similar. This seems to give positive results around 80% of the time, so accepting the popup is probably a good decision.
+* There [is a Discord server](https://discord.gg/qtEwHEjfU6) with a quite active community.
 
 ### Screenshots
 
-
-
-
+| Main Menu | Gameplay | Permanent Upgrades |
+| --- | --- | --- |
+| [![lone tower main menu](/assets/images/2023/july-lone-menu-thumbnail.jpg)](/assets/images/2023/july-lone-menu.jpg) | [![lone tower gameplay](/assets/images/2023/july-lone-game-thumbnail.jpg)](/assets/images/2023/july-lone-game.jpg) | [![lone tower upgrades](/assets/images/2023/july-lone-upgrades-thumbnail.jpg)](/assets/images/2023/july-lone-upgrades.jpg) |
 
 ## Conclusion
 
-Overall, only 2 of these are idle games, with SpinCraft being more of a roguelike. The idle games also both fall into the common trap of not quite having enough content, which is honestly a real shame for great games like Power Inc. 
+3 games, 3 different genres! Definitely a first, although we'll see how long it lasts with the incremental games subreddit [opening back up](https://www.reddit.com/r/incremental_games/comments/14qey79/rincremental_games_is_now_once_again_open_to_the/) the day this post was written. Whilst they are ultimately a waste of time, I can't resist the dopamine mini-hits from a good incremental game.
 
-I'll be sticking around on the Discord / Subreddit for these games to keep an eye out for future updates, I really hope to see them expanded much more in the future! Power Inc definitely has a ton of potential.
+I strongly suspect I'll be sticking with Slitherlink for a while, maybe even multiple years as with Wordiest and various Nonogram games. I wish there was some sort of structured campaign, or a way to "complete" the game, but perhaps I'll have to find my own definition of success.
+
+See you in a couple of months!
