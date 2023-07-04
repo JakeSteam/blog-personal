@@ -50,8 +50,71 @@ It's very hard to give tips for Slitherlink, since every board type plays quite 
 
 | Gameplay (Snowflake layout, Small size, Normal difficulty) | Level Select | Settings |
 | --- | --- | --- |
-| [![slitherlink gameplay](/assets/images/2023/july-slitherlink-game-thumbnail.jpg)](/assets/images/2023/july-slitherlink-game.jpg) | [![slitherlink level select](/assets/images/2023/july-slitherlink-levels-thumbnail.jpg)](/assets/images/2023/july-slitherlink-levels.jpg) | [![slitherlink gameplay](/assets/images/2023/july-slitherlink-settings-thumbnail.jpg)](/assets/images/2023/july-slitherlink-settings.jpg) | 
+| [![slitherlink gameplay](/assets/images/2023/july-slitherlink-game-thumbnail.jpg)](/assets/images/2023/july-slitherlink-game.jpg) | [![slitherlink level select](/assets/images/2023/july-slitherlink-levels-thumbnail.jpg)](/assets/images/2023/july-slitherlink-levels.jpg) | [![slitherlink settings](/assets/images/2023/july-slitherlink-settings-thumbnail.jpg)](/assets/images/2023/july-slitherlink-settings.jpg) | 
 
+
+## #2: [Cell: Idle Factory](https://play.google.com/store/apps/details?id=com.OctocubeGamesCompany.CIFI)
+
+Of course, every Android game roundup has to include an incremental game! Cell: Idle Factory is a nice complex one, that reminds me a lot of [Idle Research](/aug-nov-idle-android-game-reviews/#2-idle-research---download) in terms of layering complexity over time. 
+
+### Review
+
+The overall structure of the game is the classic "create `A` which generates `B` which generates `C` which generates `D` and so on". In this instance, you are creating generators that create other tiers of generator, and... there are somehow spaceships involved.
+
+The elephant in the room is the game's interfaces. During my first few hours I regularly got "lost" and struggled to find the specific screen I was after. Whilst I generally found my target eventually, the inconsistent navigation could be a little frustrating. With all the purchasable upgrades spread throughout different screens, you'll likely spend most of your time just checking what can be afforded.
+
+The game is definitely more idle than most, with the only saving grace being an "Arcade" unlocked after a couple of hours. This allows a short game of Snake / Pong every 10 minutes to earn extra currency, hopefully new games get added to make this feature more varied.
+
+Whilst I did compare the game to Idle Research early, the progression speed is noticeably slower. Due to a purchase I made, I had all cell (main resource) generation quadrupled. Despite this, there's often be quite a lengthy wait before I could buy anything with a tangible impact. This, combined with the game's incentives to leave the game open for long periods of time (chests that can be claimed every X minutes), result in a game that will end up being 10 seconds of actual interaction every few minutes.
+
+In terms of community, the game seems to be growing extremely quickly. [The Discord has almost 10k members](https://discord.com/invite/CIFI), although I haven't joined so that I can discover game elements myself. As with other complex games that have layers of prestige and extremely deep strategy, there is a risk that reading the "optimal" route can somewhat ruin the gameplay experience. 
+
+The playerbase seems very dedicated, as indicated by 10k members on the Discord server with only 36k accounts on the leaderboards. This means nearly 1/3 of all users are invested enough to join the Discord! Additionally, on the in-game leaderboard my rank doesn't improve much, suggesting there are hundreds of other players playing just as actively! 
+
+I'm pretty sure the game gets extremely deep later on, with massive areas of the game still clearly locked for me. On my 4th day of playing, with ~7 hours of active gameplay, I'm definitely still hooked to the progression system. However, the honeymoon period is starting to wear off, and unless some new major content unlocks with the next prestige or two I might stop leaving the game open and just do daily check-ins. 
+
+Finally, a very minor complaint. Even whilst muted, the game seems to output some sort of sound, as it "traps" my headphones from automatically switching to another device! This is quite inconvenient for a game that encourages leaving it open for long periods of time, and it will sometimes take audio focus away from my laptop.
+
+### Monetisation
+
+The monetisation is unfortunately almost required. I purchased the "Starter pack", as it was a ~$5 purchase that removed all adverts, doubled all cell earnings, and provided some diamonds (used for the most powerful upgrades). 
+
+With this pack purchased, chests can be opened without watching an advert, and the 2x advert bonus can be applied permanently. Considering how essential both of these feel for reasonable progression, players who haven't purchased the pack are probably going to have a pretty rough time. The other packs seem completely unreasonably priced, so I doubt I'll make any additional purchases!
+
+### Tips
+
+* The Pong game is weirdly easy. The other player seems to move at random, so if you get stuck in a rally it might be best to intentionally lose a life and get some easy points when it misses the next few first hits.
+* The Snake game is not fair, and will spawn obstacles right in front of you. Oops!
+* Don't "prestige" too early, I did and I think it slowed my progression down noticeably.
+* Read descriptions carefully, you'll quite often have a choice between two ship upgrades, and one will be significantly more useful.
+* When you unlock automation, you probably want to have it turned off. Otherwise, you'll automatically spend all your money on low level stuff, an inefficient usage.
+* Make sure to check your "Player Menu" (in the bottom right tab) for any achievement rewards you can claim. 
+* [The Discord](https://discord.com/invite/CIFI) undoubtedly has lots more tips, I'm intentionally avoiding it for now.
+
+### Screenshots
+
+| Ship | Loop Mod Tree | Automation |
+| --- | --- | --- |
+| [![cell idle factory ship](/assets/images/2023/july-cifi-ship-thumbnail.jpg)](/assets/images/2023/july-cifi-ship.jpg) | [![cell idle factory loop mod tree](/assets/images/2023/july-cifi-loopmod-thumbnail.jpg)](/assets/images/2023/july-cifi-loopmod.jpg) | [![cell idle factory automation](/assets/images/2023/july-cifi-automation-thumbnail.jpg)](/assets/images/2023/july-cifi-automation.jpg) |
+
+
+## #3: [Lone Tower](https://play.google.com/store/apps/details?id=com.genetix.lonetower)
+
+intro
+
+### Review
+
+
+
+### Monetisation
+
+
+
+### Tips
+
+
+
+### Screenshots
 
 
 
