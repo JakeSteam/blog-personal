@@ -34,9 +34,11 @@ In summary, Slitherlink will make you feel like an absolute idiot for minutes at
 
 ### Monetisation
 
-There's none! 
+~~There's none! It's free, ad-free, and you can't donate money even if you wanted to!~~ 
 
-It's free, ad-free, and you can't donate money even if you wanted to! The dev (Ejelta) has made no other games besides a tech demo from over a decade ago, and [their website](https://ejelta.com/) suggests mobile development is very much a hobby project.
+The dev (Ejelta) has made no other games besides a tech demo from over a decade ago, and [their website](https://ejelta.com/) suggests mobile development is very much a hobby project.
+
+After speaking to the dev, it turns out there *are* small payments to unlock each grid, with 20 completions in each provided for free. Since I was trying the larger / harder puzzles, I was nowhere near the limit! Regardless, no adverts and a one-off payment for each grid style seems fair. Once I get to the limits I'll update this post with the actual prices.
 
 ### Tips
 
