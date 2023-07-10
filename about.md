@@ -24,7 +24,8 @@ This is my blog for non-programming posts, all my programming posts are over on 
 
 ## Work
 
-**2021 - 2022**: Principal Android Engineer -> Engineering Manager @ [Photobox](https://play.google.com/store/apps/details?id=com.photobox.android)<br>
+**2023 - ?**: Staff Android Engineer @ [Seatfrog](https://play.google.com/store/apps/details?id=au.com.seatfrog.icarus)<br>
+**2021 - 2023**: Principal Android Engineer -> Engineering Manager @ [Photobox](https://play.google.com/store/apps/details?id=com.photobox.android)<br>
 **2020 - 2021**: Lead Mobile Developer (Android) @ [Metro Bank](https://play.google.com/store/apps/details?id=uk.co.metrobankonline.mobile.android.production)<br>
 **2019 - 2020**: Senior / Lead Android Developer @ [Candyspace](https://www.candyspace.com/) ([ITV Hub](https://play.google.com/store/apps/details?id=air.ITVMobilePlayer))<br>
 **2018 - 2019**: Senior Android Developer @ [ingenie](https://www.ingenie.com/) ([ANWB Veilig Rijden](https://play.google.com/store/apps/details?id=nl.anwb.veiligrijdenautoverzekeringsensor))<br>
