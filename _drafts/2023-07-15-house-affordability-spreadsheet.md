@@ -1,5 +1,5 @@
 ---
-title: What house can you afford? A calculator to simplify all house buying & selling calculations in the UK
+title: What house can you afford? A calculator to simplify all house buying & selling calculations in the UK 🏡 
 author: Jake Lee
 layout: post
 image: /assets/images/2023/affordability-banner.png
@@ -30,16 +30,16 @@ To do this, just go `File` -> `Make a copy`, then choose where to save it. Easy!
 
 Once you've got a copy, how do you actually make it useful? Simple: Fill in the values, then see what numbers come out!
 
-*Note: Stamp duty rules sometimes change[^changing-rules], so please use a real calculator[^stamp-duty-calc] to double-check this bit.*
-
-[^stamp-duty-calc]: <https://www.stampdutycalculator.org.uk/>
-[^changing-rules]: <https://www.gov.uk/stamp-duty-land-tax/residential-property-rates>
-
 ### Filling in values 
 
 You should only need to change the new house price, old house price, old house mortgage, and your current savings & income.
 
 Once you've filled those in, the `Mortgage` and `Cash` sections will be populated with the required amounts and your current amounts. I recommend reading the next section for an explanation of each item, but it is optional.
+
+*Note: Stamp duty rules sometimes change[^changing-rules], so please use a real calculator[^stamp-duty-calc] to double-check this bit.*
+
+[^stamp-duty-calc]: <https://www.stampdutycalculator.org.uk/>
+[^changing-rules]: <https://www.gov.uk/stamp-duty-land-tax/residential-property-rates>
 
 ## Explanation / notes
 
@@ -51,9 +51,9 @@ Here's an explanation behind each field:
 
 * **New house price**: The listing price of your new house. You likely already know your approximate budget, it's worth changing this number around a bit to see how the figures work out.
 * **Old house price** & **Old house mortgage**: The approximate price your current house will sell for. Be conservative, so you can afford to sell for lower than expected! The mortgage should be the amount *remaining*, not the initial mortgage size.
-* **Total savings**: The total amount of money (and anybody you're purchasing with) has available. Keep in mind house sales often take a few months, so whilst you'll likely have a bit more than you initially calculate, this will be needed for furniture purchases etc.
+* **Total savings**: The total amount of money you (and anybody you're purchasing with) have available. Keep in mind house sales often take a few months, so whilst you'll likely have a bit more than you initially calculate, this will be needed for furniture purchases etc.
 * **Total annual income**: Again, this should be combined income. If you have a varying paycheck / are self-employed the rules are different[^self-employed], this spreadsheet is only for predictable salaries.
-* **Deposit**: How much of the house price will you be paying as a deposit to the bank? 15% is often recommended as a minimum[^minimum-deposit] (and is what I did), with 20% the average[^average-deposit]. Below that and the loan rates will be painful.
+* **Deposit**: How much of the house price will you be paying as a deposit to the bank? 15% is often recommended as a minimum[^minimum-deposit] (and is what I did), with 20-25% the average[^average-deposit]. Below that and the loan rates will be painful.
 * **Income multiplier**: How much will the bank loan you? This is almost always 4.5x your combined income, but will be lower if you have bad credit, and higher in rare situations. 
 
 [^self-employed]: <https://www.moneysupermarket.com/mortgages/self-employed/>
@@ -90,6 +90,7 @@ There's a million articles offering tips on buying & selling property (and I rea
 * **Monitor house sites closely, and view ASAP**. Houses will often be listed and go under offer within the week, so viewing them as soon as possible is recommended. Set up daily alerts on RightMove, and book a viewing the next day if possible.
 * **Be nice to estate agents**. Yes, it can be annoying receiving constant calls from countless estate agents. However, they can tell you about properties days before they go on the public sites, so being clear about your requirements and reliable with answering your phone will help.
 * **Accept all viewings**. We struggled to sell our old property, and ultimately had to agree to any viewings. This meant inconvenient times, evenings, weekends, repeat viewings. It can be helpful to find a nearby library / coffee shop where you can work for short periods of time whilst viewings happen.
+* **Use a mortgage broker**. Brokers often have access to more deals than you, and ours ([Habito](https://www.habito.com/)) found much better rates than we could find independently. A slightly better rate can save you thousands per year, so getting the best rate here is crucial. 
 
 ## Conclusion
 
@@ -97,6 +98,6 @@ Buying a house is stressful, doubly so when buying *and* selling. Having a singl
 
 I'd really recommend having a read through MSE's [buying a home timeline](https://www.moneysavingexpert.com/mortgages/buying-a-home-timeline/), and [general house buying guide](https://www.moneysavingexpert.com/mortgages/house-buying-guide/). Additionally, [the r/UKPersonalFinance subreddit](https://www.reddit.com/r/UKPersonalFinance/) is an amazing resource, all of your questions probably have detailed answers somewhere on there. 
 
-Good luck!
+Good luck! 🏡
 
 ## References
