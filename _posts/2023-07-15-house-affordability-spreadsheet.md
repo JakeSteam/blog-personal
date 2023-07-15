@@ -63,7 +63,9 @@ Here's an explanation behind each field:
 ### Buying costs
 
 * **Mortgage fees**: When comparing mortgages, quite a few will add £999 in fees, this is worth factoring in.
-* **Stamp duty**: The bands for stamp duty can change, so I recommend double-checking the result with [a real calculator](https://www.stampdutycalculator.org.uk/).
+* **Stamp duty**: The bands for stamp duty can change, so I recommend double-checking the result with [a real calculator](https://www.stampdutycalculator.org.uk/). I used a formula from Microsoft forums[^stamp-duty-formula], the results matched the real calculator for all values I tried.
+
+[^stamp-duty-formula]: <https://techcommunity.microsoft.com/t5/excel/stamp-duty-calculation/m-p/3775797/highlight/true#M185945>
 
 ### Selling costs
 
