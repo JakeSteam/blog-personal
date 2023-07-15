@@ -2,7 +2,7 @@
 title: What house can you afford? A calculator to simplify all house buying & selling calculations in the UK
 author: Jake Lee
 layout: post
-image: /assets/images/affordability-banner.png
+image: /assets/images/2023/affordability-banner.png
 tags:
     - Finance
     - Spreadsheet
@@ -30,7 +30,7 @@ To do this, just go `File` -> `Make a copy`, then choose where to save it. Easy!
 
 Once you've got a copy, how do you actually make it useful? Simple: Fill in the values, then see what numbers come out!
 
-*Note: Stamp duty rules sometimes change[^changing-rules], so please use a real calculator[^stamp-duty-calc] for this bit!
+*Note: Stamp duty rules sometimes change[^changing-rules], so please use a real calculator[^stamp-duty-calc] to double-check this bit.*
 
 [^stamp-duty-calc]: <https://www.stampdutycalculator.org.uk/>
 [^changing-rules]: <https://www.gov.uk/stamp-duty-land-tax/residential-property-rates>
@@ -39,7 +39,7 @@ Once you've got a copy, how do you actually make it useful? Simple: Fill in the 
 
 You should only need to change the new house price, old house price, old house mortgage, and your current savings & income.
 
-Once you've filled those in, the `Mortgage` and `Cash` sections will be populated with the required amounts and your current amounts. I recommend reading the next section for explanation of each item, but it is optional.
+Once you've filled those in, the `Mortgage` and `Cash` sections will be populated with the required amounts and your current amounts. I recommend reading the next section for an explanation of each item, but it is optional.
 
 ## Explanation / notes
 
@@ -76,15 +76,15 @@ Here's an explanation behind each field:
 ### Totals
 
 * **Mortgage needed** & **Mortgage offered**: The mortgage size you need for your property, and what you are likely to be offered by the bank. If you'll get enough, this will be green!
-* **Cash needed** & **Cash owned**: How much cash you'll need for the deposit and all fees, minus the amount you'll get back from selling your current property.
+* **Cash needed** & **Cash owned**: How much cash you'll need for the deposit and all fees, minus the amount you'll get back from selling your current property. Again, if you have enough this will be green.
 * **Maximum house price**: The maximum house price you can likely afford. This is approximate, since you'll be limited by cash or mortgage available. Putting this number in as the *New house price* will show if it is actually possible.
 
 ## House buying / selling tips
 
 There's a million articles offering tips on buying & selling property (and I read half of them!), so I'll just share a few I found particularly helpful:
 
-* **Use [ReallyMoving](https://reallymoving.com) to find a conveyancer**. I ended up with an excellent one, that made the whole process drastically easy, let me view all documents / emails on their portal instantly, upload files easily, etc. They also didn't require any chasing, and would actively chase other solicitors!
-* **Be in for the long haul**. It took us almost a year from wanting to buy to actually moving into our house! This was due to our house taking a while to sell, then taking it off the mortgage briefly as one of us moved to a higher paying job.
+* **Use [ReallyMoving](https://reallymoving.com) to find a conveyancer**. I ended up with an excellent one, that made the whole process as easy as possible, let me view all documents / emails on their portal instantly, upload files easily, etc. They also didn't require any chasing, and would actively chase other solicitors!
+* **Be in it for the long haul**. It took us almost a year from wanting to buy to actually moving into our house! This was due to our old property taking a while to sell, then taking it off the mortgage briefly as one of us moved to a higher paying job.
 * **Be organised and prompt**. When your solicitor asks a question, the entire process is likely waiting for your answer! Reply quickly but always accurately, and make sure you're aware of any upcoming deadlines.
 * **Ask questions if you aren't sure**. Your solicitor works for you. If anything doesn't make sense, ask them, they're as interested as you are in everything going smoothly!
 * **Monitor house sites closely, and view ASAP**. Houses will often be listed and go under offer within the week, so viewing them as soon as possible is recommended. Set up daily alerts on RightMove, and book a viewing the next day if possible.
@@ -92,3 +92,11 @@ There's a million articles offering tips on buying & selling property (and I rea
 * **Accept all viewings**. We struggled to sell our old property, and ultimately had to agree to any viewings. This meant inconvenient times, evenings, weekends, repeat viewings. It can be helpful to find a nearby library / coffee shop where you can work for short periods of time whilst viewings happen.
 
 ## Conclusion
+
+Buying a house is stressful, doubly so when buying *and* selling. Having a single place to focus all the calculations made it much easier for me to manage, maybe it will help you too.
+
+I'd really recommend having a read through MSE's [buying a home timeline](https://www.moneysavingexpert.com/mortgages/buying-a-home-timeline/), and [general house buying guide](https://www.moneysavingexpert.com/mortgages/house-buying-guide/). Additionally, [the r/UKPersonalFinance subreddit](https://www.reddit.com/r/UKPersonalFinance/) is an amazing resource, all of your questions probably have detailed answers somewhere on there. 
+
+Good luck!
+
+## References
