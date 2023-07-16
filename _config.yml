@@ -1,7 +1,7 @@
 # Basic site setup
 remote_theme: JakeSteam/minimaJake@1.0.6
 title: Jake Lee
-description: In-depth ad-free articles about finance, gaming, data analysis, travel, aaaand everything else non-technical.
+description: In-depth ad-free articles about finance, gaming, data analysis, travel, aaaand everything else non-technical
 accent_colour: "#acacac"
 
 # Optional native feature customisation (delete to turn off)
