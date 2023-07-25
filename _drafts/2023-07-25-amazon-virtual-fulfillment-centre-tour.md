@@ -54,4 +54,42 @@ Given that this is a controlled PR opportunity, I don't see why those attending 
 
 ## The tour
 
+### Intro
+
+### Robotics
+
+### Pick
+
+### Pack
+
+### SLAM
+
+### Ship
+
+### Q&A 
+
+Notes:
+- 15:00 - 15:01: promotional overview of the tour
+- 15:02 - 15:04: intro to the process etc, with automatic robots in the background
+- 15:04 - 15:09: FRA7, description of the little robots moving stacks around, overview of how the robots work (QR codes)... amnesty responders that retrieve broken things. talking about the career, paying for education for employees.
+- 15:09 - 15:13: Pick stations, scanning small items and putting into the correct tote. Speaking about ergonomics, what happens when a tote is full. 
+- 15:12 - 15:17: Pack station w/Riyad, from totes into boxes. Talk of algorithms, and they recommend which box to use. The algorithm controls it all!!! Recyclable, why boxes are sometimes too big, sustainability. However, no address label yet......... instead it's the "SP" barcode that goes on the packaging material.
+- 15:17 - 15:20: "SLAM": scan label apply manifest, gets scanned, then mailing label is created instantly. Also includes quality check, including a weight check (to ensure no extra / missing items). Label sticking doesn't touch parcel, stops just before then uses air to blow label on.
+- 15:20 - 15:27: Q&A (4-5) "Lot of AI help in place". 
+- 15:27 - 15:28: POV of parcel going through all the steps from start -> giant boxes for trucks.
+- 15:28 - 15:32: "Ship": Parcels down conveyor belts "chutes". Shipping people move from bottom of chutes into large storage "cages", that then get moved into lorries that arrive at prearranged time. Then go to "sortation centre", then "delivery centre" (e.g. local logistics). 
+- 15:32 - 15:34: Video about "extreme" deliveries to himalayas. Superheroes: Some wear capes, others deliver them. 
+- 15:34 - 15:42: More Q&A (4-5), 1m/24hr some centres.
+- 15:43: Done, exit survey
+
+Joiners from india, canada, USA
+
+AR = Amazon Robotics centre = handles the smaller packages! FRA3 etc are all clothing related. Fulfillment centres are all very similar, in terms of tech / appearance. Don't work all days, usually Mon-Sat.
+
+Manchester distribution centre "MAN1" (man airport, building 1). Named after nearest airport. 
+
+## Impressions
+
+## Tour feedback
+
 ## Conclusion
