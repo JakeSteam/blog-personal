@@ -112,7 +112,7 @@ Next up, a few minutes at the packing station with "Riyadh" where these boxes of
 
 The packing stations are pretty simple, with totes of items coming in on the left, various envelope sizes in front, and of course a screen guiding the packer with exactly which envelope is needed. I didn't want to include any of the employees here, so unfortunately only have a low quality cropped image of the packing station:
 
-[![](/assets/images/2023/amazon-pack.png)](/assets/images/2023/amazon-pack.png)
+[![](/assets/images/2023/amazon-pack-thumbnail.png)](/assets/images/2023/amazon-pack.png)
 
 This was an opportune moment for our tour guide to discuss sustainability. Personally I recycle all my Amazon packaging (or use it for home composting), and it is genuinely impressive how little plastic they use (none?). Amazon is apparently aiming for [net-zero carbon emissions by 2040](https://sustainability.aboutamazon.co.uk/environment/the-climate-pledge), and packaging material is clearly a large part of this.
 
@@ -134,27 +134,23 @@ This step also includes checking the package's weight is correct, and performs s
 
 In the "Applying manifest" step above, one of the two arms is mid-stamp. Interestingly, it apparently applies the label without any physical contact! Instead, the label is attached to the end of the arm, which is lowered to just above the package itself before a small burst of air actually releases and applies the label.
 
+Now the package has a label, it's ready to ship.
+
 ### Ship
 
-- 15:27 - 15:28: POV of parcel going through all the steps from start -> giant boxes for trucks.
-- 15:28 - 15:32: "Ship": Parcels down conveyor belts "chutes". Shipping people move from bottom of chutes into large storage "cages", that then get moved into lorries that arrive at prearranged time. Then go to "sortation centre", then "delivery centre" (e.g. local logistics). 
-- 15:32 - 15:34: Video about "extreme" deliveries to himalayas. Superheroes: Some wear capes, others deliver them. 
+This section was perhaps the most futuristic, with lots of large conveyor belts moving packages around into larger crates, very very cool. A prerecorded video through the conveyor belt network was shown from a package's point of view, which was as watchable as it was predictable!
+
+The large crates at the end of conveyor belts are then loaded into pre-scheduled delivery trucks (in an algorithm-controlled efficient layout of course!). These trucks then make their way into various local logistics networks (e.g. a sortation centre then a delivery centre), and at this point the package is no longer the fulfilment centre's responsibility. A short video was shown about deliveries being made to the Himalayas(!), which was clearly primarily marketing content. The ending sentence "Superheroes: Some wear capes, others deliver them" was a little much for me!
 
 ### Q&As 
 
-- 15:20 - 15:27: Q&A (4-5) "Lot of AI help in place". 
-- 15:34 - 15:42: More Q&A (4-5), 1m/24hr some centres.
+There were 2 question and answer sessions, one to allow one of the tour guides to change locations, the other as a round-up at the end. As all questions were curated behind-the-scenes it's hard to tell how many were asked, but those that were asked were relatively sensible. For example, some fulfilment centres output over 1 million packages per 24 hours, a pretty staggering number by any metric.
 
-Notes:
+Another fun fact was that fulfilment centres often specialise. For example, "FRA3" is apparently entirely dedicated to clothing, whilst other centres specialise in technology, or furniture. Fulfilment centres are also extremely consistent between countries, with almost identical layouts, technology, and processes.
 
+This section also revealed that there were guests from India, Canada, various US states, as well as myself from the UK of course. As only 2-3 states were named, I suspect the number of guests was around 20, but very hard to tell with any confidence.
 
-- 15:43: Done, exit survey
-
-Joiners from india, canada, USA
-
-AR = Amazon Robotics centre = handles the smaller packages! FRA3 etc are all clothing related. Fulfillment centres are all very similar, in terms of tech / appearance. Don't work all days, usually Mon-Sat.
-
-Manchester distribution centre "MAN1" (man airport, building 1). Named after nearest airport. 
+Finally, the ~45m tour ended with a standard exit survey for feedback.
 
 ## Impressions
 
