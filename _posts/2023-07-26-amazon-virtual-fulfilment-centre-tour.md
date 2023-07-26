@@ -1,8 +1,8 @@
 ---
-title: My experience on Amazon's virtual fulfilment centre tour
+title: My experience attending Amazon's virtual fulfilment centre tour
 author: Jake Lee
 layout: post
-image: /assets/images/2023/
+image: /assets/images/2023/amazon-starting-soon.png
 tags:
     - Amazon
     - Virtual Tour
@@ -98,7 +98,7 @@ This topic also segued neatly onto employees, a recurring theme throughout. The 
 
 ### Pick
 
-The robots then take the yellow stack of shelves over to a "pick station": a human putting items into boxes. For me this was a somewhat disturbing part of the tour, as the employee was referred to as a generic "picker", despite clearly being within audible range. The picker also didn't stop picking up and depositing items for the ~4 minutes the camera was focused on her.
+The robots take the yellow stack of shelves over to a "pick station": a human putting items into boxes. For me this was a somewhat disturbing part of the tour, as the employee was referred to as a generic "picker", despite clearly being within audible range. The picker also didn't stop picking up and depositing items for the ~4 minutes the camera was focused on her.
 
 As expected, Amazon's algorithm-driven logistics beast defines in minute detail what the picker needs to do. It will visually highlight the shelf they need to pick an item from, then which box it should then be deposited in. And repeat. Again and again.
 
@@ -156,6 +156,8 @@ Finally, the ~45m tour ended with a standard exit survey for feedback.
 
 I really enjoyed the tour! I gave feedback during the exit survey, essentially the only improvements I'd make is a greater focus on their software / hardware. Obviously I'm biased, but the allusions to "the algorithms" and "the system" were too vague for me, I'd have loved to know how all the different parts cooperate and how well their system understands the physical warehouse.
 
+It would also have been good to see how the larger items (e.g. furniture) get packaged, since these items can't neatly fit into the box-and-envelope based system we saw on the tour.
+
 Since I discovered the tour via an Instagram advert, I can only assume most of the tours are Europe-based currently, and it was targeted advertising. As obvious as it sounds, having the majority of the information delivered from a relatable location in my country (Manchester, UK) made it a bit more "real".
 
 ## Impressions
@@ -164,7 +166,7 @@ So, what did I think?
 
 It was interesting! The tour was as scripted as I'd expected, but following packages from shelf to truck really helped give a clear idea of how it works. Additionally, their focus on technology & pride in reliance on algorithms was appreciated, even though descriptions were only at a high level.
 
-The tour guides seemed well-practiced, and handled the occasional minor quirk (e.g. video freezing) smoothly. It's quite impressive having half hour of video inside a real warehouse and no obvious accidents / incidents anywhere, a solid testament to Amazon's reliability. The overall impression was of a formidable logistics network that can handle pretty much anything smoothly. 
+The tour guides seemed well-practiced, and handled the occasional minor quirk (e.g. video freezing) smoothly. It's quite impressive having half hour of video inside a real warehouse and no obvious accidents / incidents anywhere, a solid testament to Amazon's reliability. The overall impression was of a formidable logistics network that can handle pretty much anything us humans throw at it. 
 
 The sheer volume of packages constantly progressing throughout the tour made it easy see how Amazon handles millions of purchases, and often manages same or next day delivery when I buy random items. Economies of scale!
 
