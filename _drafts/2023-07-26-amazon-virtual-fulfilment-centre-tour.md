@@ -152,10 +152,30 @@ This section also revealed that there were guests from India, Canada, various US
 
 Finally, the ~45m tour ended with a standard exit survey for feedback.
 
-## Impressions
-
-https://www.wired.com/story/amazons-new-robots-automation-revolution/#:~:text=The%20robots%20rolled%20beneath%20shelves,sent%20for%20packaging%20and%20shipping.
-
 ## Tour feedback
 
+I really enjoyed the tour! I gave feedback during the exit survey, essentially the only improvements I'd make is a greater focus on their software / hardware. Obviously I'm biased, but the allusions to "the algorithms" and "the system" were too vague for me, I'd have loved to know how all the different parts cooperate and how well their system understands the physical warehouse.
+
+Since I discovered the tour via an Instagram advert, I can only assume most of the tours are Europe-based currently, and it was targeted advertising. As obvious as it sounds, having the majority of the information delivered from a relatable location in my country (Manchester, UK) made it a bit more "real".
+
+## Impressions
+
+So, what did I think?
+
+It was interesting! The tour was as scripted as I'd expected, but following packages from shelf to truck really helped give a clear idea of how it works. Additionally, their focus on technology & pride in reliance on algorithms was appreciated, even though descriptions were only at a high level.
+
+The tour guides seemed well-practiced, and handled the occasional minor quirk (e.g. video freezing) smoothly. It's quite impressive having half hour of video inside a real warehouse and no obvious accidents / incidents anywhere, a solid testament to Amazon's reliability. The overall impression was of a formidable logistics network that can handle pretty much anything smoothly. 
+
+The sheer volume of packages constantly progressing throughout the tour made it easy see how Amazon handles millions of purchases, and often manages same or next day delivery when I buy random items. Economies of scale!
+
+Whilst the experience was overall very positive, I did feel sympathy for the human workers inside the factory. Given the extremely high level of automation within Amazon, humans seemed to be used only when automating a task was impossible. Despite this, their work was unbearably monotonous and repetitive, with their entire job seemingly only existing until Amazon develops robots can reliably pick up and pack arbitrary items. This is only a matter of time. 
+
+Personally, my opinion on Amazon hasn't changed much. I know they're pretty rough for employees, are putting hundreds of local stores out of business, and undoubtedly make hard decisions to try and maintain their near-monopoly. That being said, of course I order from them all the time! They're cheaper than competitors, reliable, refunds can be made easily, and overall provide an unbeatable customer experience. The main takeaway from the tour has been a greater interest in their automation technology, such as [their next generation of robots](https://www.wired.com/story/amazons-new-robots-automation-revolution/).
+
 ## Conclusion
+
+In conclusion, I'm glad I clicked the tour advert and spent the time to watch. I wouldn't have watched a 45-minute video about Amazon's warehouses, but the live aspect makes it more interesting! 
+
+Whilst the tour was clearly very heavily scripted, the people talking did seem "real" and not just parroting company talking points. They obviously weren't giving *fully* open opinions about their employer, however I suspect they were selected to be tour guides due to their genuinely positive opinions of Amazon. 
+
+One last time, if you'd like to take a virtual Amazon tour [they happen pretty regularly](https://www.amazontours.com/na/virtual), and are worth attending regardless of opinions on the company.
