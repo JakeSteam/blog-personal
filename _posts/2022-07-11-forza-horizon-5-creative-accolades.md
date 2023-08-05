@@ -124,6 +124,8 @@ I ended up doing this for the final 30-40% of my likes with multiple accounts. T
 4. Complete the tutorial, and first showcase, until you have access to car customisation.
 5. Follow the "Downloading & liking" steps, but obviously for your main account's content!
 
+*Note: If you're self-farming on an Xbox, [this Reddit comment](https://www.reddit.com/r/forza/comments/vwsd5t/the_complete_guide_to_unlocking_all_of_forza/jutln90/) has some helpful tips.*
+
 ### Photos
 
 Photos are a bit different to vinyl shapes, liveries, and tunes, as the requirements are much lower, and there's far fewer accolades to earn. However, they're also the hardest to earn legitimately, have you ever liked a photo inside Forza Horizon!?
