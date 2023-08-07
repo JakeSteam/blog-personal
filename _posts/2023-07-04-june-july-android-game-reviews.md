@@ -38,7 +38,7 @@ In summary, Slitherlink will make you feel like an absolute idiot for minutes at
 
 The dev (Ejelta) has made no other games besides a tech demo from over a decade ago, and [their website](https://ejelta.com/) suggests mobile development is very much a hobby project.
 
-After speaking to the dev, it turns out there *are* small payments to unlock each grid, with 20 completions in each provided for free. Since I was trying the larger / harder puzzles, I was nowhere near the limit! Regardless, no adverts and a one-off payment for each grid style seems fair. Once I get to the limits I'll update this post with the actual prices.
+After speaking to the dev, it turns out there *are* small payments to unlock each grid, with 20 completions in each provided for free. Since I was trying the larger / harder puzzles, I was nowhere near the limit! The unlocks are £0.99 for the full base game (4 types of board), then £0.99 for one additional board type. It's great value in my opinion, I wish there were a few more board types to buy honestly.
 
 ### Tips
 
