@@ -12,14 +12,14 @@ Having a list of them in one place will avoid them getting forgotten about or bu
 
 ## Web
 
-| Date | Miniproject | Blog post(s) |
+| Date | Miniproject | Article |
 | -- | -- | -- |
 | 2022-02-17 | [Settlers III manual](https://settlers.jakelee.co.uk/) | [Announcing an online version of the Settlers 3 game manual](https://blog.jakelee.co.uk/settlers-3-online-manual/) |
 | 2022-03-13 | [Google Play purchase history analyser](/purchase-history/) | [Analysing my Google Play purchase history (and how you can too!)](/analysing-my-google-play-purchase-history/) |
 
 ## Google Sheets
 
-| Date | Miniproject | Blogpost(s) |
+| Date | Miniproject | Article |
 | -- | -- | -- |
 | 2022-02-28 | [YouTube analysis](https://docs.google.com/spreadsheets/d/1LJBg9aZL42ri1tEoPPzrRX4M2Q_podGX2CDbGC4OCpk/edit) | [Analysing my YouTube subscriptions & views over the last 4 years (and how you can too!)](/analysing-my-youtube-subscriptions/) |
 | 2022-03-01 | Goodreads analysis | [Analysing my Goodreads book history since 2014 (and how you can too!)](/analysing-my-goodreads-book-history/) |
