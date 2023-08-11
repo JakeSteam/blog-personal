@@ -16,6 +16,7 @@ Having a list of them in one place will avoid them getting forgotten about or bu
 | -- | -- | -- |
 | 2022-02-17 | [Settlers III manual](https://settlers.jakelee.co.uk/) | [Announcing an online version of the Settlers 3 game manual](https://blog.jakelee.co.uk/settlers-3-online-manual/) |
 | 2022-03-13 | [Google Play purchase history analyser](/purchase-history/) | [Analysing my Google Play purchase history (and how you can too!)](/analysing-my-google-play-purchase-history/) |
+| 2023-08-11 | [Jerma fansite listing](https://jerma.jakelee.co.uk) | [Introducing "The Jerma List™️", a list of 70+ Jerma-related YouTube channels 📺](https://blog.jakelee.co.uk/jerma-fan-channel-list/)
 
 ## Google Sheets
 
