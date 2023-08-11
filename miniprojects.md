@@ -16,7 +16,7 @@ Having a list of them in one place will avoid them getting forgotten about or bu
 | -- | -- | -- |
 | 2022-02-17 | [Settlers III manual](https://settlers.jakelee.co.uk/) | [Announcing an online version of the Settlers 3 game manual](https://blog.jakelee.co.uk/settlers-3-online-manual/) |
 | 2022-03-13 | [Google Play purchase history analyser](/purchase-history/) | [Analysing my Google Play purchase history (and how you can too!)](/analysing-my-google-play-purchase-history/) |
-| 2023-08-11 | [Jerma fansite listing](https://jerma.jakelee.co.uk) | [Introducing "The Jerma List™️", a list of 70+ Jerma-related YouTube channels 📺](https://blog.jakelee.co.uk/jerma-fan-channel-list/)
+| 2023-08-07 | [Jerma fansite listing](https://jerma.jakelee.co.uk) | [Introducing "The Jerma List™️", a list of 70+ Jerma-related YouTube channels 📺](https://blog.jakelee.co.uk/jerma-fan-channel-list/)
 
 ## Google Sheets
 
@@ -29,3 +29,4 @@ Having a list of them in one place will avoid them getting forgotten about or bu
 | 2022-11-01 | [Twitch analysis](https://docs.google.com/spreadsheets/d/16bE6egEtML9t6rPVaqtLMZU7pPjixSlmG_JhVQ0dJkY/edit?usp=sharing) | [How do you use Twitch? A guide to analysing your emotes, subscriptions, chat messages, and viewing history!](/analysing-my-twitch-data/) |
 | 2023-05-16 | [Splitting household income](https://docs.google.com/spreadsheets/d/12Y-qo7uVEvAMLfDzJvbHf4MDrCDiUHGnC4XkhPq5vLY/edit?usp=sharing) | [Using an income ratio spreadsheet & Splitwise to split household expenses fairly and transparently as a couple](/using-income-ratio-spreadsheet-split-bills/) |
 | 2023-06-06 | [Netflix analysis](https://docs.google.com/spreadsheets/d/1rmQ0BNOr5BrFJQpvTdse7nj_KpFwYDPKW4cmg_3TLXQ/edit?usp=sharing) | [Analysing your Netflix viewing history: How much have you watched, when, and how?](/analysing-netflix-viewing-history/) |
+| 2023-07-15 | [House affordability calculator](https://docs.google.com/spreadsheets/d/1mRlD0iMLxMsksKXXV1RNfXXr1IHTWiKCNX_EKCO0noA/edit#gid=0) | [What house can you afford? A calculator to simplify all house buying & selling calculations in the UK 🏡](/house-affordability-spreadsheet/)
