@@ -12,7 +12,43 @@ I've barely played anything recently besides my beloved Slitherlink! Despite thi
 
 The games are in descending order of "fun", and might contain mild spoilers:
 
-## #1: [Inventory Idle](https://play.google.com/apps/testing/com.extedcoud.invntoryidle)
+## #2: [Casting Away](https://play.google.com/store/apps/details?id=com.nexelon.castingaway)
+
+Casting Away is one of the very few recommendations via the Google Play Store that I've actually enjoyed! For once it's not an idle game, it's a pretty typical yet satisfying fishing game.
+
+### Review
+
+This is not a complex game. You go sailing, catch some fish, use those fish to catch better fish, sell some fish, upgrade your island, and repeat. Despite this, the combination of skill and luck required to catch high level fish makes it way more fun than I expected.
+
+There is a bit of complexity via the "Fish Farm" feature, where your most expensive fish can be stored and used to earn chests. This relatively small addition means catching any fish requires choosing whether to sell it immediately, use it as a bait, or store it in the fish farm. Small feature, but adds depth.
+
+The fishing itself is extremely simple, with a single button (plus the ability to move the boat). Pressing this button casts out the line, and can reel it in whilst it falls through the water. Moving the bait as it falls is essential for avoiding the lower level fished as your expensive fish bait descends to the best fish.
+
+Your island has pretty simple upgrades, but they all help the fishing process. For example, upgrading the deck gives access to better boats with more capacity and movement speed. Upgrading the farm gives access to more animals, whose produce is used for craftable foods (once the house is also upgraded!), used for temporary perks like bonus XP or money. 
+
+Having small diversions like upgrading your island or crafting power-ups adds some very necessary depth to the game, although more would definitely be appreciated. Features like a Pokédex-style "Caught fish list" is great for completionists, but I'm starting to feel like the game has run out of surprised before I've finished the first island. Unfortunately the core loop gets pretty repetitive, and I can't see myself playing this *too* much longer.
+
+Finally, there are a few bugs. The game crashes occasionally, there's minor typos here and there, but luckily none of them seemed to actually break the game.
+
+### Monetisation
+
+This is the elephant in the room. 
+
+Forced video ads, chests requiring ads to open, microtransactions, skipping timers with adverts, it has all of them. Despite this, I was enjoying the game enough to buy the pretty expensive ad removal (£7!).
+
+Once the ad remover has been purchased, the game improves drastically. Triple chest rewards, free timer skips, luckily the game does the generous ad remover option of still giving all the optional perks. I honestly can't imagine enjoying the game without buying this, forced video ads are usually an instant red flag.
+
+### Tips
+
+* The boat moves! I didn't realise this for an embarrassingly long time, oops.
+
+
+### Screenshots
+
+| Main screen | Plants | Quests |
+| --- | --- | --- |
+
+## #2: [Inventory Idle](https://play.google.com/apps/testing/com.extedcoud.invntoryidle)
 
 Inventory Idle is technically unreleased, I saw [this open beta announcement](https://www.reddit.com/r/incremental_games/comments/16095fc/inventory_idle/) and couldn't resist since I love... inventories! The game may have changed by the time this article comes out, I played v1.0.6.
 
