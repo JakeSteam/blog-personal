@@ -1,5 +1,5 @@
 ---
-title: "Some recent Android games I've enjoyed: Inventory Idle"
+title: "Some recent Android games I've enjoyed: Casting Away, Inventory Idle"
 author: Jake Lee
 layout: post
 image: /assets/images/2023/august-banner.png
@@ -20,13 +20,11 @@ Casting Away is one of the very few recommendations via the Google Play Store th
 
 This is not a complex game. You go sailing, catch some fish, use those fish to catch better fish, sell some fish, upgrade your island, and repeat. Despite this, the combination of skill and luck required to catch high level fish makes it way more fun than I expected.
 
-There is a bit of complexity via the "Fish Farm" feature, where your most expensive fish can be stored and used to earn chests. This relatively small addition means catching any fish requires choosing whether to sell it immediately, use it as a bait, or store it in the fish farm. Small feature, but adds depth.
-
-The fishing itself is extremely simple, with a single button (plus the ability to move the boat). Pressing this button casts out the line, and can reel it in whilst it falls through the water. Moving the bait as it falls is essential for avoiding the lower level fished as your expensive fish bait descends to the best fish.
+There is a bit of complexity via the "Fish Farm" feature, where your most expensive fish can be stored and used to earn chests. This relatively small addition means catching any fish requires choosing whether to sell it immediately, use it as a bait, or store it in the fish farm. Small feature, but adds depth. The fishing itself is extremely simple, with a single button (plus the ability to move the boat). Pressing this button casts out the line, and can reel it in whilst it falls through the water. Moving the bait as it falls is essential for avoiding the lower level fish as your expensive fish bait descends to the best fish.
 
 Your island has pretty simple upgrades, but they all help the fishing process. For example, upgrading the deck gives access to better boats with more capacity and movement speed. Upgrading the farm gives access to more animals, whose produce is used for craftable foods (once the house is also upgraded!), used for temporary perks like bonus XP or money. 
 
-Having small diversions like upgrading your island or crafting power-ups adds some very necessary depth to the game, although more would definitely be appreciated. Features like a Pokédex-style "Caught fish list" is great for completionists, but I'm starting to feel like the game has run out of surprised before I've finished the first island. Unfortunately the core loop gets pretty repetitive, and I can't see myself playing this *too* much longer.
+Having small diversions like upgrading your island or crafting power-ups adds some very necessary depth to the game, although more would definitely be appreciated. Features like a Pokédex-style "Caught fish list" are great for completionists, but I'm starting to feel like the game has run out of surprises whilst only just reaching the 2nd of 3 fishing zones (4-5 hours). Unfortunately the core loop gets pretty repetitive, and I can't see myself playing this *too* much longer.
 
 Finally, there are a few bugs. The game crashes occasionally, there's minor typos here and there, but luckily none of them seemed to actually break the game.
 
@@ -41,12 +39,23 @@ Once the ad remover has been purchased, the game improves drastically. Triple ch
 ### Tips
 
 * The boat moves! I didn't realise this for an embarrassingly long time, oops.
-
+* Holding your finger on the screen speeds up cutscenes (including the intro).
+* I ignored the fishing bag for a long time, but the "Minnow" bait guard is an extremely powerful item I'd recommend having on hand.
+* Overall, this is how I progressed:
+    1. Throw the line out, if the 1-star fish is worth more than 100 just carry it to sell.
+    2. Otherwise, use it as bait for a 2-star fish. 
+    3. If the 2-star fish is worth more than 1000, just carry it to sell (or put in fish farm).
+    4. Otherwise, use it as bait, enable the Minnow, and let your protected bait drop down to the 3-star fish area.
+    5. This fish will probably be worth around 2000, far more than the cost to create a Minnow (1500 for 2).
+* Food ingredients are only useful for temporary buffs, so you might as well just craft & use them ASAP.
+* Learning which fish are high value just takes time, you'll soon learn which are worthless in their tier though!
+* The best use for currency is buying island upgrades, followed by rod upgrades, as some fish are locked behind higher levels.
 
 ### Screenshots
 
-| Main screen | Plants | Quests |
+| Island | Fish list | Fishing |
 | --- | --- | --- |
+| [![casting away island](/assets/images/2023/aug-fishing-island-thumbnail.jpg)](/assets/images/2023/aug-fishing-island.jpg) | [![casting away fish list](/assets/images/2023/aug-fishing-list-thumbnail.jpg)](/assets/images/2023/aug-fishing-list.jpg) | [![casting away fishing](/assets/images/2023/aug-fishing-fishing-thumbnail.jpg)](/assets/images/2023/aug-fishing-fishing.jpg) |
 
 ## #2: [Inventory Idle](https://play.google.com/apps/testing/com.extedcoud.invntoryidle)
 
