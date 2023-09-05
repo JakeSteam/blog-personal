@@ -114,6 +114,8 @@ What makes Griddie Islands stand out is the fair pricing of piece buying, no for
 
 Although I'm not *too* far into the game, the game looks like it has a few surprises left. For example, there seems to be some sort of island picker feature later on, and a mysterious "level loop".
 
+Finally, there's [also a Discord](https://discord.com/invite/tTPf3YU), but it looks essentially unused, with only a couple of messages in the last few months.
+
 ### Monetisation
 
 There *are* adverts you can watch to boost earnings, but... they didn't work for me, and don't seem necessary at all.
