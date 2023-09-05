@@ -1,14 +1,14 @@
 ---
-title: "Some recent Android games I've enjoyed: Casting Away, Inventory Idle, Griddie Islands, and Fill-a-pix"
+title: "Some recent Android games I've enjoyed: Casting Away, Inventory Idle, Griddie Islands, and Fill-a-pix 📲"
 author: Jake Lee
 layout: post
-image: /assets/images/2023/august-banner.png
+image: /assets/images/2023/aug-banner.png
 tags:
     - Android
     - Gaming
 ---
 
-I've barely played anything recently besides my beloved Slitherlink! Despite this, I did find a couple of new underrated little Android games.
+A mixture of games, can it be true!? A fishing game, an idle game, a Tetromino-y merge-y game, and a logic puzzle game! The games are mostly from Google Play's rather chaotic recommendations, hence a bit of variety for once.
 
 The games are in descending order of "fun", and might contain mild spoilers:
 
@@ -108,15 +108,17 @@ Whilst Griddie Islands is technically just yet another merging game, it adds to 
 
 It's a simple game, with a simple concept, but does a great job of it. This isn't a game that will strain the brain, but it is one to open every hour or two, use up all the earned coins, and then close again. 
 
-If you've ever played any of these merge games, you'll know the basic concept. Free mergeable pieces spawn over time, but you can also purchase them using your money. Money comes from the value of your placed mergeable pieces.
+If you've ever played any of these merge games, you'll know the basic concept. Free mergeable pieces spawn over time, but you can also purchase them using your money. Money comes from the value of your placed mergeable pieces. Additionally, if the island's tiles are entirely full (hard to do!), all earnings get a pretty significant 50% boost.
 
-What makes Griddie Islands stand out is the fair pricing of piece buying, no forced adverts, and the slight increase in complexity caused by trying to fit all the pieces on. Additionally, if the island's tiles are entirely full (hard to do!), all earnings get a pretty significant 50% boost.
+What makes Griddie Islands stand out is the fair pricing of piece buying, no forced adverts, and the slight increase in complexity caused by trying to fit all the pieces on. There's also the nice visual flair of each level of tiles having a distinct appearance. Whilst they don't differ too much (they are Tetris pieces after all), some of them are pretty creepy. 
+
+Although I'm not *too* far into the game, the game looks like it has a few surprises left. For example, there seems to be some sort of island picker feature later on, and a mysterious "level loop".
 
 ### Monetisation
 
 There *are* adverts you can watch to boost earnings, but... they didn't work for me, and don't seem necessary at all.
 
-The premium gems are earned through completing easy quests, and whilst they can be purchased, they don't seem worth it. These daily and lifetime quests provide plenty of gems for free, and I was struggling to even spend them (free pieces? temporary boosts?) let alone buying more.
+The premium gems are earned through completing easy quests, and whilst they can be purchased, they don't seem worth it. These daily and lifetime quests provide plenty of gems for free, and I was struggling to even spend them (Free pieces? Temporary boosts?) let alone buying more.
 
 ### Tips
 
@@ -166,6 +168,4 @@ I assume this is justified by an older target audience, but as someone who tends
 | Main screen | Easy puzzle | Hard puzzle |
 | --- | --- | --- |
 | [![fill-a-pix main screen](/assets/images/2023/aug-fillapix-home-thumbnail.jpg)](/assets/images/2023/aug-fillapix-home.jpg) | [![fill-a-pix easy puzzle](/assets/images/2023/aug-fillapix-easy-thumbnail.jpg)](/assets/images/2023/aug-fillapix-easy.jpg) | [![fill-a-pix hard puzzle](/assets/images/2023/aug-fillapix-hard-thumbnail.jpg)](/assets/images/2023/aug-fillapix-hard.jpg)
-
-## Conclusion
 
