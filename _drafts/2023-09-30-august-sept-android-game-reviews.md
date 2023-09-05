@@ -12,7 +12,7 @@ I've barely played anything recently besides my beloved Slitherlink! Despite thi
 
 The games are in descending order of "fun", and might contain mild spoilers:
 
-## #2: [Casting Away](https://play.google.com/store/apps/details?id=com.nexelon.castingaway)
+## #1: [Casting Away](https://play.google.com/store/apps/details?id=com.nexelon.castingaway)
 
 Casting Away is one of the very few recommendations via the Google Play Store that I've actually enjoyed! For once it's not an idle game, it's a pretty typical yet satisfying fishing game.
 
@@ -99,6 +99,43 @@ I'd have liked to see the ability to purchase income multipliers, improved luck,
 | Main screen | Plants | Quests |
 | --- | --- | --- |
 | [![inventory idle main screen](/assets/images/2023/aug-inventory-main-thumbnail.jpg)](/assets/images/2023/aug-inventory-main.jpg) | [![inventory idle plants](/assets/images/2023/aug-inventory-plants-thumbnail.jpg)](/assets/images/2023/aug-inventory-plants.jpg) | [![inventory idle quests](/assets/images/2023/aug-inventory-quests-thumbnail.jpg)](/assets/images/2023/aug-inventory-quests.jpg)
+
+## #3: [Fill-a-pix](https://play.google.com/store/apps/details?id=com.conceptispuzzles.fap)
+
+Another post, another seemingly simple logic puzzle game that drastically ramps up in difficulty!
+
+### Review
+
+Fill-a-pix is a three-way hybrid of puzzle genres Minesweeper, [Slitherlink](/june-july-android-game-reviews/#1-slitherlink), and Nonogram.
+
+As with all of those games, the only rule is extremely simple: each number shows how many of the surrounding 3x3 grid should be coloured. However, whilst this makes "9" and "0"s simple, even the very easy puzzles can take a bit of confused staring before making progress.
+
+Satisfyingly, when I first opened the game even the simplest puzzles were challenging. With practice though, solving common scenarios means basic logic can be sped through. Personally the larger puzzles (above 10x10) are quite challenging, since the edges provide quite a lot of help. 
+
+The number of puzzles can be a little misleading, with a small very easy taking ~30 seconds, whilst a large medium/hard could take hours! 
+
+Looking at [the developer's website](https://www.conceptispuzzles.com/index.aspx) and [Developer Profile](https://play.google.com/store/apps/dev?id=6728483221697848179), they are following a pretty clear formula! Every app is almost identically designed, however the great reviews suggest they are all bare bones yet engaging. Personally I'm pretty happy an "old-fashioned" game developer like this can thrive.
+
+Overall the app is pretty bare bones, but puzzle completion is as satisfying as you'd expect. There are small touches like animations when filling in tiles that elevate it beyond the absolute basics, but then the odd typography and very basic design undermine this. Of course, given my love for basic puzzle games this isn't necessarily a blocker, however the monetisation stops this becoming a game I can truly love...
+
+### Monetisation
+
+This is perhaps the scariest monetisation I've ever seen. There are 564 puzzle packs, with 5 provided for free.
+
+That's over 550 puzzle packs, each a few dollars. That is thousands of dollars for a very minimalist, simple game. This is insane.
+
+I assume this is justified by an older target audience, but as someone who tends to like completing games where possible this is absolutely crazy. Ideally, there would be some sort of (optional) subscription giving access to the thousands of puzzles, or a way to unlock 1 per week for a low fee. 
+
+### Tips
+
+* The built-in instructions do a much better job than I can! In general, it's just practice makes perfect.
+* Make sure you don't miss the few free weekly puzzles.
+
+### Screenshots
+
+| Main screen | Easy puzzle | Hard puzzle |
+| --- | --- | --- |
+| [![fill-a-pix main screen](/assets/images/2023/aug-fillapix-home-thumbnail.jpg)](/assets/images/2023/aug-fillapix-home.jpg) | [![fill-a-pix easy puzzle](/assets/images/2023/aug-fillapix-easy-thumbnail.jpg)](/assets/images/2023/aug-fillapix-easy.jpg) | [![fill-a-pix hard puzzle](/assets/images/2023/aug-fillapix-hard-thumbnail.jpg)](/assets/images/2023/aug-fillapix-hard.jpg)
 
 ## Conclusion
 
