@@ -1,5 +1,5 @@
 ---
-title: "Some recent Android games I've enjoyed: Casting Away, Inventory Idle"
+title: "Some recent Android games I've enjoyed: Casting Away, Inventory Idle, Griddie Islands, and Fill-a-pix"
 author: Jake Lee
 layout: post
 image: /assets/images/2023/august-banner.png
@@ -100,7 +100,37 @@ I'd have liked to see the ability to purchase income multipliers, improved luck,
 | --- | --- | --- |
 | [![inventory idle main screen](/assets/images/2023/aug-inventory-main-thumbnail.jpg)](/assets/images/2023/aug-inventory-main.jpg) | [![inventory idle plants](/assets/images/2023/aug-inventory-plants-thumbnail.jpg)](/assets/images/2023/aug-inventory-plants.jpg) | [![inventory idle quests](/assets/images/2023/aug-inventory-quests-thumbnail.jpg)](/assets/images/2023/aug-inventory-quests.jpg)
 
-## #3: [Fill-a-pix](https://play.google.com/store/apps/details?id=com.conceptispuzzles.fap)
+## #3: [Griddie Islands](https://play.google.com/store/apps/details?id=com.pomelogames.Islands)
+
+Whilst Griddie Islands is technically just yet another merging game, it adds to the formula with a Tetris / Tetromino feature requiring the money-making shapes to fit onto the oddly shaped island.
+
+### Review
+
+It's a simple game, with a simple concept, but does a great job of it. This isn't a game that will strain the brain, but it is one to open every hour or two, use up all the earned coins, and then close again. 
+
+If you've ever played any of these merge games, you'll know the basic concept. Free mergeable pieces spawn over time, but you can also purchase them using your money. Money comes from the value of your placed mergeable pieces.
+
+What makes Griddie Islands stand out is the fair pricing of piece buying, no forced adverts, and the slight increase in complexity caused by trying to fit all the pieces on. Additionally, if the island's tiles are entirely full (hard to do!), all earnings get a pretty significant 50% boost.
+
+### Monetisation
+
+There *are* adverts you can watch to boost earnings, but... they didn't work for me, and don't seem necessary at all.
+
+The premium gems are earned through completing easy quests, and whilst they can be purchased, they don't seem worth it. These daily and lifetime quests provide plenty of gems for free, and I was struggling to even spend them (free pieces? temporary boosts?) let alone buying more.
+
+### Tips
+
+* Tap the "long brick" icon to change which brick you're buying! I accidentally spent ages buying the first brick.
+* New buyable bricks unlock each time you increase your maximum merge, so check back often.
+* Generally each level of brick should be twice the price of the one before, as it earns you just over twice as much. 
+
+### Screenshots
+
+| Quests | Early game | Later on |
+| --- | --- | --- |
+| [![griddie islands quests](/assets/images/2023/aug-griddie-quests-thumbnail.jpg)](/assets/images/2023/aug-griddie-quests.jpg) | [![griddie islands early](/assets/images/2023/aug-griddie-early-thumbnail.jpg)](/assets/images/2023/aug-griddie-early.jpg) | [![griddie islands later](/assets/images/2023/aug-griddie-later-thumbnail.jpg)](/assets/images/2023/aug-griddie-later.jpg)
+
+## #4: [Fill-a-pix](https://play.google.com/store/apps/details?id=com.conceptispuzzles.fap)
 
 Another post, another seemingly simple logic puzzle game that drastically ramps up in difficulty!
 
@@ -124,7 +154,7 @@ This is perhaps the scariest monetisation I've ever seen. There are 564 puzzle p
 
 That's over 550 puzzle packs, each a few dollars. That is thousands of dollars for a very minimalist, simple game. This is insane.
 
-I assume this is justified by an older target audience, but as someone who tends to like completing games where possible this is absolutely crazy. Ideally, there would be some sort of (optional) subscription giving access to the thousands of puzzles, or a way to unlock 1 per week for a low fee. 
+I assume this is justified by an older target audience, but as someone who tends to like completing games where possible this is absolutely crazy. Ideally, there would be some sort of (optional) subscription giving access to the thousands of puzzles, or a way to unlock 1 per week for a low fee. As it is, the impossibility of ever playing app the puzzles for under a few thousand dollars made the game significantly less fun.
 
 ### Tips
 
