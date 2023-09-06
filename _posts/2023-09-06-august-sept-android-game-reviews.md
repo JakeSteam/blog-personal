@@ -158,7 +158,7 @@ This is perhaps the scariest monetisation I've ever seen. There are 564 puzzle p
 
 That's over 550 puzzle packs, each a few dollars. That is thousands of dollars for a very minimalist, simple game. This is insane.
 
-I assume this is justified by an older target audience, but as someone who tends to like completing games where possible this is absolutely crazy. Ideally, there would be some sort of (optional) subscription giving access to the thousands of puzzles, or a way to unlock 1 per week for a low fee. As it is, the impossibility of ever playing app the puzzles for under a few thousand dollars made the game significantly less fun.
+I assume this is justified by an older target audience, but as someone who tends to like completing games where possible this is absolutely crazy. Ideally, there would be some sort of (optional) subscription giving access to the thousands of puzzles, or a way to unlock 1 per week for a low fee. As it is, the impossibility of ever playing all the puzzles for under a few thousand dollars made the game significantly less fun.
 
 ### Tips
 
