@@ -1,5 +1,5 @@
 ---
-title: The complete guide to all 5 "secret" Forza Horizon 5 DLC cars (and 1 DLC outfit)
+title: The complete guide to all 4 "secret" Forza Horizon 5 DLC cars (and 1 DLC outfit)
 author: Jake Lee
 layout: post
 image: /assets/images/2022/fh5-completionist-bonus-cars.png
@@ -30,7 +30,7 @@ If you *are* looking to purchase from one of these marketplaces, I'd recommend c
 
 ## What secret cars are in FH5?
 
-### Aug '21: Ford De Luxe Five-Window Coupe Forza Edition
+### Aug '21: Ford De Luxe Five-Window Coupe
 
 The extremely awkwardly named "[Ford De Luxe Five-Window Coupe Forza Edition](https://forza.fandom.com/wiki/Ford_De_Luxe_Five-Window_Coupe)" (plus the "Colour Pop" t-shirt and "Colour Pop" emote) are obtained by buying the Forza Horizon 5 Limited Edition controller. 
 
@@ -38,14 +38,28 @@ This controller is usually sold out in stores, and fetches a price of $100+ on o
 
 ### Jan '22: Ford GT 'Opi Edition'
 
-The Ford GT 'Opi Edition' is just a reskin of the existing Ford GT car, it [was obtainable](https://news.xbox.com/en-us/2022/01/04/xbox-opi-nail-polish-collection-spring-2022/) by purchasing Xbox-themed nail polishes in the US. Due to the geographic restrictions (and the presumably small crossover between key resellers and nail polish buyers), this can be a very hard key to find. I purchased mine for ~$30, and I suspect this is the rarest car in the game.
+The Ford GT 'Opi Edition' is just a reskin of the existing Ford GT car, it [was obtainable](https://news.xbox.com/en-us/2022/01/04/xbox-opi-nail-polish-collection-spring-2022/) by purchasing Xbox-themed nail polishes. Due to the presumably small crossover between key resellers and nail polish buyers, this can be a very hard key to find. I purchased mine for ~$30, and I suspect this is the rarest car in the game.
 
-### Aug '23: Pagani Zonda Cinque Roadster 'Oreo Edition'
+### Feb '23: Pagani Zonda Cinque Roadster
 
 The Pagani Zonda Cinque Roadster 'Oreo Edition' was a [Europe-exclusive car](https://support.forzamotorsport.net/hc/en-us/articles/12735300928531-Forza-Horizon-5-2009-Pagani-Zonda-Cinque-Roadster-Oreo-Edition-Code-Redemption-FAQ) available by purchasing a small pack of Oreos and following the instructions to play an augmented reality game.
 
 This promotion was available in my country, but the augmented game worked so badly that I gave up using my purchased pack and bought a code online! Due to the low cost of the required item, codes for this car are typically $2-3.
 
-## Secret outfit / cosmetic
+### Oct '23: Chevrolet Corvette E-Ray
+
+A completely exclusive car! The Chevrolet Corvette E-Ray is given to all Forza Horizon 5 players who have also [played Forza Motorsport (2023)](https://forza.net/news/forza-horizon-5-horizon-creatives#:~:text=EXPERIENCE%20THE%202024%20CHEVROLET%20CORVETTE%20E%2DRAY) released in October 2023. 
+
+Xbox Game Pass players are expected to qualify for the car, which is now I intend to get it. 
+
+## Secret outfit (Oct '22)
+
+There is also an... interesting Dorito-based cosmetic outfit, the "[Tankito Doritos](https://support.forzamotorsport.net/hc/en-us/articles/10075556247571-Forza-Horizon-5-Tankito-Doritos-Outfit-Code-Redemption-FAQ)". This was obtainable by purchasing a qualifying Doritos pack in any of 8 countries. Due to the ease of obtaining a key, they are typically <$5 on key sites.
 
 ## Conclusion
+
+Overall, it's a shame that these cars exist in their current format. Whilst I understand having mutually beneficial promotions with other companies, I strongly believe that a player located anyone in the world should be able to obtain every car in the game.
+
+I'd love to see these DLC-exclusive cars added to the playlist, even as the harder reward, letting players willing to put the time in earn them. Currently, all players are forced to use shady third party sites if they want a complete Car Collection, which doesn't seem intentional.
+
+If you do end up purchasing all these DLC codes, like I did, it'll likely cost you around $70-100. Once again, these are all completely optional, and you can get 100% in your Car Collection without them. However, they are required if you want to truly own *all* cars in Forza Horizon 5.
