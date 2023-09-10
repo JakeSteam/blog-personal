@@ -14,7 +14,7 @@ Forza Horizon 5 has a *lot* of cars, over 750 right now! Whilst almost all are o
 
 A secret car is one introduced into the game as part of a "real world" promotion. For example, buying a Forza edition controller, playing another Forza game, or buying unrelated items like food. They are typically just a reskinned version of an existing car, so offer no gameplay advantage.
 
-What makes these cars interesting is they **do not show in the Car Collection**. For example, you may have 700/700 cars, but if you redeem a secret car this will change to 701/701! In the below example there are 747 cars in the game, but I have all 4 "secret" cars:
+What makes these cars interesting is they **do not show in the Car Collection**. For example, you may have 700/700 cars, but if you redeem a secret car this will change to 701/701! In the below example there are 748 cars in the game's car collection, but I have 3 "secret" cars:
 
 [![All FH5 cars collected](/assets/images/2023/fh5cars-collection.png)](/assets/images/2023/fh5cars-collection.png)
 
