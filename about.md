@@ -7,7 +7,7 @@ layout: page
 <script src="https://kit.fontawesome.com/815222ff50.js" crossorigin="anonymous"></script>
 
 <style>
-    .fa-brands {
+    .fa-brands, .fa-solid {
         font-size: 36px;
     }
 </style>
@@ -20,7 +20,7 @@ This is my blog for non-programming posts, all my programming posts are over on 
 
 | Professional | Personal | Tracking | Gaming | Wishlist |
 | :--: | :--: | :--: | :--: | :--: |
-| <a href="https://www.linkedin.com/in/jake-lee"><i class="fa-brands fa-linkedin-in"></i></a> <a href="https://github.com/JakeSteam"><i class="fa-brands fa-github"></i></a> <a href="https://stackoverflow.com/u/608312"><i class="fa-brands fa-stack-overflow"></i></a> | <a href="https://www.twitter.com/jakeleeuk/"><i class="fa-brands fa-twitter"></i></a> <a href="https://www.reddit.com/user/JakeSteam/"><i class="fa-brands fa-reddit-alien"></i></a> <a href="https://www.instagram.com/jakeleeuk"><i class="fa-brands fa-instagram"></i></a> | <a href="https://open.spotify.com/user/1158672316"><i class="fa-brands fa-spotify"></i></a> <a href="https://www.goodreads.com/JakeSteam"><i class="fa-brands fa-goodreads-g"></i></a> <a href="https://www.imdb.com/user/ur67633144/ratings"><i class="fa-brands fa-imdb"></i></a> | <a href="https://account.xbox.com/en-gb/profile?gamertag=JakeLeeUK"><i class="fa-brands fa-xbox"></i></a> <a href="https://steamcommunity.com/id/jakethemedic"><i class="fa-brands fa-steam-symbol"></i></a> | <a href="https://www.amazon.co.uk/gp/registry/wishlist/25U6KHU9XCK4B"><i class="fa-brands fa-amazon"></i></a> |
+| <a href="https://www.linkedin.com/in/jake-lee"><i class="fa-brands fa-linkedin-in"></i></a> <a href="https://github.com/JakeSteam"><i class="fa-brands fa-github"></i></a> <a href="https://stackoverflow.com/u/608312"><i class="fa-brands fa-stack-overflow"></i></a> | <a href="https://www.twitter.com/jakeleeuk/"><i class="fa-brands fa-twitter"></i></a> <a href="https://www.reddit.com/user/JakeSteam/"><i class="fa-brands fa-reddit-alien"></i></a> <a href="https://www.instagram.com/jakeleeuk"><i class="fa-brands fa-instagram"></i></a> | <a href="https://open.spotify.com/user/1158672316"><i class="fa-brands fa-spotify"></i></a> <a href="https://www.goodreads.com/JakeSteam"><i class="fa-brands fa-goodreads-g"></i></a> <a href="https://www.imdb.com/user/ur67633144/ratings"><i class="fa-brands fa-imdb"></i></a> | <a href="https://account.xbox.com/en-gb/profile?gamertag=JakeLeeUK"><i class="fa-brands fa-xbox"></i></a> <a href="https://steamcommunity.com/id/jakethemedic"><i class="fa-brands fa-steam-symbol"></i></a> | <a href="https://notes.jakelee.co.uk/wishlist.html"><i class="fa-solid fa-gift"></i></a> |
 
 ## Work
 
@@ -40,16 +40,9 @@ This is my blog for non-programming posts, all my programming posts are over on 
 **2015**: MTA: Database Fundamentals<br>
 **2011 - 2014**: BSc Computer Science @ University of Bedfordshire
 
-## Technology
+## Technologies
 
 | | Use daily | Use regularly | Use rarely |
 | -- | -- | -- | -- |
-| **Languages** | Git, Kotlin | CSS, HTML, Java, JavaScript, SQL | C#, ColdFusion, PHP, Swift, Visual Basic |
+| **Languages** | Git, Kotlin | CSS, HTML, Java, JavaScript, SQL | C#, ColdFusion, Liquid, PHP, Python, Shell, Swift, Visual Basic |
 | **Technologies** | Android, Firebase, GitHub Actions, GraphQL, Jekyll | Cloudflare | ActionScript, Apache, Azure, Flutter, iOS, jQuery, Virtual Machines, WordPress | 
-
-## Created Apps
-
-**[Pixel Blacksmith](https://play.google.com/store/apps/details?id=uk.co.jakelee.blacksmith)**: 250k downloads on my first app! Craft items for visitors, inspired by RuneScape.<br>
-**[Blacksmith Slots](https://play.google.com/store/apps/details?id=uk.co.jakelee.blacksmithslots)**: A semi-sequel, with a unique slot machine crafting system.<br>
-**[Connect Quest](https://play.google.com/store/apps/details?id=uk.co.jakelee.cityflow)**: A 2.5D puzzle game about aligning tiles, with innovative QR-code based level sharing.<br>
-**[Daily APOD Wallpaper](https://play.google.com/store/apps/details?id=uk.co.jakelee.apodwallpaper)**: An app to automatically change your wallpaper to NASA's picture of the day.
