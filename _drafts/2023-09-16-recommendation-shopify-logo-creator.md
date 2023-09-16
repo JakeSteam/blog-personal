@@ -8,7 +8,7 @@ tags:
     - Web
 ---
 
-For a project recently, I needed a "good enough" logo for basic branding. Whilst in the past I've made my own, I'm way too rusty these days, and don't even have Photoshop installed! As such, I looked for online services, finding most of them requiring payment or having bad licensing. Luckily, Hatchful by Shopify seems to do everything I needed, including full ownership of the output!
+For [my project "Code Cured"](http://codecured.org/) recently, I needed a logo for basic branding. Whilst in the past I've made my own, I'm way too rusty these days, and don't even have Photoshop installed! As such, I looked for online services, finding most of them requiring payment or having bad licensing. Luckily, Hatchful by Shopify seems to do everything I needed, including full ownership of the output!
 
 ## Overview
 
@@ -18,7 +18,7 @@ Obviously the logos aren't going to be *perfect*, but I found the created logos 
 
 ## My logo
 
-The project I wanted to create a logo for was the non-profit "Code Cured The Cat" I'm currently working on. 
+The project I wanted to create a logo for was the [non-profit "Code Cured The Cat"](http://codecured.org/) I'm currently working on. 
 
 As this combined a "cutesy" theme (cats) and a "tech" theme (coding), I suspected I'd have trouble finding a good premade logo.
 
@@ -34,32 +34,30 @@ As such, I had a few requirements:
 
 Additionally, it had to be completely free and have no licensing restrictions whatsoever. 
 
-### Generating process
-
 Actually creating a logo just requires answering a few basic questions, then browsing the generated logos before personalising one.
 
-#### Business space
+### Business space
 
 First up, what field does my business (well, charity) operate in? Whilst "Tech" was an option, I chose "Pets" since a cat-based design was my top priority.
 
-[![](/assets/images/2023/hatchful-business-space.png)](/assets/images/2023/hatchful-business-space.png)
+[![](/assets/images/2023/hatchful-business-space-thumbnail.png)](/assets/images/2023/hatchful-business-space.png)
 
-#### Visual style
+### Visual style
 
 Next, what visual style do I want for the logo? This was perhaps the hardest question for me, since I didn't actually know. Luckily multiple options can be selected here, so I went for:
 * "Creative" to get modern designs.
 * "Youthful" to get animal designs. 
 * "Innovative" to get tech designs.
 
-[![](/assets/images/2023/hatchful-visual-style.png)](/assets/images/2023/hatchful-visual-style.png)
+[![](/assets/images/2023/hatchful-visual-style-thumbnail.png)](/assets/images/2023/hatchful-visual-style.png)
 
-#### Name & slogan
+### Name & slogan
 
 Now that the number of possible designs has been narrowed down, it can optionally be personalised with business name and slogan. These can be changed easily later and don't seem to affect the designs, but I filled it in regardless.
 
-[![](/assets/images/2023/hatchful-name.png)](/assets/images/2023/hatchful-name.png)
+[![](/assets/images/2023/hatchful-name-thumbnail.png)](/assets/images/2023/hatchful-name.png)
 
-#### Logo usage
+### Logo usage
 
 Final question, the site asks where the logo will be used. I was concerned this was where a request for payment would suddenly appear, but nope! Insted, this is just to try and provide the most useful files for you. 
 
@@ -67,9 +65,9 @@ For example, I chose "Online store or website" and "Social media", and this mean
 
 This can also be added to later.
 
-[![](/assets/images/2023/hatchful-usage.png)](/assets/images/2023/hatchful-usage.png)
+[![](/assets/images/2023/hatchful-usage-thumbnail.png)](/assets/images/2023/hatchful-usage.png)
 
-#### Pick a logo
+### Pick a logo
 
 Finally, it's logo picking time!
 
@@ -77,13 +75,13 @@ Even without any customisation, the initial results look great. Admittedly only 
 
 These logos are obviously a combination of text style + colour scheme + an icon, but the output still looks really, really good.
 
-[![](/assets/images/2023/hatchful-choose.png)](/assets/images/2023/hatchful-choose.png)
+[![](/assets/images/2023/hatchful-choose-thumbnail.png)](/assets/images/2023/hatchful-choose.png)
 
 I found one that met all of my [Requirements](#requirements), a vector-style cat made up of geometric shapes. I wasn't a big fan of the colour scheme, so onto the next stage, editing the logo.
 
-[![](/assets/images/2023/hatchful-selection.png)](/assets/images/2023/hatchful-selection.png)
+[![](/assets/images/2023/hatchful-selection-thumbnail.png)](/assets/images/2023/hatchful-selection.png)
 
-#### Personalising logo
+### Personalising logo
 
 There are 4 parts to a logo that can be customised. First, the name and slogan can be changed, since some designs look better without a slogan.
 
@@ -91,12 +89,49 @@ Next, the fonts. There are around 50-60, but for now the default sans-serif font
 
 Perhaps most importantly, the colour scheme can be changed. These schemes are grouped by theme, and this actually offers a much better experience than just choosing specific colours. I knew I wanted a logo that worked on white & black backgrounds, so I requested "Basic" themes:
 
-[![](/assets/images/2023/hatchful-personalising.png)](/assets/images/2023/hatchful-personalising.png)
+[![](/assets/images/2023/hatchful-personalising-thumbnail.png)](/assets/images/2023/hatchful-personalising.png)
+
+### Downloading
+
+All done! 
+
+A .zip file with the generated logo and all associated files is sent to your email. Whilst this does require signing up, since this also provides the ability to edit all past logos, I don't mind.
+
+[![](/assets/images/2023/hatchful-download-thumbnail.png)](/assets/images/2023/hatchful-download.png)
+
+The .zip file contains everything the logo is likely to be used for. Whilst some of the crops aren't useful (e.g. `facebook_cover_photo_1`), others genuinely save a bit of time (e.g. `linkedin_banner_image_2`).
+
+[![](/assets/images/2023/hatchful-folder-thumbnail.png)](/assets/images/2023/hatchful-folder.png)
+
+Whilst these are a good starting point, I did end up having to edit `logo.png` a bit to create one with the correct dimensions for GitHub etc.
 
 ## Advantages
 
+### Really free
+
+Before actually using my generated logo, I was very paranoid that there'd be some sort of licensng issue. However, these snippets from the Hatchful website seem pretty clear:
+
+> The logo you design with Shopify’s logo creator is 100% free and yours to own. *([source](https://www.shopify.com/tools/logo-maker#is-the-hatchful-logo-maker-free))*
+
+If this was a random website, I would be suspicious about how they can afford even the basic hosting costs. However given the fact it's on the industry giant Shopify's site, and includes lots of references to Shopify, it's clear how it can be free: To get new Shopify customers. This is confirmed through one of the FAQs:
+
+> **Did you know Hatchful is a free logo maker created by Shopify?**
+>
+> Shopify is a platform that allows you to build an online or offline store, with the mission of making commerce better for everyone. That’s why Shopify has created Hatchful, the free online logo maker tool, for you to have a free logo with your own branding identity. ([source](https://www.shopify.com/tools/logo-maker#hatchful-is-a-free-logo-maker-created-by-shopify))
+
 ## Disadvantages
 
-## Conclusion
+### Lack of fine tuning
 
-[![](/assets/images/2023/example_thumbnail.png)](/assets/images/2023/example.png)
+Whilst the ability to customise colour schemes is good, it's a real shame they can't be overridden by entering hex codes. Whilst I'm happy with the blue cat, and am comfortable changing the colour later, if I wanted a specific brand colour I'd be out of luck. This seems an odd omission, and I can only assume it's due to being targeted to non-technical users.
+
+### Lack of uniqueness
+
+The reality of any free logo creator is you might run into other companies with very similar logos. As I mentioned [in my post about free asset packs in games](https://blog.jakelee.co.uk/should-i-use-a-free-cheap-resource-pack-in-my-game/):
+> Of course, whilst seeing the assets you’re using elsewhere can be a nice experience, it isn’t always. In the past I’ve been accused of theft / stealing assets when they come from a pack. Users may see assets from their favourite game reused, and assume another developer has stolen it, without considering alternatives. Whilst users often correct their negative review once the situation is explained, they don’t always!
+
+I can definitely see a scenario where two companies innocently use Hatchful to create a free logo, then one is accused of "ripping off" the other!
+
+One way to avoid this is to use the generated assets as a *starting point*. For example I could tweak the shapes used for the cat somewhat, use a line of different coloured cats, or other simple changes. This won't obscure the logo's origins, but will at least mean it is unique.
+
+## Conclusion
