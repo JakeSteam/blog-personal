@@ -1,5 +1,5 @@
 ---
-title: "A few recent Android game recommendations: inbento 📲"
+title: "A few recent Android game recommendations: Knights of Sand Francisco, inbento 📲"
 author: Jake Lee
 layout: post
 image: /assets/images/2023/sep-banner.jpg
@@ -8,11 +8,55 @@ tags:
     - Gaming
 ---
 
-intro
+I had a free trial of Google Play's Game Pass recently, so had a chance to try out lots of paid games for a change! It's definitely been a nice change enjoying games that aren't asking for money constantly, here's some I've had a great time with.
 
 The games are in descending order of "fun", and might contain mild spoilers:
 
-## #1: [inbento](https://play.google.com/store/apps/details?id=com.Afterburn.Inbento)
+## #1: [Knights of San Francisco](https://play.google.com/store/apps/details?id=egamebook.com.flutteregamebook)
+
+Knights of San Francisco is a relatively short text-based adventure set in the ruins of SF's Transamerica Pyramid, with heavy influence from traditional RPGs whilst still remaining accessible.
+
+### Review
+
+Personally I generally don't play text-based games. I find they can require a lot of imagination to really get invested in, but I'm happy to say Knights of SF changed my mind on that! The writing provides just enough information to let your mind fill in the rest, whilst also letting you be "smart" with your conversation choices.
+
+For example, at one stage early on I picked up on a throwaway comment overheard from an Orc and used this to choose my next location, bypassing a particularly deadly encounter. This reward for cunning plays made me feel the game respected me as a player, and I'd have a better time the more effort I put in.
+
+The game removes a lot of the hard work behind text based RPGs. There are no traits, there's no durability, there's not even any dice. Instead, most actions have a success chance. A failed "roll" can be tried again by using stamina (basically a combined health / stamina) meter, and is fairly forgiving.
+
+Whilst shorter than I was expecting (I "won" the game in ~1 hour, however there are definitely multiple endings and I haven't unlocked all content), the game strongly held my attention throughout. There was an initial character creation (I chose Necromancer), but I don't think this had much in influence in the actual gameplay, with my decisions mattering far more.
+
+Combat was among the most satisfying I've experienced in an RPG. Each turn has a large selection of options available (attack parts of enemy's body, use items, change stance), and each character's position and injury state impacts the battle. This lets you perform moves like feinting, then stabbing in the side, before taking the target's weapon off them. 
+
+Combat is also not just 1v1 either. You can hire companions throughout the adventure depending on your conversation choices, and as a Necromancer I would often have a slain enemy fighting alongside me. 
+
+Navigating around the game's world is done via a simple map, with your conversation choices determining which places you have access to. When a location's dialogue has been exhausted to one conclusion or another, the "tick" on the map avoids you wasting time looking for more to do. Similarly, the "clock" icon on past locations that have new dialogue really helps ensure a tight, focused experience.
+
+The game doesn't have much art (16 total), but what is there perfectly walks the line between detail and stylised. It is used tactically, to mark the occasion you first meet a boss or obtain an artefact. As these are unlockables accessible in the main menu, the brief break from the (very well written!) text feels like permanent progress.
+
+Additionally, you can save and load at any point, and go back to any previous decision to play again from that point. 
+
+Finally, whilst writing this review I found the "About" section in the game's settings. This is an absolutely lovely personal message from the game's creator, and really shows what a labour of love the project is. The gamemaking decisions and ambitions are described in detail, and I really appreciate this insight into the process and thought behind a truly excellent text RPG.
+
+### Monetisation
+
+It's $2.99, with no in-game ads or purchases. To me this is perfect for such a high quality, albeit short, experience.
+
+### Tips
+
+* Combat can be unpredictable, but the highest success chance move is usually the best option.
+* Look out for any opportunity to hire a helper. They can often finish an enemy if you fumble your move.
+* Read the story. You'll be given all the clues you need to make good decisions, don't just blunder forwards!
+* Eating food restores stamina, keep this as full as possible.
+* Exhaust dialogue options, you'll often learn something valuable or receive an item.
+
+### Screenshots
+
+| Map | Writing | Combat |
+| --- | --- | --- |
+| [![](/assets/images/2023/sept-knights-map-thumbnail.jpg)](/assets/images/2023/sept-knights-map.jpg) | [![](/assets/images/2023/sept-knights-writing-thumbnail.jpg)](/assets/images/2023/sept-knights-writing.jpg) | [![](/assets/images/2023/sept-knights-combat-thumbnail.jpg)](/assets/images/2023/sept-knights-combat.jpg) |
+
+## #2: [inbento](https://play.google.com/store/apps/details?id=com.Afterburn.Inbento)
 
 Inbento is a very, very cute logic game. It was recommended to me as part of Google Play Pass, and the difficulty ramps up more than expected!
 
@@ -41,7 +85,7 @@ Honestly the game's tutorial is so well executed that I'm not sure I have many t
 
 | Level select | Gameplay | Mini-comic |
 | --- | --- | --- |
-| [![](/assets/images/2023/sept-inbento-levels-thumbnail.jpg)](/assets/images/2023/sep-inbento-levels.jpg) | [![](/assets/images/2023/sept-inbento-gameplay-thumbnail.jpg)](/assets/images/2023/sep-inbento-gameplay.jpg) | [![](/assets/images/2023/sept-inbento-comic-thumbnail.jpg)](/assets/images/2023/sep-inbento-comic.jpg) |
+| [![](/assets/images/2023/sept-inbento-levels-thumbnail.jpg)](/assets/images/2023/sept-inbento-levels.jpg) | [![](/assets/images/2023/sept-inbento-gameplay-thumbnail.jpg)](/assets/images/2023/sept-inbento-gameplay.jpg) | [![](/assets/images/2023/sept-inbento-comic-thumbnail.jpg)](/assets/images/2023/sept-inbento-comic.jpg) |
 
 ## Update on previous games
 
