@@ -42,7 +42,7 @@ This controller is usually sold out in stores, and fetches a price of $100+ on o
 
 ### Jan '22: Ford GT 'Opi Edition'
 
-[![Ford GT Opi edition](/assets/images/2023/fh5cars-opi-740w.png)](/assets/images/2023/opi-fordcoupe.png)
+[![Ford GT Opi edition](/assets/images/2023/fh5cars-opi-740w.png)](/assets/images/2023/fh5cars-opi.png)
 
 The Ford GT 'Opi Edition' is just a reskin of the existing Ford GT car, it [was obtainable](https://news.xbox.com/en-us/2022/01/04/xbox-opi-nail-polish-collection-spring-2022/) by purchasing Xbox-themed nail polishes. Due to the presumably small crossover between key resellers and nail polish buyers, this can be a very hard key to find. I purchased mine for ~$30, and I suspect this is the rarest car in the game.
 
