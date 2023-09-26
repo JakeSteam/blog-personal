@@ -1,5 +1,5 @@
 ---
-title: "A few recent Android game recommendations: Knights of Sand Francisco, inbento 📲"
+title: "A few recent Android game recommendations: Knights of San Francisco, .projekt, inbento 📲"
 author: Jake Lee
 layout: post
 image: /assets/images/2023/sep-banner.jpg
@@ -56,7 +56,44 @@ It's $2.99, with no in-game ads or purchases. To me this is perfect for such a h
 | --- | --- | --- |
 | [![](/assets/images/2023/sept-knights-map-thumbnail.jpg)](/assets/images/2023/sept-knights-map.jpg) | [![](/assets/images/2023/sept-knights-writing-thumbnail.jpg)](/assets/images/2023/sept-knights-writing.jpg) | [![](/assets/images/2023/sept-knights-combat-thumbnail.jpg)](/assets/images/2023/sept-knights-combat.jpg) |
 
-## #2: [inbento](https://play.google.com/store/apps/details?id=com.Afterburn.Inbento)
+## #2: [.projekt](https://play.google.com/store/apps/details?id=com.stampedegames.projekt)
+
+.projekt is a very well presented minimalistic puzzle game, essentially Picross in 3D space. It can perhaps be summarised as a gamified version of this style of typographic sculpture:
+
+[![](/assets/images/2023/sept-projekt-reference-thumbnail.jpg)](/assets/images/2023/sept-projekt-reference.jpg)
+
+### Review
+
+I love picross / nonogram games, yet this game makes the unusual choice to hide this mode until 40 levels in! Before this, puzzles require you to build a 3D structure that either has or doesn't have blocks at each position. This gives you freedom to build your structure however you want, so long as the footprint of it looks correct from all sides.
+
+The levels start off very easy, and slowly ramp up difficulty as well as adding new mechanics every 20 levels. I've completed around 50, with the first 20 just requiring fitting the side diagrams, the next 20 rewarding hitting the lowest or highest amount of blocks, and the next 20 introducing number requirements.
+
+Whilst this gameplay is good enough on its own, the overall polish really helps elevate the game. For example, the structure can be swiped to rotate, really helping to place tricky blocks and gain perspective. Similarly, the block placing and removing is reliable and intuitive, letting you concentrate on the actual puzzle.
+
+Completely unexpectedly, it has an augmented reality mode! This is genius, as it suits the 3D-yet-2D gameplay perfectly. It's a unique gaming experience peeking around a block to place one behind it, so that the structure meets the block requirements. Whilst I realistically won't use this feature for normal play, it's a great addition.
+
+Based on the achievements, I believe there are 120 levels in total. Considering how each level has 3 goals (minimum blocks, maximum blocks, picross), this is equivalent to 360 puzzles. I definitely intend to get at least *a* solution for all 120 (assuming the difficulty doesn't get crazy!), and possibly 100% completion.
+
+The game even has a dark mode, with all colours inverted!
+
+### Monetisation
+
+The game is $1.99, with no additional payments.
+
+### Tips
+
+* You don't need to complete a puzzle perfectly first time, any solution will do.
+* The dots above puzzles on the level selection indicate a bonus objective has been completed. 
+* If a puzzle seems unsolvable, solve it for 1 side first. Then, you can build the other side from that, removing any duplicates / unnecessary blocks.
+* I found rotating the structure a few times when I'm stuck helps ensure my mental model is accurate, and I know where blocks need to go.
+
+### Screenshots
+
+| Main game | Picross mode | Augmented reality mode |
+| --- | --- | --- |
+| [![](/assets/images/2023/sept-projekt-normal-thumbnail.jpg)](/assets/images/2023/sept-projekt-normal.jpg) | [![](/assets/images/2023/sept-projekt-picross-thumbnail.jpg)](/assets/images/2023/sept-projekt-picross.jpg) | [![](/assets/images/2023/sept-projekt-ar-thumbnail.jpg)](/assets/images/2023/sept-projekt-ar.jpg) | 
+
+## #3: [inbento](https://play.google.com/store/apps/details?id=com.Afterburn.Inbento)
 
 Inbento is a very, very cute logic game. It was recommended to me as part of Google Play Pass, and the difficulty ramps up more than expected!
 

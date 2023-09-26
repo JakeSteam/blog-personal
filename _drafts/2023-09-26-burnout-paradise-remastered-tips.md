@@ -1,5 +1,5 @@
 ---
-title: X tips for Burnout Paradise (Remastered) I learned on my way to 100% completion 🚗
+title: 50 tips for Burnout Paradise (Remastered) I learned on my way to 100% completion 🚗
 author: Jake Lee
 layout: post
 image: /assets/images/2023/
@@ -101,6 +101,8 @@ I had vague memories of playing Burnout Paradise for a few hours years ago. Howe
 #### Drive to where you know
 
 #### Crashing at the end is fine
+
+## Completionist
 
 ## General tips
 
