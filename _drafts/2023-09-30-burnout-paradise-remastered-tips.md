@@ -138,39 +138,96 @@ The 33 police cars are literally just reskins of cars from the main game with id
 ### Races
 
 #### 21. Fewest turns route is best
-* Ideal route is 1-2 straight lines
-* Corners are risk
-* Having to keep pausing makes you take your eyes off the road
+
+I found that corners and complexity were my worst enemies. A slightly less direct route that was very simple usually ended up better for me than one with multiple twists and turns.
+
+Part of this is due to the distraction caused by having to pause more often, plus the disruption to boosts that might occur. Additionally, turning any corner is a risk, since traffic can come out of nowhere and turning isn't guaranteed.
 
 #### 22. Plan carefully
 
+Since the game is paused during a race, there's no point rushing. Plan out your route, memorise as much as you can, then off you go!
+
+#### 23. Copy the AI until the end
+
+Alternatively, if you're unsure of the best route, copying the AI is pretty easy. They'll drive a pretty optimal route, and will be easy to overtake (or they'll crash), so following them up until 1 mile before the end is an easy way to win without any planning.
+
+#### 24. Boost mid-turn
+
+If you're in a car where boosting is always available (and you should be!), an easy way to turn a corner is to handbrake turn, then boost to cancel your momentum.
+
 ### Marked man
 
-#### Off road long paths are best
-* No traffic
-* Easy to survive
+#### 25. Off road long paths are best
+
+For Marked man, chase cars will spawn mostly on roads. As such, long sections of off-road roads are the easiest way to reach the destination. For example, the railroads are by far the best way to get around if they're on your route.
+
+#### 26. Turn at the last minute
+
+The chase cars will somewhat try and predict your turns and cut you off / T-bone you. Counteract this by not trying to hit the apex of a corner, and instead just handbrake turning when you reach it.
+
+#### 27. Use every auto shop
+
+No matter how well you drive, the chase cars will get you occasionally. Make sure your route goes past as many auto shops as possible, and use them even if you've only been taken down once.
 
 ### Road rage
 
-#### Direction doesn't matter
+#### 28. Direction doesn't matter
 
-#### Bully small cars
+Similar to marked man, it doesn't matter which direction you drive. As such, you can drive to easy takedown spots (see next tip), as well as steering towards an autoshop since you'll probably take some damage. 
 
-#### Bump strong cars from behind
+#### 29. Bully speed / small cars
 
-#### Stop when target reached
+See a small, fast car zooming past you? Great, aim for them first! They're weak easy to take down, and will help you reach the target faster.
 
-### Stunt
+#### 30. Bump strong cars from behind
 
-#### Final run is infinitely long
+Strong cars, like vans, can generally muscle you out if you try to barge them from the side. 
 
-#### Find your favourite spot
+#### 31. Nudge weak cars from the middle / back
+
+If a car is weaker than you, it's very vulnerable to being pushed from the side. Driving alongside it and aggressively nudging it sideways will usually result in a takedown. It doesn't matter much which part of the car you get, but the middle or back is more likely to spin the target out of control.
+
+#### 32. Stop when target reached
+
+When you reach your target takedown count, just stop driving. The event will successfully end in a few seconds.
+
+#### 33. Long, predictable stretches are ideal
+
+For taking out other cars, long stretches of narrow road are ideal. In these, you can easily drive alongside any car and take them out.
+
+Personally I love the long bridge in the south-west with jumps in the middle. Nudging cars is very easy, and you can safely get 6-7 takedowns by the end of the bridge.
+
+### Stunt run
+
+#### 34. Final run is infinitely long
+
+Just because your time has run out doesn't mean you're actually out of time! When it reaches 00:00, you can actually keep going until your combo runs out or you crash. 
+
+Since boosting or drifting can extend your combo timer, you have far more time than the timer indicates, so don't feel too rushed.
+
+#### 35. Find your favourite spot
 
 After playing the game for a few hours, you'll probably have a few areas in mind that are reliable for improving your stunt multiplier by destroying billboards.
 
 Personally I'm a big fan of the main South/North road on the east of the city. It has a few massive jumps as well as multiple billboards, plus it's nice and wide reducing the risk of unexpected obstacles. As such, I tend to end up here during my stunt runs.
 
-#### Crashing at the end is fine
+#### 36. Crashing at the end is fine
+
+If you end your run in a crash, the points are still banked! There's no need to safely come to a stop.
+
+### Burning route
+
+#### 37. Plan carefully
+
+These timed routes are genuinely quite challenging, especially if you pick a poor route. As such, it's worth spending a bit of time planning your complete route at the very start of the race. There are no rivals to follow, so good luck!
+
+## Additional resources
+
+In case you're after additional tips, I highly recommend:
+
+* [The official Burnout wiki](https://burnout.fandom.com/wiki/Burnout_Paradise)
+* [This r/NintendoSwitch post](https://www.reddit.com/r/NintendoSwitch/comments/rm79k1/picked_up_burnout_paradise_cheap_heres_what_to_do/)
+
 
 
 [![](/assets/images/2023/example_thumbnail.png)](/assets/images/2023/example.png)
