@@ -1,8 +1,8 @@
 ---
-title: "A few recent Android game recommendations: Knights of San Francisco, .projekt, inbento 📲"
+title: "4 recent Android game recommendations: Knights of San Francisco, .projekt, inbento, red 📲"
 author: Jake Lee
 layout: post
-image: /assets/images/2023/sep-banner.jpg
+image: /assets/images/2023/sept-games-banner.png
 tags:
     - Android
     - Gaming
@@ -123,6 +123,43 @@ Honestly the game's tutorial is so well executed that I'm not sure I have many t
 | Level select | Gameplay | Mini-comic |
 | --- | --- | --- |
 | [![](/assets/images/2023/sept-inbento-levels-thumbnail.jpg)](/assets/images/2023/sept-inbento-levels.jpg) | [![](/assets/images/2023/sept-inbento-gameplay-thumbnail.jpg)](/assets/images/2023/sept-inbento-gameplay.jpg) | [![](/assets/images/2023/sept-inbento-comic-thumbnail.jpg)](/assets/images/2023/sept-inbento-comic.jpg) |
+
+
+## #4: [red](https://play.google.com/store/apps/details?id=air.com.bartbonte.red)
+
+"red" is a short and highly stylised puzzle game all about making the entire screen... red.
+
+### Review
+
+I've seen a few of the developer Bart Bronte's other games before, but always ignored them because the descriptions were quite vague. However, I decided to finally give one a go and was pleasantly surprised!
+
+The goal of each of red's 50 levels is to turn the entire screen red. However, unlike most puzzle games, every level uses a completely different mechanic. One puzzle might require "walking" your fingers up the screen, then the next requiring tapping circles in the correct order.
+
+Each of these puzzle can absolutely be solved through pure logic, there's no luck. However, trial and error will definitely be required, since they are generally impossible to solve without having a little experimenting first. This style of puzzle works really well on mobile, encouraging you to drag, tap, and hold anything you can see on screen.
+
+Additionally, the developer has 6 very similar other games, even down to their branding! However, the puzzles in all are completely unique, and his creativity is genuinely impressive:
+
+[![](/assets/images/2023/sept-red-othergames.png)](/assets/images/2023/sept-red-othergames.png)
+
+The entire game took me around 45-60 minutes across multiple sessions. Whilst I enjoyed working through the 50 levels, there's essentially no replayability. Once you know the solution, you know it, and unfortunately there are no speed-run / time limit mechanics. 
+
+### Monetisation
+
+According to reviews, you can watch adverts to read optional hints or pay $2 for unlimited hints. 
+
+For my playthrough the hints were all free due to Google Play Pass, and I ended up using them for 3-4 levels that I just couldn't figure out.
+
+### Tips
+
+* Every level is different, don't bother trying past mechanics!
+* Tap and drag everything. It'll make sense eventually.
+* You never need to rotate the device / use the microphone / anything weird, all levels are solvable using just the screen.
+
+### Screenshots
+
+| Title screen | Level 14 | Level 25 |
+| --- | --- | --- |
+| [![](/assets/images/2023/sept-red-title-thumbnail.jpg)](/assets/images/2023/sept-red-title.jpg) | [![](/assets/images/2023/sept-red-14-thumbnail.jpg)](/assets/images/2023/sept-red-14.jpg) | [![](/assets/images/2023/sept-red-25-thumbnail.jpg)](/assets/images/2023/sept-red-25.jpg) |
 
 ## Update on previous games
 
