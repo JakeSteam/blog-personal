@@ -1,5 +1,5 @@
 ---
-title: 50 tips for Burnout Paradise (Remastered), only 15 (or 5) years later! 🚗
+title: 50 tips for Burnout Paradise (Remastered), only 15 (or 5) years after release! 🚗
 author: Jake Lee
 layout: post
 image: /assets/images/2023/burnout-paradise.png
@@ -8,11 +8,9 @@ tags:
     - Gaming
 ---
 
-Okay, so *maybe* Burnout Paradise isn't the hot new racing game, but it *is* an absolute classic with extremely satisfying gameplay. I recently completed it after finding it on Xbox / EA Game Pass, here's a few tips I picked up along the way.
+Okay, so *maybe* Burnout Paradise isn't the hot new racing game, but it *is* an absolute classic with extremely satisfying gameplay. I recently re-completed it after finding it on Xbox / EA Game Pass, here's a few tips I picked up along the way.
 
 I had vague memories of playing Burnout Paradise for a few hours years ago. However, I've got a few (hundred...) hours of Forza Horizon and other games under my sleeve now, making this playthrough much easier than last time. For reference, completing the main game and earning a "Burnout License" took me around 7-8 hours. There are multiple [additional licenses for completionists](https://burnout.fandom.com/wiki/License) that I'm slowly working towards!
-
-* Make sure to add tips from reddit post (and link it ofc)
 
 ## Intro
 
@@ -36,7 +34,7 @@ Pressing select opens a large map, and during races you should absolutely be usi
 
 ### 3. End events in dense areas
 
-For events that don't have a fixed path (e.g. all except races), where possible you should aim to finish in an area where you have plenty of events to complete (e.g. the city). This will reduce your downtime between events.
+For events that don't have a fixed path (e.g. all except races & burning routes), where possible you should aim to finish in an area where you have plenty of events to complete (e.g. the city). This will reduce your downtime between events.
 
 ### 4. Drive through all repair shops
 
@@ -47,6 +45,12 @@ Whenever you spot a repair shop, drive through it. Finding one quickly can be cr
 Events are unlocked and added to the map by just driving over the intersection where they can be started. As such, unlocking all the events early is useful for planning your time.
 
 The easiest way to do this is to try taking new routes when navigating to events in free roam.
+
+### 6. Be curious for hidden areas
+
+The yellow "crash" barriers aren't just for shortcuts, they can also hide massive areas. These are totally unpredictable, and what seems like a large empty area on the map might actually be full of billboards and jumps. Here's one example, found by taking a random detour into a tunnel hidden by a crash barrier:
+
+[![](/assets/images/2023/burnout-hidden-areas-740w.png)](/assets/images/2023/burnout-hidden-areas.png)
 
 ## Progression
 
@@ -60,21 +64,39 @@ This tactic works well up until you start running out of events to complete.
 
 Whenever you earn a new license, all previously completed events can be completed again. This lets you speed through wins by repeating any past events you found easy.
 
-### 8. Post-credit completionist licenses exist
+### 8. Post-credits completionist licenses
 
 Despite the game playing the credits when you earn your Burnout license, you're actually only around 30-40% through the game! There are [quite a few additional licenses](https://burnout.fandom.com/wiki/License) that get progressively harder and harder, eventually even getting above 100% completion.
 
 ## Driving
 
 ### 9. Takedowns are crucial
-* Easy boost
-* Massive advantage
+
+Learning how to takedown other cars is perhaps the most important skill you can learn. Doing it instinctively whilst also handling a tricky corner will get you free boost whilst also slowing down the crashing rival (and anyone else who collides with them).
 
 ### 10. A takedown can save you
-* If a car is taken down, the cutscene saves you and steers briefly
+
+If you and a rival are driving straight into a wall, so long as they are slightly ahead, they will crash first and the game will "save" you. 
+
+You can exploit this, by taking down a rival immediately before a junction you're unsure how to handle. The takedown animation will play, and the game will automatically steer you through the junction and even make you briefly invincible! 
 
 ### 11. Do not crash
-* No really, you'll lose SO much time
+
+Crashing loses a LOT of time. Rivals overtaking you, or taking a less direct route, is almost always the better option instead of crashing.
+
+If you are ahead, especially when driving the faster cars, there's no need to drive with full aggression and constantly boosting. Just drive safely, avoid obstacles, and get the easy win. 
+
+### 12. Don't push your luck with traffic
+
+Traffic is easier to crash into than you might expect. Whilst rivals can be pushed around (and will push you back), even a slight nudge into a parked car can ruin your run, so it's safest to just avoid them completely. 
+
+This even stretches to a side-on barge whilst overtaking which feels easily survivable, yet if the crash cutscene plays it doesn't matter how big the initial crash was. Avoid traffic.
+
+### 13. You can crash into crashed rivals
+
+A rival has exploded in front of you, great! Except... their destroyed vehicle might roll into your lane and take you out, then they'll end up respawning before you. Oops.
+
+Avoid crashed / rolling rivals, they're even more dangerous whilst crashing.
 
 ## Cars
 
@@ -179,11 +201,11 @@ Similar to marked man, it doesn't matter which direction you drive. As such, you
 
 See a small, fast car zooming past you? Great, aim for them first! They're weak easy to take down, and will help you reach the target faster.
 
-#### 30. Bump strong cars from behind
+#### 30. Bump strong cars
 
-Strong cars, like vans, can generally muscle you out if you try to barge them from the side. 
+Strong cars, like vans, can generally muscle you out if you try to barge them from the side. Instead, hit them as hard as possible from behind, and they will spin out.
 
-#### 31. Nudge weak cars from the middle / back
+#### 31. Nudge weak cars
 
 If a car is weaker than you, it's very vulnerable to being pushed from the side. Driving alongside it and aggressively nudging it sideways will usually result in a takedown. It doesn't matter much which part of the car you get, but the middle or back is more likely to spin the target out of control.
 
@@ -197,29 +219,37 @@ For taking out other cars, long stretches of narrow road are ideal. In these, yo
 
 Personally I love the long bridge in the south-west with jumps in the middle. Nudging cars is very easy, and you can safely get 6-7 takedowns by the end of the bridge.
 
+#### 34. Invincibility after takedown
+
+Immediately after performing a takedown, you cannot be harmed. This means if you were about to drive off a cliff, you'll be instantly saved.
+
+You can use this to your advantage by prioritising taking down a car if you're about to crash, and it might get you out of a bit of damage.
+
 ### Stunt run
 
-#### 34. Final run is infinitely long
+#### 35. Final run is infinitely long
 
 Just because your time has run out doesn't mean you're actually out of time! When it reaches 00:00, you can actually keep going until your combo runs out or you crash. 
 
 Since boosting or drifting can extend your combo timer, you have far more time than the timer indicates, so don't feel too rushed.
 
-#### 35. Find your favourite spot
+#### 36. Find your favourite spot
 
 After playing the game for a few hours, you'll probably have a few areas in mind that are reliable for improving your stunt multiplier by destroying billboards.
 
 Personally I'm a big fan of the main South/North road on the east of the city. It has a few massive jumps as well as multiple billboards, plus it's nice and wide reducing the risk of unexpected obstacles. As such, I tend to end up here during my stunt runs.
 
-#### 36. Crashing at the end is fine
+#### 37. Crashing at the end is fine
 
 If you end your run in a crash, the points are still banked! There's no need to safely come to a stop.
 
 ### Burning route
 
-#### 37. Plan carefully
+#### 38. Plan carefully
 
 These timed routes are genuinely quite challenging, especially if you pick a poor route. As such, it's worth spending a bit of time planning your complete route at the very start of the race. There are no rivals to follow, so good luck!
+
+## Conclusion
 
 ## Additional resources
 
