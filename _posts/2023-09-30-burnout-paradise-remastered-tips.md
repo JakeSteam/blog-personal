@@ -142,6 +142,8 @@ Your rivals in a race will be balanced based on your car. If you pick the fastes
 
 Similarly, there is no car that is best for all events. I personally found "Spur" my favourite, since it handles well, can boost pretty much forever, is fast, and can also handle a bit of a beating.
 
+The "Carson GT Nighthawk" (Legendary car) is a lot of people's favourite due to the very responsive handling and strength. However, for me it's a bit too quick, making road rage events too fast-paced, and I miss the ability to use my boost whenever I want.
+
 Try out a few different cars, and find your favourite.
 
 ### 21. Car unlock order
