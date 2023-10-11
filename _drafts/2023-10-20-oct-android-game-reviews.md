@@ -40,6 +40,15 @@ Idle Iktah has pretty good offline progress (50% unless doubling with ads for up
 
 Finally, there is a [Discord](https://discord.com/invite/nEp3rhmPTC) (350+ members, friendly), [Twitter](https://twitter.com/idleiktah) (unused), and [Subreddit](https://www.reddit.com/r/IdleIktah/) (quiet, patch notes only).
 
+In terms of improvements, I'd love to see:
+
+* Statistics on how many X I've killed / created.
+* The quest screen could show how far towards the unlock criteria (e.g. 4/10 kills).
+* A "time left" for long jobs, to avoid me having to keep doing mental multiplication!
+* The ability to rename bags for easier categorisation.
+* More detailed help for the equipment screen. For example, my sword has a "sun" enchant on it... what does that do!?
+
+
 ### Monetisation
 
 There are pretty standard optional adverts when you open the game, allowing you to double your offline earnings.
@@ -82,11 +91,31 @@ There are 12(!) skills in the game, plus combat, so the screenshots below only s
 
 ## Update on previous games
 
-I'm trying something new with this post, and giving a little conclusion on whether I'm still enjoying [games from my previous post](/sept-android-game-reviews/), since longevity is important!
+What happened to the 4 games I loved a few weeks ago, that I [wrote positive reviews about in a previous post](/sept-android-game-reviews/)?
 
 ### Knights of San Francisco
 
-**Uninstalled at x.**
+**Uninstalled at 1 completion.**
 
-x
+As mentioned in my review, I felt my single playthrough experienced the majority of the game, so decided not to do further playthroughs to go for 100% completion.
+
+### .projekt
+
+**Still installed.**
+
+I'm still enjoying .projekt, and it's nice to play semi-brainlessly whilst listening to podcasts. Unfortunately the complexity hits a bit of a plateau, and it is no longer challenging 60 or so levels in.
+
+I might end up 100% completing it, but it'll likely be a slow one.
+
+### inbento
+
+**Uninstalled around Chapter 7.**
+
+Whilst this game was fun, I am too dumb. After a while, I was solving puzzles through trial and error and didn't feel any intellectual dopamine from finally getting there!
+
+### red
+
+**Uninstalled after completion.**
+
+There's no reason to replay this game after 1 completion, so I didn't!
 
