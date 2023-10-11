@@ -20,23 +20,25 @@ Idle Iktah is a dangerous game: It's like RuneScape, but singleplayer and idle. 
 
 I spotted this game from an [r/incremental_games post](https://www.reddit.com/r/incremental_games/comments/173tjq0/idle_iktah_an_idle_rpg_set_in_the_pacific/) a few days ago, and I've been playing it almost constantly since then. It's RuneScape-inspired, but with plenty of different skills, different mechanics, different items, etc. 
 
-Basic is essentially choosing a skill, choosing what action / item to use, then pressing "Play". There are also battles, with critical hits, drop rates, food, tomes, etc. Whilst this gameplay is relatively simple, the very clean and focused UI as well as balanced game design allows for some deeply satisfying gameplay loops. Additionally, once you understand the UI, you can look at the XP / effects of any action even whilst your actions are happening in the background. 
+The basic gameplay is essentially choosing a skill, choosing what action / item to use, then pressing "Start". There are also battles, with critical hits, drop rates, food, tomes, etc. Whilst this gameplay is relatively simple, the very clean and focused UI as well as balanced game design allows for some deeply satisfying gameplay loops. Additionally, once you understand the UI, you can look at the XP / effects of any action even whilst your actions are happening in the background. 
 
-However, what really makes it stand out is how expertly new content is drip-fed to the player. I've tried Melvor Idle before, and it was all a bit overwhelming and "online", which just isn't want I'm interested in. The game cleverly only shows you the next couple of "locked" items / areas for each skill, so you never feel like you've barely started the game, even 10 minutes in.
+However, what really makes it stand out is how expertly new content is drip-fed to the player. I've tried Melvor Idle before, and it was all a bit overwhelming and "online", which just isn't what I'm interested in. Iktah cleverly only shows you the next couple of "locked" items / areas for each skill, so you never feel like you've barely started the game, even 10 minutes in.
 
-Speaking of skills, even these are not all revealed at the start. Whilst you do have access to "gathering" and "crafting" skills early on, multiple additional ones appear unexpectedly just as you're starting to finish one part of the content! Unlike many idle games, where you're just waiting for the chance to click the button / upgrade the machine / etc, Idle Iktah has a much more complex gameplay loop. Every skill has it's own unlocks and levels, with synergy between them. For example high fishing will catch better fish, which give more cooking xp, which help fighting harder monsters, etc.
+Speaking of skills, even these are not all revealed at the start. Whilst you do have access to "gathering" and "crafting" skills early on, multiple additional ones appear unexpectedly just as you're starting to finish one part of the content! Unlike many idle games, where you're just waiting for the chance to click the button / upgrade the machine / etc, Idle Iktah has a much more complex gameplay loop. Every skill has it's own unlocks and levels, with synergy between them, just like RuneScape. For example high fishing will catch better fish, which give more cooking xp, which help fighting harder monsters, etc.
 
-Whilst the discovery aspect of the game is excellently implemented, I am also very impressed by the complexity of the interactions between the skills. The complex relationships between skills means the game manages to catch the "lightning in the bottle" feeling that games like RuneScape and Skyrim gave me: having multiple things I am excited to do. 
+Whilst the discovery aspect of the game is excellently implemented, I am also very impressed by the complexity of the interactions between the skills. The complex relationships between skills means the game manages to catch the "lightning in the bottle" feeling that games like RuneScape and Skyrim gave me: having multiple things I am excited to do ASAP. 
 
 Instead of waiting until I have enough coins to upgrade something, I can mine some ore so I can smelt a bar so I can smith a pickaxe head so I can craft a pickaxe so I can mine ore faster. Except uh oh, that requires a higher crafting level! Time to hunt some monsters so I can get some leather so I can make some bags so I can.... you get the idea. 
 
-Just like with RuneScape, you'll often find yourself doing actions in bulk since they are good XP. For example, making 100 wooden chairs for the Carpentry XP. Unlike RuneScape though, even junk items have plenty of uses. They can be traded with traders that appear from time to time for rare shells (which are used to buy items *from* the traders), or they can be broken down into their "core" for use in Enchanting. 
+Just like with RuneScape, you'll often find yourself doing actions in bulk since they are good XP. For example, making 100 wooden chairs for the Carpentry XP. Unlike RuneScape though, even junk items have plenty of uses: They can be traded with traders that appear from time to time for rare shells (which are used to buy items *from* the traders), or they can be broken down into their "core" for use in Enchanting. 
 
 Iktah is very intentionally offline-only, and even the "Community" skill refers to your in-game local area! This is the only kind of game I enjoy, and I'm really happy the developer hasn't implemented any "clans", usually used to encourage players to spend more real money.
 
 I've been playing Idle Iktah pretty obsessively the last few days, and could write paragraphs more about it, but the final positive is the helpful notifications. Notifications can be customised for level-ups, new areas, new traders etc, and it's a great way to leave the game in the background until a bulk crafting job is done. Inside the game, crafted items / level-ups appear "over" whatever window you have open, ensuring you always know what is going on, even if you are deep inside a submenu.
 
-Finally, there is a [Discord](https://discord.com/invite/nEp3rhmPTC) (350+ members), [Twitter](https://twitter.com/idleiktah) (unused), and [Subreddit](https://www.reddit.com/r/IdleIktah/) (quiet, patch notes only). Perhaps contrversuakky
+Idle Iktah has pretty good offline progress (50% unless doubling with ads for up to 24hr), however I had it open a lot and the battery drain is tiny, far less than a browser / video / most games.
+
+Finally, there is a [Discord](https://discord.com/invite/nEp3rhmPTC) (350+ members, friendly), [Twitter](https://twitter.com/idleiktah) (unused), and [Subreddit](https://www.reddit.com/r/IdleIktah/) (quiet, patch notes only).
 
 ### Monetisation
 
@@ -48,13 +50,13 @@ I purchased a permanent advert removal for £5. This doubles all offline earning
 
 ### Tips
 
-As mentioned, the game does an amazing job of giving you information and guidance, so I won't mention anything covered within the game.
+As mentioned, the game does an amazing job of giving you information and guidance, so I won't mention anything covered within the game. I'd also recommend checking [the Discord](https://discord.com/invite/nEp3rhmPTC) for more.
 
 * **Always make sure you are doing *something***. Whilst figuring out a complex crafting process, have some woodcutting happening in the background.
 * **Perform as many operations on an item as you can**. The more processes items go through, the more likely they are to earn you high XP or be worth a lot to traders. For example, instead of selling wood, process it into planks then furniture first. Or, instead of selling a gathered resource, make a potion that can then be used for an enchant. This takes much longer, but earns you more XP and resources than instantly trading would.
 * **Prioritise completing quests**. The tasks (accessible via the skill select menu) give great rewards, and often unlock new content.
 * **Turn potion autodrink on**. Potions can be set to autodrink via the "infinity" symbol when opening them in the inventory. This only triggers when you are actively training that skill, and you have actively drunk the first potion. It's safe to leave it on for all potions you want to use.
-* **Inventory space is tight**. You'll probably learn this very early on, but inventory space is the main enemy! Some ways to utilise it as effectively possible are:
+* **Inventory space is tight**. You'll probably learn this very early on, but inventory space is the main enemy! Some ways to utilise it as efficiently as possible are:
     * **Be organised**. If you have junk everywhere, you'll never have any space. Use additional bags, have a system. For example, I use "Main bag", "Fishing / woodcutting", "Mining", "Potions / to sell".
     * **Train crafting**. Crafting lets you create additional mini-inventories, and eventually (Lev 20-30+) you can create specialised inventories (e.g. for rings or food). I'm hoping there's plenty more of these to unlock.
     * **Progress things**. Instead of leaving 30 level 1 fish around, cook them and use them in combat! It tidies up your inventory without having to delete the items. This applies to crafting ingredients, ores, fish, wood, etc.
@@ -65,6 +67,7 @@ As mentioned, the game does an amazing job of giving you information and guidanc
     * Epic (Purple)
     * Legendary (Orange)
 * **Gather overnight**. Perhaps obvious, but don't do any crafting overnight in case you run out of materials. Do tasks like fishing or woodcutting that have no limits.
+* **Everything has value**. All traders will buy all items (except the very basic resources). However, cheap items like "Bluegill" fish will require 834(!) in exchange for a single rare shell! As such, items should never be deleted if possible, and trading in resources you have no use for (e.g. wooden chairs) is a good way to earn shells for the trader's items.
 * **You are semi-immortal**. So long as you don't get one-hit, you can survive any damage since your character can eat multiple fish per turn. This means a fish that heals 1 is just a useful as one that heals 10, so long as you don't run out!
 * **Hang on to rarer things**. Since you level skills separately, you'll pretty often gain a non-common item that seems to have no purpose. Hang onto it, you'll wish you had it later on!
 
