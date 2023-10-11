@@ -165,4 +165,3 @@ Throughout this post, I'm very aware that I'm judging the aesthetics of the logo
 Overall I highly recommend the tool, although I'd love to see it developed into a tool with even more options, even if that requires some sort of "premium" tier. 
 
 One last time, this **isn't a sponsored post whatsoever**, none of the posts on this site are!
-

@@ -321,7 +321,3 @@ In case you're after additional tips, I highly recommend:
 
 * [The official Burnout wiki](https://burnout.fandom.com/wiki/Burnout_Paradise)
 * [This r/NintendoSwitch post](https://www.reddit.com/r/NintendoSwitch/comments/rm79k1/picked_up_burnout_paradise_cheap_heres_what_to_do/)
-
-
-
-[![](/assets/images/2023/example_thumbnail.png)](/assets/images/2023/example.png)
