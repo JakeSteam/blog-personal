@@ -65,7 +65,8 @@ As mentioned, the game does an amazing job of giving you information and guidanc
 * **Perform as many operations on an item as you can**. The more processes items go through, the more likely they are to earn you high XP or be worth a lot to traders. For example, instead of selling wood, process it into planks then furniture first. Or, instead of selling a gathered resource, make a potion that can then be used for an enchant. This takes much longer, but earns you more XP and resources than instantly trading would.
 * **Prioritise completing quests**. The tasks (accessible via the skill select menu) give great rewards, and often unlock new content.
 * **Turn potion autodrink on**. Potions can be set to autodrink via the "infinity" symbol when opening them in the inventory. This only triggers when you are actively training that skill, and you have actively drunk the first potion. It's safe to leave it on for all potions you want to use.
-* **Inventory space is tight**. You'll probably learn this very early on, but inventory space is the main enemy! Some ways to utilise it as efficiently as possible are:
+* **Turquoise can be used to double rare shells**. At level 50ish Alchemy, you can create a "Headhunter potion" for 1 rare shell & 1 turquoise. Whilst turquoise sells to traders for 0.15 shells, a headhunter potion sells for 2 shells! This means you can essentially convert all turquoise into rare shells by creating the potion and selling.
+* **Inventory space is tight**. You'll probably learn this very early on, but inventory space is the main enemy until you can craft big bags! Some ways to utilise it as efficiently as possible are:
     * **Be organised**. If you have junk everywhere, you'll never have any space. Use additional bags, have a system. For example, I use "Main bag", "Fishing / woodcutting", "Mining", "Potions / to sell".
     * **Train crafting**. Crafting lets you create additional mini-inventories, and eventually (Lev 20-30+) you can create specialised inventories (e.g. for rings or food). I'm hoping there's plenty more of these to unlock.
     * **Progress things**. Instead of leaving 30 level 1 fish around, cook them and use them in combat! It tidies up your inventory without having to delete the items. This applies to crafting ingredients, ores, fish, wood, etc.
@@ -79,6 +80,8 @@ As mentioned, the game does an amazing job of giving you information and guidanc
 * **Everything has value**. All traders will buy all items (except the very basic resources). However, cheap items like "Bluegill" fish will require 834(!) in exchange for a single rare shell! As such, items should never be deleted if possible, and trading in resources you have no use for (e.g. wooden chairs) is a good way to earn shells for the trader's items.
 * **You are semi-immortal**. So long as you don't get one-hit, you can survive any damage since your character can eat multiple fish per turn. This means a fish that heals 1 is just a useful as one that heals 10, so long as you don't run out!
 * **Hang on to rarer things**. Since you level skills separately, you'll pretty often gain a non-common item that seems to have no purpose. Hang onto it, you'll wish you had it later on!
+* **Claim Mastery Potion ASAP**. If you've paid for the ad-free experience, your Mastery Potion is available every 20 hours. This timer starts when you claim it, so make sure to do this as soon as it is available.
+* **Partner / trader preview is scrollable**. If you use a dugout to force a specific trader to appear, you can see 4 of their items as a preview. This can actually be scrolled down to see ALL their items!
 
 ### Screenshots
 
