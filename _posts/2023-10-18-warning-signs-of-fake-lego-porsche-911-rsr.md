@@ -105,6 +105,8 @@ With that in mind, why do mine have a zig-zag pattern on!? The [middle brick](ht
 
 This probably should have been the point where I knew this set was fake. However, considering the Porsche RSR's angular, aggressive design overall, I thought there was a small chance this was a special variant used for this set. It would be weird that the instructions don't match, but receiving a *more* complex block than the instructions show still isn't a red flag!
 
+I found [this great guide](https://www.brickhello.com/post/2019/05/07/identifying-fake-lego-technic-parts-guide) showcasing all the ways to distinguish fake LEGO technic parts. The summary is these long arms are he easiest to distinguish, others have differences you wouldn't casually spot, and some smaller pieces can be impossible. 
+
 Whilst none of the indicators so far were fully convincing, together they made me too suspicious. If I'd only experienced 1-2 of them, I would never have wondered if the set was a fake. 7-8 errors in a LEGO set though? That is not normal.
 
 As such, I vaguely remembered some advice I'd read, and checked whether the few traditional LEGO bricks in the set had the "Lego" logo on top, like they always do...
