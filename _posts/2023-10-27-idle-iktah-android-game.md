@@ -62,7 +62,7 @@ Additionally, there is a shop where perks (e.g. XP booster, tomes for combat, et
 
 I purchased a permanent advert removal for £5. This doubles all offline earnings (as if you'd watched an ad), and provides a daily Mastery potion, but I primarily purchased it to support the developer's excellent work.
 
-## Tips
+## Early-game Tips
 
 As mentioned, the game does an amazing job of giving you information and guidance, so I won't mention anything covered within the game. I'd also recommend checking [the Discord](https://discord.com/invite/nEp3rhmPTC) for more.
 
@@ -86,7 +86,6 @@ As mentioned, the game does an amazing job of giving you information and guidanc
 * **You are semi-immortal**. So long as you don't get one-hit, you can survive any damage since your character can eat multiple fish per turn. This means a fish that heals 1 is just a useful as one that heals 10, so long as you don't run out!
 * **Hang on to rarer things**. Since you level skills separately, you'll pretty often gain a non-common item that seems to have no purpose. Hang onto it, you'll wish you had it later on!
 * **Claim Mastery Potion ASAP**. If you've paid for the ad-free experience, your Mastery Potion is available every 20 hours. This timer starts when you claim it, so make sure to do this as soon as it is available.
-* **Partner / trader preview is scrollable**. If you use a dugout to force a specific trader to appear, you can see 4 of their items as a preview. This can actually be scrolled down to see ALL their items!
 
 ## Screenshots
 
@@ -100,4 +99,4 @@ There are 12(!) skills in the game, plus combat, so the screenshots below only s
 | --- | --- | --- |
 | [![](/assets/images/2023/oct-iktah-community-thumbnail.jpg)](/assets/images/2023/oct-iktah-community.jpg) | [![](/assets/images/2023/oct-iktah-teachings-thumbnail.jpg)](/assets/images/2023/oct-iktah-teachings.jpg) | [![](/assets/images/2023/oct-iktah-outfits-thumbnail.jpg)](/assets/images/2023/oct-iktah-outfits.jpg) 
 
-One last time, here's the Play Store link for Idle Iktah: https://play.google.com/store/apps/details?id=games.grounded.idleiktah
+One last time, here's the Play Store link for Idle Iktah: <https://play.google.com/store/apps/details?id=games.grounded.idleiktah>
