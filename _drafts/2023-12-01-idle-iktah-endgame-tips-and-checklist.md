@@ -1,5 +1,5 @@
 ---
-title: 30 tips for Idle Iktah's endgame, and defining 100% completion
+title: 30 tips for Idle Iktah's endgame, and a checklist for 100% completion
 author: Jake Lee
 layout: post
 image: /assets/images/2023/
@@ -15,7 +15,7 @@ intro
 
 * 99 all stats
 * All pets
-* All monster drops
+* All rare monster drops (imcluding golem speedrun)
 * Expedition echo full unlock
 * Maxed out house
 * Maxed out tools
@@ -29,9 +29,17 @@ Scheduling 8-9hr jobs overnight
 
 Aim to always be 2X xp
 
+Take advantage of traders
+
+99 enchanting indirectly gives you infinite currency
+
+Always use the maximum time boost
+
+Always use as many potions as possible
+
 ## Combat
 
-Different places to grind
+Different places to grind (hidden grove best)
 
 ## Good XP in each skill
 
