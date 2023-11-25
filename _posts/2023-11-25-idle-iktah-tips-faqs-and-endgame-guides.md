@@ -11,9 +11,11 @@ tags:
 
 I have been playing Idle Iktah almost obsessively for the last 6 weeks, and have finally reached all 99s and almost 100% completion! In this post, I'll answer common questions from the [Discord](https://discord.gg/TRymHghrKA), reveal plenty of gameplay tips, and include a small collection of mini-guides. Enjoy!
 
-Improvements / suggestions for this post are very much welcomed, feel free to leave a comment or [raise a PR directly](https://github.com/JakeSteam/blog-personal) and I'll include them. Mouseover / tap to the left of a header if you want a direct link to share.
+Improvements / suggestions for this post are very much welcomed, feel free to leave a comment or [raise a PR directly](https://github.com/JakeSteam/blog-personal/blob/main/_posts/2023-11-25-idle-iktah-tips-faqs-and-endgame-guides.md) and I'll include them. Mouseover / tap to the left of a header if you want a direct link to share.
 
-Idle Iktah is [available on iOS](https://apps.apple.com/us/app/idle-iktah/id1631764038) and [available on Android](https://play.google.com/store/apps/details?id=games.grounded.idleiktah), I play on Android.
+You might also find [@siofreed's data spreadsheet](https://docs.google.com/spreadsheets/d/1fR6Yq8Sr5UdVHVmJ50DPeGVADz1pZCS3-it2lJy7njo/edit#gid=412514719) (from Discord) useful, it contains *tons* of extremely useful information on drop tables, recipes, pets, and trading. Searching this for any item is a great way to find out where it comes from and what it is used for.
+
+Idle Iktah is [available on iOS](https://apps.apple.com/us/app/idle-iktah/id1631764038) and [available on Android](https://play.google.com/store/apps/details?id=games.grounded.idleiktah), I play on Android. 
 
 ### FAQs
 
@@ -432,6 +434,6 @@ Idle Iktah is one of the best mobile games I've ever played, and it receives fix
 
 The game has also made a massive splash in the partially sighted community, thanks to the developer's focus on ensuring the game is accessible as possible. Based on the questions and discussions on [Discord](ttps://discord.gg/TRymHghrKA), there may even be more partially sighted users than fully sighted. This attention is undoubtedly part of the reason behind the game's rapid growth, and I really hope it continues.
 
-If anything here seems incorrect, or you have additional tips, leave a comment or suggest a change directly.
+If anything here seems incorrect, or you have additional tips, leave a comment or [suggest a change directly](https://github.com/JakeSteam/blog-personal/blob/main/_posts/2023-11-25-idle-iktah-tips-faqs-and-endgame-guides.md).
 
 Thanks, and enjoy Idle Iktah!
