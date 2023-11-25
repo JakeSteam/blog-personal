@@ -42,7 +42,7 @@ In "The Deep Forest" combat area, a Sasquatch will very rarely spawn. This Sasqu
 
 Note that this is an extremely rare spawn, and it took me ~6 hours of combat to obtain it.
 
-I've heard a rumour that Rose-Tinted Goggles from "The Four Hatsmen" combat zone helps, but I haven't tried using them.
+I've heard a rumour that Rose Tinted Goggles from "The Four Hatsmen" combat zone helps, but I haven't tried using them.
 
 ##### **5. Where do I get Rare Shells?**
 Essentially by selling things without any other use.
@@ -128,9 +128,7 @@ You need to kill Forest Kin in "The Shimmering Cave" combat area 3 times.
 ##### **19. How do I get more inventory space?**
 The easiest way is to clear up your current space. Cook all raw fish, use up potion ingredients, sell junk.
 
-If this still doesn't help, you need to craft generic bags from leather (dropped by monsters) via the Crafting skill.
-
-Additionally, you can make use of specialised boxes (such as food only, rings only, etc) from the Carpentry skill.
+If this still doesn't help, you need to craft generic bags from leather (dropped by monsters) via the Crafting skill. Additionally, you can make use of specialised boxes (such as food only, rings only, etc) from the Carpentry skill.
 
 ##### **20. How can I kill Arborion in under 12 seconds?**
 Maximise your attack and strength, and use as many potions as possible. Note that different tiers of potion "stack", and you can bring across your attack bonus from the "Spice Lover" enchant for a truly ridiculous attack level.
@@ -154,7 +152,17 @@ Idle Iktah's [Discord server](https://discord.gg/TRymHghrKA) is *the* place to g
 Whilst the subreddit [r/IdleIktah](https://www.reddit.com/r/IdleIktah/) is OK, it's far quieter than the Discord. 
 
 ##### **22. Everything helps everything.**
-Everything helps everything (diagram of mutual influences, e.g. fishing gives fish for cooking gives food for combat etc)
+Almost every skills links in to the others. For example, if you're struggling to kill a high level enemy you could...
+* Train mining & smithing for better armour.
+* Fight lower level enemies to level up / obtain rare equipment.
+* Use Alchemy to create better potions.
+* Use Enchanting to get more powerful enchants on your items.
+* Fish and cook better food so you don't run out as quickly.
+* Use Crafting to make rings with better stats.
+
+As such, it's probably not a good idea to specialise in 1-2 skills. Instead, levelling everything roughly equally ensures you won't "block" yourself out of content by not having all the items you need. 
+
+I trained roughly in batches of 10 until I had all 90+, then grinded the last few levels however I could. This ensured I always had the wood / metal / gathered items etc for the best equipment.
 
 ##### **23. Schedule sensibly.**
 Early on, it makes sense to run resource gathering tasks overnight, since they will never "run out". Later on however, when you're working in bulk you'll have 8-9 hour tasks that need doing (such as plank making). 
