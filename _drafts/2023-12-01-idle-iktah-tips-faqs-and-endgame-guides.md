@@ -1,15 +1,19 @@
 ---
-title: I love Idle Iktah. Here's 40 tips, and 3 mini-guides ⏳
+title: I love Idle Iktah. Here's 43 tips, and 3 mini-guides ⏳
 author: Jake Lee
 layout: post
-image: /assets/images/2023/
+image: /assets/images/2023/iktah-banner-2.png
 tags:
     - Idle Iktah
     - Gaming
     - Android
 ---
 
-I have been playing Idle Iktah almost obsessively for the last 6 weeks, and have finally reached all 99s! In this post, I'll answer common questions from the [Discord](https://discord.gg/TRymHghrKA), reveal a few gameplay tips, as well as a small collection of mini-guides. Enjoy!
+I have been playing Idle Iktah almost obsessively for the last 6 weeks, and have finally reached all 99s and almost 100% completion! In this post, I'll answer common questions from the [Discord](https://discord.gg/TRymHghrKA), reveal plenty of gameplay tips, and include a small collection of mini-guides. Enjoy!
+
+Improvements / suggestions for this post are very much welcomed, feel free to leave a comment or [raise a PR directly](https://github.com/JakeSteam/blog-personal) and I'll include them. Mouseover / tap to the left of a header if you want a direct link to share.
+
+Idle Iktah is [available on iOS](https://apps.apple.com/us/app/idle-iktah/id1631764038) and [available on Android](https://play.google.com/store/apps/details?id=games.grounded.idleiktah), I play on Android.
 
 ### FAQs
 
@@ -77,51 +81,58 @@ Here's the equipment & enchants I used for getting to 99, maximising attack and 
 
 #### Features
 
-##### **10. How do I unlock Expedition's Echo?**
+##### **10. How do I put things in my house?**
+
+1. Open up the House menu.
+2. Long press an equipped bag or box.
+3. Drag this into an empty slot in the house.
+4. You can now tap a bag to open it, then drag and drop between bags / boxes.
+
+##### **11. How do I unlock Expedition's Echo?**
 "Captain Izzy" in the "Expedition's End" combat zone drops a "Wavesong Key". Using this in the inventory drops the Expedition's Echo minigame.
 
-##### **11. How do I beat the Bear game?**
+##### **12. How do I beat the Bear game?**
 The Bear game is found in the bottom right "More" menu, with the bear icon. Your goal is to use your 3 hunters to trap the bear, it's a variant of the ancient [Bear games](https://en.wikipedia.org/wiki/Bear_games).
 
 Whilst this game's techniques can be learned with practice, the first few times can be confusing. Luckily, @micksnips2 on Discord wrote an excellent guide (with images) for both sighted and Voiceover users: [Bear game guide](https://docs.google.com/document/d/15AKhQzqKfO57g3Ij2Ono20eltIMDDJOurlBnXndtdyQ/edit).
 
-##### **12. What is Community? Mentoring? Buildings?**
+##### **13. What is Community? Mentoring? Buildings?**
 Whilst the in-game guide provides some information, community can be a little hard to get your head around. It's essentially 3 almost unrelated skills combined into 1:
 1. **Buildings**: Use resources to construct buildings that give useful perks like increased mining speed. The first level of the Town Hall lets you also earn free daily building progress.
 2. **Mentoring**: Train skills by helping NPCs. Your equipment and any boosts will be applied, you will keep the items, but you will earn Community XP instead. The percentage refers to how much of the normal XP your NPC will earn, this will change as they get more experienced.
 3. **Community events**: Long running extremely high XP actions with absurdly high cooldowns.
 
-##### **13. Is there prestiging?**
+##### **14. Is there prestiging?**
 Yes! Once you have all 99s you can "Start a Legacy", whereby you specialize, pick perks, and begin the game again (whilst keeping your pet).
 
 I haven't done this yet, as I'm enjoying my fully complete game!
 
-##### **14. How does the house storage work?**
+##### **15. How does the house storage work?**
 Your house can contain generic bags and specialised boxes. Preparing these can be a little tricky, you need to drag one of your equipped bags / boxes into a house space. You can then equip another bag / box.
 
 Once your house has storage, you can tap a bag / box to view the items within. From there, the items can be dragged between storage areas.
 
-##### **15. What are the empty squares on the trader picker?**
+##### **16. What are the empty squares on the trader picker?**
 Traders have rare items that will only appear sometimes. These might be saws for cutting planks faster, fishing boots, etc. Once you have purchased the item it will permanently appear on the trader selection screen.
 
 Note that these items are almost all extremely powerful.
 
 #### Other
 
-##### **16. What is the quest requirement with 10x man?**
+##### **17. What is the quest requirement with 10x man?**
 You need to kill Jeffrey in "The Four Hatsmen" combat area 10 times.
 
-##### **17. What is the quest requirement with 3x green monster?**
+##### **18. What is the quest requirement with 3x green monster?**
 You need to kill Forest Kin in "The Shimmering Cave" combat area 3 times.
 
-##### **18. How do I get more inventory space?**
+##### **19. How do I get more inventory space?**
 The easiest way is to clear up your current space. Cook all raw fish, use up potion ingredients, sell junk.
 
 If this still doesn't help, you need to craft generic bags from leather (dropped by monsters) via the Crafting skill.
 
 Additionally, you can make use of specialised boxes (such as food only, rings only, etc) from the Carpentry skill.
 
-##### **19. How can I kill Arborion in under 12 seconds?**
+##### **20. How can I kill Arborion in under 12 seconds?**
 Maximise your attack and strength, and use as many potions as possible. Note that different tiers of potion "stack", and you can bring across your attack bonus from the "Spice Lover" enchant for a truly ridiculous attack level.
 
 [![](/assets/images/2023/iktah-attack-thumbnail.png)](/assets/images/2023/iktah-attack.png)
@@ -136,20 +147,26 @@ Whilst [my previous post](/idle-iktah-android-game) contained 12 tips, a few wee
 
 #### General
 
-##### **20. Everything helps everything.**
+##### **21. Join the Discord!**
+
+Idle Iktah's [Discord server](https://discord.gg/TRymHghrKA) is *the* place to go for advice and discussion.
+
+Whilst the subreddit [r/IdleIktah](https://www.reddit.com/r/IdleIktah/) is OK, it's far quieter than the Discord. 
+
+##### **22. Everything helps everything.**
 Everything helps everything (diagram of mutual influences, e.g. fishing gives fish for cooking gives food for combat etc)
 
-##### **21. Schedule sensibly.**
+##### **23. Schedule sensibly.**
 Early on, it makes sense to run resource gathering tasks overnight, since they will never "run out". Later on however, when you're working in bulk you'll have 8-9 hour tasks that need doing (such as plank making). 
 
 Doing these overnight where possible makes sense, since it leaves the day free for shorter tasks that need more interaction.
 
-##### **22. Always be boosting levels, speed, and XP**
+##### **24. Always be boosting levels, speed, and XP**
 Higher level abilities in most skills reward drastically more XP. As such, it's usually a good idea to create a hundred or so potions to boost a skill, then use them to access the better area. For resource gathering skills, the higher level area can offer 4-5x as much XP, and provide better resources too!
 
 Similarly, you should avoid saving potions unnecessarily. It's fine to use up Mastery potions on any skill you want, even if it's not technically the most efficient use.
 
-##### **23. Traders are overpowered**
+##### **25. Traders are overpowered**
 Traders, once they have one of the dugouts, can be amazing!
 
 They let you skip ahead multiple levels, and it can often be more efficient to buy a higher level item (if it's cheap & slow to make) than wasting time making it yourself. Creating the high level dugouts to improve the quality and quantity of their offerings is an excellent use of resources.
@@ -158,12 +175,12 @@ A good example of this is "Ancient Coins", which can be obtained from fishing *o
 
 Finally, the potion trader is absolutely crucial for end-game completion. As he sells Mastery potions, -5% & -50% non-combat skill potions, and even the highest level combat potions, you'll be spending a lot of rare shells here. For the last week or so of gameplay, all of my dugout trader selecting was used on him.
 
-##### **24. 99 enchanting indirectly helps rare shells**
+##### **26. 99 enchanting indirectly helps rare shells**
 Once you have 99 enchanting, there's no reason to keep disenchanting items. As such, doing this as early as possible lets you sell *all* your leftover resources.
 
 For me, I ended up having 30-40k rare shells, far more than I could ever spend. This was despite spending thousands per day on expensive potions.
 
-##### **25. Optimise your equipment**
+##### **27. Optimise your loadouts**
 Use equipment loadouts! Royal equipment will save you days in the long term, and the ability to quickly access the most time-saving equipment for each skill will help.
 
 This can be somewhat awkward with the "Giga Glove", as I struggle to remember the 4 skills it boosts: Woodcutting, Mining, Crafting, Smithing.
@@ -188,17 +205,17 @@ As you can see, every non-combat skill is being trained around 20% faster than d
 
 I neglected combat for most of my run, and it was often my lowest skills. However, here's how to get it up quickly:
 
-###### 26. Save food for rare item drops
+###### 28. Save food for rare item drops
 
 Whilst smithed armour is OK, rare item drops from enemies will usually be better. Save up cooked food for these, and actively monitor the game whilst fighting way-too-hard enemies so you can leave as soon as you get the drop.
 
-###### 27. You need to boost your chances
+###### 29. You need to boost your chances
 
 In additions to drinking as many stat boosting potions as possible (remembering that different tiers can be stacked), make sure you also use Headhunter Potion (rare enemies 10x more common), Prospector's Potion (rare drops 2x more common), as well as the Prospector's Perception enchant if available.
 
 Using as many of these as possible will make any rare item grind pretty quick.
 
-###### 28. Grind in The Hidden Grove
+###### 30. Grind in The Hidden Grove
 
 I used The Hidden Grove combat area (enemies level 58-70) from around level 60 combat stats to 99, and it was great throughout.
 
@@ -207,27 +224,27 @@ The enemies are relatively weak, but they also have a few characteristics that m
 2. They drop some spices (Blueberry, Truffle, Blackberry), which will give you extra attack if you have the Spice Lover helmet enchant.
 3. They drop Woodland Art, which sell for quite a lot to traders (0.6 each).
 
-##### **29. Woodcutting**
+##### **31. Woodcutting**
 
 Woodcutting is a straightforward skill, just make sure you are always on the highest wood possible as the XP speed increases drastically. 
 
 I recommend hanging on to the "Massive Logs" you get as a rare drop, as they provide extremely high Carpentry XP later on.
 
-##### **30. Mining**
+##### **32. Mining**
 
 Mining is also very easy to level, just mine as high level ore as you can. Similar to Woodcutting, make sure to save all your gems as they can all be used for crazy amounts of Crafting XP as rings. Jade should be saved for the end-game though, as the best tools use them.
 
-##### **31. Fishing**
+##### **33. Fishing**
 
 Whilst Fishing is simple, you can improve your XP per hour by using a "Seeker's Potion" to choose which fish to catch. The higher level fish (bottom of the list of 3) will always provide slightly more XP, and heal more.
 
 The Town Weir in Community should also be used when possible, as the quick XP there is useful at all levels, and the Oolichan fish are useful for making Oil.
 
-##### **32. Gathering**
+##### **34. Gathering**
 
 As with Fishing, a Seeker's Potion will help improve your XP per hour. However, you may also want to consider prioriting potion ingredients over spices, as Cooking is generally easier to train than Alchemy.
 
-##### **33. Crafting**
+##### **35. Crafting**
 
 Make rings! Using up gems from Mining in rings can be very fast XP, especially with XP doubled.
 
@@ -235,13 +252,13 @@ For longer training sessions however, I recommend making pickaxes. The full proc
 
 This skill is worth training early for the larger bags that can be created.
 
-##### **32. Smithing**
+##### **36. Smithing**
 
 Making yourself a full suit of as high level armour as possible is an obvious use of Smithing, but it's amazing how many people are in high level combat zones with random pieces of weak armour leftover! Make sure you're using decent armour at all times.
 
 I levelled this up by making thousands of pickaxe heads of each tier, I believe it is the best way due to the synergy with Crafting.
 
-##### **33. Cooking**
+##### **37. Cooking**
 
 Cook fish! That's all there is to it, higher level fish provide better XP and more healing, so it just takes time.
 
@@ -249,17 +266,17 @@ Spices are worth using up, especially if you've managed to gather lots of Truffl
 
 ##### **Alchemy**
 
-###### **34. You don't need to use up everything**
+###### **38. You don't need to use up everything**
 
 It can be tempting to use up every ingredient you have, but sometimes it's really not worth it. For example I did a lot of Fishing early on, so had thousands of shells and seaweed. However a fishing potion only earns 15xp, and takes 4.5 seconds, so really isn't worth the time.
 
-###### **35. Prioritise useful potions**
+###### **39. Prioritise useful potions**
 
 There's no point making a potion that gives slightly more XP than another potion if you're just going to sell it. Instead, try and create combat potions, Oil, Powpow Tea (-10% time), or potions that let you access a higher XP method in another skill. 
 
 That being said, you'll be creating a *lot* of potions. I created thoudsands of Headhunter Potions for quite good XP, and Major Attack Potions for use in enchanting. This can be a tricky skill to level up in bulk.
 
-##### **36. Carpentry**
+##### **40. Carpentry**
 
 Make boxes! Although creating the planks and bars can take a while (although both are OK XP by themselves), creating storage boxes can be some of the highest XP in the game. In addition, they are useful for inventory management.
 
@@ -271,13 +288,13 @@ Creating Dugouts can also be great XP if you have leftover Massive Logs from Woo
 
 This might be the hardest skill to level. I really struggled getting going with this skill, and it was my lowest non-combat skill for a long time. 
 
-###### **37. Obtaining cores**
+###### **41. Obtaining cores**
 The only real approach to getting cores is bulk disenchanting valuable items like crafted pickaxes, leftover monster drops, and excess gathering supplies. You'll need tens of thousands of cores, and as they are the bottleneck you should usually be making the highest level enchant possible for maximum XP per core.
 
-###### **38. What to enchant**
+###### **42. What to enchant**
 As you get to higher Enchanting levels, golems are by far the easiest way to train and provide the best XP per core too. A single Elder Golem token provides 800xp in just 15 seconds (unboosted), and only requires 20 Strong Cores and an Elderwood Ring. This will be where most of your XP comes from.
 
-##### **39. Community**
+##### **43. Community**
 
 The most confusing skill.
 
@@ -369,7 +386,9 @@ By the end of this run, I have:
 * Full basalt, with Spice Lover helm, Cooked Food gloves, Klynite sword, and Elderwood Ring.
 * ~25 cooked Chinooks, and some other lower level food.
 
-This is a pretty good setup!
+This is a pretty good setup! Here's how it looks:
+
+[![](/assets/images/2023/iktah-expedition-thumbnail.png)](/assets/images/2023/iktah-expedition.png)
 
 ##### General tips
 
@@ -400,3 +419,11 @@ Well, here's what I consider 100% completion:
 Whilst I've completed most of these, I'm still missing a few pets and not even trying to get the Black Pearl!
 
 ### Conclusion
+
+Idle Iktah is one of the best mobile games I've ever played, and it receives fixes and improvements every week or two. It kept me completely hooked for ~6 weeks, and is the only game I've written 2 articles about!
+
+The game has also made a massive splash in the partially sighted community, thanks to the developer's focus on ensuring the game is accessible as possible. Based on the questions and discussions on [Discord](ttps://discord.gg/TRymHghrKA), there may even be more partially sighted users than fully sighted. This attention is undoubtedly part of the reason behind the game's rapid growth, and I really hope it continues.
+
+If anything here seems incorrect, or you have additional tips, leave a comment or suggest a change directly.
+
+Thanks, and enjoy Idle Iktah!
