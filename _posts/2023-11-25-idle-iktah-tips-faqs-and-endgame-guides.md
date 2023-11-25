@@ -21,6 +21,8 @@ Idle Iktah is [available on iOS](https://apps.apple.com/us/app/idle-iktah/id1631
 
 On the [Discord](https://discord.gg/TRymHghrKA), there are a *lot* of players who join and ask the same few questions. Hopefully by answering them here, players will be able to Google for answers instead!
 
+Special thanks to the other players on Discord who helped me when I was first figuring out some of the game's mechanics.
+
 #### Items
 
 ##### **1. Where do I get Gold recipes?**
