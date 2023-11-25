@@ -1,5 +1,5 @@
 ---
-title: 30 tips for Idle Iktah's endgame, and 5 mini-guides
+title: I love Idle Iktah. Here's 40 tips, and 3 mini-guides ⏳
 author: Jake Lee
 layout: post
 image: /assets/images/2023/
@@ -8,8 +8,6 @@ tags:
     - Gaming
     - Android
 ---
-
-TO SOLVE: CONTENTS PAGE TOO BIG! Maybe change theme to display link?
 
 I have been playing Idle Iktah almost obsessively for the last 6 weeks, and have finally reached all 99s! In this post, I'll answer common questions from the [Discord](https://discord.gg/TRymHghrKA), reveal a few gameplay tips, as well as a small collection of mini-guides. Enjoy!
 
@@ -269,31 +267,117 @@ Towards the end of the game, I created 20k Elderwood Boards and 10k Klynite Bars
 
 Creating Dugouts can also be great XP if you have leftover Massive Logs from Woodcutting.
 
-##### **37. Enchanting**
+##### **Enchanting**
 
 This might be the hardest skill to level. I really struggled getting going with this skill, and it was my lowest non-combat skill for a long time. 
 
+###### **37. Obtaining cores**
 The only real approach to getting cores is bulk disenchanting valuable items like crafted pickaxes, leftover monster drops, and excess gathering supplies. You'll need tens of thousands of cores, and as they are the bottleneck you should usually be making the highest level enchant possible for maximum XP per core.
 
+###### **38. What to enchant**
 As you get to higher Enchanting levels, golems are by far the easiest way to train and provide the best XP per core too. A single Elder Golem token provides 800xp in just 15 seconds (unboosted), and only requires 20 Strong Cores and an Elderwood Ring. This will be where most of your XP comes from.
 
-##### **38. Community**
+##### **39. Community**
 
 The most confusing skill.
 
-At lower-mid levels, creating "Events" will be absurd XP, with the final one offering 720,000XP (when doubled)! However, due to the long cooldowns these aren't as helpful later on.
+At lower-mid levels, creating "Events" will be absurd XP, with the final one offering 720,000 XP (when doubled)! However, due to the long cooldowns these aren't as helpful later on.
 
-
+I ended up levelling most of my other skills first, then just mentoring the skills I no longer needed XP in overnight. Whilst mentoring, your equipment bonuses and potions etc still apply, so it can be pretty good XP once you have Royal equipment.
 
 ### Guides
 
-#### All rare items
+#### All unique equipment drops
 
-| Item | Source | Description |
-| --- | --- | --- |
-| | | |
+A lot of the best equipment for skilling or combat is obtained as rare drops from unique enemies. Here's where they all come from, the best items are highlighted **in bold**.
 
-#### Expedition's End guide
+Main combat zones:
+* Business Hat: Jeffrey in "The Four Hatsmen".
+* Fedora of Friendship: Charles in "The Four Hatsmen".
+* Chapeau of Chivalry: Derrick in "The Four Hatsmen".
+* Mercurial Cap: Marcellus in "The Four Hatsmen".
+* Rose Tinted Glasses: Any enemy in "The Four Hatsmen".
+* Orc Axe: Orc Leader in "Orc Hideout".
+* Bandit's Cap: Any enemy in "Bandit Camp".
+* Shadow Dagger: Shadow Thief in "Bandit Camp".
+* **Bossen Blouse**: Captain Drake or Mate Diego in "Pirate Cove".
+* **Alchemist's Mask**: Tamah Shaman in "Tamah Tribesmen".
+* Knight's Armour: Any enemy in "The Forgotten Church".
+* **Mountain Mitts**: Soul Keeper in "The Forgotten Church".
+* **Miner's Band**: Captain Redfist in "The High Council".
+* **King's Klaws** High Councilor in "The High Council" (dropped in 2 parts).
+* Death's Deputy: Kopiaklahs in "The Throne Room".
+
+Special combat zones:
+* Ocean Gloves: Azurite Golem in "Conjured Combat".
+* Forest Boots: Maple Golem in "Conjured Combat".
+* Trail Legs: Basalt Golem in "Conjured Combat".
+* **Timber Tights**: Elder Golem in "Conjured Combat".
+* **Shield of Foresight**: Any enemy in "The Reflected Realm".
+* Mirrored Mask: Evaluator in "The Reflected Realm".
+* **Saltblade**: Krakalaken in "Deep Water".
+
+#### Expedition's Echo guide
+
+The Expedition's Echo minigame is unlocked by using the Wavesong Key, dropped by Captain Izzy in "Expedition's End" combat zone.
+
+In this minigame, you essentially enter a temporary time-limited new game, with all your unlocked training methods from the main game. After a few minutes you enter waves of combat, and must survive as long as you can.
+
+I don't recommend trying this minigame much until you have level 80-90+ skills, otherwise you'll earn points more slowly due to fewer skill options available.
+
+##### First few runs
+
+Until you have unlocked the maximum 10 perk points (200 each), your runs won't be optimal. Unlocking these perks should be top priority, as the Rusty Lockbox rewards can be grinded later on. 
+
+Unlocking all perk points won't take more than an hour or so, feel free to add the perks in any order you want.
+
+##### Perks
+
+I really struggled getting a decent run until I found out how useful "Armored Advantage" is, letting you skip most of the mining and smithing.
+
+Here's the 10 perks I use:
+* Swift Strikes: 15% faster attack speed, for faster kills using less food.
+* 2x Private Chef: Start with 40 truffle, for very quick cooking.
+* Scout Master: +1 minute for preparation.
+* Botanical Bounty: Better potion drops, to let you kill harder enemies.
+* Basic Bundle: Coho, Ginger, Logs, Klynite bar, letting you save lots of time and complexity during preparation time.
+* 2x Armored Advantage: Full basalt armour, ensuring I can survive pretty well even without preparing anything.
+* Double Dip: 50% chance of double fish drops, making the food gathering much quicker. I believe this also applies to enemy drops.
+* Picky Plundering: Remove equipment drops from enemies, since we already have full basalt so food is more useful.
+
+##### My approach
+
+The goal of the prep time is to improve equipment a bit, but primarily to gather as much cooked food as possible. As such, here's what I do:
+
+1. Gather 1 Grasshopper from Mukra Meadow.
+2. Gather 1 Hazelnut from Nica's Clearing.
+3. Combine these into a Cooking Potion in Alchemy.
+4. Disenchant the 10 Coho provided, to obtain 10 Normal Cores and 10 Weak Cores.
+5. Create the Spice Lover enchant using Normal Cores and Ginger.
+6. Create the Cooked Food enchant using Weak Cores and Cooking Potion.
+7. Mine 2 Klynite ores.
+8. Smith 2 Klynite bars.
+9. Use these 2 Klynite bars plus the free one to smith a Klynite Sword.
+10. Cut 2 Elderwood Logs.
+11. Craft 1 of these Elderwood Logs into an Elderwood Ring.
+12. Go to the Community Town Weir, and start Fishing for the next couple of minutes.
+13. Whilst this happens, apply your 2 enchants, and equip your sword and ring.
+14. Wait until you have around 1:10 left, then Cook all your Chinooks using Truffles.
+15. Either cook your Coho, or try and fish more Chinooks to cook before running out of time.
+
+By the end of this run, I have:
+* Full basalt, with Spice Lover helm, Cooked Food gloves, Klynite sword, and Elderwood Ring.
+* ~25 cooked Chinooks, and some other lower level food.
+
+This is a pretty good setup!
+
+##### General tips
+
+* If you get lucky and find a rare drop during prep time, you can sell this to a trader and buy potions etc. This can be done even after prep time ends.
+* If you get even luckier and save your bars whilst smithing the Klynite sword, don't forget to upgrade your helmet or boots.
+* Save the potions you earn during the first few waves, there's no point using them until stage 5 or 6.
+* The last enemy shows up at stage 8, with stage 9 just repeating the same enemies. I've made it to 9-3 using the approach above.
+* You will get around 1200-1800 points per run, enough for plenty of Rusty Boxes.
 
 #### 100% completion checklist
 
@@ -303,14 +387,16 @@ Well, here's what I consider 100% completion:
 
 | Difficulty | Achievement | Description |
 | --- | --- | --- |
-| Easy | 1485 Total level | 15 skills, 99 levels = 1485 total levels |
-| Easy | All rare monster drops | Every combat zone's rarest enemy's rarest drop |
-| Easy | All Aborion speedrun rewards | Boreal Ring, Gloam Duster, Arborbiter |
-| Easy | Maxed out house | Elderwood Lodge, Elderwood Bed, 4x Royal Table, 4x Royal Chair |
+| Easy | 1485 Total level | 15 skills, 99 levels = 1485 total levels. |
+| Easy | All rare monster drops | Every combat zone's rarest enemy's rarest drop. |
+| Easy | All Aborion speedrun rewards | Boreal Ring, Gloam Duster, Arborbiter. |
+| Easy | Maxed out house | Elderwood Lodge, Elderwood Bed, 4x Royal Table, 4x Royal Chair. |
 | Easy | Full royal outfit | Royal crown, body, shield, ring, legs, boots, gloves, goblet. |
-| Medium | Maxed out tools | Jade / Dream: Adze, Axe, Pickaxe, Spear. Elderwood Basket.
-| Medium | All Expedition Echo unlocks | Echo's Embrace, Eternal Candle, Dream Pickaxe, Dead Sea Sword |
+| Medium | Maxed out tools | Jade / Dream: Adze, Axe, Pickaxe, Spear. Elderwood Basket. |
+| Medium | All Expedition Echo unlocks | Echo's Embrace, Eternal Candle, Dream Pickaxe, Dead Sea Sword. |
 | Hard | All pets | There are [14 pets in total](https://docs.google.com/spreadsheets/d/1fR6Yq8Sr5UdVHVmJ50DPeGVADz1pZCS3-it2lJy7njo/edit#gid=0) |
 | Impossible | Black Pearl | This is a 1/100,000 drop from shellfish, good luck! |
 
 Whilst I've completed most of these, I'm still missing a few pets and not even trying to get the Black Pearl!
+
+### Conclusion
