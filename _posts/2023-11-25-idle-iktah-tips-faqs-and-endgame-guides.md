@@ -61,7 +61,7 @@ Rare shells can also be obtained from shellfish.
 By fighting in "The Deep Forest" and killing a *lot* of ducks! 
 
 ##### **7. Where do I get Pearls?**
-Pearls are one of the rarest non-combat drop in the game, found in just 1/1000 shellfish opens. Shellfish can be caught by:
+Pearls are one of the rarest non-combat drops in the game, found in just 1/1000 shellfish opens. Shellfish can be caught by:
 * Ocean fishing, if you have the "Otto" pet.
 * Gathering at "Pechugh Bay" (unlocked by completing Library tier 1 in Community, speed depends on time of day).
 
@@ -74,7 +74,7 @@ It depends what you're trying to do. For most of the game, the simple answer is 
 
 Later on, if you are low on food you'll want to use higher defense armour. If you're grinding for XP against weaker enemies, you'll want to prioritise attack and strength, with defense not really mattering.
 
-The alchemist's mask (rare drop from Tamah Shaman in the "Tamah Tribesmen" combat area") is extremely powerful if you're using impact potions, as it doubles their impact.
+The alchemist's mask (rare drop from Tamah Shaman in the "Tamah Tribesmen" combat area") is extremely powerful if you're using combat potions, as it doubles their impact.
 
 ##### **9. What enchants should I use?**
 The game is pretty limited in terms of enchants, but I found a few that were super useful. Namely, the "double alchemy ingredients" glove enchant, and the "spices provide extra attack" helmet enchant.
@@ -98,7 +98,9 @@ Here's the equipment & enchants I used for getting to 99, maximising attack and 
 ##### **12. How do I beat the Bear game?**
 The Bear game is found in the bottom right "More" menu, with the bear icon. Your goal is to use your 3 hunters to trap the bear, it's a variant of the ancient [Bear games](https://en.wikipedia.org/wiki/Bear_games).
 
-Whilst this game's techniques can be learned with practice, the first few times can be confusing. Luckily, @micksnips2 on Discord wrote an excellent guide (with images) for both sighted and Voiceover users: [Bear game guide](https://docs.google.com/document/d/15AKhQzqKfO57g3Ij2Ono20eltIMDDJOurlBnXndtdyQ/edit).
+The main way to do this is to prevent the bear from lurking in the centre, and "surrounding" it from 3 sides with your hunters. This requires planning a move or two ahead.
+
+Whilst this game's techniques can be learned with practice, the first few times can be confusing. The difficulty ramps up whilst completing the 5 rounds for a quest. Luckily, @micksnips2 on Discord wrote an excellent guide (with images) for Round 5 for both sighted and Voiceover users: [Bear game guide](https://docs.google.com/document/d/15AKhQzqKfO57g3Ij2Ono20eltIMDDJOurlBnXndtdyQ/edit).
 
 ##### **13. What is Community? Mentoring? Buildings?**
 Whilst the in-game guide provides some information, community can be a little hard to get your head around. It's essentially 3 almost unrelated skills combined into 1:
@@ -107,12 +109,12 @@ Whilst the in-game guide provides some information, community can be a little ha
 3. **Community events**: Long running extremely high XP actions with absurdly high cooldowns.
 
 ##### **14. Is there prestiging?**
-Yes! Once you have all 99s you can "Start a Legacy", whereby you specialize, pick perks, and begin the game again (whilst keeping your pet).
+Yes! Once you have all 99s you can "Start a Legacy", whereby you specialize, pick perks, and begin the game again (whilst keeping your pets).
 
 I haven't done this yet, as I'm enjoying my fully complete game!
 
 ##### **15. How does the house storage work?**
-Your house can contain generic bags and specialised boxes. Preparing these can be a little tricky, you need to drag one of your equipped bags / boxes into a house space. You can then equip another bag / box.
+Your house can contain generic bags and specialised boxes. Preparing these can be a little tricky, you need to long press one of your equipped bags / boxes then tap a house space. You can then equip another bag / box.
 
 Once your house has storage, you can tap a bag / box to view the items within. From there, the items can be dragged between storage areas.
 
@@ -156,7 +158,7 @@ Idle Iktah's [Discord server](https://discord.gg/TRymHghrKA) is *the* place to g
 Whilst the subreddit [r/IdleIktah](https://www.reddit.com/r/IdleIktah/) is OK, it's far quieter than the Discord. 
 
 ##### **22. Everything helps everything.**
-Almost every skills links in to the others. For example, if you're struggling to kill a high level enemy you could...
+Almost every skill links in to the others. For example, if you're struggling to kill a high level enemy you could...
 * Train mining & smithing for better armour.
 * Fight lower level enemies to level up / obtain rare equipment.
 * Use Alchemy to create better potions.
@@ -183,9 +185,9 @@ Traders, once they have one of the dugouts, can be amazing!
 
 They let you skip ahead multiple levels, and it can often be more efficient to buy a higher level item (if it's cheap & slow to make) than wasting time making it yourself. Creating the high level dugouts to improve the quality and quantity of their offerings is an excellent use of resources.
 
-A good example of this is "Ancient Coins", which can be obtained from fishing *or* purchased fairly cheaply as a rare item in Lerico the trader's fishing shop.
+A good example of this is "Ancient Coins", which can be obtained from any of the resource gathering skills *or* purchased fairly cheaply (200 rare shells) in Qwintif the trader's shop.
 
-Finally, the potion trader is absolutely crucial for end-game completion. As he sells Mastery potions, -5% & -50% non-combat skill potions, and even the highest level combat potions, you'll be spending a lot of rare shells here. For the last week or so of gameplay, all of my dugout trader selecting was used on him.
+Finally, the potion trader is absolutely crucial for end-game completion. As he sells Mastery potions, -10% & -50% time non-combat skill potions, and even the highest level combat potions, you'll be spending a lot of rare shells here. For the last week or so of gameplay, all of my dugout trader selecting was used on him.
 
 ##### **26. 99 enchanting indirectly helps rare shells**
 Once you have 99 enchanting, there's no reason to keep disenchanting items. As such, doing this as early as possible lets you sell *all* your leftover resources.
@@ -217,11 +219,11 @@ As you can see, every non-combat skill is being trained around 20% faster than d
 
 I neglected combat for most of my run, and it was often my lowest skills. However, here's how to get it up quickly:
 
-###### 28. Save food for rare item drops
+###### **28. Save food for rare item drops**
 
 Whilst smithed armour is OK, rare item drops from enemies will usually be better. Save up cooked food for these, and actively monitor the game whilst fighting way-too-hard enemies so you can leave as soon as you get the drop.
 
-###### 29. You need to boost your chances
+###### **29. You need to boost your chances**
 
 In additions to drinking as many stat boosting potions as possible (remembering that different tiers can be stacked), make sure you also use Headhunter Potion (rare enemies 10x more common), Prospector's Potion (rare drops 2x more common), as well as the Prospector's Perception enchant if available.
 
@@ -248,7 +250,7 @@ Mining is also very easy to level, just mine as high level ore as you can. Simil
 
 ##### **33. Fishing**
 
-Whilst Fishing is simple, you can improve your XP per hour by using a "Seeker's Potion" to choose which fish to catch. The higher level fish (bottom of the list of 3) will always provide slightly more XP, and heal more.
+Whilst Fishing is simple, you can improve your XP per hour by using a "Potion of Choice" to choose which fish to catch. The higher level fish (bottom of the list of 3) will always provide slightly more XP, and heal more.
 
 The Town Weir in Community should also be used when possible, as the quick XP there is useful at all levels, and the Oolichan fish are useful for making Oil.
 
@@ -260,7 +262,7 @@ As with Fishing, a Seeker's Potion will help improve your XP per hour. However, 
 
 Make rings! Using up gems from Mining in rings can be very fast XP, especially with XP doubled.
 
-For longer training sessions however, I recommend making pickaxes. The full process of creating a pickaxe will provide great Woodcutting, Mining, Smithing, and Crafting XP. They also sell for a lot to traders.
+For longer training sessions however, I recommend making pickaxes. The full process of creating a pickaxe will provide great Woodcutting, Mining, Smithing, and Crafting XP. It's worth trying to use Mastery potion for the pickaxe creation step, otherwise Smithin will get too far ahead (due to bar & pickaxe head XP). The finished pickaxes sell for a lot to traders.
 
 This skill is worth training early for the larger bags that can be created.
 
@@ -288,6 +290,8 @@ There's no point making a potion that gives slightly more XP than another potion
 
 That being said, you'll be creating a *lot* of potions. I created thoudsands of Headhunter Potions for quite good XP, and Major Attack Potions for use in enchanting. This can be a tricky skill to level up in bulk.
 
+Other members on the Discord recommend using Seeker's Potions whilst Woodcutting Cedar trees, and obtain large quantities of Pine Knots. These can then be used to create large quantites of oil, useful for both fast Alchemy XP and fast training of other skills (via lanterns).
+
 ##### **40. Carpentry**
 
 Make boxes! Although creating the planks and bars can take a while (although both are OK XP by themselves), creating storage boxes can be some of the highest XP in the game. In addition, they are useful for inventory management.
@@ -298,10 +302,10 @@ Creating Dugouts can also be great XP if you have leftover Massive Logs from Woo
 
 ##### **Enchanting**
 
+###### **41. Obtaining cores**
 This might be the hardest skill to level. I really struggled getting going with this skill, and it was my lowest non-combat skill for a long time. 
 
-###### **41. Obtaining cores**
-The only real approach to getting cores is bulk disenchanting valuable items like crafted pickaxes, leftover monster drops, and excess gathering supplies. You'll need tens of thousands of cores, and as they are the bottleneck you should usually be making the highest level enchant possible for maximum XP per core.
+The only real approach to getting cores is bulk disenchanting valuable items like crafted pickaxes (if you don't need rare shells), leftover monster drops, and excess supplies from resource gathering. You'll need tens of thousands of cores, and as they are the bottleneck you should usually be making the highest level enchant possible for maximum XP per core.
 
 ###### **42. What to enchant**
 As you get to higher Enchanting levels, golems are by far the easiest way to train and provide the best XP per core too. A single Elder Golem token provides 800xp in just 15 seconds (unboosted), and only requires 20 Strong Cores and an Elderwood Ring. This will be where most of your XP comes from.
