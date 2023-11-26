@@ -215,21 +215,17 @@ As you can see, every non-combat skill is being trained around 20% faster than d
 
 #### Skills
 
-##### **Attack / Strength / Defence / Hitpoints**
-
-I neglected combat for most of my run, and it was often my lowest skills. However, here's how to get it up quickly:
-
-###### **28. Save food for rare item drops**
+##### **28. Combat: Save food for rare item drops**
 
 Whilst smithed armour is OK, rare item drops from enemies will usually be better. Save up cooked food for these, and actively monitor the game whilst fighting way-too-hard enemies so you can leave as soon as you get the drop.
 
-###### **29. You need to boost your chances**
+##### **29. Combat: You need to boost your chances**
 
 In additions to drinking as many stat boosting potions as possible (remembering that different tiers can be stacked), make sure you also use Headhunter Potion (rare enemies 10x more common), Prospector's Potion (rare drops 2x more common), as well as the Prospector's Perception enchant if available.
 
 Using as many of these as possible will make any rare item grind pretty quick.
 
-###### 30. Grind in The Hidden Grove
+##### **30. Combat: Grind in The Hidden Grove**
 
 I used The Hidden Grove combat area (enemies level 58-70) from around level 60 combat stats to 99, and it was great throughout.
 
@@ -256,13 +252,13 @@ The Town Weir in Community should also be used when possible, as the quick XP th
 
 ##### **34. Gathering**
 
-As with Fishing, a Seeker's Potion will help improve your XP per hour. However, you may also want to consider prioriting potion ingredients over spices, as Cooking is generally easier to train than Alchemy.
+As with Fishing, a Potion of Choice will help improve your XP per hour. However, you may also want to consider prioriting potion ingredients over spices, as Cooking is generally easier to train than Alchemy.
 
 ##### **35. Crafting**
 
 Make rings! Using up gems from Mining in rings can be very fast XP, especially with XP doubled.
 
-For longer training sessions however, I recommend making pickaxes. The full process of creating a pickaxe will provide great Woodcutting, Mining, Smithing, and Crafting XP. It's worth trying to use Mastery potion for the pickaxe creation step, otherwise Smithin will get too far ahead (due to bar & pickaxe head XP). The finished pickaxes sell for a lot to traders.
+For longer training sessions however, I recommend making pickaxes. The full process of creating a pickaxe will provide great Woodcutting, Mining, Smithing, and Crafting XP. It's worth trying to use Mastery potion for the pickaxe creation step, otherwise Smithing will get too far ahead (due to bar & pickaxe head XP). The finished pickaxes sell for a lot to traders.
 
 This skill is worth training early for the larger bags that can be created.
 
@@ -278,13 +274,11 @@ Cook fish! That's all there is to it, higher level fish provide better XP and mo
 
 Spices are worth using up, especially if you've managed to gather lots of Truffle (-80% time!) from combat or Gathering.
 
-##### **Alchemy**
-
-###### **38. You don't need to use up everything**
+##### **38. Alchemy: You don't need to use up everything**
 
 It can be tempting to use up every ingredient you have, but sometimes it's really not worth it. For example I did a lot of Fishing early on, so had thousands of shells and seaweed. However a fishing potion only earns 15xp, and takes 4.5 seconds, so really isn't worth the time.
 
-###### **39. Prioritise useful potions**
+##### **39. Alchemy: Prioritise useful potions**
 
 There's no point making a potion that gives slightly more XP than another potion if you're just going to sell it. Instead, try and create combat potions, Oil, Powpow Tea (-10% time), or potions that let you access a higher XP method in another skill. 
 
@@ -300,14 +294,12 @@ Towards the end of the game, I created 20k Elderwood Boards and 10k Klynite Bars
 
 Creating Dugouts can also be great XP if you have leftover Massive Logs from Woodcutting.
 
-##### **Enchanting**
-
-###### **41. Obtaining cores**
+##### **41. Enchanting: Obtaining cores**
 This might be the hardest skill to level. I really struggled getting going with this skill, and it was my lowest non-combat skill for a long time. 
 
 The only real approach to getting cores is bulk disenchanting valuable items like crafted pickaxes (if you don't need rare shells), leftover monster drops, and excess supplies from resource gathering. You'll need tens of thousands of cores, and as they are the bottleneck you should usually be making the highest level enchant possible for maximum XP per core.
 
-###### **42. What to enchant**
+##### **42. Enchanting: What to enchant**
 As you get to higher Enchanting levels, golems are by far the easiest way to train and provide the best XP per core too. A single Elder Golem token provides 800xp in just 15 seconds (unboosted), and only requires 20 Strong Cores and an Elderwood Ring. This will be where most of your XP comes from.
 
 ##### **43. Community**
