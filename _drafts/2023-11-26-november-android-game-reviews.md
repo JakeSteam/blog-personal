@@ -51,6 +51,7 @@ The expectation seems to be to get me to buy this seemingly "final" boost, where
 * Open up the settings and turn "D. Chart" on. This shows your distribution of earnings per layer, and is essential for knowing which layer to prioritise, yet is not on by default.
 * I recommend changing "Up modes" to "Sticky" or "On" in the settings, so you have easy access to them.
 * I used "xM" (buy to next milestone) for upgrade mode, since the milestones provide such a massive boost.
+* Minimising the app for a minute or so before you prestige will give you an extra 2x multiplier.
 
 ### Screenshots
 
