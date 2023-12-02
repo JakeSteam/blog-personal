@@ -28,6 +28,28 @@ I played most games for at least an hour, but some are pretty small and understo
 
 ## 5/5 Games
 
+### Alekon
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [85.34% - Store page](https://store.steampowered.com/app/1479390/) | £12.39 | Photograph Cute Creatures | June 2021 | 14 (June 2021) |
+
+It's Pokémon Snap, but remade!
+
+I'm an absolute sucker for these kind of games, where the core gameplay is very chill and straightforward but the occasional minigame adds complexity. Alekon has 2 main gameplay areas:
+1. Photography locations, where you take pictures of cute little creatures in their natural habitat.
+2. The overworld, where you complete challenges for the unlocked characters.
+
+The photography location gameplay is almost identical to Pokémon Snap, even down to throwing ~~rocks~~ donuts! The overworld quests are varied and interesting, with a mixture of reaction minigames, logical minigames, and dialog minigames.
+
+It's hard to explain why the "simple but engaging" games are so enjoyable, but this definitely hits all the right spots. Small attention to detail bits like automatic photo management and unlimited camera reel gets rid of the annoying bits. For example, if you take a better photo of a creature, it automatically replaces the past photo.
+
+I'll almost certainly be coming back to 100% this, I'm around 20% through so far!
+
+| Progress screen | Taking photos | Overworld quest |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-alekon-1-thumbnail.jpg)](/assets/images/2023/jj-alekon-1.jpg) | [![](/assets/images/2023/jj-alekon-2-thumbnail.jpg)](/assets/images/2023/jj-alekon-2.jpg) | [![](/assets/images/2023/jj-alekon-3-thumbnail.jpg)](/assets/images/2023/jj-alekon-3.jpg)
+
 ### A Short Hike
 
 | Steam rating | Price | Description | Released | Peak players
@@ -80,9 +102,50 @@ This is all wrapped up in a rogue-like bundle, with even the story and route pla
 
 This is close to a 5/5, however I found myself a bit "lost" due to no overworld map, and an odd "forest clearing" main menu. This also made it a little hard to know *why* I was fighting things, I seem to have stumbled across half of them whilst they were quietly chilling!
 
+Oh, and everything is voiced. Excellent.
+
 | Main menu | Duelling | Decision making |
 | --- | --- | --- |
 | [![](/assets/images/2023/jj-aaa-1-thumbnail.jpg)](/assets/images/2023/jj-aaa-1.jpg) | [![](/assets/images/2023/jj-aaa-2-thumbnail.jpg)](/assets/images/2023/jj-aaa-2.jpg) | [![](/assets/images/2023/jj-aaa-3-thumbnail.jpg)](/assets/images/2023/jj-aaa-3.jpg)
+
+## 3/5 Games
+
+### Buggos
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [82.30% - Store page](https://store.steampowered.com/app/789660/) | £11.39 | Bug Auto-battler | March 2022 | 257 (March 2022) |
+
+Buggos is a pretty straight-forward "build a bug empire and squish the humans" style game (is that a genre?). There's all the various classes you'd expect for your (alien) buggos, such as ranged units, builders that can build spawners, etc. The enemy humans have guns, flamethrowers, and defenses.
+
+Gameplay is very simple, turtle in your corner, defending as necessary, then zerg rush the smallest accessible enemy outpost. Repeat until there are no humans left. Interestngly, you can't control individual units, only put a pin where you want all buggos of a certain time to navigate to. This limits any advanced movement e.g. flanking, instead "rush as a horde" is the only tactic possible.
+
+Admittedly this makes sense for bugs, but it still felt like a lot of the game I wasn't doing much beyond waiting. You can also set all of your bugs to be in "spawn", "fight", or "gather" mode, providing a slight boost to different attributes. There's a fairly detailed upgrade tree (see screenshot), but all of the upgrades felt very incremental not game-changing.
+
+I played through the first "world" (7 levels), and they were all very straightforward. After beating it, I loaded up the hardest level in the 2nd world and it was unfortunately just more of the same. Sure, more enemies, more defenses, more enemy spawners, but nothing was really *different*. Not sure I'll be picking this up again.
+
+| Upgrade tree | Gameplay | Map |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-bug-1-thumbnail.jpg)](/assets/images/2023/jj-bug-1.jpg) | [![](/assets/images/2023/jj-bug-2-thumbnail.jpg)](/assets/images/2023/jj-bug-2.jpg) | [![](/assets/images/2023/jj-bug-3-thumbnail.jpg)](/assets/images/2023/jj-bug-3.jpg)
+
+### Beyond Blue
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [83.45% - Store page](https://store.steampowered.com/app/883360/) | £15.49 | Deep Sea Exploration | June 2020 | 303 (June 2020) |
+
+In a world where Subnautica didn't exist, this game might have been massive. Unfortunately, Subnautica does exist, and seems to do almost everything this game does, plus an absurd amount more.
+
+I completed the 1st dive (of 8), and the only gameplay was swimming to areas and pressing "A" or scanning fish. No challenge, no excitement, just meandering around scanning fish. I tried headbutting a shark to no avail.
+
+This game is evidently more story driven than other sea games, but the story elements are completely disjointed from the gameplay. Whilst the dive is mostly alone, with occasional voice comms, once it's over you end up in a tiny submarine, with a few voice calls to work through. 
+
+The movement is somewhat smooth, although navigating through tight spaces can be a little frustrating. I'd really recommend Subnautica instead, sorry!
+
+| Inside the sub | Fish! | Whales! |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-bb-1-thumbnail.jpg)](/assets/images/2023/jj-bb-1.jpg) | [![](/assets/images/2023/jj-bb-2-thumbnail.jpg)](/assets/images/2023/jj-bb-2.jpg) | [![](/assets/images/2023/jj-bb-3-thumbnail.jpg)](/assets/images/2023/jj-bb-3.jpg)
+
 
 ## 2/5 Games
 
@@ -102,20 +165,32 @@ Finally, for a game all about interacting with the environment, it seems entirel
 
 People seem to enjoy this, but I do not! Perhaps it should have been a short film or a book instead.
 
-| Decision making | Dialogue | Cutscenes |
+### Arcade Spirits
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [88.30% - Store page](https://store.steampowered.com/app/910630/) | £16.99 | Retro-gaming Dating Sim | February 2019 | 136 (February 2019) |
+
+OK so I was never going to enjoy a dating sim, regardless of the theme. It was doomed from the start.
+
+The dialogue is extremely simplistic, and there's *so* many words to actually say anything. I was spamming the space bar throughout and could still easily read all of the story. The target audience is obviously much, much younger than me.
+
+The actual gameplay is what you'd expect. Read many words, make a minor A or B decision that influences your "score" in various areas. Flirty answer influences your relationship, logical answer influences your logic score, you know how this works. To see what happens if you max out, I always chose Naomi's romantic options, hence the final full bars. The result? Well, nothing.
+
+I only played the first chapter, so I presume the story will deepen beyond the extreme shallowness I've seen so far. I personally couldn't stand how hard every single character was trying to be as quirky as possible.
+
+Oh, and I "lost" the game at my very first decision by deciding to go look for a job normally, not waste my time with a virtual assistant app my (quirky, of course) roommate recommended. This resulted in the naive teenage viewpoint of "yeah you got an office job, a stable life, a wife and kids, but you were SAD so you LOST". I then had to restart. I kinda knew by then the game wasn't going to have a similar viewpoint to me!
+
+| Chapter 1 results | Dialogue | Decision making |
 | --- | --- | --- |
-| [![](/assets/images/2023/jj-asb-1-thumbnail.jpg)](/assets/images/2023/jj-asb-1.jpg) | [![](/assets/images/2023/jj-asb-2-thumbnail.jpg)](/assets/images/2023/jj-asb-2.jpg) | [![](/assets/images/2023/jj-asb-3-thumbnail.jpg)](/assets/images/2023/jj-asb-3.jpg)
+| [![](/assets/images/2023/jj-as-1-thumbnail.jpg)](/assets/images/2023/jj-as-1.jpg) | [![](/assets/images/2023/jj-as-2-thumbnail.jpg)](/assets/images/2023/jj-as-2.jpg) | [![](/assets/images/2023/jj-as-3-thumbnail.jpg)](/assets/images/2023/jj-as-3.jpg)
 
 
 ## Uncategorised
 
-Alekon - Photograph Cute Creatures
-
-Arcade Spirits - Retro-gaming Dating Sim
 Astronimo - Build Bots Assemble
 Battlestar Galactica: Deadlock - Anti-Cylon Tactics
-Beyond Blue - Deep Sea Exploration
-Buggos - Awesome Auto-battler
+
 Candy Disaster Tower Defense - Crazy Trap Combining
 Cat Quest - Adorable Cat RPG
 Cook, Serve, Delicious! 3?! - Cooking Typing Management
