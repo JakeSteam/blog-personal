@@ -64,6 +64,24 @@ I actually already owned this game from a giveaway a year or two ago, and pretty
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EzdAc-y6nSY?si=Tr1R8uA0b8OI_Yer" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+### Cat Quest
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [92.12% - Store page](https://store.steampowered.com/app/593280/) | £9.99 | Cat Combat RPG | August 2017 | 1,651 (September 2019) |
+
+Admittedly I was initially interested in Cat Quest due to the cat theme but... the game is great too! Combat is a pretty standard "melee + dodge + spells" affair, with the gameplay flowing very smoothly if using a controller. The ability to "zoom out" and get an overview of the surrounding area was much appreciated, and helped when navigating to off-screen locations.
+
+All the concepts were immediately understandable, with equipment perks always showing nice low numbers (e.g. +2 health instead of +150). Additionally, dungeons warn you beforehand the approximate combat level you should be, allowing the in-dungeon UI to be very minimal, with no combat levels or stats.
+
+Cat Quest didn't seem to do anything especially new, but it did deliver typical RPG elements in a very polished manner. The writing was minimal, but intelligent and entertaining without being embarrassing. I'll definitely be coming back to this one after the Jingle Jam to finish it off.
+
+Interestingly, there seems to be a very similar, but better, sequel: [Cat Quest II](https://store.steampowered.com/app/914710/Cat_Quest_II/). There's even a third game coming out next year, unsurprisingly called [Cat Quest III](https://store.steampowered.com/app/2305840/Cat_Quest_III/)!
+
+| Dungeon exploring | Zoomed out map | Equipment |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-cq-1-thumbnail.jpg)](/assets/images/2023/jj-cq-1.jpg) | [![](/assets/images/2023/jj-cq-2-thumbnail.jpg)](/assets/images/2023/jj-cq-2.jpg) | [![](/assets/images/2023/jj-cq-3-thumbnail.jpg)](/assets/images/2023/jj-cq-3.jpg)
+
 ## 4/5 Games
 
 ### 8-Bit Armies
@@ -138,14 +156,36 @@ In a world where Subnautica didn't exist, this game might have been massive. Unf
 
 I completed the 1st dive (of 8), and the only gameplay was swimming to areas and pressing "A" or scanning fish. No challenge, no excitement, just meandering around scanning fish. I tried headbutting a shark to no avail.
 
-This game is evidently more story driven than other sea games, but the story elements are completely disjointed from the gameplay. Whilst the dive is mostly alone, with occasional voice comms, once it's over you end up in a tiny submarine, with a few voice calls to work through. 
+This game is evidently more story driven than other sea games, but the story elements are completely disjointed from the gameplay. Whilst the dive is mostly alone, with occasional voice comms, once it's over you end up in a tiny submarine, with a few voice calls to work through.
 
-The movement is somewhat smooth, although navigating through tight spaces can be a little frustrating. I'd really recommend Subnautica instead, sorry!
+Beyond Blue seems to emphasise conservationism, containing various interviews with real world ocean experts. It also has a bizarrely high profile voice cast:
+> Experience an evocative narrative with full voice cast - Anna Akana (YouTube), Mira Furlan (Lost, Babylon 5), Hakeem Kae-Kazim (Black Sails, Hotel Rwanda), and Ally Maki (Toy Story 4)
+
+The swimming movement is somewhat smooth, although navigating through tight spaces can be a little frustrating. I'd really recommend Subnautica instead, sorry!
 
 | Inside the sub | Fish! | Whales! |
 | --- | --- | --- |
 | [![](/assets/images/2023/jj-bb-1-thumbnail.jpg)](/assets/images/2023/jj-bb-1.jpg) | [![](/assets/images/2023/jj-bb-2-thumbnail.jpg)](/assets/images/2023/jj-bb-2.jpg) | [![](/assets/images/2023/jj-bb-3-thumbnail.jpg)](/assets/images/2023/jj-bb-3.jpg)
 
+### Candy Disaster
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [79.07% - Store page](https://store.steampowered.com/app/1231460/) | £10.99 | Trap Tower Defence | November 2021 | 144 (Nivember 2023) |
+
+It's hard to love or hate Candy Disaster. If you played games like Bloon Tower Defense a decade or two ago, you know how this goes. One slight variant is that "traps" are used instead of towers. This does add a bit of complexity, since you're also trying to move the incoming enemies not just damage them.
+
+A pretty successful tactic is to use movement & blocking tiles to group enemies up as much as possible, then do extremely high damage with spike traps. If this is done well, enemies will barely get a tile or two into your maze.
+
+However, I'm sure by now every possible variant of Tower Defence has been made already, including this. A slight change in how towers work is not enough to make this a good game, it's just yet another TD game. If you haven't already, I do recommend trying [Sanctum](https://store.steampowered.com/app/91600/Sanctum/), a better looking, better playing, deeper, and cheaper FPS/TD hybrid released 12 years ago. 
+
+Anyway, back to Candy Disaster. There's typos in the store page, tower descriptions, achievements, and just a general lack of attention to detail everywhere. The store page advertises "35 bases", which considering their simplistic tile based design, is... really not many. Why not add Steam Workshop maps, or a level generator, so it has a chance of success?
+
+Oh, right, because it's [actually a mobile game](https://play.google.com/store/apps/details?id=com.acegames.candy.disaster.tdbattles.gp) with microtransactions. That explains it. 
+
+| Gameplay | Leaderboards | World map |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-cd-1-thumbnail.jpg)](/assets/images/2023/jj-cd-1.jpg) | [![](/assets/images/2023/jj-cd-2-thumbnail.jpg)](/assets/images/2023/jj-cd-2.jpg) | [![](/assets/images/2023/jj-cd-3-thumbnail.jpg)](/assets/images/2023/jj-cd-3.jpg)
 
 ## 2/5 Games
 
@@ -164,6 +204,10 @@ There is occasional voiceover by a narrator, but all of the in-game conversation
 Finally, for a game all about interacting with the environment, it seems entirely guess work based. There's no way to know if something will progress the story, display some information, or do nothing, without walking up to it. This means you'll be running around houses staring at chests that do nothing, items that can't be picked up, doors that are locked, etc. Early on in the game you have to find a hiding spot, and I found the correct hiding spot... too early, so had to visit a "bad" hiding spot first. What a waste of time.
 
 People seem to enjoy this, but I do not! Perhaps it should have been a short film or a book instead.
+
+| Chapter 1 results | Dialogue | Cutscenes |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-asb-1-thumbnail.jpg)](/assets/images/2023/jj-asb-1.jpg) | [![](/assets/images/2023/jj-asb-2-thumbnail.jpg)](/assets/images/2023/jj-asb-2.jpg) | [![](/assets/images/2023/jj-asb-3-thumbnail.jpg)](/assets/images/2023/jj-asb-3.jpg)
 
 ### Arcade Spirits
 
@@ -185,17 +229,53 @@ Oh, and I "lost" the game at my very first decision by deciding to go look for a
 | --- | --- | --- |
 | [![](/assets/images/2023/jj-as-1-thumbnail.jpg)](/assets/images/2023/jj-as-1.jpg) | [![](/assets/images/2023/jj-as-2-thumbnail.jpg)](/assets/images/2023/jj-as-2.jpg) | [![](/assets/images/2023/jj-as-3-thumbnail.jpg)](/assets/images/2023/jj-as-3.jpg)
 
+### Astronimo
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [78.11% - Store page](https://store.steampowered.com/app/1808640/) | £12.79 | Build Bots Assemble | September 2013 | 17 (November 2023) |
+
+What an infuriating game. Astronimo is primarily a platformer, with a vehicle builder shoved inside. I'd like to think I'm *okay* at understanding tutorials, yet multiple parts just didn't seem to make sense (such as trying to lift a box over my head... that I need to stand on?). Despite this, I made it most of the way through the tutorial world, before the awful swinging controls made me give up.
+
+On the Steam page I saw some element of "sharing worlds" is available, so I tried to play some workshop maps in case they were less painful, but... there didn't seem to be an option. The game also has a "lane" based system, but only seems to remember it exists occasionally. Same with currency. Same with zooming out to view other planets.
+
+The construction seemed basic (grid based, move components and connect them), none of the physics interactions felt right, and overall I just didn't enjoy it at all. It's hard to quantify why it felt so unpleasant, perhaps it's the combination of very childish UI & design, plus confusing controls, making the target audience a mystery. 
+
+The game has only just entered early access, so perhaps it'll be a better game after few rounds of improving & simplifying.
+
+| Construction | Gameplay | Planet overview |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-astro-1-thumbnail.jpg)](/assets/images/2023/jj-astro-1.jpg) | [![](/assets/images/2023/jj-astro-2-thumbnail.jpg)](/assets/images/2023/jj-astro-2.jpg) | [![](/assets/images/2023/jj-astro-3-thumbnail.jpg)](/assets/images/2023/jj-astro-3.jpg)
+
+## 1/5 Games
+
+### Battlestar Galactica: Deadlock
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [81.20% - Store page](https://store.steampowered.com/app/544610/) | £33.50 | Space Ballet Shooting | August 2017 | 2,143 (April 2023) |
+
+I cannot *stand* this style of strategy game, where you plan all your ship's movements in 3D space, then all the actions are taken at once. There was [a similar one I reviewed](/reviewing-every-jingle-jam-steam-game-part-2/#aeronautica-imperialis-flight-command) from last year's Jingle Jam ("Aeronautica Imperialis: Flight Command"), and they feel identical.
+
+Even a quick skirmish takes countless repetitive turns. You have very limited options, all the ships are essentially just dancing around each other in space, it's the most dull representation of space combat possible.
+
+Upon first opening the game -- that would have been pretty expensive if not in the Jingle Jam bundle -- I was met with an advert to buy other games. There were also adverts for various DLCs. There was also no story, cutscene, engagement, anything to grab my interest. 
+
+Once I closed the various adverts, I was thrown into the emptiness of space with a couple of ships. Who am I? Who am I fighting? Why should I care? Does this have any link to the Battlestar Galactica TV show I've watched? Who knows. 
+
+As with many strategy games, people seem to love this! Good for them! I don't, and was hoping for so much more. Perhaps it's one of those games that only gets good tens of hours in. I won't be finding out.
+
+| Firing missiles | Tactical view | Oops I crashed |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-bgd-1-thumbnail.jpg)](/assets/images/2023/jj-bgd-1.jpg) | [![](/assets/images/2023/jj-bgd-2-thumbnail.jpg)](/assets/images/2023/jj-bgd-2.jpg) | [![](/assets/images/2023/jj-bgd-3-thumbnail.jpg)](/assets/images/2023/jj-bgd-3.jpg)
 
 ## Uncategorised
 
-Astronimo - Build Bots Assemble
-Battlestar Galactica: Deadlock - Anti-Cylon Tactics
-
-Candy Disaster Tower Defense - Crazy Trap Combining
-Cat Quest - Adorable Cat RPG
 Cook, Serve, Delicious! 3?! - Cooking Typing Management
+    - PLAYED, BUT NEED REVIEWING. SUCKED.
 Cosmo's Quickstop - Frantic Alien Cleanup
 DEPLOYMENT - Intense Competitive Arena
+
 Death and Taxes - Grim Reaper's Office Job
 Deepest Chamber: Resurrection - Gritty Card Battler
 EARTHLOCK - Indie Retro JRPG
@@ -211,3 +291,8 @@ Harmony's Odyssey - Solve Cute Dioramas
 Heavy Burden - Atmospheric Mindful Puzzles
 Homeworld Remastered Collection - Legendary Space Strategy
 Homeworld: Deserts of Kharak - Classic Sci-fi RTS
+
+Once reviewed all:
+* Check redeemed all the keys
+* Check count is correct
+* Submit reviews on Steam
