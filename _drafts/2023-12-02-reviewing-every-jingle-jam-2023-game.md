@@ -42,11 +42,73 @@ I actually already owned this game from a giveaway a year or two ago, and pretty
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EzdAc-y6nSY?si=Tr1R8uA0b8OI_Yer" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## 4/5 Games
+
+### 8-Bit Armies
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [78.86% - Store page](https://store.steampowered.com/app/427250/) | £12.79 | Blocky Pixel Strategy | April 2016 | 600 (May 2016) |
+
+I'm generally not a RTS fan, but this simple and intuitive voxel-based game was instantly understandable and enjoyable. It reminded me a lot of [a demo I played endlessly](https://www.youtube.com/watch?v=mSiXfIK-f1c) back in the 90s(!) of "WarGames", due to the very similar methods of building and moving units. 
+
+I only played a few of the campaign missions, and they were obviously ramping up in difficulty. Even in the very first non-tutorial mission, the enemy will start scouting your area, testing your defences etc. I didn't get a good enough feel for the AI's intelligence, but it definitely seems like it won't just turtle and wait for you to attack.
+
+However, whilst the gameplay is fun, there are a few odd areas. For example, "supply crates" are scattered all over the map, and opening them seemed to give me 5 troops every time. The tooltip warned they can contain negative rewards, but when the vast majority of my army were free crate troops, it made building up my troop producing capability almost pointless. Seemingly the best tactic is to just scatter infantry everywhere and open boxes!
+
+Whilst on the topic of infantry, during one mission I charged my 20 or so troops at the enemy's base. They were then almost entirely killed by a supply truck blindly driving through to pick up supplies. Why is a non-controlled resource gatherer unit more powerful than military troops with rocket launchers!? I get vehicles can run over people but... why didn't my guys shoot? They just lined up and got squished.
+
+This unfortunately isn't the only issue. The game features a "battle cam" that somewhat randomly provides a cinematic view of a battle. I couldn't figure out how to make it actually focus on anything useful, and the game crashed at one point whilst using it. Not ideal.
+
+Despite this I still had a good time, and I can easily see it being a decent game to play PVP. 4/5 is probably the highest I can ever rate an RTS!
+
+| Combat cam | Attacking enemy | Map loading screen |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-8bit-1-thumbnail.jpg)](/assets/images/2023/jj-8bit-1.jpg) | [![](/assets/images/2023/jj-8bit-2-thumbnail.jpg)](/assets/images/2023/jj-8bit-2.jpg) | [![](/assets/images/2023/jj-8bit-3-thumbnail.jpg)](/assets/images/2023/jj-8bit-3.jpg)
+
+### Aces & Adventures
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [87.95% - Store page](https://store.steampowered.com/app/1815570/) | £14.28 | Deal Life and Death | February 2023 | 2,455 (February 2023) |
+
+This was one of the bundle games people were most excited about, and it's even published by Yogscast Games! I'll openly admit that despite playing plenty, I've always struggled to enjoy monster card-based games like Hearthstone. However, I've absolutely loved games like [Sword & Poker](https://toucharcade.com/2010/01/12/sword-poker-a-fantastic-hybrid-of-poker-and-rpg/) waaay back in 2010 on iOS. What makes these games different is they use a regular deck of playing cards as a starting point, instead of a completely new deck of abilities and monsters.
+
+In Aces & Adventures' case, you take it in turns to play a number card (and potentially an ability or two). Rhe number on a playing card determines how useful it is, as you have to match or beat each other's number. You'll also have abilities that require specific cards (e.g. drinking a health potion requires sacrificing 2 heart cards), meaning every turn requires balancing risk vs reward to deal damage whilst still being able to protect yourself.
+
+This is all wrapped up in a rogue-like bundle, with even the story and route planning being told via cards! I really appreciate this dedication to being card-based, and makes the card gameplay feel like the core part of the game, not some sort of minigame.
+
+This is close to a 5/5, however I found myself a bit "lost" due to no overworld map, and an odd "forest clearing" main menu. This also made it a little hard to know *why* I was fighting things, I seem to have stumbled across half of them whilst they were quietly chilling!
+
+| Main menu | Duelling | Decision making |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-aaa-1-thumbnail.jpg)](/assets/images/2023/jj-aaa-1.jpg) | [![](/assets/images/2023/jj-aaa-2-thumbnail.jpg)](/assets/images/2023/jj-aaa-2.jpg) | [![](/assets/images/2023/jj-aaa-3-thumbnail.jpg)](/assets/images/2023/jj-aaa-3.jpg)
+
+## 2/5 Games
+
+### A Story Beside
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [88.88% - Store page](https://store.steampowered.com/app/634410/) | £11.39 | Heartwarming Cozy Journey | May 2022 | 20 (September 2019) |
+
+This really wasn't for me. I found A Story Beside exceptionally slow, with essentially no actual gameplay. Whilst it *looks* like a typical RPG, it's actually extremely linear. Walk to the place you have to walk to, listen to a dialog, and move on. This might imply the game is focusing on dialog decisions, like The Walking Dead, but... nope, these don't matter either.
+
+For example, one of the 8 decisions (e.g. the only gameplay) I made in the first chapter was whether I gave food to the brown-tinted goat or the black-tinted goat. Who cares? They're just identical sprites with different colours.
+
+There is occasional voiceover by a narrator, but all of the in-game conversations will be text only besides generic "surprise" noises etc. This made skimreading the dialog very dull, especially when combined with having to press "A" many times between each message, occasionally wait for an exclamation mark to appear above a character's head etc. Half hour in, I just didn't care about any of the characters.
+
+Finally, for a game all about interacting with the environment, it seems entirely guess work based. There's no way to know if something will progress the story, display some information, or do nothing, without walking up to it. This means you'll be running around houses staring at chests that do nothing, items that can't be picked up, doors that are locked, etc. Early on in the game you have to find a hiding spot, and I found the correct hiding spot... too early, so had to visit a "bad" hiding spot first. What a waste of time.
+
+People seem to enjoy this, but I do not! Perhaps it should have been a short film or a book instead.
+
+| Decision making | Dialogue | Cutscenes |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-asb-1-thumbnail.jpg)](/assets/images/2023/jj-asb-1.jpg) | [![](/assets/images/2023/jj-asb-2-thumbnail.jpg)](/assets/images/2023/jj-asb-2.jpg) | [![](/assets/images/2023/jj-asb-3-thumbnail.jpg)](/assets/images/2023/jj-asb-3.jpg)
+
+
 ## Uncategorised
 
-8 Bit Armies - Blocky Pixel Strategy
-A Story Beside - Heartwarming Cozy Journey
-Aces & Adventures - Deal Life and Death
 Alekon - Photograph Cute Creatures
 
 Arcade Spirits - Retro-gaming Dating Sim
