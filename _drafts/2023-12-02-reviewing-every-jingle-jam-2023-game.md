@@ -126,6 +126,28 @@ Oh, and everything is voiced. Excellent.
 | --- | --- | --- |
 | [![](/assets/images/2023/jj-aaa-1-thumbnail.jpg)](/assets/images/2023/jj-aaa-1.jpg) | [![](/assets/images/2023/jj-aaa-2-thumbnail.jpg)](/assets/images/2023/jj-aaa-2.jpg) | [![](/assets/images/2023/jj-aaa-3-thumbnail.jpg)](/assets/images/2023/jj-aaa-3.jpg)
 
+### Cosmo's Quickstop
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [84.85% - Store page](https://store.steampowered.com/app/724680/) | £15.49 | Frantic Alien Cleanup | August 2021 | 28 (August 2021) |
+
+Cosmo's Quickstop is very, very frantic, and very, very fun. You're an alien completing menial tasks for customers to a space gas station, and there's always tasks to do!
+
+None of these individual tasks are hard (pump some gas, press a button combo, restock the vending machine, clean the toilet, etc), but when there's 5 things at once that want your attention, prioritisation is tricky. For example, you might be halfway through cleaning the toilets when an asteroid alarm goes off, whilst 2 ships are starting to run out of time. Oh and some other customers need directions.
+
+I found that I was really bad at giving people map instructions (direct their ship to the planet without any asteroids), since they're located between the docking stations. As I rushed between areas I completely missed them!
+
+The base gameplay is pretty good, and is improved by an upgrade system that lets you make your weak tasks easier, adds new functionality, or even add new utilities entirely. I noticed in a loading screen that the game eventually goes up to 8(!) docks, I was barely managing to handle 4! 
+
+Out of morbid curiosity, I [found some "speedrun" style videos](https://www.youtube.com/watch?v=E530xEH2GXg&list=PLg93jKIExgIs1TJI5FtimDRRN4nmQiVta&index=8), and they do a really good job of summarising the frantic madness within the game. The player is running around doing things constantly, and it looks like a planned a speedrun until you realise everything is random, so the player is dynamically adjusting their plans. Watching it, I can't even keep track of *where* they are in the space station, let alone what they're doing.
+
+I can definitely see myself coming back to this game when I need to "fill my brain" up for a bit, and stop thinking about something else. 👽
+
+| Upgrades | Home | Station |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-cosmo-1-thumbnail.jpg)](/assets/images/2023/jj-cosmo-1.jpg) | [![](/assets/images/2023/jj-cosmo-2-thumbnail.jpg)](/assets/images/2023/jj-cosmo-2.jpg) | [![](/assets/images/2023/jj-cosmo-3-thumbnail.jpg)](/assets/images/2023/jj-cosmo-3.jpg)
+
 ## 3/5 Games
 
 ### Buggos
@@ -247,8 +269,6 @@ The game has only just entered early access, so perhaps it'll be a better game a
 | --- | --- | --- |
 | [![](/assets/images/2023/jj-astro-1-thumbnail.jpg)](/assets/images/2023/jj-astro-1.jpg) | [![](/assets/images/2023/jj-astro-2-thumbnail.jpg)](/assets/images/2023/jj-astro-2.jpg) | [![](/assets/images/2023/jj-astro-3-thumbnail.jpg)](/assets/images/2023/jj-astro-3.jpg)
 
-## 1/5 Games
-
 ### Battlestar Galactica: Deadlock
 
 | Steam rating | Price | Description | Released | Peak players
@@ -269,23 +289,58 @@ As with many strategy games, people seem to love this! Good for them! I don't, a
 | --- | --- | --- |
 | [![](/assets/images/2023/jj-bgd-1-thumbnail.jpg)](/assets/images/2023/jj-bgd-1.jpg) | [![](/assets/images/2023/jj-bgd-2-thumbnail.jpg)](/assets/images/2023/jj-bgd-2.jpg) | [![](/assets/images/2023/jj-bgd-3-thumbnail.jpg)](/assets/images/2023/jj-bgd-3.jpg)
 
-## Uncategorised
+### Cook, Serve, Delicious! 3?!
 
-Cook, Serve, Delicious! 3?! - Cooking Typing Management
-    - PLAYED, BUT NEED REVIEWING. SUCKED.
-Cosmo's Quickstop - Frantic Alien Cleanup
-DEPLOYMENT - Intense Competitive Arena
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [87.65% - Store page](https://store.steampowered.com/app/1000030/) | £15.49 | Cooking Typing Management | October 2020 | 491 (January 2020) |
+
+This game started with a fully voiced, impressive cutscene. There was a story, corporate drama, robots, all looks great!
+
+Oh, and then it revealed itself to be one of those "create the requested food" cooking games. Y'know, the Flash games that used to be super popular 15-20 years ago. Whilst the keyboard / controller controls were smooth (e.g. using trigger + button to select a topping), it's just too painfully dull for me. This does seem like one of the better games in the genre, but it's not a genre I can ever enjoy.
+
+There is an impressive variety of dishes here, but the "cooking" of them is always just going to be pressing a few buttons in the correct order. I also experienced a few bugs during gameplay, with screenshots not working, and some UI elements getting stuck for a bit.
+
+| Travelling | Preparing | Serving |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-csd-1-thumbnail.jpg)](/assets/images/2023/jj-csd-1.jpg) | [![](/assets/images/2023/jj-csd-2-thumbnail.jpg)](/assets/images/2023/jj-csd-2.jpg) | [![](/assets/images/2023/jj-csd-3-thumbnail.jpg)](/assets/images/2023/jj-csd-3.jpg)
+
+## 1/5 Games
+
+### DEPLOYMENT
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [77.53% - Store page](https://store.steampowered.com/app/755980/) | £0.44 | 2.5D Arena Shooter | April 2018 | 156 (January 2019) |
+
+This game was hard work. The first 3 times I tried to launch it, the screen froze and I had to close the game. Steam also never seemed to know if it was running or not. Luckily, I tried launching it with my controller unplugged, and it finally actually loaded! Whilst I can't prove DEPLOYMENT is to blame, after my first and only session with DEPLOYMENT my Steam actually reported a critical component had failed and Steam had to restart. It then had to reinstall some sort of key Steam service. Great.
+
+As an obviously multiplayer first game, I queued up for deathmatch and team deathmatch... both of which had 0 other players. I was put into a 2v2 game with 3 obvious bots, and the difficulty was essentially zero.
+
+My AI companion spent the entire time running in a circle shooting at walls, whilst the enemy spawned and blindly charged at me every time. It was very easy to claim the powerups and slaughter the AI enemies. Fun for a minute or two, but there's no challenge.
+
+The game has a couple of elements that *could* be good, such as powering up turrets to provide area abilities, and entering an "ultimate" mode to deal more damage. This is countered by the extremely limited options (only low or high graphic settings with high providing less than 60 FPS), zero playerbase, and technical bugginess. For example, finishing a game provides almost no information on how you performed, accuracy, etc. 
+
+I'm rating DEPLOYMENT especially low due to a simple controller breaking it, the endless technical problems, and there being no interesting gameplay without other players. A short single player campaign would have made this somewhat enjoyable, ah well.
+
+| Queueing | Gameplay | Upgrades |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-deploy-1-thumbnail.jpg)](/assets/images/2023/jj-deploy-1.jpg) | [![](/assets/images/2023/jj-deploy-2-thumbnail.jpg)](/assets/images/2023/jj-deploy-2.jpg) | [![](/assets/images/2023/jj-deploy-3-thumbnail.jpg)](/assets/images/2023/jj-deploy-3.jpg)
+
+## Uncategorised
 
 Death and Taxes - Grim Reaper's Office Job
 Deepest Chamber: Resurrection - Gritty Card Battler
 EARTHLOCK - Indie Retro JRPG
 Eyes in the Dark - Unique Stylish Rogue-lite
 Feed All Monsters - Feed All Monsters
+
 Final Profit: A Shop RPG - Item Shop Tycoon
 Fly Punch Boom! - Insane Anime Fight
 Glitch busters - Stuck on you
 Godfall Ultimate Edition - Godly Hack-and-Slash
 Golfie - Hole-in-one Yourself
+
 Growbot - Ridiculously Adorable Puzzles
 Harmony's Odyssey - Solve Cute Dioramas
 Heavy Burden - Atmospheric Mindful Puzzles

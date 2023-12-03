@@ -29,16 +29,20 @@ Admittedly this is only viable if you're doing a "level-based" pacifist run, not
 
 By using the purple tome, you can (infrequently) deal 100 damage without gaining any XP. This is by far the most reliable way to deal damage.
 
+The problem? This isn't available until combat level 5. Maybe potions can be used to boost and equip the tome?
+
 ### Reflect Potion
 
 By reflecting the enemy's damage back at them, you will eventually kill them. However this is slow, and requires a lot of food.
 
-## How to get items
+### Cancel attacks
 
-### Traders
+If you have a slower attack speed than the enemy (e.g. 3.0 vs 2.8s), you *can* cancel your attack before it lands, ensuring you'll gain no XP! However, it's pretty hard to do this reliably. Maybe there are some slower weapons to help...
 
-## General tips
+## Priority unlocks & items
 
-### Defense is all that matters
+### Dugouts
+
+Dugouts let you control traders more, pick which one you get etc. As such, rush carpentry.
 
 ## Conclusion
