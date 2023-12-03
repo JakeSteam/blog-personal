@@ -202,6 +202,24 @@ I'm not sure how much I'll play this again, since the unique selling point is al
 | --- | --- | --- |
 | [![](/assets/images/2023/jj-eitd-1-thumbnail.jpg)](/assets/images/2023/jj-eitd-1.jpg) | [![](/assets/images/2023/jj-eitd-2-thumbnail.jpg)](/assets/images/2023/jj-eitd-2.jpg) | [![](/assets/images/2023/jj-eitd-3-thumbnail.jpg)](/assets/images/2023/jj-eitd-3.jpg)
 
+### Glitch Busters: Stuck On You
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [78.55% - Store page](https://store.steampowered.com/app/1616110/) | £14.38 | Glitchy Bug Busting | May 2023 | 48 (May 2023) |
+
+There's 2 ways to interpret Glitch Busters: It's either a simple platformer / shoot-em-up with solid combat, or it's got a whole message about trolls? YouTubers? AI? The internet?
+
+I'm going to go for the first interpretation and... I enjoyed it! The shooting is satisfying, the platforming and enemy placement is tricky but achievable, and boss attacks are telegraphed and dodgeable.
+
+The game was clearly designed for 4 players, with some sections adding AI companions to help you out. These are alright, but obviously not as effective as real players, even with simple "come here" and "go away" commands.
+
+Interestingly, you don't unlock the main hub & training maps until you've completed a tutorial mission that takes 10+ minutes. These training missions are a very different vibe, and almost feel like areas for testing the game, before any story or landscape was added. Luckily, the main game itself is fun despite the scattered story and odd magnet / glitch / virus based theme!
+
+| Combat | Boss Fight | Shop |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-gb-1-thumbnail.jpg)](/assets/images/2023/jj-gb-1.jpg) | [![](/assets/images/2023/jj-gb-2-thumbnail.jpg)](/assets/images/2023/jj-gb-2.jpg) | [![](/assets/images/2023/jj-gb-3-thumbnail.jpg)](/assets/images/2023/jj-gb-3.jpg)
+
 ## 3/5 Games
 
 ### Buggos
@@ -294,6 +312,46 @@ Combat is pretty dull, exploring is slow and not worth it, quests are simple "Go
 | Combat | Menu | Overworld |
 | --- | --- | --- |
 | [![](/assets/images/2023/jj-earth-1-thumbnail.jpg)](/assets/images/2023/jj-earth-1.jpg) | [![](/assets/images/2023/jj-earth-2-thumbnail.jpg)](/assets/images/2023/jj-earth-2.jpg) | [![](/assets/images/2023/jj-earth-3-thumbnail.jpg)](/assets/images/2023/jj-earth-3.jpg)
+
+### Fly Punch Boom!
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [82.89% - Store page](https://store.steampowered.com/app/1051960/) | £12.99 | Insane Anime Brawler | May 2020 | 34 (May 2020) |
+
+This game is not even *slightly* for me, but it deserves a dedicated audience somewhere. 
+
+It's an extremely frantic combination of Super Smash Bros and... a rhythm game? A reaction tester? I've no idea. You're flying around, performing combos on each other, and trying to react to the opponent's combos.
+
+Halfway through the tutorial, I could tell I was never going to be able to play this. I struggled to even finish the tutorial, with some of the combinations (brawl enemy, time a filling bar, teleport behind, punch) breaking my brain a bit. 
+
+On top of this frantic, visually baffling gameplay is a very "memey" sense of humour / style that seems like this game is from at least 10 years before the actual release date. I suspect it might have landed better if it came out earlier, as the facial expression and art style are very "Newgrounds-y". 
+
+I tried playing an online game to see if a stranger could absolutely crush me, but sadly nobody else seemed to be playing. I could easily imagine this becoming a competitive game, although I couldn't watch it for more than a few minutes without my head exploding!
+
+The trailer does an excellent job of showcasing the Flash game aesthetics, and the completely baffling combat: <https://www.youtube.com/watch?v=GMu-B77NJPA>
+
+| Unlocks | Combat 1 | Combat 2 |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-fpb-1-thumbnail.jpg)](/assets/images/2023/jj-fpb-1.jpg) | [![](/assets/images/2023/jj-fpb-2-thumbnail.jpg)](/assets/images/2023/jj-fpb-2.jpg) | [![](/assets/images/2023/jj-fpb-3-thumbnail.jpg)](/assets/images/2023/jj-fpb-3.jpg)
+
+### Golfie
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [70.03% - Store page](https://store.steampowered.com/app/1579020/) | £7.49 | Minigolf Roguelike | January 2023 | 175 (January 2023) |
+
+Another Yogscast game! This is unfortunately one of those experiences that I would really rather watch than play myself. I've [watched the Yogs play it](https://www.youtube.com/@yogscast/search?query=golfie) quite a lot, and the frustration of a tricky shot is definitely more entertaining when someone else is experiencing it.
+
+In Golfie, you pick your powerups and try to use them to y'know, complete the hole. This is much easier said than done however, as the powerups are surprisingly tricky to use. For example, the "Jetpack" boost requires an awkward button press, and sends you absolutely *flying* into the sky. This adds a bit of risk vs reward to powerups, as the predictability of a regular unpowered shot can often be a better option.
+
+Cards also have a "heat" level, essentially a mechanic whereby using too many cards can cause your little robot to break. This can sometimes mean you have a great card, but using it isn't an option at the current time. A little frustrating.
+
+I found the shots a bit too clunky, and it didn't have the satisfying predictability of something like Golf With Your Friends. Golfie seems like an alright game, but I'm not sure I enjoyed my time with it.
+
+| Tricky shot | Map picking | Card picking |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-golf-1-thumbnail.jpg)](/assets/images/2023/jj-golf-1.jpg) | [![](/assets/images/2023/jj-golf-2-thumbnail.jpg)](/assets/images/2023/jj-golf-2.jpg) | [![](/assets/images/2023/jj-golf-3-thumbnail.jpg)](/assets/images/2023/jj-golf-3.jpg)
 
 ## 2/5 Games
 
@@ -416,10 +474,7 @@ I'm rating DEPLOYMENT especially low due to a simple controller breaking it, the
 ## Uncategorised
 
 Final Profit: A Shop RPG - Item Shop Tycoon
-Fly Punch Boom! - Insane Anime Fight
-Glitch busters - Stuck on you
 Godfall Ultimate Edition - Godly Hack-and-Slash
-Golfie - Hole-in-one Yourself
 
 Growbot - Ridiculously Adorable Puzzles
 Harmony's Odyssey - Solve Cute Dioramas
