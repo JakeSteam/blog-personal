@@ -82,6 +82,24 @@ Interestingly, there seems to be a very similar, but better, sequel: [Cat Quest 
 | --- | --- | --- |
 | [![](/assets/images/2023/jj-cq-1-thumbnail.jpg)](/assets/images/2023/jj-cq-1.jpg) | [![](/assets/images/2023/jj-cq-2-thumbnail.jpg)](/assets/images/2023/jj-cq-2.jpg) | [![](/assets/images/2023/jj-cq-3-thumbnail.jpg)](/assets/images/2023/jj-cq-3.jpg)
 
+### Feed All Monsters
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [89.09% - Store page](https://store.steampowered.com/app/1597720/) | £3.00 | Monster Feeding Puzzling | June 2023 | 35 (June 2023) |
+
+What an underrated puzzle game! Feed All Monsters is super easy to understand, then ramps up the complexity over time until you're squinting at the screen to figure out a solution.
+
+The aim of the game is... feed all the monsters. Obviously. To do this, you have 3 different characters, each of which has a different balance of tiles moved and food distributed. By combining these characters, you must surround every monster with at least enough food to match the number above it's head. 
+
+Whilst the concept is so, so simple, the puzzles are expertly designed. Additionally, the simple UI shows you just enough information to be helpful without overwhelming. I completed the first island (30 puzzles), there's 5 more islands to work through!
+
+Very cute, very logical, very fun. Interestingly, this is the same developer (DU&I) behind [Cats Organized Neatly](https://store.steampowered.com/app/1369340/Cats_Organized_Neatly/) which is a cute, logical, fun puzzle game that I completed last year. I'm sensing an expertise here!
+
+| Solving a puzzle | Level select | Boss fight |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-fam-1-thumbnail.jpg)](/assets/images/2023/jj-fam-1.jpg) | [![](/assets/images/2023/jj-fam-2-thumbnail.jpg)](/assets/images/2023/jj-fam-2.jpg) | [![](/assets/images/2023/jj-fam-3-thumbnail.jpg)](/assets/images/2023/jj-fam-3.jpg)
+
 ## 4/5 Games
 
 ### 8-Bit Armies
@@ -148,6 +166,42 @@ I can definitely see myself coming back to this game when I need to "fill my bra
 | --- | --- | --- |
 | [![](/assets/images/2023/jj-cosmo-1-thumbnail.jpg)](/assets/images/2023/jj-cosmo-1.jpg) | [![](/assets/images/2023/jj-cosmo-2-thumbnail.jpg)](/assets/images/2023/jj-cosmo-2.jpg) | [![](/assets/images/2023/jj-cosmo-3-thumbnail.jpg)](/assets/images/2023/jj-cosmo-3.jpg)
 
+### Death and Taxes
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [85.48% - Store page](https://store.steampowered.com/app/1166290/) | £10.99 | Grim Reaper's Office Job | February 2020 | 802 (August 2023) |
+
+What if Papers Please turned into a stylised afterlife simulator instead, and removed the time pressure? You'd have Death and Taxes!
+
+Each day, you decide which of today's candidates will live and die. You'll have some information about them, as well as demands from your boss. Balancing the two is the tricky bit. For example, your boss might tell you all candidates with a scientific background need to die. Seems simple enough, so long as you ignore your phone's alerts about some sort of pandemic... it's just a job, not your problem right? 
+
+Between days of work, you can hang out in the bar, purchase clothing and new functionality, talk to your boss to get a paycheck, and try to find out more of the world's story. I really appreciated how there's no time pressure, and your decision making is more of a moral or logical question than skill based.
+
+The writing is excellent, with the characters all being distinct whilst relatable. Additionally, the snippets of information about the game's setting are revealed subtly, instead of long paragraphs of text. I passed my probation week, and will be coming back to find *an* ending. 
+
+| Dialog | Choosing who will die | Office |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-dat-1-thumbnail.jpg)](/assets/images/2023/jj-dat-1.jpg) | [![](/assets/images/2023/jj-dat-2-thumbnail.jpg)](/assets/images/2023/jj-dat-2.jpg) | [![](/assets/images/2023/jj-dat-3-thumbnail.jpg)](/assets/images/2023/jj-dat-3.jpg)
+
+### Eyes in the Dark
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [72.72% - Store page](https://store.steampowered.com/app/1039360/) | £11.39 | Black & White Roguelike | July 2022 | 49 (July 2022) |
+
+Who doesn't love a good roguelike? Eyes in the Dark's unique black and white style reminds me of Don't Starve, and is clearly heavily influenced by old silent movies. Very cool.
+
+Whilst the combat starts off simple (jump around, use dodge immunity, fire your flashlight to hurt monsters), it gets more complex with various torch (and slingshot) upgrades. For example, I found aiming accurately tricky whilst bouncing around platforms constantly, so I purchased a "wave" bulb from a shop run by a crow. This fires light in arced pulses instead, letting me focus on movement more.
+
+I managed (just) to kill the first boss, but did the classic "die at the same time" trick so my run ended anyway! Ah well, I'm still counting it as a win. Looking at The Bookshelf (perk shop), there seems to be a pretty deep upgrade system. Even within my short time with it, I tried out multiple bulb types and found 4-5 different enemy types. 
+
+I'm not sure how much I'll play this again, since the unique selling point is also a downside: the visuals. The *complete* lack of colour or voice acting does leave the game feeling a little flat and lifeless, I'd have loved colour to be used sparingly to highlight enemies or projectiles.
+
+| Perks | Combat | Shop |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-eitd-1-thumbnail.jpg)](/assets/images/2023/jj-eitd-1.jpg) | [![](/assets/images/2023/jj-eitd-2-thumbnail.jpg)](/assets/images/2023/jj-eitd-2.jpg) | [![](/assets/images/2023/jj-eitd-3-thumbnail.jpg)](/assets/images/2023/jj-eitd-3.jpg)
+
 ## 3/5 Games
 
 ### Buggos
@@ -208,6 +262,38 @@ Oh, right, because it's [actually a mobile game](https://play.google.com/store/a
 | Gameplay | Leaderboards | World map |
 | --- | --- | --- |
 | [![](/assets/images/2023/jj-cd-1-thumbnail.jpg)](/assets/images/2023/jj-cd-1.jpg) | [![](/assets/images/2023/jj-cd-2-thumbnail.jpg)](/assets/images/2023/jj-cd-2.jpg) | [![](/assets/images/2023/jj-cd-3-thumbnail.jpg)](/assets/images/2023/jj-cd-3.jpg)
+
+### Deepest Chamber: Resurrection
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [77.25% - Store page](https://store.steampowered.com/app/1552080/) | £10.29 | Gritty Card Battler | February 2019 | 136 (February 2019) |
+
+I don't like card battlers. Deepest Chamber seems like an OK one, with a shop, varied enemies, and some interesting mechanics... but I just don't like card battlers!
+
+I did a couple of runs, and they honestly all ended up pretty similarly. I crushed a few weak enemies, comboed my cards, then eventually ran into something that was clearly going to crush me from the start... and did. Fun.
+
+The controls were a little awkward, partially due to having multiple characters to look after (yet one hand of cards), and partially due to weirdness around how cards are deployed.
+
+Looking at Steam reviews, lack of depth seems to be a common concern. Still, at least the graphics were alright, in a retro-y Skyrim-y way?
+
+| Combat | Main menu | Map |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-dcr-1-thumbnail.jpg)](/assets/images/2023/jj-dcr-1.jpg) | [![](/assets/images/2023/jj-dcr-2-thumbnail.jpg)](/assets/images/2023/jj-dcr-2.jpg) | [![](/assets/images/2023/jj-dcr-3-thumbnail.jpg)](/assets/images/2023/jj-dcr-3.jpg)
+
+### EARTHLOCK
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [70.16% - Store page](https://store.steampowered.com/app/761030/) | £24.99 | Indie Retro JRPG | March 2018 | 142 (July 2020) |
+
+Whilst the story for EARTHLOCK seemed reasonably well written, the actual questing and gameplay was way too dry for me. It's pretty similar to all the retro JRPGs from the 90s and 00s, right down to the large open areas that take forever to actually walk through.
+
+Combat is pretty dull, exploring is slow and not worth it, quests are simple "Go to X, do Y". This wasn't a bad game, but it's perhaps for someone who is ready to invest 10s of hours and hope the game becomes worth it. Based on the Steam reviews, players who took this gamble seem split on whether they actually recommend it or not!
+
+| Combat | Menu | Overworld |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-earth-1-thumbnail.jpg)](/assets/images/2023/jj-earth-1.jpg) | [![](/assets/images/2023/jj-earth-2-thumbnail.jpg)](/assets/images/2023/jj-earth-2.jpg) | [![](/assets/images/2023/jj-earth-3-thumbnail.jpg)](/assets/images/2023/jj-earth-3.jpg)
 
 ## 2/5 Games
 
@@ -328,12 +414,6 @@ I'm rating DEPLOYMENT especially low due to a simple controller breaking it, the
 | [![](/assets/images/2023/jj-deploy-1-thumbnail.jpg)](/assets/images/2023/jj-deploy-1.jpg) | [![](/assets/images/2023/jj-deploy-2-thumbnail.jpg)](/assets/images/2023/jj-deploy-2.jpg) | [![](/assets/images/2023/jj-deploy-3-thumbnail.jpg)](/assets/images/2023/jj-deploy-3.jpg)
 
 ## Uncategorised
-
-Death and Taxes - Grim Reaper's Office Job
-Deepest Chamber: Resurrection - Gritty Card Battler
-EARTHLOCK - Indie Retro JRPG
-Eyes in the Dark - Unique Stylish Rogue-lite
-Feed All Monsters - Feed All Monsters
 
 Final Profit: A Shop RPG - Item Shop Tycoon
 Fly Punch Boom! - Insane Anime Fight
