@@ -220,6 +220,25 @@ Interestingly, you don't unlock the main hub & training maps until you've comple
 | --- | --- | --- |
 | [![](/assets/images/2023/jj-gb-1-thumbnail.jpg)](/assets/images/2023/jj-gb-1.jpg) | [![](/assets/images/2023/jj-gb-2-thumbnail.jpg)](/assets/images/2023/jj-gb-2.jpg) | [![](/assets/images/2023/jj-gb-3-thumbnail.jpg)](/assets/images/2023/jj-gb-3.jpg)
 
+### Final Profit: A Shop RPG
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [86.12% - Store page](https://store.steampowered.com/app/1705140/) | £12.79 | Item Shop Tycoon | March 2023 | 34 (March 2023) |
+
+I'll admit I'm kind of burnt out on 2D RPGs. I wasn't expecting to like Final Profit but... there's something noticably well designed about it?
+
+Whilst the opening cutscene is pretty standard royal / magic melodrama, the actual game design is sensibly done. Perhaps you find a chest that requires slightly more apples than you have currently, encouraging you to loop back in a bit when you've explored more. Perhaps there's some interesting golden fairies that give you a side quest.
+
+Or, in my case, perhaps you notice a horse rotates weirdly when you interact with it, so you spam interact with it literally 50 times... and unlock a secret fast travel network! Excellent! The game consistently rewards players who find their way down hidden nooks and crannies, which I'm always a massive fan of.
+
+The actual game is about selling items in your shop, but it's heavily story driven. Interestingly, you buy your produce with different currencies (mana, coins), meaning you're actually somewhat limited on what you can actually sell. Maybe you need to sell some lootboxes to buy some alcohol to refill your mana to buy some more hats to sell. You get the idea.
+
+| Secret zone | Item selling | Cutscene |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-fp-1-thumbnail.jpg)](/assets/images/2023/jj-fp-1.jpg) | [![](/assets/images/2023/jj-fp-2-thumbnail.jpg)](/assets/images/2023/jj-fp-2.jpg) | [![](/assets/images/2023/jj-fp-3-thumbnail.jpg)](/assets/images/2023/jj-fp-3.jpg)
+
+
 ## 3/5 Games
 
 ### Buggos
@@ -353,6 +372,58 @@ I found the shots a bit too clunky, and it didn't have the satisfying predictabi
 | --- | --- | --- |
 | [![](/assets/images/2023/jj-golf-1-thumbnail.jpg)](/assets/images/2023/jj-golf-1.jpg) | [![](/assets/images/2023/jj-golf-2-thumbnail.jpg)](/assets/images/2023/jj-golf-2.jpg) | [![](/assets/images/2023/jj-golf-3-thumbnail.jpg)](/assets/images/2023/jj-golf-3.jpg)
 
+### Godfall
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [62.35% - Store page](https://store.steampowered.com/app/928960/) | £34.99 | Godly Extravagant Brawler | April 2022 | 1,762 (April 2022) |
+
+You know that current trend of asking AI image generators to make an image, then repeatedly make it more X? Godfall is that, if you asked an AI to make a melee brawler, then make it *more* "epic". More. More. More.
+
+An absurd Lord of the Rings style cutscene is followed by a visually stunning tutorial. Everything is gold plated, everything is sparkling, everything has particle effects. It's a little overwhelming.
+
+Anyway, as hard as it is, let's ignore all the visuals. The combat felt a bit... meh? This is supposed to be the main part of the game, yet it ends up being a not-as-good copy of something like Assassin's Creed. Guard, do a quick attack, dodge, do a heavy attack as the enemy recovers, and repeat. 
+
+Enemy attacks are also hard to predict, especially for new enemy types. They'll just kind of sprint at you, and then do *something* to you when they get close. Will they defend against your blow? Do an area effect? Slash at you? Who knows, but good luck predicting it.
+
+I can't comment much on the weapons, as my eyes were melting a bit too much after finishing the first boss. Overall the game seems to have maxed out the visuals slider, and forgotten about the mechanics. Oops.
+
+| Cutscene | Combat | Weapons |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-god-1-thumbnail.jpg)](/assets/images/2023/jj-god-1.jpg) | [![](/assets/images/2023/jj-god-2-thumbnail.jpg)](/assets/images/2023/jj-god-2.jpg) | [![](/assets/images/2023/jj-god-3-thumbnail.jpg)](/assets/images/2023/jj-god-3.jpg)
+
+### Growbot
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [80.98% - Store page](https://store.steampowered.com/app/661680/) | £15.10 | Cute Point'n'click | October 2021 | 17 (October 2021) |
+
+I'm kinda dumb. Growbot is a very aesthetically pleasing game, yet I can't help but find the solutions in point and click games too arbitrary.
+
+Growbot is a pretty standard "click everything possible, eventually figure out which things can combine" game. Writing seems OK, the solutions don't seem *too* contrived but... it's a point and click game, y'know? Not my thing.
+
+Took me half hour to get past the first 3 screens and through the first locked door!
+
+| Locked door | Flower arranging | Inside the door |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-grow-1-thumbnail.jpg)](/assets/images/2023/jj-grow-1.jpg) | [![](/assets/images/2023/jj-grow-2-thumbnail.jpg)](/assets/images/2023/jj-grow-2.jpg) | [![](/assets/images/2023/jj-grow-3-thumbnail.jpg)](/assets/images/2023/jj-grow-3.jpg)
+
+### Harmony's Odyssey
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [86.87% - Store page](https://store.steampowered.com/app/1531490/) | £11.39 | Cute 3D Puzzles | October 2022 | 30 (March 2023) |
+
+Harmony's Odyssey is an odd contradiction. On one hand it's full of cutesy puzzles with a small girl & cat main characters, and lots of bright visuals. On the other hand... how do you navigate the menus? Did I spend... something... on upgrading... something? No idea.
+
+The puzzles themselves are fun enough, and it's somewhat interesting playing traditional 2D puzzles in a 3D space. However, there doesn't seem to be too much to the game. Lots of little puzzles, a few minigames, but I didn't see anything particularly challenging.
+
+I could maybe see myself coming back to this one day if I wanted to just play brainless puzzles for a bit, but otherwise I think it's hard to find the game too engaging as an adult.
+
+| 3D Shuffling | Wand upgrading? | Item finding |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-ho-1-thumbnail.jpg)](/assets/images/2023/jj-ho-1.jpg) | [![](/assets/images/2023/jj-ho-2-thumbnail.jpg)](/assets/images/2023/jj-ho-2.jpg) | [![](/assets/images/2023/jj-ho-3-thumbnail.jpg)](/assets/images/2023/jj-ho-3.jpg)
+
 ## 2/5 Games
 
 ### A Story Beside
@@ -473,11 +544,6 @@ I'm rating DEPLOYMENT especially low due to a simple controller breaking it, the
 
 ## Uncategorised
 
-Final Profit: A Shop RPG - Item Shop Tycoon
-Godfall Ultimate Edition - Godly Hack-and-Slash
-
-Growbot - Ridiculously Adorable Puzzles
-Harmony's Odyssey - Solve Cute Dioramas
 Heavy Burden - Atmospheric Mindful Puzzles
 Homeworld Remastered Collection - Legendary Space Strategy
 Homeworld: Deserts of Kharak - Classic Sci-fi RTS
