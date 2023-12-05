@@ -17,7 +17,7 @@ I'll be using the same rating system as last year, essentially it's purely how m
 
 * **5/5**: I had to stop myself playing this game, I'm very likely to replay this later and complete it.
 * **4/5**: This was a good experience, but maybe had problems. I'll likely play it again for a little bit eventually.
-* **3/5**: The game was OK. Maybe it was a bit flawed, or just obviously bad game design decisions. I'm unlikely t play it again, but didn't actively dislike it. 
+* **3/5**: The game was OK. Maybe it was a bit flawed, or just obviously bad game design decisions. I'm unlikely to play it again, but didn't actively dislike it. 
 * **2/5**: This was not fun. Maybe it has some positive parts, but overall I didn't enjoy my time playing.
 * **1/5**: The game experience was actively unpleasant. I had to force myself to play more than a few minutes of it, and was relieved when I finally closed the game. 
 
