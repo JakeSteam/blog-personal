@@ -2,17 +2,14 @@
 title: Reviewing ALL 75 Steam games from the Yogscast's 2023 Jingle Jam charity bundle (part 1 of 3)
 author: Jake Lee
 layout: post
-image: /assets/images/2023/jj-header1.png
+image: /assets/images/2023/jj-banner-1.png
 tags:
     - Steam
     - Gaming
     - Charity
 ---
 
-[rewrite intro]
-Every Christmas since 2011, one of my favourite content creators The Yogscast have organised the "Jingle Jam", a collection of streams with [an associated bundle](https://jinglejam.tiltify.com/) with TONS of great games to raise money for charity. This year, I'm trying to review all 75 of them despite only playing 2-3 games all year before this! Here's part 1, with the first 30 games. 
-
-Mention https://www.reddit.com/r/Yogscast/comments/188p1lj/a_fast_way_to_redeem_all_jingle_jam_steam_codes/?share_id=X9P-WMBS3xosG56l1VgCH
+Every December since 2011, The Yogscast have organised the "Jingle Jam", a collection of streams with [an associated bundle](https://jinglejam.tiltify.com/) with £1100+ of great games to raise money for charity. I'm reviewing all 75 of them, hopefully finding a few new favourites! Here's part 1 with the first 30 games. 
 
 ## Rating system
 
@@ -25,6 +22,8 @@ I'll be using the same rating system as last year, essentially it's purely how m
 * **1/5**: The game experience was actively unpleasant. I had to force myself to play more than a few minutes of it, and was relieved when I finally closed the game. 
 
 I played most games for at least an hour, but some are pretty small and understood / completed after 15-20 minutes. Information on peak player count are [from SteamDB.info](https://steamdb.info/).
+
+Also, here's 2022's [part 1](/reviewing-every-jingle-jam-steam-game/), [part 2](/reviewing-every-jingle-jam-steam-game-part-2/), and [part 3](/reviewing-every-jingle-jam-steam-game-part-3/).
 
 ## 5/5 Games
 
@@ -424,6 +423,21 @@ I could maybe see myself coming back to this one day if I wanted to just play br
 | --- | --- | --- |
 | [![](/assets/images/2023/jj-ho-1-thumbnail.jpg)](/assets/images/2023/jj-ho-1.jpg) | [![](/assets/images/2023/jj-ho-2-thumbnail.jpg)](/assets/images/2023/jj-ho-2.jpg) | [![](/assets/images/2023/jj-ho-3-thumbnail.jpg)](/assets/images/2023/jj-ho-3.jpg)
 
+### Homeworld: Deserts or Kharak
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [79.65% - Store page](https://store.steampowered.com/app/281610/) | £29.99 | Desert Strategy Sim | January 2016 | 7,326 (January 2016) |
+
+This seems like a good strategy game, but... it's a strategy game. I just can't really enjoy them.
+
+Selecting and moving units seemed logical, the setting was appealing, and I liked the ability of call in air reinforcements etc. I like being able to zoom into a random unit and zoom out to see the entire battlefield, feels a lot like Total War. I won't be playing any more, but I definitely preferred it to the space based Homeworld games.
+
+| Base | Sensor view | Desert fighting |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-hdok-1-thumbnail.jpg)](/assets/images/2023/jj-hdok-1.jpg) | [![](/assets/images/2023/jj-hdok-2-thumbnail.jpg)](/assets/images/2023/jj-hdok-2.jpg) | [![](/assets/images/2023/jj-hdok-3-thumbnail.jpg)](/assets/images/2023/jj-hdok-3.jpg)
+
+
 ## 2/5 Games
 
 ### A Story Beside
@@ -520,6 +534,26 @@ There is an impressive variety of dishes here, but the "cooking" of them is alwa
 | --- | --- | --- |
 | [![](/assets/images/2023/jj-csd-1-thumbnail.jpg)](/assets/images/2023/jj-csd-1.jpg) | [![](/assets/images/2023/jj-csd-2-thumbnail.jpg)](/assets/images/2023/jj-csd-2.jpg) | [![](/assets/images/2023/jj-csd-3-thumbnail.jpg)](/assets/images/2023/jj-csd-3.jpg)
 
+### Homeworld Remastered
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [86.28% - Store page](https://store.steampowered.com/app/244160/) | £26.99 | Space Strategy Sim | February 2015 | 17,790 (February 2015) |
+
+Note: I only tried Homeworld 1.
+
+This is clearly an extremely popular game but... I didn't get on with it. The first thing I saw in the game was an advert. Next, the tutorial glitched halfway through, and I could never navigate to my ships.
+
+OK, fine, restart the game and try again. It works, and is the kind of space RTS you've played a hundred games elsewhere. The complexity is solid, and the UI is detailed, but the age is showing. 
+
+Whilst the Steam release date of the remastered edition is 2015, the original release seems to be 2019. This explains a lot. The gameplay is fine if a bit clunky, about what you'd expect from a 24 year old game.
+
+If you've got nostalgia for this series you'll presumably love it, otherwise other games have done the same thing better.
+
+| Ships in space | Ship in space | Big ship in space |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-home-1-thumbnail.jpg)](/assets/images/2023/jj-home-1.jpg) | [![](/assets/images/2023/jj-home-2-thumbnail.jpg)](/assets/images/2023/jj-home-2.jpg) | [![](/assets/images/2023/jj-home-3-thumbnail.jpg)](/assets/images/2023/jj-home-3.jpg)
+
 ## 1/5 Games
 
 ### DEPLOYMENT
@@ -542,13 +576,16 @@ I'm rating DEPLOYMENT especially low due to a simple controller breaking it, the
 | --- | --- | --- |
 | [![](/assets/images/2023/jj-deploy-1-thumbnail.jpg)](/assets/images/2023/jj-deploy-1.jpg) | [![](/assets/images/2023/jj-deploy-2-thumbnail.jpg)](/assets/images/2023/jj-deploy-2.jpg) | [![](/assets/images/2023/jj-deploy-3-thumbnail.jpg)](/assets/images/2023/jj-deploy-3.jpg)
 
-## Uncategorised
+### Heavy Burden
 
-Heavy Burden - Atmospheric Mindful Puzzles
-Homeworld Remastered Collection - Legendary Space Strategy
-Homeworld: Deserts of Kharak - Classic Sci-fi RTS
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [79.19% - Store page](https://store.steampowered.com/app/2070000/) | £1.49 | Godly Walking Simulator | September 2023 | 800 (September 2023) |
 
-Once reviewed all:
-* Check redeemed all the keys
-* Check count is correct
-* Submit reviews on Steam
+Where's the game? Load into a level, read some weird preachy text, carry your brick to the end, go to the next level.
+
+Boring aesthetic, boring gameplay, you'll spend almost the entirety of your time bored. At least it's cheap.
+
+| Market | Landscape | Clue? |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-hb-1-thumbnail.jpg)](/assets/images/2023/jj-hb-1.jpg) | [![](/assets/images/2023/jj-hb-2-thumbnail.jpg)](/assets/images/2023/jj-hb-2.jpg) | [![](/assets/images/2023/jj-hb-3-thumbnail.jpg)](/assets/images/2023/jj-hb-3.jpg)

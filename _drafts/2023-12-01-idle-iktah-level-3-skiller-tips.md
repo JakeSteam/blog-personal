@@ -45,4 +45,8 @@ If you have a slower attack speed than the enemy (e.g. 3.0 vs 2.8s), you *can* c
 
 Dugouts let you control traders more, pick which one you get etc. As such, rush carpentry.
 
+### Alchemy pet
+
+Gives you back monster eyes etc rarely whilst making potions, easiest way to get these items
+
 ## Conclusion
