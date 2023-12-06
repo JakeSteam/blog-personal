@@ -248,7 +248,7 @@ The actual game is about selling items in your shop, but it's heavily story driv
 
 Buggos is a pretty straight-forward "build a bug empire and squish the humans" style game (is that a genre?). There's all the various classes you'd expect for your (alien) buggos, such as ranged units, builders that can build spawners, etc. The enemy humans have guns, flamethrowers, and defenses.
 
-Gameplay is very simple, turtle in your corner, defending as necessary, then zerg rush the smallest accessible enemy outpost. Repeat until there are no humans left. Interestngly, you can't control individual units, only put a pin where you want all buggos of a certain time to navigate to. This limits any advanced movement e.g. flanking, instead "rush as a horde" is the only tactic possible.
+Gameplay is very simple, turtle in your corner, defending as necessary, then zerg rush the smallest accessible enemy outpost. Repeat until there are no humans left. Interestingly, you can't control individual units, only put a pin where you want all buggos of a certain time to navigate to. This limits any advanced movement e.g. flanking, instead "rush as a horde" is the only tactic possible.
 
 Admittedly this makes sense for bugs, but it still felt like a lot of the game I wasn't doing much beyond waiting. You can also set all of your bugs to be in "spawn", "fight", or "gather" mode, providing a slight boost to different attributes. There's a fairly detailed upgrade tree (see screenshot), but all of the upgrades felt very incremental not game-changing.
 
@@ -452,7 +452,7 @@ For example, one of the 8 decisions (e.g. the only gameplay) I made in the first
 
 There is occasional voiceover by a narrator, but all of the in-game conversations will be text only besides generic "surprise" noises etc. This made skimreading the dialog very dull, especially when combined with having to press "A" many times between each message, occasionally wait for an exclamation mark to appear above a character's head etc. Half hour in, I just didn't care about any of the characters.
 
-Finally, for a game all about interacting with the environment, it seems entirely guess work based. There's no way to know if something will progress the story, display some information, or do nothing, without walking up to it. This means you'll be running around houses staring at chests that do nothing, items that can't be picked up, doors that are locked, etc. Early on in the game you have to find a hiding spot, and I found the correct hiding spot... too early, so had to visit a "bad" hiding spot first. What a waste of time.
+Finally, for a game all about interacting with the environment, it seems entirely guesswork based. There's no way to know if something will progress the story, display some information, or do nothing, without walking up to it. This means you'll be running around houses staring at chests that do nothing, items that can't be picked up, doors that are locked, etc. Early on in the game you have to find a hiding spot, and I found the correct hiding spot... too early, so had to visit a "bad" hiding spot first. What a waste of time.
 
 People seem to enjoy this, but I do not! Perhaps it should have been a short film or a book instead.
 
@@ -492,7 +492,7 @@ On the Steam page I saw some element of "sharing worlds" is available, so I trie
 
 The construction seemed basic (grid based, move components and connect them), none of the physics interactions felt right, and overall I just didn't enjoy it at all. It's hard to quantify why it felt so unpleasant, perhaps it's the combination of very childish UI & design, plus confusing controls, making the target audience a mystery. 
 
-The game has only just entered early access, so perhaps it'll be a better game after few rounds of improving & simplifying.
+The game has only just entered early access, so perhaps it'll be a better game after a few rounds of improving & simplifying.
 
 | Construction | Gameplay | Planet overview |
 | --- | --- | --- |
