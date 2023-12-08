@@ -12,13 +12,13 @@ Badges are a post-release addition to Forza Horizon 5 in April 2022 that provide
 
 ## Badges
 
-There are a total of 37 badges to earn, taking a total of around 100-150 hours:
+There are a total of 42 badges to earn, taking a total of around 100-150 hours:
 
 * 11 Level based badges
 * 3 Completion based badges
 * 7 Action based badges
-* 8 Limited edition badges 
-* 3 Car collection based badges
+* 12 Limited edition badges 
+* 4 Car collection based badges
 * 5 Test track badges
 
 Here's how to earn them all!
@@ -61,6 +61,7 @@ These are also self-explanatory, and just require collecting as many cars as pos
 |  |  |  |
 | --- | --- | --- |
 | ![](/assets/images/2023/badges-500cars.png)<br>**A Spooktacular Collection**<br>Own 500 unique cars | ![](/assets/images/2023/badges-600cars.png)<br>**A Heartfelt Collection**<br>Own 600 unique cars | ![](/assets/images/2023/badges-700cars.png)<br>**A T-rexcellent Collection**<br>Own 700 unique cars |
+| ![](/assets/images/2023/badges-800cars.png)<br>**A Purrrfect Collection**<br>Own 800 unique cars |
 
 ### Action based badges
 
@@ -76,18 +77,18 @@ Also, I believe "Beep, Beep, Coming Through" originally required banking 100k sc
 
 ### Limited edition badges
 
-Unfortunately these were all unlocked during various seasonal events, and no longer seem obtainable. Most are from the 10 year anniversary series between October-November 2022, with "Master Explorer" from between May-June 2023.
+Unfortunately these were all unlocked during various seasonal events, and no longer seem obtainable. Most are from the 10 year anniversary series between October-November 2022.
 
 They were very easy to unlock by just playing the game each week and completing the festival tasks, hopefully a future update provides an alternative way to earn them. No content should be unobtainable for new players eventually!
 
 ||||
 | --- | --- | --- |
 | ![](/assets/images/2023/badges-wet.png)<br>**May The Forza Be With You**<br>Play Forza Horizon 5 during the Wet Season of the 'Horizon 10-Year Anniversary' | ![](/assets/images/2023/badges-storm.png)<br>**We Meet Again!**<br>Play Forza Horizon 5 during the Storm Season of the 'Horizon 10-Year Anniversary' | ![](/assets/images/2023/badges-spring.png)<br>**You're The Boss**<br>Play Forza Horizon 5 during the Dry Season of the 'Horizon 10-Year Anniversary' |
-| ![](/assets/images/2023/badges-spring.png)<br>**Spring Into Action!**<br>Play Forza Horizon 5 during the Storm Season of the 'Horizon 10-Year Anniversary'^ | ![](/assets/images/2023/badges-story.png)<br>**Welcome to Horizon 2.0!**<br>Complete the 'Horizon 10-Year Anniversary' Initial Experience or the 'Welcome to Mexico' chapter of the 'Horizon Origins' Story | ![](/assets/images/2023/badges-reward1.png)<br>**Happy Anniversary!**<br>Earn the first Series Reward during the 'Horizon 10-Year Anniversary' |
+| ![](/assets/images/2023/badges-spring.png)<br>**Spring Into Action!**<br>Play Forza Horizon 5 during the Hot Season of the 'Horizon 10-Year Anniversary'^ | ![](/assets/images/2023/badges-story.png)<br>**Welcome to Horizon 2.0!**<br>Complete the 'Horizon 10-Year Anniversary' Initial Experience or the 'Welcome to Mexico' chapter of the 'Horizon Origins' Story | ![](/assets/images/2023/badges-reward1.png)<br>**Happy Anniversary!**<br>Earn the first Series Reward during the 'Horizon 10-Year Anniversary' |
 | ![](/assets/images/2023/badges-reward2.png)<br>**Piece of Cake!**<br>Earn the second Series Reward during the 'Horizon 10-Year Anniversary' | ![](/assets/images/2023/badges-masterexplorer.png)<br>**Master Explorer**<br>Complete all 16 Pathfinder Accolades | ![](/assets/images/2023/badges-dia-1.png)<br>**Enjoying the Celebrations**<br>Obtain the 1962 Ferrari 250 GT Berlinetta Lusso during 'Día de Muertos' |
-| ![](/assets/images/2023/badges-dia-2.png)<br>**In the Spotlight**<br>Obtain the 2010 Nissan Tsuru during the Wet season of 'Día de Muertos' |
+| ![](/assets/images/2023/badges-dia-2.png)<br>**In the Spotlight**<br>Obtain the 2010 Nissan Tsuru during the Wet season of 'Día de Muertos' | ![](/assets/images/2023/badges-workingtogether.png)<br>**Working Together**<br>Obtain the 2020 Nissan GT-R NISMO (R35) during 'Community Choice'^ | ![](/assets/images/2023/badges-makingyourmark.png)<br>**Making Your Mark**<br>Obtain the 2022 McLaren 12C Coupé during the West Season of 'Community Choice'^ | 
 
-*^Note this is actually unlocked in the Spring season, the in-game description is incorrect.*
+*^ Badge designed by `soupmcpasta` on the Forza Forums.*
 
 ### Test track badges
 
