@@ -67,7 +67,6 @@ Whilst I played single player (as usual), the store page lists an amazing featur
 | --- | --- | --- |
 | [![](/assets/images/2023/jj-ikonei-1-thumbnail.jpg)](/assets/images/2023/jj-ikonei-1.jpg) | [![](/assets/images/2023/jj-ikonei-2-thumbnail.jpg)](/assets/images/2023/jj-ikonei-2.jpg) | [![](/assets/images/2023/jj-ikonei-3-thumbnail.jpg)](/assets/images/2023/jj-ikonei-3.jpg)
 
-
 ### LOUD
 
 | Steam rating | Price | Description | Released | Peak players
@@ -103,6 +102,24 @@ Overall I'd like to come back and spend more time working through the puzzles, a
 | Cutscene | Dialog | Puzzle solving |
 | --- | --- | --- |
 | [![](/assets/images/2023/jj-iots-1-thumbnail.jpg)](/assets/images/2023/jj-iots-1.jpg) | [![](/assets/images/2023/jj-iots-2-thumbnail.jpg)](/assets/images/2023/jj-iots-2.jpg) | [![](/assets/images/2023/jj-iots-3-thumbnail.jpg)](/assets/images/2023/jj-iots-3.jpg)
+
+### Rusty Lake Hotel
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [92.83% - Store page](https://store.steampowered.com/app/435120) | £1.99 | Bizarre Murderous Puzzles | January 2016 | 5,038 (April 2021) |
+
+It's really, really hard to explain why I enjoyed Rusty Lake Hotel.
+
+On the surface, it seems like a typical point and click based around feeding guests. However, there's a dark undercurrent of malice and subtle storytelling that makes the game stand out. Each puzzle feels *solvable*, and instead of blundering around blindly, I've got a target for my problem-solving.
+
+Admittedly, I had to look up a tutorial for... every room I solved, but these are luckily linked in-game! The solutions felt like a think I could have solved eventually, and I'm intrigued in how the story develops.
+
+This almost felt like a short art film, totally worth the very cheap price tag! 
+
+| The Woods | Mealtime | Drink |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-rlh-1-thumbnail.jpg)](/assets/images/2023/jj-rlh-1.jpg) | [![](/assets/images/2023/jj-rlh-2-thumbnail.jpg)](/assets/images/2023/jj-rlh-2.jpg) | [![](/assets/images/2023/jj-rlh-3-thumbnail.jpg)](/assets/images/2023/jj-rlh-3.jpg)
 
 ## 3/5 Games
 
@@ -155,6 +172,22 @@ If you want to roleplay as SpaceX, this is your game. If you want to... do some 
 | Planning | Liftoff | Space |
 | --- | --- | --- |
 | [![](/assets/images/2023/jj-mh-1-thumbnail.jpg)](/assets/images/2023/jj-mh-1.jpg) | [![](/assets/images/2023/jj-mh-2-thumbnail.jpg)](/assets/images/2023/jj-mh-2.jpg) | [![](/assets/images/2023/jj-mh-3-thumbnail.jpg)](/assets/images/2023/jj-mh-3.jpg)
+
+### Paradise Marsh
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [88.33% - Store page](https://store.steampowered.com/app/1709170) | £12.79 | Pixel Bug Catching | October 2022 | 43 (October 2022) |
+
+This was a confusing experience. I wandered around, accidentally bumped into a few things that could be interacted with, found a few animals, and confused myself.
+
+Despite spending some time with Paradise Marsh, I don't feel like I actually understood what this game is. Perhaps I needed to spend more time with the game, but I didn't really feel any connection as I wandered blindly around a pixelated swamp.
+
+Looking at the reviews, it looks like there *is* a great story... somewhere. Perhaps I'll revisit Paradise Marsh and find it. 
+
+| Planning | Liftoff | Space |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-pm-1-thumbnail.jpg)](/assets/images/2023/jj-pm-1.jpg) | [![](/assets/images/2023/jj-pm-2-thumbnail.jpg)](/assets/images/2023/jj-pm-2.jpg) | [![](/assets/images/2023/jj-pm-3-thumbnail.jpg)](/assets/images/2023/jj-pm-3.jpg)
 
 ## 2/5 Games
 
@@ -224,11 +257,9 @@ Presumably there's some fun to be had here in multiplayer, but I will not be ope
 
 ## Uncategorised
 
-Paradise Marsh - Brilliant Bug Catching
 Patch Quest - Monster Taming bullet-hell
 Projections - Geometry Hack-and-Slash
 Repella Fella - Dark Comedy Story
-Rusty Lake: Hotel - Creepy Cool Puzzler
 
 SILT - Moody Atmopheric Puzzles
 START AGAIN - Time-looping Brilliance
