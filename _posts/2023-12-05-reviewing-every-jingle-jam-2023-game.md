@@ -1,5 +1,5 @@
 ---
-title: Reviewing ALL 75 Steam games from the Yogscast's 2023 Jingle Jam charity bundle (part 1 of 3)
+title: Reviewing ALL 75+ Steam games from the Yogscast's 2023 Jingle Jam charity bundle (part 1 of 3)
 author: Jake Lee
 layout: post
 image: /assets/images/2023/jj-banner-1.png
@@ -9,7 +9,7 @@ tags:
     - Charity
 ---
 
-Every December since 2011, The Yogscast have organised the "Jingle Jam", a collection of streams with [an associated bundle](https://jinglejam.tiltify.com/) with £1100+ of great games to raise money for charity. I'm reviewing all 75 of them, hopefully finding a few new favourites! Here's part 1 with the first 30 games. 
+Every December since 2011, The Yogscast have organised the "Jingle Jam", a collection of streams with [an associated bundle](https://jinglejam.tiltify.com/) with £1100+ of great games to raise money for charity. I'm reviewing all 75+ of them, hopefully finding a few new favourites! Here's part 1 with the first 30 games. 
 
 ## Rating system
 

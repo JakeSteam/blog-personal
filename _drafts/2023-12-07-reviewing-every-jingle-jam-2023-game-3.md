@@ -39,18 +39,22 @@ review
 
 ## Uncategorised
 
+Tiny Life - The Sims with Pixels
 Tinytopia - Build Small Towns
 Toodee and Topdee - Mind-melt with Friend
 Totally Accurate Battle Simulator - Totally Accurate Battles
 Train Valley 2 - Trains Trains Trains
+
 Trifox - Stylish Colourful 3D Platformer
 Tunguska: The Visitation - Stealth Action RPG
 Turbo Golf Racing - Racing... with Golf?!
 Valthirian Arc - Hero School RPG
 Vermillion VR - Painting (In VR)
+
 We Are The Dwarves - Tactical Dwarf Adventure
 Whispers in the West - Cowboy Murder Mystery
 Witchtastic - Multiplayer Spooky Cooking
 Xenonauts - Tactical Alien Resistance
 Zapling Bygone - Smart Slime Metroidvania
+
 Zeepkist - Bouncy Downhill Driving
