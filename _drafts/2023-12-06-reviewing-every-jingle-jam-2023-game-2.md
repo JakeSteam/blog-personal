@@ -1,8 +1,8 @@
 ---
-title: Reviewing ALL 75 Steam games from the Yogscast's 2023 Jingle Jam charity bundle (part 2 of 3)
+title: Reviewing ALL 75+ Steam games from the Yogscast's 2023 Jingle Jam charity bundle (part 2 of 3)
 author: Jake Lee
 layout: post
-image: /assets/images/2023/jj-header1.png
+image: /assets/images/2023/jj-header2.png
 tags:
     - Steam
     - Gaming
@@ -48,6 +48,30 @@ I absolutely loved Make Way, and the progression system (play more = unlock more
 | Racing | Unlocks | Building a track |
 | --- | --- | --- |
 | [![](/assets/images/2023/jj-mw-1-thumbnail.jpg)](/assets/images/2023/jj-mw-1.jpg) | [![](/assets/images/2023/jj-mw-2-thumbnail.jpg)](/assets/images/2023/jj-mw-2.jpg) | [![](/assets/images/2023/jj-mw-3-thumbnail.jpg)](/assets/images/2023/jj-mw-3.jpg)
+
+### Repella Fella
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [88.72% - Store page](https://store.steampowered.com/app/1008860) | £14.99 | Australian Apocalypse Adventure | June 2023 | 55 (June 2023) |
+
+I did not expect to like Repella Fella, and certainly not to love it!
+
+What starts off as a pretty standard point and click (unlock a drain, fetch someone's car keys, etc), quickly... devolves into madness. Without too many spoilers, within the first chapter or two you're disarming Viet Cong booby traps, decapitating wild pigs, and causing a nuclear apocalypse. Madness.
+
+The game is paced extremely quickly, marking a sharp contrast to most point and click games I've played. An environment will typically have a couple of things to interact with, all with multiple voiced responses, then you're off in a totally new place. There is no inventory, no travel, you are relentlessly flung forward.
+
+Ever play those old "choose your own adventure" RPG books? That's exactly how Repella Fella felt: rapidly progressing through a linear, yet branching, storyline. You'll absolutely die through your own stupidity, but you'll more frequently disarm a trap or poison a drink due to your own cunning.
+
+For the first ~10 minutes of the game, the story is somewhat based in reality. However, the quality of writing, animation, and responses to every interaction led me to believe this was the entire game. When the credits played at the end of this, I assumed I'd completed a short, quirky adventure. *Nope*, this was just the very first level!
+
+Whilst my decisions absolutely influenced the story, I have no idea how unique each playthrough will be. The game takes the genius approach of making every Steam achievement hidden until unlocked, so it's genuinely a mystery what will happen during gameplay. As an example, I gave a homeless guy a beer instead of money and got an achievement. Later on I think I decided whether a nuclear bomb was dropped, and have no idea what would happen if I chose differently!
+
+I played for an hour or so, and am absolutely in love with the story. The writing is genuinely funny, there's zero frustration, and I need to know how this chaos ends. Perfect.
+
+| Decisions | Exploring | Cutscene |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-rf-1-thumbnail.jpg)](/assets/images/2023/jj-rf-1.jpg) | [![](/assets/images/2023/jj-rf-2-thumbnail.jpg)](/assets/images/2023/jj-rf-2.jpg) | [![](/assets/images/2023/jj-rf-3-thumbnail.jpg)](/assets/images/2023/jj-rf-3.jpg)
 
 ## 4/5 Games
 
@@ -120,6 +144,26 @@ This almost felt like a short art film, totally worth the very cheap price tag!
 | The Woods | Mealtime | Drink |
 | --- | --- | --- |
 | [![](/assets/images/2023/jj-rlh-1-thumbnail.jpg)](/assets/images/2023/jj-rlh-1.jpg) | [![](/assets/images/2023/jj-rlh-2-thumbnail.jpg)](/assets/images/2023/jj-rlh-2.jpg) | [![](/assets/images/2023/jj-rlh-3-thumbnail.jpg)](/assets/images/2023/jj-rlh-3.jpg)
+
+### Patch Quest
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [89.93% - Store page](https://store.steampowered.com/app/1347970) | £5.49 | Bullet Hell Taming | March 2023 | 2,356 (March 2023) |
+
+This game was on my wishlist for over a year, and I never got round to buying it!
+
+Now I wish I had, it's a chaotic, amazing adventure. Your job is to wander through a maze of areas, taming & killing monsters along the way. Once a monster is tamed you can ride it, and gain its abilities and attacks.
+
+Since I'm pretty new to the game, for me this ended up in a constantly changing bullet hell, where my attacks, ammo, and enemies changed almost every room! I can definitely see how more experience at the game would let me figure out what all the status effects and perks actually do.
+
+Every level felt very beatable, and all the damage I received was a result of screwing up and not using an ability in time, accidentally using an unhelpful ability (e.g. dash), or just walking into a projectile. Oops.
+
+There's also a whole mechanic around building up your home base, collecting plants, and levelling up your equipment. Lots of depth, lots of chaos!
+
+| Discoveries | Combat 1 | Combat 2 |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-pq-1-thumbnail.jpg)](/assets/images/2023/jj-pq-1.jpg) | [![](/assets/images/2023/jj-pq-2-thumbnail.jpg)](/assets/images/2023/jj-pq-2.jpg) | [![](/assets/images/2023/jj-pq-3-thumbnail.jpg)](/assets/images/2023/jj-pq-3.jpg)
 
 ## 3/5 Games
 
@@ -211,6 +255,22 @@ Still, I appreciate the ability to choose a short or long playthrough at the sta
 | --- | --- | --- |
 | [![](/assets/images/2023/jj-monster-1-thumbnail.jpg)](/assets/images/2023/jj-monster-1.jpg) | [![](/assets/images/2023/jj-monster-2-thumbnail.jpg)](/assets/images/2023/jj-monster-2.jpg) | [![](/assets/images/2023/jj-monster-3-thumbnail.jpg)](/assets/images/2023/jj-monster-3.jpg)
 
+### Projections
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [84.31% - Store page](https://store.steampowered.com/app/1348800) | £10.29 | Abstract Geometric Combat | July 2021 | 20 (July 2021) |
+
+Bizarre game. Bounce around in space, click a bit to attack some... floating eyeballs? Eventually progress to the next weird space.
+
+There's all sort of abstract commentary that makes as little sense as possible, this is a game where you definitely need to play the tutorial to have a clue what's going on. For some reason my controller wasn't picked up, I'm pretty sure Projections would have been a bit smoother using a joystick.
+
+The trailer suggests the game gets a lot more interesting once you get further in, but first impressions are pretty rough. 
+
+| Tutorial | Combat? | Winning? |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-project-1-thumbnail.jpg)](/assets/images/2023/jj-project-1.jpg) | [![](/assets/images/2023/jj-project-2-thumbnail.jpg)](/assets/images/2023/jj-project-2.jpg) | [![](/assets/images/2023/jj-project-3-thumbnail.jpg)](/assets/images/2023/jj-project-3.jpg)
+
 ## 1/5 Games
 
 ### Longvinter
@@ -258,8 +318,6 @@ Presumably there's some fun to be had here in multiplayer, but I will not be ope
 ## Uncategorised
 
 Patch Quest - Monster Taming bullet-hell
-Projections - Geometry Hack-and-Slash
-Repella Fella - Dark Comedy Story
 
 SILT - Moody Atmopheric Puzzles
 START AGAIN - Time-looping Brilliance

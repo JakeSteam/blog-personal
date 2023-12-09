@@ -1,5 +1,5 @@
 ---
-title: Reviewing ALL 75 Steam games from the Yogscast's 2023 Jingle Jam charity bundle (part 3 of 3)
+title: Reviewing ALL 75+ Steam games from the Yogscast's 2023 Jingle Jam charity bundle (part 3 of 3)
 author: Jake Lee
 layout: post
 image: /assets/images/2023/jj-header1.png
