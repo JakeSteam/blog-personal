@@ -465,7 +465,7 @@ Whilst I recognised Ittle Dew from the character roster, apparently all the char
 
 | Character select | Platforming | Level select |
 | --- | --- | --- |
-| [![](/assets/images/2023/jj-sc-1-thumbnail.jpg)](/assets/images/2023/jj-sc-1.jpg) | [![](/assets/images/2023/jj-sc-2-thumbnail.jpg)](/assets/images/2023/jj-sc-2.jpg) | [![](/assets/images/2023/jj-sc-3-thumbnail.jpg)](/assets/images/2023/jj-sc-3.jpg) |
+| [![](/assets/images/2023/jj-sc-1-thumbnail.png)](/assets/images/2023/jj-sc-1.png) | [![](/assets/images/2023/jj-sc-2-thumbnail.png)](/assets/images/2023/jj-sc-2.png) | [![](/assets/images/2023/jj-sc-3-thumbnail.png)](/assets/images/2023/jj-sc-3.png) |
 
 ### Spirit of the Island
 
