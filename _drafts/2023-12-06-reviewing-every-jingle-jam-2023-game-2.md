@@ -165,6 +165,45 @@ There's also a whole mechanic around building up your home base, collecting plan
 | --- | --- | --- |
 | [![](/assets/images/2023/jj-pq-1-thumbnail.jpg)](/assets/images/2023/jj-pq-1.jpg) | [![](/assets/images/2023/jj-pq-2-thumbnail.jpg)](/assets/images/2023/jj-pq-2.jpg) | [![](/assets/images/2023/jj-pq-3-thumbnail.jpg)](/assets/images/2023/jj-pq-3.jpg)
 
+### Signs of the Sojourner
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [79.47% - Store page](https://store.steampowered.com/app/1058690) | £15.49 | Conversational Combat Deck-builder | May 2020 | 29 (May 2020) |
+
+In terms of gameplay alone, Signs of the Sojourner didn't blow me away. You're essentially just matching symbols, and trying to avoid mismatches by building a deck that can handle most scenarios.
+
+What gives the game depth is the framing: every "battle" is a conversation, where you and the other person are both trying to make long chains. A long chain progresses the conversation, a mismatch derails the conversation.
+
+Throughout various interactions, you'll unlock items to sell in a store in your hometown, information, new routes, and elements of story. I only got as far as unlocking the 3rd and 4th symbols, and I can already tell it'll get much trickier later on!
+
+| Map | Deck | Conversation |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-sotj-1-thumbnail.jpg)](/assets/images/2023/jj-sotj-1.jpg) | [![](/assets/images/2023/jj-sotj-2-thumbnail.jpg)](/assets/images/2023/jj-sotj-2.jpg) | [![](/assets/images/2023/jj-sotj-3-thumbnail.jpg)](/assets/images/2023/jj-sotj-3.jpg)
+
+### Silicon Zeroes
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [81.83% - Store page](https://store.steampowered.com/app/684270) | £12.79 | Retro Programming Puzzles | September 2017 | 97 (September 2017) |
+
+Remember SpaceChem? Silicon Zeroes is that, for the origins of programming!
+
+New concepts are introduced gradually, with a chance to understand them before combining in the next puzzle. The aesthetic is very 70s / 80s, with no time pressures or unnecessary bells and whistles.
+
+I really, really enjoyed the first 10-15 puzzles, and felt I was gaining a genuine understanding of how the components worked, including real world concepts like memory addresses.
+
+So, why isn't Silicon Zeroes a 5? Well, because I'm too dumb! As with a lot of these games, they very quickly ramp up to a stage where I *could* solve the puzzle... but I could also just do some actual programming instead. It feels almost like doing an abstract version of my day job, with about as much dopamine for a solution, but far less tangible reward.
+
+As such, I'd totally recommend this if you're into logic puzzles. If you're a programmer... well, you'll recognise the confusion followed by a moment of inspiration. It's a good feeling if you can get it.
+
+Oh, and the screenshots on the store page absolutely terrify me with their complexity. 
+
+| Puzzling | Puzzling | Level Select |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-sz-1-thumbnail.jpg)](/assets/images/2023/jj-sz-1.jpg) | [![](/assets/images/2023/jj-sz-2-thumbnail.jpg)](/assets/images/2023/jj-sz-2.jpg) | [![](/assets/images/2023/jj-sz-3-thumbnail.jpg)](/assets/images/2023/jj-sz-3.jpg) |
+
+
 ## 3/5 Games
 
 ### Lacuna
@@ -229,9 +268,41 @@ Despite spending some time with Paradise Marsh, I don't feel like I actually und
 
 Looking at the reviews, it looks like there *is* a great story... somewhere. Perhaps I'll revisit Paradise Marsh and find it. 
 
-| Planning | Liftoff | Space |
+| Butterfly | Duck | Something |
 | --- | --- | --- |
 | [![](/assets/images/2023/jj-pm-1-thumbnail.jpg)](/assets/images/2023/jj-pm-1.jpg) | [![](/assets/images/2023/jj-pm-2-thumbnail.jpg)](/assets/images/2023/jj-pm-2.jpg) | [![](/assets/images/2023/jj-pm-3-thumbnail.jpg)](/assets/images/2023/jj-pm-3.jpg)
+
+### SILT
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [71.88% - Store page](https://store.steampowered.com/app/1325890) | £11.99 | Spooky Underwater Exploration | June 2022 | 142 (June 2022) |
+
+Remember LIMBO? Imagine that but underwater and a slightly more creepy atmosphere.
+
+Whilst I liked the idea of possessing creatures to use their abilities, the puzzle solving often felt somewhat arbitrary. Instead of logically working out how to beat something, I'd just try possessing everything around until something useful happened. I had similar complaints with LIMBO, the minimalist creepy visual style perhaps hinders game design.
+
+Still, the aesthetic is fun for a bit, so worth trying! 
+
+| Possession | Escape | Chase |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-silt-1-thumbnail.jpg)](/assets/images/2023/jj-silt-1.jpg) | [![](/assets/images/2023/jj-silt-2-thumbnail.jpg)](/assets/images/2023/jj-silt-2.jpg) | [![](/assets/images/2023/jj-silt-3-thumbnail.jpg)](/assets/images/2023/jj-silt-3.jpg)
+
+### Sapiens
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [81.32% - Store page](https://store.steampowered.com/app/1060230) | £19.49 | Caveman Colony Sim | July 2022 | 1,826 (July 2022) |
+
+I didn't actually play much of Sapiens, since I'd already seen [itswill play it](https://www.youtube.com/watch?v=zBdgrEnowDs) for a few hours (highlights linked) and I get what it's going for.
+
+As a sandbox-y caveman simulator, I can see the appeal in slowly building up and growing a civilisation. However, progress seems too slow and grindy to appeal to me.
+
+Looking on the store page, there certainly seems to be some depth later on, building up entire towns. Unfortunately, it's not the kind of progress I find very interesting.
+
+| Building | World generation | Gathering |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-sapiens-1-thumbnail.jpg)](/assets/images/2023/jj-sapiens-1.jpg) | [![](/assets/images/2023/jj-sapiens-2-thumbnail.jpg)](/assets/images/2023/jj-sapiens-2.jpg) | [![](/assets/images/2023/jj-sapiens-3-thumbnail.jpg)](/assets/images/2023/jj-sapiens-3.jpg)
 
 ## 2/5 Games
 
@@ -269,7 +340,61 @@ The trailer suggests the game gets a lot more interesting once you get further i
 
 | Tutorial | Combat? | Winning? |
 | --- | --- | --- |
-| [![](/assets/images/2023/jj-project-1-thumbnail.jpg)](/assets/images/2023/jj-project-1.jpg) | [![](/assets/images/2023/jj-project-2-thumbnail.jpg)](/assets/images/2023/jj-project-2.jpg) | [![](/assets/images/2023/jj-project-3-thumbnail.jpg)](/assets/images/2023/jj-project-3.jpg)
+| [![](/assets/images/2023/jj-project-1-thumbnail.jpg)](/assets/images/2023/jj-project-1.jpg) | [![](/assets/images/2023/jj-project-2-thumbnail.jpg)](/assets/images/2023/jj-project-2.jpg) | [![](/assets/images/2023/jj-project-3-thumbnail.jpg)](/assets/images/2023/jj-project-3.jpg) |
+
+### Sephonie
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [85.20% - Store page](https://store.steampowered.com/app/1248840) | £10.05 | 3D Island Explorer | April 2022 | 36 (April 2022) |
+
+This absolutely might be a skill issue but... I struggled with Sephonie. 
+
+I followed the tutorial, I learnt how to do a wall jump and wall run, how to sprint, how to complete the Tetris-y puzzles. But then immediately got stuck. If you do play this, make sure you turn on "show text instantly". Otherwise, waiting endlessly for dialog to end and spamming "A" will get boring very quickly.
+
+Presumably the low poly look is intentionally retro, but it just feels outdated. Did the textures need to be low quality too? 
+
+Finally, the "puzzle grid" system that apparently is used throughout the entire game to unlock new areas etc isn't very fun. The developers seem to know this, as they've provided an option to just skip the puzzle. And to skip the platforming. And to just be able to fly. I guess that's one way of getting round awkward controls: make them optional.
+
+| Observer | Puzzling | Platforming |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-sephonie-1-thumbnail.jpg)](/assets/images/2023/jj-sephonie-1.jpg) | [![](/assets/images/2023/jj-sephonie-2-thumbnail.jpg)](/assets/images/2023/jj-sephonie-2.jpg) | [![](/assets/images/2023/jj-sephonie-3-thumbnail.jpg)](/assets/images/2023/jj-sephonie-3.jpg) |
+
+### Slice of Sea
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [86.12% - Store page](https://store.steampowered.com/app/750290) | £19.49 | Hand-drawn Point and Click | November 2021 | 127 (November 2021) |
+
+It's another point and click game. Slice of Sea is perhaps notable for crashing and managing to completely corrupt my save, with no action to take except deleting my save and starting again!
+
+Unfortunately the game is one of those that can only be solved by clicking everything on the screen, collecting items, then clicking them on everything else. If you get the combination wrong? Nothing whatsoever happens.
+
+As an example of why I don't like the genre in general, take the second screenshot. Standing on a pressure pad opens a door, which you can't walk through without getting off the pressure pad. My solution was to weigh down the pressure pad with a large halberd I'd just obtained. Nothing happens. I backtrack through the entire game so far, nothing. Turns out (after Googling a walkthrough) I had to use the halberd on the open door to wedge it open. So can I reach the door from the pressure pad or not? Who knows.
+
+Slice of Sea is pretty, and I like the aesthetic, but life is too short to try and guess what a game developer is thinking. It's OK if players have a hint system!
+
+| Corrupt save | Locked door | No idea |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-sos-1-thumbnail.jpg)](/assets/images/2023/jj-sos-1.jpg) | [![](/assets/images/2023/jj-sos-2-thumbnail.jpg)](/assets/images/2023/jj-sos-2.jpg) | [![](/assets/images/2023/jj-sos-3-thumbnail.jpg)](/assets/images/2023/jj-sos-3.jpg) |
+
+### Slap City
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [90.80% - Store page](https://store.steampowered.com/app/725480) | £15.49 | Super Smash Bros But Not | September 2020 | 781 (June 2018) |
+
+Let's get the obvious out of the way: Slap City is a clone of Super Smash Bros Brawl / Melee. It does have the addition of a story mode with some monsters and platforming, but the controls and attacks are clearly intended for multiplayer.
+
+The problem with that? There are 0 other players online. Oops.
+
+I'm glad Slap City has a story to give it a bit of life now the multiplayer is dead, however the controls were painfully clunky to jump around it. I've never played much Smash Bros, so presumably this appeals a lot more if you have.
+
+Whilst I recognised Ittle Dew from the character roster, apparently all the characters are also from the developer's other games. I like the idea, but unfortunately haven't put much time into their franchises. 
+
+| Character select | Platforming | Level select |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-sc-1-thumbnail.png)](/assets/images/2023/jj-sc-1.png) | [![](/assets/images/2023/jj-sc-2-thumbnail.png)](/assets/images/2023/jj-sc-2.png) | [![](/assets/images/2023/jj-sc-3-thumbnail.png)](/assets/images/2023/jj-sc-3.png) |
 
 ## 1/5 Games
 
@@ -313,21 +438,28 @@ Presumably there's some fun to be had here in multiplayer, but I will not be ope
 | --- | --- | --- |
 | [![](/assets/images/2023/jj-mp-1-thumbnail.jpg)](/assets/images/2023/jj-mp-1.jpg) | [![](/assets/images/2023/jj-mp-2-thumbnail.jpg)](/assets/images/2023/jj-mp-2.jpg) | [![](/assets/images/2023/jj-mp-3-thumbnail.jpg)](/assets/images/2023/jj-mp-3.jpg)
 
+### START AGAIN: a prologue
 
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [87.23% - Store page](https://store.steampowered.com/app/1691420) | £8.29 | Low-Res Time Travel | August 2021 | 20 (November 2023) |
+
+On a technical level, this game isn't good. Extremely low resolution, yet blurry. Bizarre FPS drops despite this. Screenshots open the Chrome dev console. Bits of Steam UI "stick" on the screen.
+
+Gameplay wise, this game isn't good. Walk about a bit, hold down the A button to get through pages of quirky introspective dialogue, walk a bit more. 
+
+I understand why some people might enjoy the game, but I'm perhaps a bit too old for it. Notice the all-lowercase reviews, and the mention of "feels". As a summary, this is part of the official mature content description:
+>  general "wow this sucks im just going on autopilot rn ho ho hee hee ha ha" depression feels
+
+Obviously not for me. 
+
+| Combat | Characters | Dialog |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-sa-1-thumbnail.jpg)](/assets/images/2023/jj-sa-1.jpg) | [![](/assets/images/2023/jj-sa-2-thumbnail.jpg)](/assets/images/2023/jj-sa-2.jpg) | [![](/assets/images/2023/jj-sa-3-thumbnail.jpg)](/assets/images/2023/jj-sa-3.jpg)
 
 ## Uncategorised
 
-Patch Quest - Monster Taming bullet-hell
-
-SILT - Moody Atmopheric Puzzles
-START AGAIN - Time-looping Brilliance
-Sapiens - Caveman Colony Sim
-Sephonie - Inspired Classic Platformer
-Signs of the Sojourner - Creative Deckbuilding Journey
-
 Silicon Zeroes - Indie Programming Puzzles
-Slap City - Seriously Fun Platforming
-Slice of Sea - Peaceful Hand-drawn Puzzles
 Space Gladiators - Be a Space Potato
 Spirit of the Island - Co-op Farm with Friends
 
