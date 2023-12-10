@@ -2,7 +2,7 @@
 title: Reviewing ALL 75+ Steam games from the Yogscast's 2023 Jingle Jam charity bundle (part 2 of 3)
 author: Jake Lee
 layout: post
-image: /assets/images/2023/jj-header2.png
+image: /assets/images/2023/jj-header2.jpg
 tags:
     - Steam
     - Gaming
@@ -72,6 +72,58 @@ I played for an hour or so, and am absolutely in love with the story. The writin
 | Decisions | Exploring | Cutscene |
 | --- | --- | --- |
 | [![](/assets/images/2023/jj-rf-1-thumbnail.jpg)](/assets/images/2023/jj-rf-1.jpg) | [![](/assets/images/2023/jj-rf-2-thumbnail.jpg)](/assets/images/2023/jj-rf-2.jpg) | [![](/assets/images/2023/jj-rf-3-thumbnail.jpg)](/assets/images/2023/jj-rf-3.jpg)
+
+### Space Gladiators
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [84.33% - Store page](https://store.steampowered.com/app/1144910) | £12.99 | Gory Chaotic Roguelike | March 2021 | 68 (March 2021) |
+
+Remember Spelunky, and how natural the movement felt? Remember Binding of Isaac, and how interesting all the item combinations were? Well, Space Gladiators is a fusion of these two.
+
+You are a... space potato(?), charging through rooms trying to fight your way to an arena. There'll be combat rooms, rooms with obstacles to dodge, and rooms with NPCs. Eventually you'll end up at the Arena, and have to choose who you want to fight, for which reward.
+
+I only did a couple of runs, but will absolutely be coming back to Space Gladiators. I've only unlocked a fraction of the 300+ items, and already made the classic mistake of picking a weapon that doesn't suit my playstyle!
+
+In addition to item unlocks, there are 8 characters and 50 enemies with unique attacks, each drastically affecting how a room needs to be played. 
+
+As a counter, the hand-drawn enemies do make it tricky to know where the hitbox is. Spelunky was generally pixel perfect, Space Pirates requires a bit of trial and error to learn where is safe to stand.
+
+| Combat Room | Arena | Agility Room |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-sg-1-thumbnail.jpg)](/assets/images/2023/jj-sg-1.jpg) | [![](/assets/images/2023/jj-sg-2-thumbnail.jpg)](/assets/images/2023/jj-sg-2.jpg) | [![](/assets/images/2023/jj-sg-3-thumbnail.jpg)](/assets/images/2023/jj-sg-3.jpg)
+
+### SUPERHOT
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [89.11% - Store page](https://store.steampowered.com/app/322500) | £5.39 | Time Slowing Shootouts | February 2016 | 5,584 (February 2016) |
+
+I funded SUPERHOT on Kickstarter in May 2014 as backer number 2,686 after playing the short demo, and was absolutely obsessed with it for many months. It is *easily* one of my favourite games of all time, and I'm extremely grateful that its inclusion in the Jingle Jam collection gave me a great excuse to play it again!
+
+In SUPERHOT, time moves when you do. This lets you dodge bullets, throw objects for astounding combos, approach shootouts in novel ways, all combining to form the most innovative shooter I've played in years. Storytelling is disturbing yet enthralling, there are plenty of challenge modes (e.g. katana only), you will die often, and it's even available in VR. [Here's the launch trailer](https://www.youtube.com/watch?v=vrS86l_CtAY), and [here's Jerma playing it](https://www.youtube.com/watch?v=HnGWMH32Quk).
+
+Every single second in the game looks like a staged screenshot, it is relentlessly perfect. The slow motion strategy lets you use intelligent plays, perform amazing takedowns, and then get instantly killed by a random bullet from across the map. Whilst looking at my old screenshots for SUPERHOT, I discovered I found all the secrets, and completed the "IMPOSSIBLE" challenge way back in 2016, it's pretty rare that I do that for an FPS!
+
+I could spend weeks professing my love for SUPERHOT, suffice to say it's my favourite game in the bundle. It is the FPS genre distilled to the very core essence. It is SUPERHOT.
+
+| Storytelling | Headshot | Environment Kill |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-sh-1-thumbnail.jpg)](/assets/images/2023/jj-sh-1.jpg) | [![](/assets/images/2023/jj-sh-2-thumbnail.jpg)](/assets/images/2023/jj-sh-2.jpg) | [![](/assets/images/2023/jj-sh-3-thumbnail.jpg)](/assets/images/2023/jj-sh-3.jpg)
+
+### Super Cable Boy
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [4.73% - Store page](https://store.steampowered.com/app/1304420) | £12.39 | Retro Glitchy Platformer | November 2020 | 17 (December 2020) |
+
+This game is not Super Meat Boy but... it could be. Identical physics, very similar instant death mechanics, and similar difficulty ramp up. There's also sushi (plasters in SMB) that can be collected, but only if you're absurdly skilled! I failed miserably every time I tried.
+
+I prefer the aesthetics of Super Cable Boy, with a very convincing "glitch" appearance throughout. Different zones have different aesthetics, but the overall effect feels very Game Boy Colour-y. I didn't get far enough in to "get" the story, and can tell from the Steam page that I'm going to find it at least as frustrating as SMB at later levels!
+
+| Glitches | Level select | Platforming |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-scb-1-thumbnail.jpg)](/assets/images/2023/jj-scb-1.jpg) | [![](/assets/images/2023/jj-scb-2-thumbnail.jpg)](/assets/images/2023/jj-scb-2.jpg) | [![](/assets/images/2023/jj-scb-3-thumbnail.jpg)](/assets/images/2023/jj-scb-3.jpg)
 
 ## 4/5 Games
 
@@ -199,7 +251,7 @@ As such, I'd totally recommend this if you're into logic puzzles. If you're a pr
 
 Oh, and the screenshots on the store page absolutely terrify me with their complexity. 
 
-| Puzzling | Puzzling | Level Select |
+| Puzzling | Puzzling 2 | Level Select |
 | --- | --- | --- |
 | [![](/assets/images/2023/jj-sz-1-thumbnail.jpg)](/assets/images/2023/jj-sz-1.jpg) | [![](/assets/images/2023/jj-sz-2-thumbnail.jpg)](/assets/images/2023/jj-sz-2.jpg) | [![](/assets/images/2023/jj-sz-3-thumbnail.jpg)](/assets/images/2023/jj-sz-3.jpg) |
 
@@ -394,7 +446,21 @@ Whilst I recognised Ittle Dew from the character roster, apparently all the char
 
 | Character select | Platforming | Level select |
 | --- | --- | --- |
-| [![](/assets/images/2023/jj-sc-1-thumbnail.png)](/assets/images/2023/jj-sc-1.png) | [![](/assets/images/2023/jj-sc-2-thumbnail.png)](/assets/images/2023/jj-sc-2.png) | [![](/assets/images/2023/jj-sc-3-thumbnail.png)](/assets/images/2023/jj-sc-3.png) |
+| [![](/assets/images/2023/jj-sc-1-thumbnail.jpg)](/assets/images/2023/jj-sc-1.jpg) | [![](/assets/images/2023/jj-sc-2-thumbnail.jpg)](/assets/images/2023/jj-sc-2.jpg) | [![](/assets/images/2023/jj-sc-3-thumbnail.jpg)](/assets/images/2023/jj-sc-3.jpg) |
+
+### Spirit of the Island
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [66.87% - Store page](https://store.steampowered.com/app/1592110) | £14.99 | Island Farming Sim | August 2022 | 665 (March 2022) |
+
+It's hard to summon any strong positive or negative feelings for Spirit of the Island. It's a pretty generic explore / craft / build game, with fairly shallow gameplay.
+
+I suspect it might be a bit more fun with friends, I personally found it a bit too clunky and slow, with no promise of future excitement.
+
+| Map | Cutscene | Crafting |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-soti-1-thumbnail.jpg)](/assets/images/2023/jj-soti-1.jpg) | [![](/assets/images/2023/jj-soti-2-thumbnail.jpg)](/assets/images/2023/jj-soti-2.jpg) | [![](/assets/images/2023/jj-soti-3-thumbnail.jpg)](/assets/images/2023/jj-soti-3.jpg) |
 
 ## 1/5 Games
 
@@ -457,14 +523,19 @@ Obviously not for me.
 | --- | --- | --- |
 | [![](/assets/images/2023/jj-sa-1-thumbnail.jpg)](/assets/images/2023/jj-sa-1.jpg) | [![](/assets/images/2023/jj-sa-2-thumbnail.jpg)](/assets/images/2023/jj-sa-2.jpg) | [![](/assets/images/2023/jj-sa-3-thumbnail.jpg)](/assets/images/2023/jj-sa-3.jpg)
 
+### Thief Simulator
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [85.93% - Store page](https://store.steampowered.com/app/704850) | £1.67 | Thief Life Sim | November 2018 | 7.188 (October 2023) |
+
+Purely personal bias here, I absolutely can't stand the glitchy asset-flip-y life sim games. There are hundreds of them, and they all feel almost identical. Yes, this seems incredibly popular (although I'm sure the bargain price helps), it's just not for me. 
+
+To [quote Sips](https://youtu.be/fdkvJgDnBHg?t=2563) from a couple of days ago: "Yeah, this really sucks".
+
+*PS: No screenshots because Steam apparently didn't save any of them, oops!*
+
 ## Uncategorised
 
-Silicon Zeroes - Indie Programming Puzzles
-Space Gladiators - Be a Space Potato
-Spirit of the Island - Co-op Farm with Friends
-
-Super Cable Boy - Stylish Retro Platformer
-PLAYED BEFORE Superhot - Stylishly Freeze Time
 The Entropy Centre - Do Some Science
 The Red Lantern - Dog Sledding Adventures
-Thief Simulator - Steal Things
