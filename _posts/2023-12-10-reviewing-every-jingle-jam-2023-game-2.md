@@ -2,18 +2,18 @@
 title: Reviewing ALL 75+ Steam games from the Yogscast's 2023 Jingle Jam charity bundle (part 2 of 3)
 author: Jake Lee
 layout: post
-image: /assets/images/2023/jj-header2.jpg
+image: /assets/images/2023/jj-banner-2.png
 tags:
     - Steam
     - Gaming
     - Charity
 ---
 
-Every December since 2011, The Yogscast have organised the "Jingle Jam", a collection of streams with [an associated bundle](https://jinglejam.tiltify.com/) with £1100+ of great games to raise money for charity. I'm reviewing all 75 of them, hopefully finding a few new favourites! Here's part 2 with the next 30 games. 
+Every December since 2011, The Yogscast have organised the "Jingle Jam", a collection of streams with [an associated bundle](https://jinglejam.tiltify.com/) with £1100+ of great games to raise money for charity. I'm reviewing all 75 of them, hopefully finding a few new favourites! Here's part 2 with games 31-60. 
 
 ## Rating system
 
-I'll be using the same rating system as last year, essentially it's purely how much I personally enjoy the game, not whether it's good or not. As such, a great game might get a 1/5 if it's not a genre I enjoy, and vice versa. It's the only way to give an honest review!
+As a reminder, I'll be using the same rating system as last year, essentially it's purely how much I personally enjoy the game, not whether it's good or not. As such, a great game might get a 1/5 if it's not a genre I enjoy, and vice versa. It's the only way to give an honest review!
 
 * **5/5**: I had to stop myself playing this game, I'm very likely to replay this later and complete it.
 * **4/5**: This was a good experience, but maybe had problems. I'll likely play it again for a little bit eventually.
@@ -110,20 +110,6 @@ I could spend weeks professing my love for SUPERHOT, suffice to say it's my favo
 | Storytelling | Headshot | Environment Kill |
 | --- | --- | --- |
 | [![](/assets/images/2023/jj-sh-1-thumbnail.jpg)](/assets/images/2023/jj-sh-1.jpg) | [![](/assets/images/2023/jj-sh-2-thumbnail.jpg)](/assets/images/2023/jj-sh-2.jpg) | [![](/assets/images/2023/jj-sh-3-thumbnail.jpg)](/assets/images/2023/jj-sh-3.jpg)
-
-### Super Cable Boy
-
-| Steam rating | Price | Description | Released | Peak players
-| --- | --- | --- | --- | --- |
-| [4.73% - Store page](https://store.steampowered.com/app/1304420) | £12.39 | Retro Glitchy Platformer | November 2020 | 17 (December 2020) |
-
-This game is not Super Meat Boy but... it could be. Identical physics, very similar instant death mechanics, and similar difficulty ramp up. There's also sushi (plasters in SMB) that can be collected, but only if you're absurdly skilled! I failed miserably every time I tried.
-
-I prefer the aesthetics of Super Cable Boy, with a very convincing "glitch" appearance throughout. Different zones have different aesthetics, but the overall effect feels very Game Boy Colour-y. I didn't get far enough in to "get" the story, and can tell from the Steam page that I'm going to find it at least as frustrating as SMB at later levels!
-
-| Glitches | Level select | Platforming |
-| --- | --- | --- |
-| [![](/assets/images/2023/jj-scb-1-thumbnail.jpg)](/assets/images/2023/jj-scb-1.jpg) | [![](/assets/images/2023/jj-scb-2-thumbnail.jpg)](/assets/images/2023/jj-scb-2.jpg) | [![](/assets/images/2023/jj-scb-3-thumbnail.jpg)](/assets/images/2023/jj-scb-3.jpg)
 
 ## 4/5 Games
 
@@ -255,6 +241,39 @@ Oh, and the screenshots on the store page absolutely terrify me with their compl
 | --- | --- | --- |
 | [![](/assets/images/2023/jj-sz-1-thumbnail.jpg)](/assets/images/2023/jj-sz-1.jpg) | [![](/assets/images/2023/jj-sz-2-thumbnail.jpg)](/assets/images/2023/jj-sz-2.jpg) | [![](/assets/images/2023/jj-sz-3-thumbnail.jpg)](/assets/images/2023/jj-sz-3.jpg) |
 
+### Super Cable Boy
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [4.73% - Store page](https://store.steampowered.com/app/1304420) | £12.39 | Retro Glitchy Platformer | November 2020 | 17 (December 2020) |
+
+This game is not Super Meat Boy but... it could be. Identical physics, very similar instant death mechanics, and similar difficulty ramp up. There's also sushi (plasters in SMB) that can be collected, but only if you're absurdly skilled! I failed miserably every time I tried.
+
+I prefer the aesthetics of Super Cable Boy, with a very convincing "glitch" appearance throughout. Different zones have different aesthetics, but the overall effect feels very Game Boy Colour-y. I didn't get far enough in to "get" the story, and can tell from the Steam page that I'm going to find it at least as frustrating as SMB at later levels!
+
+| Glitches | Level select | Platforming |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-scb-1-thumbnail.jpg)](/assets/images/2023/jj-scb-1.jpg) | [![](/assets/images/2023/jj-scb-2-thumbnail.jpg)](/assets/images/2023/jj-scb-2.jpg) | [![](/assets/images/2023/jj-scb-3-thumbnail.jpg)](/assets/images/2023/jj-scb-3.jpg)
+
+### The Entropy Centre
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [87.59% - Store page](https://store.steampowered.com/app/1730590) | £23.99 | Portal With Time | November 2022 | 615 (November 2022) |
+
+Did you enjoy Portal 2? Do you want to play an alternate universe version of it?
+
+Good news, The Entropy Centre is here! Crumbling test facility, confused main character, AI voice encouraging you to perform tests, a gun with crazy scientific powers, pressure plates... welcome to Portal.
+
+That being said, the tech is a nice idea: your gun reverses time. This means you can place a box on a pressure plate, move it off, get into a strategic position, then reverse time and put the box back on the pressure plate. The difficulty gradually increases, with the end of Act 1 still only requiring reaction speed and box time manipulation.
+
+As with [Q.U.B.E](https://store.steampowered.com/app/1564220/QUBE_10th_Anniversary/) and other Portal-likes, it's a fun aesthetic. A crumbling testing facility provides a great story framing, and explains any weirdness or gameplay tutorials perfectly.
+
+I'm definitely going to be coming back to The Entropy Centre after Jingle Jam! 
+
+| Rewinding Time | Testing Centre | Buttons |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-tec-1-thumbnail.jpg)](/assets/images/2023/jj-tec-1.jpg) | [![](/assets/images/2023/jj-tec-2-thumbnail.jpg)](/assets/images/2023/jj-tec-2.jpg) | [![](/assets/images/2023/jj-tec-3-thumbnail.jpg)](/assets/images/2023/jj-tec-3.jpg) |
 
 ## 3/5 Games
 
@@ -462,6 +481,26 @@ I suspect it might be a bit more fun with friends, I personally found it a bit t
 | --- | --- | --- |
 | [![](/assets/images/2023/jj-soti-1-thumbnail.jpg)](/assets/images/2023/jj-soti-1.jpg) | [![](/assets/images/2023/jj-soti-2-thumbnail.jpg)](/assets/images/2023/jj-soti-2.jpg) | [![](/assets/images/2023/jj-soti-3-thumbnail.jpg)](/assets/images/2023/jj-soti-3.jpg) |
 
+### The Red Lantern
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [76.96% - Store page](https://store.steampowered.com/app/1053710) | £19.49 | Dog Sledding Oregon Trail | December 2021 | 128 (October 2023) |
+
+Dog sledding adventure, what a great idea for a survival game! Hmm, it's been 5 minutes and I've only clicked a couple of times... oh it's a narrative game.
+
+The Red Lantern was very disappointing, although perhaps this is due to it not being the game I imagined. I wanted an open world dog sledding sim, struggling to survive, maybe crafting things to help me and my dogs survive. Instead, I got basically Oregon Trail but with dogs. Alaska Trail?
+
+Gameplay is pretty limited, you have a few resources (meals, bullets) and a few meters (hunger, dog energy). You obviously need to try and keep you and the dogs fed, sleep when you need to, find bullets to hunt. Unfortunately this is done entirely via decision-making on random encounters along the way, such as whether to hunt a Caribou, talk to it, or ignore it.
+
+Whilst this can be interesting the first couple of times, they're pretty formulaic. It's not a brutal, gory game, instead you'll have a few wholesome encounters, unlock some journal entries, the usual. I started seeing repeating events (e.g. a squirrel alongside the path) whilst barely 15% of the way through the journey.
+
+Interaction is very limited, you'll just be clicking dialogue options occasionally, you could play with a scroll wheel and a left mouse button!
+
+| Map | Camp | Encounter |
+| --- | --- | --- |
+| [![](/assets/images/2023/jj-trl-1-thumbnail.jpg)](/assets/images/2023/jj-trl-1.jpg) | [![](/assets/images/2023/jj-trl-2-thumbnail.jpg)](/assets/images/2023/jj-trl-2.jpg) | [![](/assets/images/2023/jj-trl-3-thumbnail.jpg)](/assets/images/2023/jj-trl-3.jpg) |
+
 ## 1/5 Games
 
 ### Longvinter
@@ -534,8 +573,3 @@ Purely personal bias here, I absolutely can't stand the glitchy asset-flip-y lif
 To [quote Sips](https://youtu.be/fdkvJgDnBHg?t=2563) from a couple of days ago: "Yeah, this really sucks".
 
 *PS: No screenshots because Steam apparently didn't save any of them, oops!*
-
-## Uncategorised
-
-The Entropy Centre - Do Some Science
-The Red Lantern - Dog Sledding Adventures
