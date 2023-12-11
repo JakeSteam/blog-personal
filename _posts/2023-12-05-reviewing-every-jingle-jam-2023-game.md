@@ -23,7 +23,7 @@ I'll be using the same rating system as last year, essentially it's purely how m
 
 I played most games for at least an hour, but some are pretty small and understood / completed after 15-20 minutes. Information on peak player count are [from SteamDB.info](https://steamdb.info/).
 
-Also, here's 2022's [part 1](/reviewing-every-jingle-jam-steam-game/), [part 2](/reviewing-every-jingle-jam-steam-game-part-2/), and [part 3](/reviewing-every-jingle-jam-steam-game-part-3/).
+Also, here's [part 21 for 2023](/reviewing-every-jingle-jam-2023-game), and 2022's [part 1](/reviewing-every-jingle-jam-steam-game/), [part 2](/reviewing-every-jingle-jam-steam-game-part-2/), and [part 3](/reviewing-every-jingle-jam-steam-game-part-3/).
 
 ## 5/5 Games
 

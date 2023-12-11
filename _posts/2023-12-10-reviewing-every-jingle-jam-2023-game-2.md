@@ -9,7 +9,7 @@ tags:
     - Charity
 ---
 
-Every December since 2011, The Yogscast have organised the "Jingle Jam", a collection of streams with [an associated bundle](https://jinglejam.tiltify.com/) with £1100+ of great games to raise money for charity. I'm reviewing all 75 of them, hopefully finding a few new favourites! Here's part 2 with games 31-60. 
+Every December since 2011, The Yogscast have organised the "Jingle Jam", a collection of streams with [an associated bundle](https://jinglejam.tiltify.com/) with £1100+ of great games to raise money for charity. I'm reviewing all 75+ of them, hopefully finding a few new favourites! Here's part 2 with games 31-60. 
 
 ## Rating system
 
@@ -23,7 +23,7 @@ As a reminder, I'll be using the same rating system as last year, essentially it
 
 I played most games for at least an hour, but some are pretty small and understood / completed after 15-20 minutes. Information on peak player count are [from SteamDB.info](https://steamdb.info/).
 
-Also, here's 2022's [part 1](/reviewing-every-jingle-jam-steam-game/), [part 2](/reviewing-every-jingle-jam-steam-game-part-2/), and [part 3](/reviewing-every-jingle-jam-steam-game-part-3/).
+Also, here's [part 1 for 2023](/reviewing-every-jingle-jam-2023-game), and 2022's [part 1](/reviewing-every-jingle-jam-steam-game/), [part 2](/reviewing-every-jingle-jam-steam-game-part-2/), and [part 3](/reviewing-every-jingle-jam-steam-game-part-3/).
 
 ## 5/5 Games
 
@@ -175,7 +175,7 @@ It's really, really hard to explain why I enjoyed Rusty Lake Hotel.
 
 On the surface, it seems like a typical point and click based around feeding guests. However, there's a dark undercurrent of malice and subtle storytelling that makes the game stand out. Each puzzle feels *solvable*, and instead of blundering around blindly, I've got a target for my problem-solving.
 
-Admittedly, I had to look up a tutorial for... every room I solved, but these are luckily linked in-game! The solutions felt like a think I could have solved eventually, and I'm intrigued in how the story develops.
+Admittedly, I had to look up a tutorial for... every room I solved, but these are luckily linked in-game! The solutions felt like a thing I could have solved eventually, and I'm intrigued to see how the story develops.
 
 This almost felt like a short art film, totally worth the very cheap price tag! 
 
@@ -515,7 +515,7 @@ No official servers, no unofficial servers, no modded servers, nothing seems ava
 
 Finally get into actual gameplay, and it's just wandering around, collecting things, selling things, buying things. I'm guessing there's a competent game here, but for whatever reason it totally wasn't present for me. A very empty world, that feels lifeless despite the soft and cuddly aesthetic.
 
-As a side note, it's pretty sloppy that a command prompt opens up whilst start a local server (the only way to play), with thousands of lines of dev logs. I should not ever see these.
+As a side note, it's pretty sloppy that a command prompt opens up whilst starting a local server (the only way I could play), with thousands of lines of dev logs. I should not ever see these.
 
 Early access, so hopefully it becomes an actual competent game eventually.
 
