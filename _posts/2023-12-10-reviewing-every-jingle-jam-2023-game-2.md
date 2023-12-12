@@ -37,7 +37,7 @@ A multiplayer only game that... I enjoy!?
 
 Make Way is a racing game where you create the track between each round. The controls are super simple (accelerate, steer!), the balance between chaos and control is perfect, and the track pieces are unique.
 
-I was concerned that I'd be unable to play Make Way without friends, but the queuing system found me a match within a couple of seconds. We both readied up, and played a complete game with zero issues throughout. I assume the other player was quite new to, since it was a pretty close battle.
+I was concerned that I'd be unable to play Make Way without friends, but the queuing system found me a match within a couple of seconds. We both readied up, and played a complete game with zero issues throughout. I assume the other player was quite new too, since it was a pretty close battle.
 
 Points are rewards just for *finishing* a section, with a bonus for first place. Whilst this seems like it might encourage safe and boring driving, it is countered by any slow players being killed until the next checkpoint. This means everyone has to keep up to earn any points, and there is a strong incentive to barge the other drivers whenever possible!
 
