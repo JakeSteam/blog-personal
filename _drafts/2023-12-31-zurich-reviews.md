@@ -46,7 +46,7 @@ Finally, the breakfast is pretty limited. No cooked food, it instead consists of
 
 This was a bit of an "all over the place day", with the goal of essentially seeing all the main sights of the city. We did pretty well, even managing a few optional extras including a late night bubble tea run! I didn't review things we only saw in passing, such as Grossmünster or Zürich Opera House.
 
-It was a long day, with **19,203 steps (8.36 miles) walked**.
+These reviews aren't in order since... I can't remember our chaotic route! It was a long day, with **19,203 steps (8.36 miles) walked**.
 
 [![zurich day 2](/assets/images/2023/zurich-day2-thumbnail.png)](/assets/images/2023/zurich-day2.png)
 
@@ -88,16 +88,117 @@ A small concrete area with great views across the river, populated with a few to
 
 **[Original review (3 photos)](https://maps.app.goo.gl/f94SzA8MCjq9g4nk7)**
 
-### UBH Polybahn
+### UBH Polybahn ★★★★★
 
-### Polyterrasse
+A useful fully automated funicular railway (e.g., no staff at all) taking you from the river up to the university in ~60 seconds. It's a steep hill, so definitely worth taking if you need to get between the two. I'd recommend the "bottom" seat, you'll get the best view.
 
-### focusTerra
+Tickets can be purchased outside from a self-service machine, although the interface is a little confusing, I'm still not certain I bought the correct number of tickets! 
 
-### Schrodinger's cat
+**[Original review (3 photos)](https://maps.app.goo.gl/HjM5i3PCKkxDYstw6)**
 
-### Quaianlagen
+### Polyterrasse ★★★★★
 
-### View point Kopf Hoch - Zürichsee
+Whilst Polyterrasse is just a large viewing area, the views are excellent, covering most of Zurich! The images speak for themselves, there's plenty of benches too.
 
+**[Original review (3 photos)](https://maps.app.goo.gl/yizkTcQPL77Lq3hv8)**
 
+### focusTerra ★★★★✰
+
+We only spent half hour or so here due to time constraints, and as such only covered the first floor. 
+
+focusTerra is a completely free museum with information about earth sciences, mountain formation, and similar topics. Around 60-70% of the signs unfortunately have no English on, including the striking cross-section of a complex mountain range. 
+
+There are also essentials like a vending machine, children's area, and bathrooms here, alongside free talks. 
+
+**[Original review (1 photo)](https://maps.app.goo.gl/5yU1YMcErxfbFh6Y7)**
+
+### Schrödingers Katze 
+
+Dead again. Meow.
+
+*Note: This is a silly joke at a house Schrödinger once lived in, with a metal cat that is sometimes standing, sometimes lying down. Whilst I walked 10 minutes just to see it, don't expect anything more than a metal cat outside an apartment building!* 
+
+**[Original review (1 photo)](https://maps.app.goo.gl/BnnWrBLBoxdiSBJ2A)**
+
+### Quaianlagen ★★★★✰
+
+A long promenade full of benches to sit on and look out over the lake. It can be quite busy, and the benches are very close to the water so hang onto any children or pets! 
+
+**[Original review](https://maps.app.goo.gl/bNXjDow7A5vS2S9RA)**
+
+### Brasserie Johanniter ★★★★✰
+
+Is this a somewhat tourist-y Swiss restaurant? Undoubtedly. Is the food still well priced and tasty? Also yes! 
+
+We visited here for schnitzel and "Zurich Spatzli", and both were very tasty whilst also not being too expensive for the location. 
+
+**[Original review (1 photo)](https://maps.app.goo.gl/ep7rJkdpjxJnrnjR8)**
+
+## Day 2 (18th December): Jungfraujoch
+
+A day trip! We spent the entire day (8am - 8pm) on a day trip into the Alps and up Jungfraujoch. This was by far the most memorable day of my 2 week holiday, and well worth the cost!
+
+Since we were so high up most of the day (3.5km+), every step was more tiring, so the seemingly short **11,502 steps (4.46 miles) walked** was actually exhausting.
+
+[![zurich day 3](/assets/images/2023/zurich-day3-thumbnail.png)](/assets/images/2023/zurich-day3.png)
+
+### Swiss Alps Day Trip ★★★★★
+
+This was one of the best experiences of my life. 
+
+The guides provided genuinely interesting information throughout the lengthy drive to Jungfraujoch, providing lots of insight into both Switzerland and the mountains themselves. The tour we took included both English and Chinese groups, with Fernando looking after English speakers and Mei-Lee (only heard name once, may be wrong sorry!) Mandarin speakers.
+
+A special shoutout has to be given to the Mandarin-speaking tour guide, for her upbeat enthusiasm throughout a long day! Even on the trains back, she was offering to take photos for everybody. Similarly, she ensured everyone knew what was going on, wasn't left behind, and was enjoying themselves. As an example of this, we were glancing at a Lindt shop nearby whilst waiting for a train, she noticed, and rummaged in her bag for a couple of 10% off vouchers she'd just received after making a purchase! A lovely gesture that exemplifies her overall approach.  
+
+Fernando was witty, helpful, and proactively offered extra information throughout, with both guides seeming to have genuine passion for their jobs.
+
+As for the experience itself, it's very hard to sum up in words. Whilst Interlaken was very foggy when we were there for a brief 1-hour independent explore, all this fog lifted when we got up into the actual mountains via an absurdly high cable car. 
+
+Since I tend to plan all my journeys extensively, I was a little nervous beforehand not knowing the exact route. However, the guides provided detailed information when it was needed, and I suspect the plans may change based on how many numbers various groups have (e.g. who goes on which bus, as there was another bus with a Spanish(?)-speaking group). 
+
+Whilst some reviews mention negative consequences if you lose your train ticket, this doesn't seem fair! There's only 1 ticket to hold on to (that has a map on it), and the tour group's bulk purchasing makes this trip likely cheaper than buying all the stages individually, even before factoring in the information provided and comfy coach journey.
+
+Tips:
+* Hop on the front top of the coach if you can, the views are spectacular.
+* Turn up on time! When the confirmation email says show up 15 mins early... show up 15 mins early.
+* The self-service restaurant at the top is excellent, don't worry about bringing a full meal.
+* It'll be a long day, so bring a small snack or two.
+* Wear comfy shoes that can walk 100 metres or so on snow. This doesn't need to be crazy hiking boots, regular trainers should be OK. 
+
+### Ice Palace ★★★★✰
+
+The ice palace is a short (5 minute) walk through various ice sculptures in an ice cavern. It tends to be somewhat crowded, and the sculptures are similar to those you'll see at other ice art exhibitions. Personally I found walking along a corridor made entirely out of ice to be the highlight! 
+
+**[Original review (3 photos)](https://maps.app.goo.gl/rz7BvzCV2F4XThDaA)**
+
+### Sphinx Observatory ★★★★★
+
+The observatory is really just a viewing platform. However, a viewing platform with 360 degree views of the mountains is a unique experience. This observatory is likely what you'll see when looking up Jungfraujoch and... yep, it's as high up as you'd expect!
+
+The platform can be quite busy, but it's very sturdy and safe regardless. Excellent photos (and selfies!) can be taken from both sides of the platform, but makes sure to take a look at the frozen observatory too, it's a bizarre sight.
+
+There were also tens of black birds staring at the visitors throughout, I'm not sure what they're doing!
+
+**[Original review (8 photos)](https://maps.app.goo.gl/pJKu5dQ7ipK87WoX6)**
+
+### Jungfraujoch Plateau ★★★★★
+
+Walking on a large, open snowy area is a surreal experience. Excellent photo opportunities in every direction, including posing with a Swiss flag if desired.
+
+The ramp up to the plateau is exposed to the elements and heavily walked on, so it's extremely slippery! Use the ropes at the sides to get up and down safely. Also, if you're as pale as me, don't stay out for too long or you'll get sunburnt on your face in mere minutes!
+
+**[Original review (6 photos)](https://maps.app.goo.gl/5pXRL4QqgRQ9pQRF6)**
+
+### Kleine Scheidegg Station ★★★★★
+
+I ended up making a connection between trains here whilst the sun set, and the view was absolutely incredible! Completely unexpected beauty, with the trains adding to the aesthetic. 
+
+**[Original review (2 photos)](https://maps.app.goo.gl/vA4R5QaaebdbjLLK8)**
+
+### Lindt (Grindelwald Terminal) ★★★★★
+
+Whilst not too different from other Lindt stores, considering the location the prices were excellent! Staff were very friendly, and even gave us a couple of free chocolates as we left.
+
+There's also a few exclusive Lindt flavours up there!
+
+**[Original review (1 photo)](https://maps.app.goo.gl/PxrKQKvXYYmiEBDJA)**
