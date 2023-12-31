@@ -213,9 +213,9 @@ There's also a few exclusive Lindt flavours up there!
 
 **[Original review (1 photo)](https://maps.app.goo.gl/PxrKQKvXYYmiEBDJA)**
 
-## Day 4 (19th December): Walk & Uetilberg & Leaving
+## Day 4 (19th December): Walk & Uetliberg & Leaving
 
-This was a day of 2 parts. We did a walk along the river, checking out a viaduct similar to the High Line in San Francisco. As we ate lunch after this, we spontaneously decided to get a train up Uetilberg mountain, and ended up watching a spectacular sunset before making our way back for our sleeper train to Vienna! 
+This was a day of 2 parts. We did a walk along the river, checking out a viaduct similar to the High Line in San Francisco. As we ate lunch after this, we spontaneously decided to get a train up Uetliberg mountain, and ended up watching a spectacular sunset before making our way back for our sleeper train to Vienna! 
 
 Since this was a wandering / nature-y day, not many reviewable places were visited. The varied day resulted in **18,535 steps (8.27 miles) walked**.
 
