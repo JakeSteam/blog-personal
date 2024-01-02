@@ -76,23 +76,57 @@ We briefly visited here during the evening, and realistically there wasn't much 
 
 It felt a little unsafe due to the darkness and business, so I wouldn't recommend specifically visiting here, just pass through if needed.
 
-**Review pending...**
+**Review pending approval...**
 
-### Theseustempel
+### Theseustempel ★★★★✰
+
+Whilst Theseustempel is technically closed currently, it is still lit up at night and makes a striking landmark to walk past. 
+
+There's also a statue nearby with an interesting backstory and further information on the structure, take a look!
+
+**[Original review (1 photo)](https://maps.app.goo.gl/434PAGUeqhM6VQn29)**
 
 ## Day 2 (21st December): Schönbrunn
 
-(note the Prague shooting happened..!)
+This was our last full day in Austria, so we spent it primarily in Austria's most popular attraction... Schönbrunn Palace! This took up far more time than expected, as it was a great place to explore outside, learn about the palace, and have lunch.
 
-### Schönbrunn Palace
+Without diving into world events, the [2023 Prague shooting](https://en.wikipedia.org/wiki/2023_Prague_shooting) happened this day, with us already having a train booked there for the next day. This was a little disconcerting, but we didn't change our plans.
 
-### Schönbrunn Palace Park
+As we had a fairly leisurely stroll around the palace & grounds, despite walking most of the day we only managed **16,599 steps (7.18 miles) walked**.
 
-### Café Gloriette
+[![vienna 21st](/assets/images/2024/vienna-21st-thumbnail.png)](/assets/images/2024/vienna-21st.png)
 
-### Café Diglas
+### Schönbrunn Palace ★★★★✰
+
+This imposing building is one of the few palaces I'd recommend taking the time to visit and rent an audio guide, despite the high cost. The "imperial tour" will cost around €24 each, and must be booked for a specific time slot in advance.
+
+These timeslots are strictly enforced, so don't bother coming more than 5 minutes early! However, once you've actually started your tour, it is all worth it. The tour takes you around 20-30 rooms of various sizes and uses, providing the perfect amount of information to keep you interested without overwhelming.
+
+Photography and backpacks are strictly forbidden, and there are employees wandering around ensuring no area gets too crowded. This gives it a well managed feel, but I could imagine it becoming uncomfortably busy on a less cold and rainy day!
+
+**[Original review](https://maps.app.goo.gl/8YhxQorNU4jeQJ849)**
+
+### Schönbrunn Palace Park ★★★★★
+
+Schönbrunn's park is an excellent free garden to explore. We visited in the winter, so there were no fountains and it was more brown than green, yet the wide avenue and dynamic use of height makes it a good place to visit year-round. 
+
+This large scale also helps ensure it is peaceful and relaxed, regardless of how many other tourists are in the area. I highly recommend climbing the zig-zag ramps up to the upper lake, and walking past the edge of the zoo to peek in at the animals. There's also some goats lurking near "Spielhaus von Kronprinz Rudolf"!
+
+I'd love to revisit in the summer one day.
+
+**[Original review (4 photos)](https://maps.app.goo.gl/xFK6SHshN2EfCQJQ8)**
+
+### Café Gloriette ★★★★★
+
+Try the vegetable strudel!
+
+We were surprised with how affordable this restaurant was, considering the unique location. Staff were busy but friendly, food was served quickly and cooked excellently, I'd highly recommend making this a part of any trip to Schönbrunn Palace.
+
+**[Original review (1 photo)](https://maps.app.goo.gl/HepcDcQbPUNTj5u9A)**
 
 ### Huth Gastwirtschaft
+
+### Café Diglas
 
 ## Day 3 (22nd December): Departure
 
