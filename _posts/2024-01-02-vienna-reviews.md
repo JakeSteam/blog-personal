@@ -1,5 +1,5 @@
 ---
-title: How I spent 2ish days in Vienna, told via 11 Google Maps reviews 🏰
+title: How I spent 2 days in Vienna, told via 12 Google Maps reviews 🏰
 author: Jake Lee
 layout: post
 image: /assets/images/2023/vienna-review-1480w.jpg
@@ -10,9 +10,9 @@ tags:
     - 'Google Maps'
 ---
 
-I spent a couple of weeks in December making my way through central Europe, including 2 days in Vienna. It was a pretty short visit, but I still managed to fit a fair bit in! Here's all the reviews.
+I spent a couple of weeks in December making my way through central Europe, continuing with 2 days in Vienna. It was a pretty short visit, but I still managed to fit a fair bit in, including the very famous Schönbrunn Palace! Here's reviews of the most memorable places I visited.
 
-In total, I was in Vienna from the morning of Wed 20th (sleeper train!) to the afternoon of Fri 22nd.
+In total, I was in Vienna from the morning of Wed 20th (sleeper train!) to the morning of Fri 22nd.
 
 *Note: This is part 2 of 4 from this trip: [Zurich](/zurich-reviews), **Vienna**, Prague, and Berlin.*
 
@@ -60,7 +60,7 @@ All the newer exhibits are also in English, but many of the historic animal spec
 
 **[Original review (6 photos)](https://maps.app.goo.gl/U1vYtxEY2eYHFAN7A)**
 
-### Lolo & Lola
+### Lolo & Lola ★★★★★
 
 We visited Lolo & Lola for a late lunch (2-4pm), and were surprised to see no other customers! Luckily we stuck to our plan and had a lovely lunch, with it getting busier later on.
 
@@ -90,9 +90,7 @@ There's also a statue nearby with an interesting backstory and further informati
 
 This was our last full day in Austria, so we spent it primarily in Austria's most popular attraction... Schönbrunn Palace! This took up far more time than expected, as it was a great place to explore outside, learn about the palace, and have lunch.
 
-Without diving into world events, the [2023 Prague shooting](https://en.wikipedia.org/wiki/2023_Prague_shooting) happened this day, with us already having a train booked there for the next day. This was a little disconcerting, but we didn't change our plans.
-
-As we had a fairly leisurely stroll around the palace & grounds, despite walking most of the day we only managed **16,599 steps (7.18 miles) walked**.
+Without diving into world events, the [2023 Prague shooting](https://en.wikipedia.org/wiki/2023_Prague_shooting) happened this day, with us already having a train booked there for the next day. This was a little disconcerting, but we didn't change our plans. As we had a fairly leisurely stroll around the palace & grounds, despite walking most of the day we only managed **16,599 steps (7.18 miles) walked**.
 
 [![vienna 21st](/assets/images/2024/vienna-21st-thumbnail.png)](/assets/images/2024/vienna-21st.png)
 
@@ -124,12 +122,42 @@ We were surprised with how affordable this restaurant was, considering the uniqu
 
 **[Original review (1 photo)](https://maps.app.goo.gl/HepcDcQbPUNTj5u9A)**
 
-### Huth Gastwirtschaft
+### Huth Gastwirtschaft ★★★★★
 
-### Café Diglas
+Make sure you book in advance! We arrived around 16:30 on a Sunday and only just managed to secure a table for 2 for an hour, with at least 4-5 other couples being turned away whilst we ate due to no remaining capacity.
+
+The food itself explains why it is so popular. We went here for traditional Viennese food, and definitely made an excellent choice. I had the "Viennese Boiled Beef" AKA Tafelsplitz, and it was one of the best pieces of meat I've ever eaten. I wish I'd taken a photo, but I ate it all too quickly! My partner had the wiener schnitzel and it was also excellent.
+
+Whilst the prices are perhaps higher than other restaurants serving similar food, you get what you pay for. I'd love to come back here and try the other dishes.
+
+**[Original review](https://maps.app.goo.gl/fTyHxCbtZjdQR8RT7)**
+
+### Café Diglas ★★★★✰
+
+We visited here for dessert after a meal elsewhere on a busy Sunday, and it was a little chaotic. Our table was constantly being brushed past by staff and customers, we had trouble getting service, and the cake selection process relied on a waiter guiding you through them all at the front counter instead of a simple list! I know the cakes change daily, but choosing in your own time from a list is definitely a preferable experience.
+
+However, the cakes were relatively nice, with generous portions. I'd also recommend the homemade blueberry (or similar) soda! Whilst I expected a simple glass of drink, I instead got a small vial of concentrated fruit syrup, and a bottle of sparkling water. These could then be combined in a glass to create a soda of your desired strength. A novel idea that made a basic drink a bit more fun.
+
+Whilst my experience wasn't great, this is undoubtedly partially due to attending at a very busy time, and us making poor cake choices. I suspect the cafe is much better at quieter times.
+
+**[Original review](https://maps.app.goo.gl/5pSdwjXNzYd6jBLK6)**
 
 ## Day 3 (22nd December): Departure
 
-### Aufzug Café
+We left relatively early in the day, only having time to stop off in a unique coffee shop before our train to the Czech Republic. There'll be more information about today in the next post in this series, **Prague**! 
+
+### Aufzug Café ★★★★★
+
+This unique idea for a café containing converted elevators seemed almost too good to be true! With (at the time of writing) 70+ reviews, all 5 stars, when combined with no street view images I actually wondered if it was just a showroom or something.
+
+Luckily no, it's definitely a real coffee shop. We popped in for a coffee and croissant before catching a train, and managed to find a table. It can get pretty crowded (with most people wanting a photo in the converted elevators), so I recommend coming at quieter times.
+
+It's worth mentioning that the pastries are smaller than usual (and are priced lower), so get an extra 1 or 2. There are also postcards available by the door, with the interior's consistent theme and the owner(?) committing to the bit by dressing up as a bellhop.
+
+**[Original review (5 photos)](https://maps.app.goo.gl/ZCey6BchCE2EprKg9)**
 
 ## Conclusion
+
+Overall I couldn't fall in love with Vienna. I enjoyed it, but... it was very palace heavy. Perhaps I just failed to find the attractions I'd enjoy despite plenty of looking on Google Maps / TripAdvisor etc, or perhaps this was just due to the obvious comparison with our last city: Zurich.
+
+I like nature and water with my city trips, and Vienna seems to have not noticed the river running through it, seemingly only using it for a single very long and narrow park island. If I did visit Austria again, I'd probably aim for a totally different style of holiday, and spend some time in the proper countryside. 
