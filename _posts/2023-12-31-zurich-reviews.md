@@ -175,6 +175,8 @@ Tips:
 * It'll be a long day, so bring a small snack or two.
 * Wear comfy shoes that can walk 100 metres or so on snow. This doesn't need to be crazy hiking boots, regular trainers should be OK. 
 
+**[Original review (25 photos)](https://www.tripadvisor.co.uk/ShowUserReviews-g188113-d1987439-r931821918-Best_of_Switzerland_Tours-Zurich.html?m=19905)**
+
 ### Ice Palace ★★★★✰
 
 The ice palace is a short (5 minute) walk through various ice sculptures in an ice cavern. It tends to be somewhat crowded, and the sculptures are similar to those you'll see at other ice art exhibitions. Personally I found walking along a corridor made entirely out of ice to be the highlight! 
