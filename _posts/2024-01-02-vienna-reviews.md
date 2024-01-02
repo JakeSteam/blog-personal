@@ -2,7 +2,7 @@
 title: How I spent 2 days in Vienna, told via 12 Google Maps reviews 🏰
 author: Jake Lee
 layout: post
-image: /assets/images/2023/vienna-review-1480w.jpg
+image: /assets/images/2024/vienna-1480w.jpg
 tags:
     - Travel
     - Europe

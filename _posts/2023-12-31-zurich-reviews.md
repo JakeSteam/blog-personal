@@ -14,7 +14,7 @@ I spent a couple of weeks in December making my way through central Europe, star
 
 I was technically in Zurich for 4 days, but since day 1 was only an evening and day 4 was missing an evening, I merged them into a single day.
 
-*Note: This is part 1 of 4 from this trip: **Zurich**, Vienna, Prague, and Berlin.*
+*Note: This is part 1 of 4 from this trip: **Zurich**, [Vienna](/vienna-reviews), Prague, and Berlin.*
 
 ## Day 1 (16th December): Arrival
 
