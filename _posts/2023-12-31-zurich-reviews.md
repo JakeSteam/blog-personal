@@ -102,7 +102,7 @@ Tickets can be purchased outside from a self-service machine, although the inter
 
 Whilst Polyterrasse is just a large viewing area, the views are excellent, covering most of Zurich! The images speak for themselves, there's plenty of benches too.
 
-**[Original review (3 photos)](https://maps.app.goo.gl/yizkTcQPL77Lq3hv8)**
+**[Original review (2 photos)](https://maps.app.goo.gl/yizkTcQPL77Lq3hv8)**
 
 ### focusTerra ★★★★✰
 
