@@ -64,6 +64,8 @@ In total, I was in Prague from the afternoon of Fri 22nd December to just after 
 
 ### Legion Bridge
 
+### NUMARU
+
 ## Day 5 (26th December): National Museum & Leaving
 
 ### National Museum

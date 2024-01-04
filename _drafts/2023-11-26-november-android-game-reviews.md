@@ -1,5 +1,5 @@
 ---
-title: "A few Android games I've enjoyed lately: Idle Game 1 📲"
+title: "4 Android games I've enjoyed lately: Riddle Zen, Smashing Simulator, Idle Game 1 📲"
 author: Jake Lee
 layout: post
 image: /assets/images/2023/nov-games-banner.png
@@ -8,11 +8,73 @@ tags:
     - Gaming
 ---
 
-intro
+Okay yes, I'm still playing Idle Iktah primarily. However, I've managed to spare a moment or two for other Android games! Here's the 4 I've enjoyed in the last few months.
 
 The games are in descending order of "fun", and might contain mild spoilers:
 
-## #1: [Idle Game 1](https://play.google.com/store/apps/details?id=com.cem.idle1)
+## #1: [Riddle Zen](https://play.google.com/store/apps/details?id=com.AdmurinArts.RiddleZen)
+
+You know those annoying riddles, like "When is a door not a door? When it's ajar"? What if there was a whole game based on them! That's Riddle Zen, an early access game.
+
+### Review
+
+This is a pretty simple game, with the core gameplay always consisting of picking the correct answer from the 9 options. Whilst the core gameplay is relaxing problem-solving, there *is* a timed version that I found very frustrating. The default game uses a standard life system, encouraging short sessions.
+
+Completing puzzles will reward you with "zen", to be used to upgrade "plants" that you can occasionally unlock. These provide nice permanent progression, as there's a whole range of collections that provide lots of hints and level skips if fully completed.
+
+Whilst I'm pretty impressed with the game managing to contain literally hundreds of riddles, their quality varies! Some of them are clever, and the "Why?" explanation when you complete it is satisfying. Others are just intentionally tricking you, or seemingly nonsensical, and have to just be completed via trial and error.
+
+Finally, most of the puzzles have cute little pixel art for each answer, which is a much appreciated bonus! It isn't at all necessary, but gives you a bit more to look at whilst you try to figure out the riddle.
+
+### Monetisation
+
+Unfortunately the game is heavily monetised. There are forced video adverts every few puzzles, plus tens of in-app purchases for hints, permanent perks, in-game currencies, everything you'd expect.
+
+The forced video ads mean I avoid playing much, and the sheer number of purchases mean I'm hesitant to buy the ad removal. I didn't purchase anything due to the aggressive monetisation.
+
+### Tips
+
+* The game is trying to trick you. Read carefully!
+* Navigation around the app is pretty confusing, luckily you don't need to access anything except the riddles often.
+* There's a [very quiet](https://discord.com/invite/PBe4SjEuty) discord, good for keeping up with release notes.
+
+### Screenshots
+
+| Upgrades | Gameplay | Statistics |
+| --- | --- | --- |
+| [![](/assets/images/2023/nov-ssi-1-thumbnail.jpg)](/assets/images/2023/nov-ssi-1.jpg) | [![](/assets/images/2023/nov-ssi-2-thumbnail.jpg)](/assets/images/2023/nov-ssi-2.jpg) | [![](/assets/images/2023/nov-ssi-3-thumbnail.jpg)](/assets/images/2023/nov-ssi-3.jpg) |
+
+## #2: [Smashing Simulator](https://play.google.com/store/apps/details?id=com.WalkingCatStudios.SmashingSimulatorIdle)
+
+You really can't beat a nice simple idle game, and that's what Smashing Simulator is!
+
+### Review
+
+It's a very straightforward game. Things appear on screen, tap the things to earn shards / other items. Use these items to unlock upgrades, autotappers, and repeat.
+
+The appeal comes from the presence of multiple object types, and the ability to upgrade each of them. For example, you might upgrade bottles to the max, and eventually unlock poison bottles that have a whole different collection of upgrades.
+
+I'm only a couple of hours into the game, and there's definitely plenty more content to unlock. Even the Play Store screenshots show additional objects, new mechanics, even buildings!
+
+Unfortunately, even the multiple object types and upgrades can't cover up the fact that the core part of this game is a simple clicker. Progress is mostly of the "spawn X faster", "get X% more X per tap", "autotap every X seconds" style, where none feels very important.
+
+It's a good example of an incremental game, but needs some additional complexity at the early game. Clicking falling objects can only hold your attention for so long!
+
+### Monetisation
+
+The monetisation is very minimal: optional ads for temporary (but useful) boosts, and paying to remove ads / premium currency. None of it is at all required for progression, although the advert one is worth it!
+
+### Tips
+
+There really aren't any tips, just upgrade the highest level objects whenever you can.
+
+### Screenshots
+
+| Plant collection | Bad riddle | Good riddle |
+| --- | --- | --- |
+| [![](/assets/images/2023/nov-rz-2-thumbnail.jpg)](/assets/images/2023/nov-rz-2.jpg) | [![](/assets/images/2023/nov-rz-1-thumbnail.jpg)](/assets/images/2023/nov-rz-1.jpg) | [![](/assets/images/2023/nov-rz-3-thumbnail.jpg)](/assets/images/2023/nov-rz-3.jpg) 
+
+## #3: [Idle Game 1](https://play.google.com/store/apps/details?id=com.cem.idle1)
 
 Idle Game 1 (yes, that's really the name) is an idle game that strips away any of the story, objects, or setting, and focuses purely on the prestige loop. 
 
@@ -55,7 +117,7 @@ The expectation seems to be to get me to buy this seemingly "final" boost, where
 
 ### Screenshots
 
-Whilst I usually provide 3+ screenshots, this game only really has 1 screen. Here's the main screen, note that the white line at the top is part of the game, I don't know why:
+Whilst I usually provide 3+ screenshots, this game only really has 1 screen. Here's the main screen, note that the white line near the top is part of the game, I don't know why:
 
 [![](/assets/images/2023/nov-ig1-thumbnail.jpg)](/assets/images/2023/nov-ig1.jpg)
 
