@@ -14,7 +14,7 @@ I spent a couple of weeks in December making my way through central Europe, cont
 
 In total, I was in Vienna from the morning of Wed 20th (sleeper train!) to the morning of Fri 22nd.
 
-*Note: This is part 2 of 4 from this trip: [Zurich](/zurich-reviews), **Vienna**, Prague, and Berlin.*
+*Note: This is part 2 of 4 from this trip: [Zurich](/zurich-reviews), **Vienna**, [Prague](/prague-reviews), and Berlin.*
 
 ## Day 1 (20th December): Arrival & historical
 
