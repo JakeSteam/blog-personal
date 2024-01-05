@@ -18,7 +18,13 @@ In total, I was in Prague from the afternoon of Fri 22nd December to just after 
 
 ## Day 1 (22nd December): Arrival & Landmarks
 
-### OREA Place Seno
+We were a little uncertain what the "mood" in Prague would be, given [the shooting in the area](https://en.wikipedia.org/wiki/2023_Prague_shooting) the day before. Thankfully, people seemed to be pretty relaxed in general, and still welcoming to tourists. 
+
+We arrived in Prague around 3pm, so just enough time for a brief look around and dinner, giving us a total of **11,995 steps (4.82 miles) walked**.
+
+### OREA Place Seno ★★★★★
+
+
 
 ### Prague Astronomical Clock
 
@@ -29,6 +35,8 @@ In total, I was in Prague from the afternoon of Fri 22nd December to just after 
 ### Punchy Cup
 
 ## Day 2 (23nd December): Castle & Bookings
+
+**22,716 steps (9.51 miles) walked**.
 
 ### Charles Bridge
 
@@ -42,6 +50,8 @@ In total, I was in Prague from the afternoon of Fri 22nd December to just after 
 
 ## Day 3 (24th December): Letna Park
 
+**14,644 steps (6.65 miles) walked**.
+
 ### Prague Metronome
 
 ### Na Baště
@@ -53,6 +63,8 @@ In total, I was in Prague from the afternoon of Fri 22nd December to just after 
 ### Matzip
 
 ## Day 4 (25th December): Petřín Gardens
+
+**18,370 steps (8.00 miles) walked**.
 
 ### Kafka Museum
 
@@ -67,6 +79,8 @@ In total, I was in Prague from the afternoon of Fri 22nd December to just after 
 ### NUMARU
 
 ## Day 5 (26th December): National Museum & Leaving
+
+**10,151 steps (4.05 miles) walked**.
 
 ### National Museum
 
