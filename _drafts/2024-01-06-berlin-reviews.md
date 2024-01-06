@@ -1,5 +1,5 @@
 ---
-title: How I spent 4 days in Berlin, told via 15 Google Maps reviews 🛠️
+title: How I spent 4 days in Berlin, told via 19 Google Maps reviews 🪖
 author: Jake Lee
 layout: post
 image: /assets/images/2024/berlin-1480w.jpg
@@ -22,11 +22,11 @@ We arrived a little later than expected, so our first day was just the usual "ho
 
 [![berlin 26th](/assets/images/2024/berlin-26th-thumbnail.png)](/assets/images/2024/berlin-26th.png)
 
-### Steigenberger Hotel am Kanzleramt ★★★★✰
+### Steigenberger Hotel ★★★★✰
 
 This hotel has a great location, being approx 100 metres from one of the two exits from Berlin main station! This makes it easy to get trams or trains to anywhere else, or walk into Berlin centre via the Reichstag.
 
-The room itself was pretty standard, however we very lucky to have one of the few rooms that can see the sunrise over the Reichstag! This was a completely unexpected surprise, and provided a great view every morning. 
+The room itself was pretty standard, however we were very lucky to have one of the few rooms that can see the sunrise over the Reichstag! This was a completely unexpected surprise, and provided a great view every morning. 
 
 Unfortunately, being high up facing the sunrise had the disadvantage that the gym was directly above us. This meant hearing weights being dropped, or the repetitive noises of a treadmill, at all hours of the day. Particularly obnoxious was the ~8am run another guest clearly did, waking us up most days. Whilst we usually do a hotel breakfast, the 29 euros each made it a non-starter, and it seems surprisingly high considering there are nearby cafes and restaurants.
 
@@ -46,7 +46,7 @@ I had their festive special burger which was... unique. Good, I think, but uniqu
 
 ## Day 2 (27th December): Historical
 
-Google Maps seem to have had quite poor tracking, but this was a quite heavily planned day where we walked in a large `b` shape to cover all the main historical landmarks. We got a surprisingly fast train back from Potsdamer Platz, taking a total of 2 minutes!
+Google Maps seem to have had poor tracking on this day, but this was a quite heavily planned day where we walked in a large `b` shape to cover all the main historical landmarks. We got a surprisingly fast train back from Potsdamer Platz, taking a total of 2 minutes!
 
 This route resulted in **14,468 steps (6.41 miles) walked**.
 
@@ -138,9 +138,33 @@ We took a day trip to the nearby former concentration camp Sachsenhausen, in Ora
 
 [![berlin 27th](/assets/images/2024/berlin-28th-thumbnail.png)](/assets/images/2024/berlin-28th.png)
 
-### Sachsenhausen etc ★★★★★
+### Sachsenhausen ★★★★★
+
+We made the trip to this free former camp from Berlin main station (direct train every hour, then a 15-20m walk from Oranienburg station) and it was one of the most engrossing experiences I've ever had. We ended up spending around 4-5 hours here, and only left because it was getting a bit unsettling being in such a horrific place with the sun not shining. 
+
+Unfortunately an English map wasn't available when we visited, but English audioguides were. There are maps scattered around the former camp, plus indicators at key areas, however the audioguide definitely adds significant value.
+
+There are around 15 areas that can be visited, most specialised museums about a specific part of the former camp, however the map will show 5-6 key locations in red. These are always worth looking at, even if some of them (such as the main gate, with a view over the entire camp) have somewhat hidden entrances round the side.
+
+The scale of the camp only becomes clear after spending a few hours there, when what seems like a relatively small area becomes so saturated with history and long walks between areas that it becomes easier to see how so many could have died here.
+
+All information is very well written and clear, providing further reading wherever possible. This includes information on both it's Nazi and Soviet past, intentionally not making any attempt to compare or contrast them. The camp was so deeply engaging yet touching that taking any photos or eating etc just didn't feel right. This is a sober place, selfies etc would feel disgusting.
+
+This should definitely be a location visited during any Berlin trip, it's the most accessible former camp for anyone in the capital city.
+
+*Note: No Google Maps review available, as "This place is currently more likely to receive content that violates Google’s policies. To prevent this, Google has turned off posting."!*
 
 ### Bavaria ★★★★★
+
+Excellent authentic food and drink that is worth prebooking.
+
+We came here on a whim one evening and just about managed to get a great seat. Throughout our time there couples and other groups were being turned away, and I can absolutely see why: the food was amazing!
+
+I had the Bavarian crusted roast, and it was some of the tastiest pork I've ever tried. Staff were friendly, and when they mixed up drinks (and food) with the table next to ours we got a slight discount without asking whatsoever.
+
+The bathroom route is a little bizarre, with lots of odd items on the way. This doesn't take away from the very tasty food and drink though!
+
+**[Original review (3 photos)](https://maps.app.goo.gl/Kh2H3rdoffV5c5Pw6)**
 
 ## Day 4 (29th December): East
 
@@ -148,26 +172,82 @@ This day was pretty relaxed, walking the full length of Unter den Linden and get
 
 [![berlin 29th](/assets/images/2024/berlin-29th-thumbnail.png)](/assets/images/2024/berlin-29th.png)
 
-### Green area on museum island ★★★★★
+### Lustgarten ★★★★★
+
+A great place to relax between museums, with a view of the stunning Berliner Dom. There are lots of benches to sit on, and plenty of happy tourists enjoying themselves.
+
+**[Original review](https://maps.app.goo.gl/uAdHEoHoWmXZfYsw6)**
 
 ### Schlogl ★★★★★
 
-### Alexanderplatz ★★★★★
+A cosy friendly restaurant offering traditional German food. Make sure you take the small path from the main road via a tunnel, NOT the larger road near Spielplatz!
 
-### DDR Museum ★★★★★
+We came here for lunch, and discovered a great deal on Berlin currywurst with fries (around 9 euro each). The food arrived quickly, and was simple but perfectly sized. We had the apple strudel for dessert and it was one of the best we've ever tried.
+
+Definitely worth visiting if you're in the area and need an affordably priced German meal.
+
+**[Original review](https://maps.app.goo.gl/EFKv9nomx4wPEABv8)**
+
+### DDR Museum ★★✰✰✰
+
+This was one of the worst museums I've visited, primarily due to the overcrowding. Firstly, the entry queue was a mess. Whilst you can book online, this only lets you skip the final few people, you still have to do the vast majority of waiting!
+
+When we entered, we took what looked like the quietest path and ended up in an area made to look like an apartment during DDR time. For the most part, it looked... pretty similar to any other apartment you've seen from the time period. Unfortunately it was hard to look too closely due to the large numbers of small children running around and essentially treating it like a play house. This, plus the crowds in every corridor made it a deeply unpleasant start.
+
+After this, we went back into the main room. Here, there is some quite interesting information, but it is inexplicably hidden behind self-closing cupboards and drawers with no hints on them of the contents! If we were here alone, we could have worked our way through every door looking for ones that interest us, but with the crowds it was just impossible. Opening a door requires someone else to close their door, and invasion of personal space is constant.
+
+Information is somewhat scattered all over the place, but it was hard to get an impression of the overall layout when the vast majority of our time was spent just trying to negotiate around other people. Looking at the pictures here, I must have missed quite a few areas presumably because they were obscured by the masses of bodies!
+
+I really recommend the organisers introduced some sort of maximum capacity, or mandatory online time slot booking, ensure children understand it's not a playground, and provide at least a few words of description on openable hatches. It could be so much better, and doesn't feel worth the current price.
+
+**[Original review](https://maps.app.goo.gl/uUeDMSsBtokX43767)**
+
+### Alexanderplatz ★★✰✰✰
+
+This was the only place in central Berlin where I didn't feel completely safe! Rubbish was all over the place, people were begging for money, plenty of people lurking in dark corners. Whilst the clock was interesting, it didn't redeem the square itself.
+
+No idea if we just got unlucky with timing, but I won't visit here again unless I have to.
+
+*Note: No Google Maps review available, as "This place is currently more likely to receive content that violates Google’s policies. To prevent this, Google has turned off posting."!*
 
 ### Aldi ★★★★★
 
-## Day 5 (30th December): Tiergarten & Departure
+Pretty standard ALDI with great prices and plenty of options, within easy distance of the nearby hotels and train station. Checkout was quick and efficient, nothing to complain about.
+
+**[Original review (1 photo)](https://maps.app.goo.gl/QyQyQn7U5ZmPq4o18)**
+
+## Day 5 (30th December): Tiergarten
 
 This was *meant* to be a chill day, not sure how we ended up with **19,557 steps (7.65 miles) walked**! We explored Tiergarten and did a bit of shopping at the other side of it, before getting the train back to our hotel then the airport.
 
 [![berlin 30th](/assets/images/2024/berlin-30th-thumbnail.png)](/assets/images/2024/berlin-30th.png)
 
-### Monument thing ★★★★★
+### Victory Column ★★★★★
+
+This column is accessed via 2 tunnels, each with 2 entrances, accessible from all sides of the roundabout. This makes it a convenient way to get from one side of Tiergarten to the other.
+
+The tunnels nearby both had musicians in when we visited, and they gave it a very pleasant atmosphere. We didn't go up the column itself, but the base is a great place to notice surrounding statues and look up information about the individuals.
+
+**[Original review](https://maps.app.goo.gl/HapEyYqi1TvnXcaa8)**
 
 ### Tiergarten ★★★★★
 
+We walked all the way across Tiergarten, from Berlin Hbf to Kaiser Wilhelm Memorial Church starting with the riverside path. It was an excellent walk, and the park contained wide, open paths with plenty of options for navigation.
 
+Part of the park was closed for some sort of event whilst we were there, and we had to reroute due to the park being split due to the zoo. Once you cross Lichtenstein bridge you have to go left or right, you can't make your way through the South-West part of the park as that is actually the zoo.
+
+**[Original review](https://maps.app.goo.gl/p8TLmBh1NTfHM1Nw5)**
 
 ## Conclusion
+
+Admittedly, Berlin had a very tough act to follow: [Prague](/prague-reviews). However, we never really... found the unique appeal. As people who have spent a lot of time in London, Berlin felt exactly like that, just in German.
+
+Sure, there is tons of history, tons of famous locations, plenty of restaurants, but the overall atmosphere was almost identical. I'm sure if we were more interested in clubs, or other things Berlin is known for, we might have had a better time. 
+
+As it is, Berlin was unfortunately the weakest of the 4 places visited. I'd happily go again, but only if it was for a specific event / reason: same as London! Additionally, of the cities we visited Berlin was the most likely to not have English menus, and a few people we spoke to spoke no English (or not to us, at least!). I'm hopefully not too much of an ignorant tourist, it was just a little surprising for such a globally visited city. I can of course get by with Google Translate, and it's totally my obligation.
+
+Unrelated to Berlin itself, I found it interesting that *five* of my reviews were automatically removed from Google Maps due to places being unreviewable. I can only assume this is due to antisemitism, although I'm not sure how a plaza (Alexanderplatz) can attract that.
+
+My favourite part of Berlin? Well, visiting places like Checkpoint Charlie that I've read about for years, and as silly as it sounds... Currywurst sausages!
+
+
