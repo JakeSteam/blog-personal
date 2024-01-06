@@ -14,7 +14,7 @@ Over Christmas and the surrounding couple of weeks, I was exploring Central Euro
 
 In total, I was in Prague from the afternoon of Fri 22nd December to just after lunch on Tue 26th.
 
-*Note: This is part 3 of 4 from this trip: [Zurich](/zurich-reviews), [Vienna](/vienna-reviews), **Prague**, and Berlin.*
+*Note: This is part 3 of 4 from this trip: [Zurich](/zurich-reviews), [Vienna](/vienna-reviews), **Prague**, and [Berlin](/berlin-reviews).*
 
 ## Day 1 (22nd December): Arrival & Landmarks
 

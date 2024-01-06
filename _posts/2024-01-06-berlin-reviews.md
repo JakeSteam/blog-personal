@@ -1,5 +1,5 @@
 ---
-title: How I spent 4 days in Berlin, told via 19 Google Maps reviews 🪖
+title: How I spent 4 days in Berlin, told via 20 Google Maps reviews 🪖
 author: Jake Lee
 layout: post
 image: /assets/images/2024/berlin-1480w.jpg
@@ -172,13 +172,19 @@ This day was pretty relaxed, walking the full length of Unter den Linden and get
 
 [![berlin 29th](/assets/images/2024/berlin-29th-thumbnail.png)](/assets/images/2024/berlin-29th.png)
 
+### Neue Wache ★★★★✰
+
+This is a surprisingly haunting statue in the middle of a large, empty room. Some information is depicted outside the room in many languages, and I'd recommend visiting briefly if you're in the area.
+
+**[Original review](https://maps.app.goo.gl/7HpYLo5MCaaU9rbGA)**
+
 ### Lustgarten ★★★★★
 
 A great place to relax between museums, with a view of the stunning Berliner Dom. There are lots of benches to sit on, and plenty of happy tourists enjoying themselves.
 
 **[Original review](https://maps.app.goo.gl/uAdHEoHoWmXZfYsw6)**
 
-### Schlogl ★★★★★
+### Schlögl's ★★★★★
 
 A cosy friendly restaurant offering traditional German food. Make sure you take the small path from the main road via a tunnel, NOT the larger road near Spielplatz!
 
