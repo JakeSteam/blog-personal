@@ -60,7 +60,7 @@ Whilst the menu is somewhat limited, every item on there is excellent. All of it
 
 I highly recommend the "Hippie Cookie", a nutty chewy flapjack-y thing that we ended up buying to take with us on walks. Additionally, the chicken wrap is simple but excellent. Careful when eating it since the dressing has a tendency to drip out towards the end!
 
-**[Original review]()**
+**[Original review](https://maps.app.goo.gl/b1ov5jY9TN2c7AQt6)**
 
 ### Spreebokgenpark ★★★★★
 
@@ -68,7 +68,7 @@ A great park to walk through on your way between the train station and other are
 
 Even at nighttime it is quite populated and well lit, giving a safe feeling. There is also a great riverside walk cutting through it, worth taking if you have the time.
 
-**[Original review (2 photos)]()**
+**[Original review (2 photos)](https://maps.app.goo.gl/SdcsR89vCm1najxS7)**
 
 ### Murdered Jews Memorial ★★★★★
 
@@ -76,19 +76,61 @@ Obviously it's hard to review a memorial objectively. However, this was an excel
 
 The upper part, the rectangular slabs, is a unique experience. Whilst the outer blocks feel like a collection of obstacles, the ground dips towards the middle resulting in a surreal experience somewhat similar to a very claustrophobic forest. There are often a few children running around (and into!) the blocks, but I highly recommend walking slowly and making a little noise with your feet to avoid any collisions.
 
-The underground part, the exhibition, is absolutely wort
+The underground part, the exhibition, is absolutely worth queuing to enter and paying the small fee (3-4 euro) for an audioguide. Note that there is an airport-style security check before getting in. The audioguide takes around an hour, and guides you through the entire exhibit. Whilst you can just read the information, being guided through the highlights and having it put in context really helps.
 
-### Mall of Berlin ★★★★★
+I really appreciate the combination of historical information underground, surreal sculpture above ground, and the areas where it overlaps (parts of the underground). A moving memorial.
 
-### Tower ★★★★★
+*Note: No Google Maps review available, as "This place is currently more likely to receive content that violates Google’s policies. To prevent this, Google has turned off posting."!*
 
-### Tower Cafe ★★★★★
+### Mall of Berlin ★★★★✰
 
-### Topgraphy of Terror ★★★★★
+A cosy mall with a wide variety of shops. Navigating can be a little confusing due to the two halves and multiple floors, the supermarket on the bottom floor is useful.
 
-### Checkpoint Charlie ★★★★★
+**[Original review](https://maps.app.goo.gl/eSu4g5AEe4PPTBkE8)**
 
-### Food delivery sausage? ★★★★★
+### Panoramapunkt Berlin ★★★★✰
+
+There are 3 distinct parts of Panorampunkt: The mini-museum, the viewpoint, and the cafe. They are accessed via the fastest elevator in Europe(!), with a friendly guide operating it as it zooms up the floors in mere seconds, making your ears pop.
+
+First, the outside mini-museum (which also has views). There is lots of well written information about the history of Berlin, specifically Potsdamer Platz. This provides plenty of information about the stages it has gone through, why it looks the way it does, and major events that have taken place. It's worth reading every board, as they provide a comprehensive overview.
+
+Next, the viewpoint. Whilst you do have excellent view from the mini-museum layer, going upstairs to the viewpoint lets you walk in a loop around all 3 sides of the building. This provides plenty of excellent views wherever you look, especially if you stand in a corner of the triangle! 
+
+Finally, the cafe. This is unfortunately the weakest point in our experience. It seems a little confused about whether it is a cafe for tourists (due to the location), or is an upscale restaurant (table service only). This confusion is reinforced by only accepting cash, and not warning customers until AFTER they have eaten! The menu is quite limited, with only a few items of food available, and some of those are actually out of stock.
+
+Staff in the cafe were friendly enough, but it can be hard to get their attention if seated at one of the higher tables with the best views.
+
+Overall I'd definitely recommend visiting the mini-museum and viewpoint, and maybe a small snack at the cafe if you remember to carry cash in 2023! 
+
+**[Original review (10 photos)](https://maps.app.goo.gl/Vj4jN6oYmSKQquf58)**
+
+### Topography of Terror ★★★★★
+
+This museum is actually a combination of multiple areas. A large section of the wall, essentially in its "natural" state, a slightly underground section detailing further information about the Gestapo, the wall, and the location, and finally a large building with very detailed exhibits.
+
+The large building will definitely take longer than you expect, we spent an hour in the single large room and could easily have spent longer. It covers all elements of the Gestapo, WW2, political prisoners, and much more. 
+
+A personal highlight is a section showing what happened to the higher-ups after the war. Disturbingly, the answer seems to usually be "they escaped", and were eventually caught decades later.
+
+*Note: No Google Maps review available, as "This place is currently more likely to receive content that violates Google’s policies. To prevent this, Google has turned off posting."!*
+
+### Checkpoint Charlie ★★★★✰
+
+This is a somewhat surreal historical area, since everyone there has seen the famous photo of the superpower tank showdown that was one of the crucial moments of the Cold War.
+
+However, without the Wall, this checkpoint is... essentially just an island in a random intersection! There are a few historical signs nearby, but the juxtaposition between them and typical fast food adverts is a little jarring. 
+
+I also find it strange wanting to take a selfie here, I didn't expect it to be that sort of attraction!
+
+*Note: No Google Maps review available, as "This place is currently more likely to receive content that violates Google’s policies. To prevent this, Google has turned off posting."!*
+
+### Curry Mitte ★★★★★
+
+Unbelievably good currywurst! We ordered delivery from here twice during our short trip here, and it was one of our favourite meals despite being fast food.
+
+I highly recommend the meatball, but the original sausage is excellent too. Chips are basic but generous. 3 sausages and 1 chips will be the perfect amount for 2 hungry people's dinner, I wish I could get this back home!
+
+**[Original review](https://maps.app.goo.gl/xFokRW2sdQA5e3nAA)**
 
 ## Day 3 (28th December): Sachsenhausen
 
