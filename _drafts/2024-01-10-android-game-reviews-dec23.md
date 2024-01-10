@@ -1,14 +1,14 @@
 ---
-title: "4 Android games I've enjoyed lately: Riddle Zen, Smashing Simulator, Idle Game 1 📲"
+title: "3 Android games I've enjoyed lately: Riddle Zen, Smashing Simulator, Idle Game 1 📲"
 author: Jake Lee
 layout: post
-image: /assets/images/2023/nov-games-banner.png
+image: /assets/images/2024/dec23games.png
 tags:
     - Android
     - Gaming
 ---
 
-Okay yes, I'm still playing Idle Iktah primarily. However, I've managed to spare a moment or two for other Android games! Here's the 4 I've enjoyed in the last few months.
+Okay yes, I'm still playing Idle Iktah primarily. However, I've managed to spare a moment or two for other Android games! Here's the 3 I've enjoyed in the last few months of 2023.
 
 The games are in descending order of "fun", and might contain mild spoilers:
 
@@ -40,9 +40,9 @@ The forced video ads mean I avoid playing much, and the sheer number of purchase
 
 ### Screenshots
 
-| Upgrades | Gameplay | Statistics |
+| Plant collection | Bad riddle | Good riddle |
 | --- | --- | --- |
-| [![](/assets/images/2023/nov-ssi-1-thumbnail.jpg)](/assets/images/2023/nov-ssi-1.jpg) | [![](/assets/images/2023/nov-ssi-2-thumbnail.jpg)](/assets/images/2023/nov-ssi-2.jpg) | [![](/assets/images/2023/nov-ssi-3-thumbnail.jpg)](/assets/images/2023/nov-ssi-3.jpg) |
+| [![](/assets/images/2023/nov-rz-2-thumbnail.jpg)](/assets/images/2023/nov-rz-2.jpg) | [![](/assets/images/2023/nov-rz-1-thumbnail.jpg)](/assets/images/2023/nov-rz-1.jpg) | [![](/assets/images/2023/nov-rz-3-thumbnail.jpg)](/assets/images/2023/nov-rz-3.jpg) 
 
 ## #2: [Smashing Simulator](https://play.google.com/store/apps/details?id=com.WalkingCatStudios.SmashingSimulatorIdle)
 
@@ -70,9 +70,9 @@ There really aren't any tips, just upgrade the highest level objects whenever yo
 
 ### Screenshots
 
-| Plant collection | Bad riddle | Good riddle |
+| Upgrades | Gameplay | Statistics |
 | --- | --- | --- |
-| [![](/assets/images/2023/nov-rz-2-thumbnail.jpg)](/assets/images/2023/nov-rz-2.jpg) | [![](/assets/images/2023/nov-rz-1-thumbnail.jpg)](/assets/images/2023/nov-rz-1.jpg) | [![](/assets/images/2023/nov-rz-3-thumbnail.jpg)](/assets/images/2023/nov-rz-3.jpg) 
+| [![](/assets/images/2023/nov-ssi-1-thumbnail.jpg)](/assets/images/2023/nov-ssi-1.jpg) | [![](/assets/images/2023/nov-ssi-2-thumbnail.jpg)](/assets/images/2023/nov-ssi-2.jpg) | [![](/assets/images/2023/nov-ssi-3-thumbnail.jpg)](/assets/images/2023/nov-ssi-3.jpg) |
 
 ## #3: [Idle Game 1](https://play.google.com/store/apps/details?id=com.cem.idle1)
 
