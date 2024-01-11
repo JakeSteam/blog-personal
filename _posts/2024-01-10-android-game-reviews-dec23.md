@@ -90,7 +90,7 @@ I'm a couple of hours in, and sometimes a circle appears in the top left that sa
 
 The first 20-30 minutes of the game are good, with new (very similar) areas or upgrades unlocked at a decent pace. However, the progression speed hits massive "walls" very early on, where the time required for significant progress will change from a couple of minutes to a day or two.
 
-Besides the baffling UI and the sluggish progression, the prestige loop is ridiculous. You have 9 "layers" (colours), each of which can have their "up arrow" (earnings), "lightning bolt" (speed), or "down arrow" (cost) boosted whwn you prestige. You do *not* get to choose, and instead one will be boosted completely at random. This design choice means most of your prestiges will be totally pointless, and occasionally you'll get lucky and actually boost your most profitable "layer".
+Besides the baffling UI and the sluggish progression, the prestige loop is ridiculous. You have 9 "layers" (colours), each of which can have their "up arrow" (earnings), "lightning bolt" (speed), or "down arrow" (cost) boosted when you prestige. You do *not* get to choose, and instead one will be boosted completely at random. This design choice means most of your prestiges will be totally pointless, and occasionally you'll get lucky and actually boost your most profitable "layer".
 
 I wouldn't mind this randomness if each run actually had some variance. Instead, you will perform identical actions (hold down unlock area button, hold down each area's upgrade button) over and over and *over* again, with no end in sight. Is this fun? Is this good gameplay? Perhaps not.
 
