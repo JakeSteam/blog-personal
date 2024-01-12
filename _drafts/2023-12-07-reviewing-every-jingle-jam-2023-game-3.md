@@ -27,16 +27,37 @@ Also, here's [part 1 for 2023](/reviewing-every-jingle-jam-2023-game), and 2022'
 
 ## 5/5 Games
 
-### first game
+### Train Valley 2
 
 | Steam rating | Price | Description | Released | Peak players
 | --- | --- | --- | --- | --- |
-| [??.??% - Store page](https://store.steampowered.com/app/) | £ |  |  |  |
+| [86.52% - Store page](https://store.steampowered.com/app/602320) | £11.39 | Train Planning Puzzles | April 2019 | 448 (May 2020) 
 
-review
+I generally don't enjoy train games, which makes it very lucky that Train Valley 2 is actually primarily a puzzle game! The aim of the game is resource management and supply chains, with each level having a set of objects that need to be created.
 
-| image1 | image2 | image3 |
+This starts off easy (get grain, created by sending people to a farm) but quickly ramps up. Once resources require other resources (e.g. cows made from wheat made by people), connecting the necessary buildings can be a challenge. However, the real challenge is getting complacent, and before you know it there'll be a horrendously expensive train crash!
+
+I'll be picking this up again to work through the 50ish levels, there's no time constraints so it's all about planning capability. Sips and Lewis [played this a bit during Jingle Jam](https://www.youtube.com/watch?v=JXO7sB1UYk8), worth a watch.
+
+| Level 1 | Level 2 | Level 3 |
 | --- | --- | --- |
+| [![](/assets/images/2024/jj-tv2-1-thumbnail.jpg)](/assets/images/2024/jj-tv2-1.jpg) | [![](/assets/images/2024/jj-tv2-2-thumbnail.jpg)](/assets/images/2024/jj-tv2-2.jpg) | [![](/assets/images/2024/jj-tv2-3-thumbnail.jpg)](/assets/images/2024/jj-tv2-3.jpg)
+
+## 4/5 Games
+
+## Totally Accurate Battle Simulator
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [96.43% - Store page](https://store.steampowered.com/app/508440) | 15.99 | Chaotic Battle Madness | April 2021 | 13,674 (April 2021)
+
+I've watched Angory Tom play this so, so much! TABS is a core part of the Jingle Jam streams, and one of my favourite yearly events.
+
+As a chaotic battle simulator, you have to make your own fun. This makes it a game that is perhaps more fun to watch than actually play, so here's the last few years of tournaments instead:
+1. [TABS Tournament 2020](https://www.youtube.com/watch?v=EdXJiVgqxFM)
+2. [TABS Tournament 2021](https://www.youtube.com/watch?v=zlS0KQ1jYCM) & [Part 2](https://www.youtube.com/watch?v=KOZmsBoBQU8)
+3. [TABS Tournament 2022](https://www.youtube.com/watch?v=QfOVPEMcpx0)
+4. [TABS Tournament 2023](https://www.youtube.com/watch?v=st9eJ0pbOPg)
 
 ## 3/5 Games
 
@@ -46,6 +67,10 @@ review
 | --- | --- | --- | --- | --- |
 | [88.42% - Store page](https://store.steampowered.com/app/1303950) | £16.75 | Perspective Puzzling | August 2021 | 104 (February 2022) 
 
+This was fun! Shifting between 3D and 2D perspectives to solve puzzles is a fun gimmick, and even a few puzzles in I could see the potential for brain-melting.
+
+However, it's a little awkward playing by yourself, and is definitely one of those things where the game is significantly better with a friend (at least based on gameplay videos).
+
 | 2D | 3D | Level select |
 | --- | --- | --- |
 | [![](/assets/images/2023/jj-tat-1-thumbnail.jpg)](/assets/images/2023/jj-tat-1.jpg) | [![](/assets/images/2023/jj-tat-2-thumbnail.jpg)](/assets/images/2023/jj-tat-2.jpg) | [![](/assets/images/2023/jj-tat-3-thumbnail.jpg)](/assets/images/2023/jj-tat-3.jpg)
@@ -54,8 +79,6 @@ review
 
 Tiny Life - The Sims with Pixels
 Tinytopia - Build Small Towns
-Totally Accurate Battle Simulator - Totally Accurate Battles
-Train Valley 2 - Trains Trains Trains
 
 Trifox - Stylish Colourful 3D Platformer
 Tunguska: The Visitation - Stealth Action RPG
