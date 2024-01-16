@@ -147,6 +147,54 @@ Overall this would have been a 4, and maybe even a 5, if it wasn't for the indic
 | --- | --- | --- |
 | [![](/assets/images/2024/jj-tgr-1-thumbnail.jpg)](/assets/images/2024/jj-tgr-1.jpg) | [![](/assets/images/2024/jj-tgr-2-thumbnail.jpg)](/assets/images/2024/jj-tgr-2.jpg) | [![](/assets/images/2024/jj-tgr-3-thumbnail.jpg)](/assets/images/2024/jj-tgr-3.jpg)
 
+### We Are The Dwarves
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [65.96% - Store page](https://store.steampowered.com/app/395570) | £14.99 | Tactical Dwarven ARPG | February 2016 | 1,464 (April 2019) 
+
+It's hard to have strong emotions on We Are The Dwarves. Wander round as a dwarf (others unlock later), shoot everything that moves, click everything else.
+
+It was *fine*, but hard to recommend. Dull, repetitive environments, and all the button mashing of Diablo / Torchlight without any of the looting dopamine.
+
+| Exploring | Combat | Shielded |
+| --- | --- | --- |
+| [![](/assets/images/2024/jj-watd-1-thumbnail.jpg)](/assets/images/2024/jj-watd-1.jpg) | [![](/assets/images/2024/jj-watd-2-thumbnail.jpg)](/assets/images/2024/jj-watd-2.jpg) | [![](/assets/images/2024/jj-watd-3-thumbnail.jpg)](/assets/images/2024/jj-watd-3.jpg)
+
+### Zapling Bygone
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [76.49% - Store page](https://store.steampowered.com/app/1489110) | £12.39 | Slimey Skully Platformer | August 2022 | 26 (August 2022)
+
+What an odd exploring game. The gameplay is quite familiar, exploring a complex map, gaining upgrades, killing enemies. It's all well implemented, and the controls feel precise.
+
+Additionally, the aesthetic is intriguing, giving it a distinct alien feel.
+
+However, my experience with it was pretty repetitive, and I'd be concerned that the rest of the game will be more of the same. With Spelunky, Rogue Legacy, and others, I'm kinda burnt out on exploring castles.
+
+| Exploring | Exploring 2 | Dialog |
+| --- | --- | --- |
+| [![](/assets/images/2024/jj-zb-1-thumbnail.png)](/assets/images/2024/jj-zb-1.png) | [![](/assets/images/2024/jj-zb-2-thumbnail.png)](/assets/images/2024/jj-zb-2.png) | [![](/assets/images/2024/jj-zb-3-thumbnail.png)](/assets/images/2024/jj-zb-3.png)
+
+### Zeepkist
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [91.75% - Store page](https://store.steampowered.com/app/1440670) | £9.29 | Bouncy Downhill Physics | January 2021 | 241 (May 2022)
+
+Zeepkist was a simple but fun experience. Think Trackmania, but with rubbery imprecise physics.
+
+I played through the first few levels of the offline campaign, and they ramped up pretty slowly. Pretty simple levels with generous time restrictions, where a single mistake requires a restart.
+
+After this, I hopped onto the online lobbies and... the difficulty ramped up! I could barely make the first few corners! I could definitely see this being addictive to play online, especially with friends. The workshop levels also help give the game longevity.
+
+As an aside, the game felt vaguely familiar, turns out I watched the Yogs [play it a month ago](https://www.youtube.com/watch?v=a4-bAh3pVS8)!
+
+| Downhill | Photo mode | Complex map |
+| --- | --- | --- |
+| [![](/assets/images/2024/jj-zk-1-thumbnail.jpg)](/assets/images/2024/jj-zk-1.jpg) | [![](/assets/images/2024/jj-zk-2-thumbnail.jpg)](/assets/images/2024/jj-zk-2.jpg) | [![](/assets/images/2024/jj-zk-3-thumbnail.jpg)](/assets/images/2024/jj-zk-3.jpg)
+
 ## 2/5 Games
 
 ### Tunguska: The Visitation
@@ -179,6 +227,20 @@ Valthirian Arc is all of these, so it's perhaps no surprise I didn't like it at 
 | --- | --- | --- |
 | [![](/assets/images/2024/jj-va-1-thumbnail.jpg)](/assets/images/2024/jj-va-1.jpg) | [![](/assets/images/2024/jj-va-2-thumbnail.jpg)](/assets/images/2024/jj-va-2.jpg) | [![](/assets/images/2024/jj-va-3-thumbnail.jpg)](/assets/images/2024/jj-va-3.jpg)
 
+### Xenonauts
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [84.73% - Store page](https://store.steampowered.com/app/223830) | £18.99 | Cold War X-COM | June 2014 | 1,619 (June 2014)
+
+I am genuinely stunned that this isn't an actual official X-COM game!
+
+The gameplay, interfaces, goals, entire game is essentially a modernised version of the old X-COM games. I've watched Lewis & Ben play this for hundreds of hours, and I know it's definitely not for me unfortunately. 
+
+| Air combat | World map | Equipment |
+| --- | --- | --- |
+| [![](/assets/images/2024/jj-xeno-1-thumbnail.jpg)](/assets/images/2024/jj-xeno-1.jpg) | [![](/assets/images/2024/jj-xeno-2-thumbnail.jpg)](/assets/images/2024/jj-xeno-2.jpg) | [![](/assets/images/2024/jj-xeno-3-thumbnail.jpg)](/assets/images/2024/jj-xeno-3.jpg)
+
 ## 1/5 Games
 
 ### Vermillion
@@ -191,15 +253,5 @@ I don't have a VR headset, and this game requires VR.
 
 ## Uncategorised
 
-Valthirian Arc - Hero School RPG
-Vermillion VR - Painting (In VR)
-
---
-
-We Are The Dwarves - Tactical Dwarf Adventure
 Whispers in the West - Cowboy Murder Mystery
 Witchtastic - Multiplayer Spooky Cooking
-Xenonauts - Tactical Alien Resistance
-Zapling Bygone - Smart Slime Metroidvania
-
-Zeepkist - Bouncy Downhill Driving
