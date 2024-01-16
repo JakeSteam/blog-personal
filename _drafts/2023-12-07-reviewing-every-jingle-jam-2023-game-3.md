@@ -127,10 +127,70 @@ However, it's a little awkward playing by yourself, and is definitely one of tho
 | --- | --- | --- |
 | [![](/assets/images/2023/jj-tat-1-thumbnail.jpg)](/assets/images/2023/jj-tat-1.jpg) | [![](/assets/images/2023/jj-tat-2-thumbnail.jpg)](/assets/images/2023/jj-tat-2.jpg) | [![](/assets/images/2023/jj-tat-3-thumbnail.jpg)](/assets/images/2023/jj-tat-3.jpg)
 
+### Turbo Golf Racing
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [80.40% - Store page](https://store.steampowered.com/app/1324350) | £14.99 | Rocket League Golf | October 2022 | 17 (October 2022)
+
+I used to love Rocket League, before it got sold off and... neglected. Turbo Golf Racing reminds me a lot of the earlier days of Rocket League, when it had solid gameplay mechanics but was just starting to implement extra monetisation.
+
+The core gameplay is pretty fun, it's just turn based golf with cars. I'm not sure if I was playing a human or a bot, since instantly finding another West Europe player when there's ~10 players online seems... unlikely. Additionally, they drove pretty straight lines, never jump boosted, and never emoted. Still, I beat them!
+
+Driving mechanics are very Rocket League-y, and this means the game sometimes feels like endlessly taking the kick-off shot. Line up shot, drive towards it, jump and boost, WHACK it in roughly the right direction. Easy.
+
+I'm not sure how much more depth there is than I saw in a single match, besides the seemingly endless cosmetics and engagement-bait quests. There's some sort of "cores" that give perks, but other than that all the gameplay seems identical to what I experienced. It's also a little concerning that I won my 3-round game, received 1.1k "gears"... then the cheapest shop item is 1.3k. I'd have expected to be able to buy a cheap cosmetic or two!
+
+Overall this would have been a 4, and maybe even a 5, if it wasn't for the indications of shallowness and monetisation.
+
+| Taking a shot | Winner | Mid shot |
+| --- | --- | --- |
+| [![](/assets/images/2024/jj-tgr-1-thumbnail.jpg)](/assets/images/2024/jj-tgr-1.jpg) | [![](/assets/images/2024/jj-tgr-2-thumbnail.jpg)](/assets/images/2024/jj-tgr-2.jpg) | [![](/assets/images/2024/jj-tgr-3-thumbnail.jpg)](/assets/images/2024/jj-tgr-3.jpg)
+
+## 2/5 Games
+
+### Tunguska: The Visitation
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [80.65% - Store page](https://store.steampowered.com/app/1601970) | £12.79 | Apocalyptic Isometric RPG | October 2022 | 17 (October 2022)
+
+I could see how someone might enjoy Tunguska. It reminds me a lot of earlier Fallout games or S.T.A.L.K.E.R, since you're trying to complete tasks and explore the wilderness whilst avoiding zombie-style enemies.
+
+However, I found it just a bit too clunky. All information was dumped on you, with pages upon pages of information. The quests were pretty vague, which I know is how older RPG tend to work but... too vague for me!
+
+I left the first town to try and complete my quest, then met a zombie. I managed to kill it with a crowbar I'd taken from a blue man in town, and was trying to figure out how to loot it. After pressing various buttons, I died, and was told I was lost to the zone. I respawned alllllll the way back at the entrance to town, seemingly with my quests all reset. OK.
+
+| Basement | Information | Campfire |
+| --- | --- | --- |
+| [![](/assets/images/2024/jj-ttv-1-thumbnail.jpg)](/assets/images/2024/jj-ttv-1.jpg) | [![](/assets/images/2024/jj-ttv-2-thumbnail.jpg)](/assets/images/2024/jj-ttv-2.jpg) | [![](/assets/images/2024/jj-ttv-3-thumbnail.jpg)](/assets/images/2024/jj-ttv-3.jpg)
+
+### Valthirian Arc
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [57.74% - Store page](https://store.steampowered.com/app/785850) | £12.99 | Anime School RPG | July 2021 | 288 (October 2018)
+
+I don't like high school RPGs. I don't like team RPGs like Final Fantasy. I don't like anime / cutesy art styles. I don't like royalty storylines.
+
+Valthirian Arc is all of these, so it's perhaps no surprise I didn't like it at all! The combat felt like blind button mashing, I had no interest in the story, and I won't be touching it again.
+
+| Art styles | Combat | Building |
+| --- | --- | --- |
+| [![](/assets/images/2024/jj-va-1-thumbnail.jpg)](/assets/images/2024/jj-va-1.jpg) | [![](/assets/images/2024/jj-va-2-thumbnail.jpg)](/assets/images/2024/jj-va-2.jpg) | [![](/assets/images/2024/jj-va-3-thumbnail.jpg)](/assets/images/2024/jj-va-3.jpg)
+
+## 1/5 Games
+
+### Vermillion
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [80.65% - Store page](https://store.steampowered.com/app/1608400) | £18.99 | VR Painting | July 2021 | 54 (August 2021)
+
+I don't have a VR headset, and this game requires VR. 
+
 ## Uncategorised
 
-Tunguska: The Visitation - Stealth Action RPG
-Turbo Golf Racing - Racing... with Golf?!
 Valthirian Arc - Hero School RPG
 Vermillion VR - Painting (In VR)
 
