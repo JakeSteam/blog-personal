@@ -227,6 +227,36 @@ Valthirian Arc is all of these, so it's perhaps no surprise I didn't like it at 
 | --- | --- | --- |
 | [![](/assets/images/2024/jj-va-1-thumbnail.jpg)](/assets/images/2024/jj-va-1.jpg) | [![](/assets/images/2024/jj-va-2-thumbnail.jpg)](/assets/images/2024/jj-va-2.jpg) | [![](/assets/images/2024/jj-va-3-thumbnail.jpg)](/assets/images/2024/jj-va-3.jpg)
 
+### Whispers in the West
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [76.64% - Store page](https://store.steampowered.com/app/1868070) | £4.29 | Co-op Murder Mystery | July 2023 | 26 (July 2023)
+
+This is obviously a game intended for multiple players, that can just about be played solo.
+
+I played through the tutorial, and it reminded me a bit of LA Noire, albeit with more dialogue and simpler. I assume the actual mysteries will be trickier to solve, unfortunately it's not particularly interesting solving by myself.
+
+Looking at the available levels, I suspect completing all of them won't take too long.
+
+| Map | Questioning | Dialog |
+| --- | --- | --- |
+| [![](/assets/images/2024/jj-witw-1-thumbnail.jpg)](/assets/images/2024/jj-witw-1.jpg) | [![](/assets/images/2024/jj-witw-2-thumbnail.jpg)](/assets/images/2024/jj-witw-2.jpg) | [![](/assets/images/2024/jj-witw-3-thumbnail.jpg)](/assets/images/2024/jj-witw-3.jpg)
+
+### Witchtastic
+
+| Steam rating | Price | Description | Released | Peak players
+| --- | --- | --- | --- | --- |
+| [82.76% - Store page](https://store.steampowered.com/app/1080010) | £13.99 | Co-op Potion Making | October 2021 | 36 (October 2023)
+
+You know Overcooked? Or Plate Up? Imagine that, but with potions instead of meals.
+
+Really, that's it. The gameplay videos show that some additional mechanics unlock later on, but it's obviously not intended for solo players. 
+
+| Home | World map | Gameplay |
+| --- | --- | --- |
+| [![](/assets/images/2024/jj-witch-1-thumbnail.jpg)](/assets/images/2024/jj-witch-1.jpg) | [![](/assets/images/2024/jj-witch-2-thumbnail.jpg)](/assets/images/2024/jj-witch-2.jpg) | [![](/assets/images/2024/jj-witch-3-thumbnail.jpg)](/assets/images/2024/jj-witch-3.jpg)
+
 ### Xenonauts
 
 | Steam rating | Price | Description | Released | Peak players
@@ -250,8 +280,3 @@ The gameplay, interfaces, goals, entire game is essentially a modernised version
 | [80.65% - Store page](https://store.steampowered.com/app/1608400) | £18.99 | VR Painting | July 2021 | 54 (August 2021)
 
 I don't have a VR headset, and this game requires VR. 
-
-## Uncategorised
-
-Whispers in the West - Cowboy Murder Mystery
-Witchtastic - Multiplayer Spooky Cooking
