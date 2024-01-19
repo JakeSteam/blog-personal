@@ -9,7 +9,7 @@ tags:
     - Android
 ---
 
-Idle Iktah is a game with a lot of combat. Quests, game progression, drops for alchemy, all require combat. But... what if you didn't want to fight? I've been working on the first ever level 3 skiller (1 att, str, def, 10 hp), here's a few things I discovered along the way!
+Idle Iktah is a game with a lot of combat. Quests, game progression, drops for alchemy, all require combat. But... what if you didn't want to fight? I've been working on the first ever level 3 skiller (1 attack / strength / defence, 10 hp), here's a few things I discovered along the way!
 
 This guide assumes that you know a fair amount about Idle Iktah already, this definitely isn't recommended for a first playthrough. You might also find [my previous Idle Iktah tip post](/idle-iktah-tips-faqs-and-endgame-guides) helpful, since it contains plenty of information about the end-game.
 
@@ -120,3 +120,9 @@ Tomes require level 5 combat. We will never have this, so no tomes for us. This 
 The combat dummies (accessed via tokens) have a max hit below 5, so can never be damaged.
 
 ## Conclusion
+
+I've played skillers in plenty of other games before (notably RuneScape, of course), but this is the first time I've had to invent my own techniques. I'm especially happy with obscure unlocks like Expedition's Echo, and achieving all 99s.
+
+It's somewhat disappointing that there's no particularly challenging content, the hardest is probably [attack cancelling](#cancel-attacks) against weaker enemies. Obviously I'm not playing the game as intended though, so I can't really complain! 
+
+Once I've finally grinded out the [final bed](#beds), I'll probably train combat so I can prestige and start again. Next playthrough idea: combat-only ⚔️
