@@ -41,9 +41,45 @@ Additionally, purchasing the "ad free" option still includes watching adverts fo
 * If you can think of a word, just play it even if it can't fit. You'll get a free letter.
 * On especially tricky puzzles, you might want to avoid playing a correct word if it uses up a letter. For example, if a word uses the last `F`, you can no longer make incorrect guesses with `F`.
 * Make sure to pay attention to the number of each letter available. If there's already an `F` in an unfinished word around the edge, and there is only one `F` available, it can't be used anywhere else!
+* Some of the words used are absurdly obscure, so I suspect the levels are automatically generated to some degree. Sometimes you need to just try random letter combinations
 
 ### Screenshots
 
 | Hidden word | Multiplayer | Guessing |
 | --- | --- | --- |
 | [![](/assets/images/2024/jan24-word-1-thumbnail.jpg)](/assets/images/2024/jan24-word-1.jpg) | [![](/assets/images/2024/jan24-word-2-thumbnail.jpg)](/assets/images/2024/jan24-word-2.jpg) |[![](/assets/images/2024/jan24-word-3-thumbnail.jpg)](/assets/images/2024/jan24-word-3.jpg) |
+
+## #2: [Puzzlerama](https://play.google.com/store/apps/details?id=com.leodesol.games.puzzlecollection)
+
+Puzzlerama is just a well implemented collection of various types of puzzles. I've had it installed since at least 2018 on various devices, and it's a loyal friend that I'll get into for a week or two, drop it for 6 months, and repeat.
+
+### Review
+
+If you like any kind of puzzles, you'll enjoy the game. No time pressures, very few in-app purchase opportunities, just solid puzzling gameplay.
+
+The game features 15+ different styles of puzzle, with each containing hundreds of puzzles across multiple difficulties. Most puzzle styles also have a "variant" mode, adding some extra variety. 
+
+Puzzlerama isn't a game I'd actively play for hours, but it is perhaps my all time favourite game for short, 1-minute play sessions. This is especially true without internet, or when in public, since there are no sounds, no flashing lights, and it's fine to just lock the screen whenever.
+
+Although all the included puzzles are traditional classics (Tangram, Pipes, Lines) that you might have played elsewhere, having them all in one place without any predatory monetisation really boosts the appeal of each. Additionally, it's interesting how challenging these puzzles can get, I never thought I'd be stumped by a Tangram!
+
+Completing the game 100% is extremely time-consuming, my stats say I've completed 987/5000 in around 20 hours of gameplay, but obviously this is all easier levels! As is typical with puzzle games, there is a "hint" system that will help ease you past tricky parts. However, since these are limited and require adverts / payment to get more, I essentially never use them.
+
+Finally, there's no concept of "lives" or "energy", you can play for as long as you want, and undo/redo moves.
+
+### Monetisation
+
+There are no pop-up ads, but you can watch optional adverts for additional hints, or purchase more. These are completely optional, and are arguably "cheating" since all puzzles can be solved with logic!
+
+The game states that purchasing hints also removes adverts, but I'm not sure if I've ever done this. Having a game installed for 6+ years makes you forgetful. Either way, the monetisation is very fair considering the massive amounts of time that can be spent.
+
+I think types of puzzles can be purchased, as I can see "Matches & Math" on sale for ~$10. This might seem expensive, but each has 500+ levels so is likely worth it for the best experience of that puzzle.
+
+### Tips
+
+
+
+### Screenshots
+
+| Hidden word | Multiplayer | Guessing |
+| --- | --- | --- |
