@@ -44,8 +44,8 @@ There's too many puzzle types to offer any tips! As with any puzzle game, just c
 
 ### Screenshots
 
-| Level select                                                                                    | All levels                                                                                      | Expert difficulty Pipes                                                                         |
-| ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+|                                          Level select                                           |                                           All levels                                            |                                     Expert difficulty Pipes                                     |
+| :---------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: |
 | [![](/assets/images/2024/jan24-puzzle-1-thumbnail.jpg)](/assets/images/2024/jan24-puzzle-1.jpg) | [![](/assets/images/2024/jan24-puzzle-2-thumbnail.jpg)](/assets/images/2024/jan24-puzzle-2.jpg) | [![](/assets/images/2024/jan24-puzzle-3-thumbnail.jpg)](/assets/images/2024/jan24-puzzle-3.jpg) |
 
 ## #2: [Wordathlon](https://play.google.com/store/apps/details?id=com.legenbearygames.wordathlon.word.matrix.puzzle)
@@ -81,8 +81,8 @@ Additionally, purchasing the "ad free" option still includes watching adverts fo
 
 ### Screenshots
 
-| Hidden word                                                                                 | Multiplayer                                                                                 | Guessing                                                                                    |
-| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+|                                         Hidden word                                         |                                         Multiplayer                                         |                                          Guessing                                           |
+| :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
 | [![](/assets/images/2024/jan24-word-1-thumbnail.jpg)](/assets/images/2024/jan24-word-1.jpg) | [![](/assets/images/2024/jan24-word-2-thumbnail.jpg)](/assets/images/2024/jan24-word-2.jpg) | [![](/assets/images/2024/jan24-word-3-thumbnail.jpg)](/assets/images/2024/jan24-word-3.jpg) |
 
 ## #3: [Grimoire Incremental](https://play.google.com/store/apps/details?id=com.legenbearygames.wordathlon.word.matrix.puzzle)
@@ -117,6 +117,6 @@ There is also a $5 payment to permanently earn 2.5x runes. Unfortunately this is
 
 ### Screenshots
 
-| Guide                                                                                               | Society                                                                                             | Statistics                                                                                          |
-| --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+|                                                Guide                                                |                                               Society                                               |                                             Statistics                                              |
+| :-------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
 | [![](/assets/images/2024/jan24-grimoire-1-thumbnail.jpg)](/assets/images/2024/jan24-grimoire-1.jpg) | [![](/assets/images/2024/jan24-grimoire-2-thumbnail.jpg)](/assets/images/2024/jan24-grimoire-2.jpg) | [![](/assets/images/2024/jan24-grimoire-3-thumbnail.jpg)](/assets/images/2024/jan24-grimoire-3.jpg) |
