@@ -1,5 +1,5 @@
 ---
-title: "3 Android games I've enjoyed lately: Wordathlon, Puzzlerama, Grimoire 📲"
+title: "3 Android games I've enjoyed lately: Puzzlerama, Wordathlon, Grimoire 📲"
 author: Jake Lee
 layout: post
 image: /assets/images/2024/feb24-games.png
