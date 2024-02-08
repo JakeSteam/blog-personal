@@ -85,7 +85,7 @@ Additionally, purchasing the "ad free" option still includes watching adverts fo
 | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
 | [![](/assets/images/2024/jan24-word-1-thumbnail.jpg)](/assets/images/2024/jan24-word-1.jpg) | [![](/assets/images/2024/jan24-word-2-thumbnail.jpg)](/assets/images/2024/jan24-word-2.jpg) | [![](/assets/images/2024/jan24-word-3-thumbnail.jpg)](/assets/images/2024/jan24-word-3.jpg) |
 
-## #3: [Grimoire Incremental](https://play.google.com/store/apps/details?id=com.legenbearygames.wordathlon.word.matrix.puzzle)
+## #3: [Grimoire Incremental](https://play.google.com/store/apps/details?id=com.dragonmegaliths.grimoire)
 
 Grimoire is nothing crazy, it's just a straightforward incremental. Well, straightforward in gameplay, not in mechanics!
 
