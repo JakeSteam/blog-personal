@@ -1,5 +1,5 @@
 ---
-title: Want to look ridiculous in Forza Horizon 5? Here's 30+ comedy cars, outfits, and livery ideas! 🚗🤡
+title: Want to look ridiculous in Forza Horizon 5? Here's 18 comedy cars, 3 outfits, and 4 livery ideas! 🚗🤡
 author: Jake Lee
 layout: post
 image: /assets/images/2024/fh5c-trident.png
@@ -12,7 +12,7 @@ Forza Horizon 5 has a lot of cars: over 800 by now. Whilst most of these are ver
 
 Whilst humour is subjective, I'm British so unsurprisingly enjoy a bit of slapstick, a bit of absurdist, and a [bit of shitshow comedy](/the-irresistible-allure-of-shitshow-comedy/). Luckily, Forza can offer all of these if you look hard enough, and combining a stupid car, livery, outfit, and horn can make you the laughingstock of a race. Perfect.
 
-I've linked the Forza wiki for all of these, which contains information on how to obtain each. Some might be DLC or very expensive, sorry!
+I've linked the Forza wiki article for all of these, which contains information on how to obtain each. Some might be DLC or very expensive, sorry!
 
 ## Cars
 
@@ -133,7 +133,7 @@ Ever wanted to drive a car around 200mph backwards? Good news, electric cars in 
 
 **[1958 Austin-Healey Sprite Mk1](https://forza.fandom.com/wiki/Austin-Healey_Sprite_MkI)**
 
-The Sprite Mk1 has a cute little face! What more needs to be said.
+The Sprite Mk1 has a cute little face! What more needs to be said?
 
 [![](/assets/images/2024/fh5c-sprite.png)](/assets/images/2024/fh5c-sprite.png)
 
@@ -145,29 +145,56 @@ A recurring odd car in Forza Horizon games, the Warthog handles well considering
 
 ## Outfits
 
-**Doritos**
+When you first start playing Forza, the seemingly endless cosmetic unlocks on wheelspins can be annoying. Yet another dull t-shirt is not a very appealing reward. However, there are full body costumes that are much more entertaining!
+
+**Tankito Doritos**
+
+This limited edition unlock [from October 2022](/complete-guide-to-fh5-secret-dlc-cars/#secret-outfit-oct-22) is the most out of place outfit in the entire game. As such, it's what I always use, especially as there is no way the driver can see a thing.
+
 [![](/assets/images/2024/fh5c-doritos.png)](/assets/images/2024/fh5c-doritos.png)
 
-**Gingerbread**
+**Gingerbread Outfit**
+
+Very out of place, even during the Christmas season it is unlocked during.
+
 [![](/assets/images/2024/fh5c-gingerbread.png)](/assets/images/2024/fh5c-gingerbread.png)
 
-**Dinosaur**
+**Dinosaur Outfit**
+
+Whilst the dinosaur outfit could have been an excellent oddity, the player's face is visible ruining the overall effect!
+
 [![](/assets/images/2024/fh5c-dinosaur.png)](/assets/images/2024/fh5c-dinosaur.png)
 
 ## Liveries
 
+When playing online, especially during The Trial, this is your opportunity to make the races a little bit more entertaining. Rolling up to a race looking awful is my favourite part of the Festival Playlist.
+
 **Neon colours**
+
+Extremely bright colours that hurt the eyes? Perfect. This can be done without installing a livery, and just painting body parts.
 
 [![](/assets/images/2024/fh5c-neon.png)](/assets/images/2024/fh5c-neon.png)
 
-**Words**
+**Pop culture**
+
+I don't use this genre of liveries, since it ends up annoying me more than entertaining. Every car will have hundreds of liveries with Pokémon, Among Us, Family Guy, Futurama etc stuck on.
+
+[![](/assets/images/2024/fh5c-popculture.png)](/assets/images/2024/fh5c-popculture.png)
 
 **Sleeper cars**
+
+Even though outside appearances mean nothing in Forza, players still underestimate cars that look run-down or rusted. As such, I often drive vehicles with rusty liveries applied, making first place even more satisfying.
 
 [![](/assets/images/2024/fh5c-sleeper.png)](/assets/images/2024/fh5c-sleeper.png)
 
 **Setting appropriate**
 
+Finally, some cars have liveries that instead of looking ridiculous, actually fit into the Mexico environment. Taxis, emergency services, and countless other liveries appropriate for the surroundings are available.
+
 [![](/assets/images/2024/fh5c-appropriate.png)](/assets/images/2024/fh5c-appropriate.png)
 
 ## Conclusion
+
+Once you've put enough hours into Forza Horizon 5 (I'm almost at 1000!), it can get a little bit repetitive. Mixing it up by taking the game even less seriously and trying to drive around something ridiculous helps, and can lead to surreal interactions with other players if they're also driving something odd.
+
+If you ever spot me in-game I'll look awful, at the very least in my Tankito Doritos outfit. This is definitely not Forza Motorsport, and I'm very grateful a bit of absurdity is possible!
