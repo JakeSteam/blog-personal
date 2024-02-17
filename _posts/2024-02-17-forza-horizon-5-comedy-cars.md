@@ -143,28 +143,6 @@ A recurring odd car in Forza Horizon games, the Warthog handles well considering
 
 [![](/assets/images/2024/fh5c-warthog.png)](/assets/images/2024/fh5c-warthog.png)
 
-## Outfits
-
-When you first start playing Forza, the seemingly endless cosmetic unlocks on wheelspins can be annoying. Yet another dull t-shirt is not a very appealing reward. However, there are full body costumes that are much more entertaining!
-
-**Tankito Doritos**
-
-This limited edition unlock [from October 2022](/complete-guide-to-fh5-secret-dlc-cars/#secret-outfit-oct-22) is the most out of place outfit in the entire game. As such, it's what I always use, especially as there is no way the driver can see a thing.
-
-[![](/assets/images/2024/fh5c-doritos.png)](/assets/images/2024/fh5c-doritos.png)
-
-**Gingerbread Outfit**
-
-Very out of place, even during the Christmas season it is unlocked during.
-
-[![](/assets/images/2024/fh5c-gingerbread.png)](/assets/images/2024/fh5c-gingerbread.png)
-
-**Dinosaur Outfit**
-
-Whilst the dinosaur outfit could have been an excellent oddity, the player's face is visible ruining the overall effect!
-
-[![](/assets/images/2024/fh5c-dinosaur.png)](/assets/images/2024/fh5c-dinosaur.png)
-
 ## Liveries
 
 When playing online, especially during The Trial, this is your opportunity to make the races a little bit more entertaining. Rolling up to a race looking awful is my favourite part of the Festival Playlist.
@@ -193,8 +171,30 @@ Finally, some cars have liveries that instead of looking ridiculous, actually fi
 
 [![](/assets/images/2024/fh5c-appropriate.png)](/assets/images/2024/fh5c-appropriate.png)
 
+## Outfits
+
+When you first start playing Forza, the seemingly endless cosmetic unlocks on wheelspins can be annoying. Yet another dull t-shirt is not a very appealing reward. However, there are full body costumes that are much more entertaining!
+
+**Tankito Doritos**
+
+This limited edition unlock [from October 2022](/complete-guide-to-fh5-secret-dlc-cars/#secret-outfit-oct-22) is the most out of place outfit in the entire game. As such, it's what I always use, especially as there is no way the driver can see a thing.
+
+[![](/assets/images/2024/fh5c-doritos.png)](/assets/images/2024/fh5c-doritos.png)
+
+**Gingerbread Outfit**
+
+Very out of place, even during the Christmas season it is unlocked during.
+
+[![](/assets/images/2024/fh5c-gingerbread.png)](/assets/images/2024/fh5c-gingerbread.png)
+
+**Dinosaur Outfit**
+
+Whilst the dinosaur outfit could have been an excellent oddity, the player's face is visible ruining the overall effect!
+
+[![](/assets/images/2024/fh5c-dinosaur.png)](/assets/images/2024/fh5c-dinosaur.png)
+
 ## Conclusion
 
-Once you've put enough hours into Forza Horizon 5 (I'm almost at 1000!), it can get a little bit repetitive. Mixing it up by taking the game even less seriously and trying to drive around something ridiculous helps, and can lead to surreal interactions with other players if they're also driving something odd.
+Once you've put enough hours into Forza Horizon 5 (I'm almost at 1000!), it can get a little bit repetitive. Mixing it up by taking the game even less seriously and trying to drive around in something ridiculous helps, and can lead to surreal interactions with other players if they're also driving something odd.
 
 If you ever spot me in-game I'll look awful, at the very least in my Tankito Doritos outfit. This is definitely not Forza Motorsport, and I'm very grateful a bit of absurdity is possible!
