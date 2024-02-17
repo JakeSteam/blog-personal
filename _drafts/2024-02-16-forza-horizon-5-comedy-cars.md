@@ -1,5 +1,5 @@
 ---
-title: Want to look ridiculous in Forza Horizon 5? Here's 16 comedy cars, outfits, horns, and liveries! 🚗🤡
+title: Want to look ridiculous in Forza Horizon 5? Here's 30+ comedy cars, outfits, horns, and liveries! 🚗🤡
 author: Jake Lee
 layout: post
 image: /assets/images/2023/
@@ -10,7 +10,11 @@ tags:
 
 Forza Horizon 5 has a lot of cars: over 800 by now. Whilst most of these are very sensible, some are more useful for driving backwards, wheelies, or just looking very silly!
 
-## Small cars
+Whilst humour is subjective, I'm British so unsurprisingly enjoy a bit of slapstick, a bit of absurdist, and a [bit of shitshow comedy](/the-irresistible-allure-of-shitshow-comedy/). Luckily, Forza can offer all of these if you look hard enough, and combining a stupid car, livery, outfit, and horn can make you the laughingstock of a race. Perfect.
+
+## Cars
+
+### Small cars
 
 The tiny cars are a Forza classic comedy car, and their handling is usually so chaotic that they're only really usable in Playground Games events. They become bizarrely competitive in this context, since they have great acceleration and are tricky to hunt down.
 
@@ -32,9 +36,9 @@ The mildest of the small silly cars, the Isetta is actually pretty driveable! Mi
 
 [![](/assets/images/2024/fh5c-isetta.png)](/assets/images/2024/fh5c-isetta.png)
 
-## Big cars
+### Big cars
 
-There is something very satisfying about racing using a car twice the size of everyone else, and _winning_. Hopefully the others find it the massive vehicles as entertaining!
+There is something very satisfying about racing using a car twice the size of everyone else, and _winning_. Hopefully the others find the massive vehicles as entertaining!
 
 **2015 Mercedes-Benz Tankpool24**
 
@@ -42,49 +46,73 @@ I love the Tankpool truck, since it provides lots of space for a livery, is very
 
 [![](/assets/images/2024/fh5c-tankpool.png)](/assets/images/2024/fh5c-tankpool.png)
 
-**Unimog**
+**2014 Mercedes-Benz Unimog**
 
-## Hot Wheels cars
+[![](/assets/images/2024/fh5c-unimog.png)](/assets/images/2024/fh5c-unimog.png)
+
+### Hot Wheels cars
+
+Most of the Hot Wheels cars look a little odd, but these 4 are completely ridiculous.
 
 **2000 Deora 2**
 
+[![](/assets/images/2024/fh5c-deora.png)](/assets/images/2024/fh5c-deora.png)
+
 **2012 Bad To The Blade**
 
-**???? Boneshaker**
+[![](/assets/images/2024/fh5c-bad.png)](/assets/images/2024/fh5c-bad.png)
 
-**???? Nash Metropolitan Custom**
+**1957 Nash Metropolitan**
 
-**???? Ford F-5 Dually Hot Rod**
+[![](/assets/images/2024/fh5c-nash.png)](/assets/images/2024/fh5c-nash.png)
 
-**???? 2JetZ**
+**2018 2JetZ**
 
-## Wheelie-ing cars
+[![](/assets/images/2024/fh5c-2jetz.png)](/assets/images/2024/fh5c-2jetz.png)
+
+### Wheelie-ing cars
 
 **1970 GMC Jimmy**
+483 642 150
+
+[![](/assets/images/2024/fh5c-jimmy.png)](/assets/images/2024/fh5c-jimmy.png)
 
 **1971 Meyers Manx**
+641 925 306
+ridiculous non stop wheelies
+
+[![](/assets/images/2024/fh5c-meyers.png)](/assets/images/2024/fh5c-meyers.png)
 
 **1972 Reliant Supervan III**
+130 845 983
+rolls
+
+[![](/assets/images/2024/fh5c-supervan.png)](/assets/images/2024/fh5c-supervan.png)
 
 **1973 AMC Gremlin X**
+453 743 425
 
-**1974 Honda Civic**
+[![](/assets/images/2024/fh5c-gremlin.png)](/assets/images/2024/fh5c-gremlin.png)
 
-**1975 Ford Bronco**
+### Other cars
 
-## Other cars
+**2022 Fast & Furious Flip Car**
 
-**Fast & Furious Flip Car 2.0**
+[![](/assets/images/2024/fh5c-flip.png)](/assets/images/2024/fh5c-flip.png)
 
-**Koenigsegg Regera (Backwards)**
+**2016 Koenigsegg Regera**
 
-Maybe Rimac Nevera
+[![](/assets/images/2024/fh5c-regera.png)](/assets/images/2024/fh5c-regera.png)
 
 Electric cars just as fast backwards, since it's just the 1st gear
 
 **1958 Austin-Healey Sprite Mk1**
 
+[![](/assets/images/2024/fh5c-sprite.png)](/assets/images/2024/fh5c-sprite.png)
+
 **2554 AMG Transport Dynamics Warthog**
+
+[![](/assets/images/2024/fh5c-warthog.png)](/assets/images/2024/fh5c-warthog.png)
 
 ## Outfits
 
