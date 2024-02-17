@@ -1,5 +1,5 @@
 ---
-title: Want to look ridiculous in Forza Horizon 5? Here's 30+ comedy cars, outfits, horns, and liveries! 🚗🤡
+title: Want to look ridiculous in Forza Horizon 5? Here's 30+ comedy cars, outfits, and liveries! 🚗🤡
 author: Jake Lee
 layout: post
 image: /assets/images/2023/
@@ -117,18 +117,29 @@ Electric cars just as fast backwards, since it's just the 1st gear
 ## Outfits
 
 **Doritos**
+[![](/assets/images/2024/fh5c-doritos.png)](/assets/images/2024/fh5c-doritos.png)
 
-**Seasonal**
+**Gingerbread**
+[![](/assets/images/2024/fh5c-gingerbread.png)](/assets/images/2024/fh5c-gingerbread.png)
 
-## Horns
+**Dinosaur**
+[![](/assets/images/2024/fh5c-dinosaur.png)](/assets/images/2024/fh5c-dinosaur.png)
 
 ## Liveries
 
-**Bright colours**
+**Neon colours**
+
+[![](/assets/images/2024/fh5c-neon.png)](/assets/images/2024/fh5c-neon.png)
 
 **Words**
 
-**Unexpected**
+**Sleeper cars**
+
+[![](/assets/images/2024/fh5c-sleeper.png)](/assets/images/2024/fh5c-sleeper.png)
+
+**Setting appropriate**
+
+[![](/assets/images/2024/fh5c-appropriate.png)](/assets/images/2024/fh5c-appropriate.png)
 
 ## Conclusion
 
