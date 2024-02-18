@@ -16,11 +16,6 @@ jobs:
         with:
           githubToken: ${{ secrets.GITHUB_TOKEN }}
           compressOnly: true
-      - name: Short markdown
-        id: short-markdown
-        run: |
-          markdown=$(echo ${{steps.calibre.outputs.markdown}} | cut -c 1-1000)
-          echo "::set-output name=markdown::$markdown"
       - name: Create New Pull Request If Needed
         if: steps.calibre.outputs.markdown != ''
         uses: peter-evans/create-pull-request@v6
@@ -28,4 +23,4 @@ jobs:
           title: Compressed Images
           branch-suffix: timestamp
           commit-message: Compressed Images
-          body: ${{ steps.short-markdown.outputs.markdown }}
+          body: ""
