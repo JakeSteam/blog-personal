@@ -1,5 +1,5 @@
 ---
-title: "3 Android games I've enjoyed lately: KIng's Landing 📲"
+title: "3 Android games I've enjoyed lately: King's Landing, Tile Collector 📲"
 author: Jake Lee
 layout: post
 image: /assets/images/2024/mar24-games.png
@@ -45,3 +45,35 @@ There's none! No adverts, no purchases!
 |                                         Starting area                                         |                                          Mining area                                          |                                           Upgrades                                            |
 | :-------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
 | [![](/assets/images/2024/mar24-kings-1-thumbnail.jpg)](/assets/images/2024/mar24-kings-1.jpg) | [![](/assets/images/2024/mar24-kings-2-thumbnail.jpg)](/assets/images/2024/mar24-kings-2.jpg) | [![](/assets/images/2024/mar24-kings-3-thumbnail.jpg)](/assets/images/2024/mar24-kings-3.jpg) |
+
+## #2: [Tile Collector](https://play.google.com/store/apps/details?id=com.staplegames.tilecollector)
+
+Tile Collector is a single player version of Mahjong, requiring matching _three_ tiles, and with the ability to "hold" tiles to uncover others.
+
+### Review
+
+The gameplay here is pretty simple: match 3 tiles, clear the board. Sure, there are tiles to unlock (70), but they all function exactly the same with the only difference being the simple icon.
+
+Some levels are big and easy, and just tapping sets of 3 as you see them is completely fine. Others are small and technical, and will require carefully picking up tiles to uncover matches.
+
+It's hard to write much about Tile Collector as... there really isn't much here! Every level plays similarly, tiles are unlocked via a gacha-y mechanic earned through number of matches, and there's no extra functionality. The screenshots below cover the entire game.
+
+With all that being said, I could see myself putting a few hours into grinding through the levels (similar to [Puzzlerama](android-game-reviews-feb24/#1-puzzlerama)), if it wasn't for the...
+
+### Monetisation
+
+Constant adverts. Adverts at the bottom of the screen throughout, plus obnoxious 5-10 second adverts between _every_ level. This means you'll be spending around 10 seconds watching adverts per 60 seconds of gameplay, not even considering the constant on-screen presence.
+
+These non-stop adverts are pretty distracting when trying to solve a supposedly minimalist puzzle game, and completely undermine the gameplay. To make it worse, there's no ability to pay to remove ads.
+
+### Tips
+
+- Prioritise tiles blocking other tiles (obviously!), there's no benefit to clearing tiles at the bottom.
+- Tiles unfortunately completely obscure other tiles. This makes it impossible to know if a tile is actually at the bottom or not.
+- There are no benefits to collecting a "rare" tile over a common one, all that matters is clearing the board.
+
+### Screenshots
+
+|                                         Level start                                         |                                        During level                                         |                                         Collection                                          |
+| :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
+| [![](/assets/images/2024/mar24-tile-1-thumbnail.jpg)](/assets/images/2024/mar24-tile-1.jpg) | [![](/assets/images/2024/mar24-tile-2-thumbnail.jpg)](/assets/images/2024/mar24-tile-2.jpg) | [![](/assets/images/2024/mar24-tile-3-thumbnail.jpg)](/assets/images/2024/mar24-tile-3.jpg) |
