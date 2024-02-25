@@ -59,6 +59,7 @@ There are no adverts that I could see, forced or otherwise.
 - Don't trade items. The artifact shop owner offers you the ability to mutate items, but it is very expensive and the resource loss is not worth it. Similarly, the main shop sells items for high prices, only buy if absolutely necessary.
 - "Perfect" health at the end doesn't mean you took no hits, it just means you have full health. As such, you can heal up after a hit and still get the bonus.
 - The artifact shop can "find" enemies for you, just tap the items. This is the best way to progress if you don't have the requirements for a main quest.
+- There's occasionally codes on the developer's Instagram and Facebook that gives free in-game items. For example, `FURUYU692` gave a few thousand coins.
 
 ### Screenshots
 
