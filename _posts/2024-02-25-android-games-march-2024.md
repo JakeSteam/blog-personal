@@ -113,7 +113,7 @@ Some levels are big and easy, and just tapping sets of 3 as you see them is comp
 
 It's hard to write much about Tile Collector as... there really isn't much here! Every level plays similarly, tiles are unlocked via a gacha-y mechanic earned through number of matches, and there's no extra functionality. The screenshots below cover the entire game.
 
-With all that being said, I could see myself putting a few hours into grinding through the levels (similar to [Puzzlerama](android-game-reviews-feb24/#1-puzzlerama)), if it wasn't for the...
+With all that being said, I could see myself putting a few hours into grinding through the levels (similar to [Puzzlerama](/android-game-reviews-feb24/#1-puzzlerama)), if it wasn't for the...
 
 ### Monetisation
 
