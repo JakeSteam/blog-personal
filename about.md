@@ -12,14 +12,14 @@ layout: page
     }
 </style>
 
-Hello! 
+Hello!
 
 This is my blog for non-programming posts, all my programming posts are over on [blog.jakelee.co.uk](https://blog.jakelee.co.uk)!
 
 ## Links
 
-| Professional | Personal | Tracking | Gaming | Wishlist |
-| :--: | :--: | :--: | :--: | :--: |
+|                                                                                                                              Professional                                                                                                                               |                                                                                                                                   Personal                                                                                                                                    |                                                                                                                                      Tracking                                                                                                                                       |                                                                                                    Gaming                                                                                                    |                                         Wishlist                                         |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
 | <a href="https://www.linkedin.com/in/jake-lee"><i class="fa-brands fa-linkedin-in"></i></a> <a href="https://github.com/JakeSteam"><i class="fa-brands fa-github"></i></a> <a href="https://stackoverflow.com/u/608312"><i class="fa-brands fa-stack-overflow"></i></a> | <a href="https://www.twitter.com/jakeleeuk/"><i class="fa-brands fa-twitter"></i></a> <a href="https://www.reddit.com/user/JakeSteam/"><i class="fa-brands fa-reddit-alien"></i></a> <a href="https://www.instagram.com/jakeleeuk"><i class="fa-brands fa-instagram"></i></a> | <a href="https://open.spotify.com/user/1158672316"><i class="fa-brands fa-spotify"></i></a> <a href="https://www.goodreads.com/JakeSteam"><i class="fa-brands fa-goodreads-g"></i></a> <a href="https://www.imdb.com/user/ur67633144/ratings"><i class="fa-brands fa-imdb"></i></a> | <a href="https://account.xbox.com/en-gb/profile?gamertag=JakeLeeUK"><i class="fa-brands fa-xbox"></i></a> <a href="https://steamcommunity.com/id/jakethemedic"><i class="fa-brands fa-steam-symbol"></i></a> | <a href="https://notes.jakelee.co.uk/wishlist.html"><i class="fa-solid fa-gift"></i></a> |
 
 ## Work
@@ -33,7 +33,8 @@ This is my blog for non-programming posts, all my programming posts are over on 
 **2014 - 2017**: Software Engineer @ [First Option Software](https://www.firstoptionsoftware.com/)
 
 ## Education
-**2021 - 2024**: MBA (Technology Management) @ Open University<br>
+
+**2021 - 2025**: MBA (Technology Management) @ Open University<br>
 **2018**: Associate Android Developer<br>
 **2017**: MCSE: Data Management & Analytics<br>
 **2016**: MCSA: SQL Server 2012/2014<br>
@@ -42,7 +43,10 @@ This is my blog for non-programming posts, all my programming posts are over on 
 
 ## Technologies
 
-| | Use daily | Use regularly | Use rarely |
-| -- | -- | -- | -- |
-| **Languages** | Git, Kotlin | CSS, HTML, Java, JavaScript, SQL | C#, ColdFusion, Liquid, PHP, Python, Shell, Swift, Visual Basic |
-| **Technologies** | Android, Firebase, GitHub Actions, GraphQL, Jekyll | Cloudflare | ActionScript, Apache, Azure, Flutter, iOS, jQuery, Virtual Machines, WordPress | 
+I primarily work on Android & everything related, plus a bit of general web stuff!
+
+- **Android**: Adyen, Avo, Dagger / Hilt, Gson, Gradle, GraphQL, Java, Jetpack (Compose, LiveData, Room, ViewModel, etc), Kotlin (Coroutines), Retrofit
+- **Web**: Jekyll (Liquid), Next.js (HTML, JS, TS), Prisma, React, SQL, Tailwind (CSS)
+- **Cloud**: Cloudflare, Firebase, GitHub Actions
+- **Misc**: Bash, Markdown
+- **Niche / rarely used**: ActionScript, C#, ColdFusion, Lingo, PHP, Python, Swift, Visual Basic, WordPress
