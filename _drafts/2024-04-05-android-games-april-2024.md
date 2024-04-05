@@ -2,13 +2,13 @@
 title: "3 Android games I've enjoyed lately: Pawnbarian, ShakaShaka, and Dice Tycoon 🎲"
 author: Jake Lee
 layout: post
-image: /assets/images/2024/apr24-banner.png
+image: /assets/images/2024/apr-24-games-740w.png
 tags:
   - Android
   - Gaming
 ---
 
-Another nice varied month, and admittedly I've still been mostly playing "[Sorcery School](/android-games-march-2024/#1-sorcery-school)". Still, a couple of fun puzzlers!
+Another nice varied month, although admittedly I've still been mostly playing "[Sorcery School](/android-games-march-2024/#1-sorcery-school)". Still, a couple of fun puzzlers!
 
 The games are in descending order of "fun", and might contain mild spoilers:
 
@@ -20,7 +20,7 @@ A Play Store recommendation, this is actually a port of [a very well reviewed St
 
 ### Review
 
-Pawnbarian by [j4nw](https://j4nw.com/) is a vaguely chess-inspired puzzle game, with your "Pawn" making his way through boards of enemies, each with various buffs. Each turn you'll be dealt 2-3 chess pieces from your deck of cards, controlling what style of movement you can do (e.g. bishop = can move diagonally). These pieces will also have bonuses like granting an extra move, dealing surrounding damage, or protecting you from damage.
+Pawnbarian by [j4nw](https://j4nw.com/) is a vaguely chess-inspired puzzle game, with your "Pawn" making his way through boards of enemies, each with various buffs. Every turn you'll be dealt 2-3 chess pieces from your deck of cards, controlling what style of movement you can do (e.g. bishop = can move diagonally). These pieces will also have bonuses like granting an extra move, dealing surrounding damage, or protecting you from damage.
 
 The complexity will quickly stack up, with enemies having various patterns you can _damage them_ from, and patterns they can _damage you_ from. This might mean you make a clever move towards trapping an enemy that needs 2 consecutive hits to kill, but unexpectedly have to veer away when an enemy you weren't focusing on is about to deal you fatal damage.
 
@@ -43,8 +43,8 @@ There's a few _very_ basic bits of UI that I missed on my first few attempts, oo
 1. The red lines (or skull for lethal) in the corner of each tile indicate the damage you'll receive if you're standing on it next turn.
 2. Gold enemy = immune. This might be due to your location, other enemies still being alive, or other factors.
 3. You'll receive no damage after killing the last enemy, so don't worry about your final tile.
-4. Shields only protect you from damage on your _next_ turn, they're not permanent.
-5. The "agile" perk (enemy dodges first attack) doesn't apply if the enemy can't move away from you due to another enemy or an edge.
+4. Shields only protect you from damage on your _current_ turn, they're not permanent.
+5. The "Nimble" perk (enemy dodges first attack) doesn't apply if the enemy can't move away from you due to another enemy or an edge.
 6. Long press on each enemy to figure out their mechanics. Working through each one's behaviour will eventually let you defeat them all.
 7. This will come down to personal preference, but I _really_ relied on the "Cantrip" (lightning bolt). Having extra turns lets the passive attacks stack up and clear out enemies.
 
@@ -53,6 +53,39 @@ There's a few _very_ basic bits of UI that I missed on my first few attempts, oo
 |                                     Campaign select                                     |                                       Enemy stats                                       |                                        Gameplay                                         |
 | :-------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
 | [![](/assets/images/2024/apr-pawn-1-thumbnail.jpg)](/assets/images/2024/apr-pawn-1.jpg) | [![](/assets/images/2024/apr-pawn-2-thumbnail.jpg)](/assets/images/2024/apr-pawn-2.jpg) | [![](/assets/images/2024/apr-pawn-3-thumbnail.jpg)](/assets/images/2024/apr-pawn-3.jpg) |
+
+## #2: [ShakaShaka](https://play.google.com/store/apps/details?id=hu.oktapp.shakashaka)
+
+I found this app version of an obscure Japanese logic puzzle "[Shakashaka](https://en.wikipedia.org/wiki/Shakashaka)" (by the [creator of Sudoku](<https://en.wikipedia.org/wiki/Nikoli_(publisher)>) and many more) by accident, and I'm still struggling to master it! It only has a hundred or so downloads, and is the only Shakashaka app on the store.
+
+### Review
+
+Shakashaka puzzles are complete when they meet 2 simple goals:
+
+1. Ensure every numbered tile has black triangles on the specified number of sides.
+2. Ensure the white spaces are square or rectangular, either rotated or straight.
+
+That's it!
+
+Those 2 simple rules combine to make a surprisingly tricky game, where you'll alternate between obvious, easy tiles, then be stumped on how to make a random collection of triangles form a rectangular white space.
+
+The app implementation is very simple, just a tutorial, then the ability to generate and complete 5x5 - 15x15 puzzles with easy, medium, or hard solutions.
+
+I'd have liked to see _any_ sort of permanent progression, such as number of puzzles completed, difficulty levels completed, etc. Currently, there's no real reason to play one more puzzle besides the simple enjoyment of the puzzling, which I'm not quite sure is enough for the long term.
+
+### Monetisation
+
+There's none whatsoever! No ads, no donation possible, literally nothing!
+
+### Tips
+
+There aren't really any tips available, since it's a pretty simple logic puzzle. Good luck.
+
+### Screenshots
+
+|                                         Tutorial                                          |                                       Simple puzzle                                       |                                      Complex puzzle                                       |
+| :---------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
+| [![](/assets/images/2024/apr-shaka-1-thumbnail.jpg)](/assets/images/2024/apr-shaka-1.jpg) | [![](/assets/images/2024/apr-shaka-2-thumbnail.jpg)](/assets/images/2024/apr-shaka-2.jpg) | [![](/assets/images/2024/apr-shaka-3-thumbnail.jpg)](/assets/images/2024/apr-shaka-3.jpg) |
 
 ## #3: [Dice Tycoon](https://play.google.com/store/apps/details?id=com.genetix.dicetycoon)
 
