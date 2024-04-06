@@ -121,6 +121,6 @@ Adverts can be watched for a small 10-roll bonus, but aren't worth it.
 
 ### Screenshots
 
-|                                        Gameplay                                         |                                        Upgrades                                         |                                       Collection                                        |
+|                                       Collection                                        |                                        Upgrades                                         |                                        Gameplay                                         |
 | :-------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
 | [![](/assets/images/2024/apr-dice-1-thumbnail.jpg)](/assets/images/2024/apr-dice-1.jpg) | [![](/assets/images/2024/apr-dice-2-thumbnail.jpg)](/assets/images/2024/apr-dice-2.jpg) | [![](/assets/images/2024/apr-dice-3-thumbnail.jpg)](/assets/images/2024/apr-dice-3.jpg) |
