@@ -11,15 +11,15 @@ In April 2024, Reddit added 18 achievements to the mobile app, grouped into 3 ca
 
 ## What are achievements?
 
-Whilst completing common activities within the Reddit app, you'll occasionally see a small pop-up in the middle of the screen informing you that a new achievement has been unlocked. Tapping this will take you to the "Achievements" screen, also accessible by tapping your icon in the top right, and selecting "Achievements".
+Whilst completing common activities within the Reddit app, you'll occasionally see a small pop-up in the middle of the screen informing you that a new achievement has been unlocked. Tapping this will take you to the "Achievements" screen, also accessible by tapping your icon in the top right and selecting "Achievements".
 
 Some of these achievements are unlocked based on past activity (e.g. I unlocked "Nice Comment" on a 6-year-old post), whilst others always need to be earned (e.g. "Search Explorer" for tapping search results). Each has a somewhat arbitrary rarity of "Common", "Rare", "Epic", or "Legendary".
 
-Most are pretty straightforward, and I unlocked all except the "Streak" awards within a few minutes. The streak awards require up to 50 days of daily activity, so for now they're still locked for me!
+Most are pretty straightforward, and I unlocked all except the [streak awards](#reddit-streak-6) within a few minutes. The streak awards require up to 50 days of daily activity, so for now they're still locked for me!
 
 Achievements are greyed out until earned, when a full colour version is unlocked. They also have a progress indicator underneath.
 
-Interestingly, if you view an achievement, you can see the comment / subreddit that earned you the achievement, as well as what number user you were to unlock it. Finally, you can also share an earned achievement, giving you an image (with toggleable username & avatar) to post... on Reddit?
+Interestingly, if you view an achievement, you can see the comment / subreddit that earned you the achievement, as well as what number user you were to unlock it. Finally, you can also share an earned achievement (or current streak), giving you an image (with toggleable username & avatar) to post... on Reddit?
 
 [![Shareable Reddit achievement](/assets/images/2024/reddit_achievement-thumbnail.jpg)](/assets/images/2024/reddit_achievement.jpg)
 
