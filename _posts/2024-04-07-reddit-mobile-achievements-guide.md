@@ -37,7 +37,7 @@ These are all very simple achievements that you'll probably earn in your first t
 |     [![Secured Account Reddit achievement](/assets/images/2024/reddit-securedaccount-thumbnail.png)](/assets/images/2024/reddit-securedaccount.png)<br>**Secured Account**      |                Verify an email or phone number on your Reddit account                |
 |         [![Joined Reddit Reddit achievement](/assets/images/2024/reddit-joinedreddit-thumbnail.png)](/assets/images/2024/reddit-joinedreddit.png)<br>**Joined Reddit**          |                   Have a Reddit account, the easiest achievement!                    |
 
-## Exploration (6)
+## Exploration (5)
 
 These achievements are a little more challenging, with creating a 10 upvote post or comment being more challenging depending on which subreddits you joined. Past posts and comments are included in this, so you might rediscover a popular post you made years ago!
 
