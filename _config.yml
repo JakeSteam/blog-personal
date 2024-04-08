@@ -3,6 +3,7 @@ remote_theme: JakeSteam/minimaJake@1.0.13
 title: Jake Lee
 description: In-depth ad-free articles about finance, gaming, data analysis, travel, aaaand everything else non-technical
 accent_colour: "#acacac"
+url: https://jakelee.co.uk
 
 # Optional native feature customisation (delete to turn off)
 table_of_contents_header: "Jump to:"
