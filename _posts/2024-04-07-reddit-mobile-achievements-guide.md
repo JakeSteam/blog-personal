@@ -55,7 +55,7 @@ The streak achievements are simple loyalty rewards, requiring some sort of activ
 
 [![Reddit streak achievement tracking](/assets/images/2024/reddit-streak.png)](/assets/images/2024/reddit-streak.png)
 
-I'll replace these graphics when I unlock the colour versions, in 47 days!
+_Streak achievement images credit: [u/RcGJogaMine](https://www.reddit.com/user/RcGJogaMine)_
 
 |                                                                         Achievement                                                                          |                                Requirement                                |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
