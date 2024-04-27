@@ -67,16 +67,38 @@ Whilst I massively enjoyed [Office Cat](https://play.google.com/store/apps/detai
 | :-----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: |
 | [![](/assets/images/2024/may-cat-1-thumbnail.jpg)](/assets/images/2024/may-cat-1.jpg) | [![](/assets/images/2024/may-cat-2-thumbnail.jpg)](/assets/images/2024/may-cat-2.jpg) | [![](/assets/images/2024/may-cat-3-thumbnail.jpg)](/assets/images/2024/may-cat-3.jpg) | [![](/assets/images/2024/may-cat-4-thumbnail.jpg)](/assets/images/2024/may-cat-4.jpg) |
 
-## #1: [Knotwords](https://play.google.com/store/apps/details?id=com.noodlecake.knotwords)
+## #2: [Knotwords](https://play.google.com/store/apps/details?id=com.noodlecake.knotwords)
 
-intro
+Knotwords is a word game with a very simple premise: Use the letters provided in the permitted spaces to make valid words. And don't make... (k)not words. Awful pun.
 
 ### Review
 
+There isn't _that_ much to review with [Knotwords](https://play.google.com/store/apps/details?id=com.noodlecake.knotwords). If you like the core puzzle concept, you'll like the game. If you don't, you won't. So, what's the core concept?
+
+The game board is split into sections of 2-4 tiles, each with the appropriate number of letters that can be placed there. The goal is to place all the letters, with all horizontal and vertical letters forming valid words.
+
+For example, in the "Level complete" screenshot below, the 3 tiles in the bottom left must be the `D`, `G`, and `I`. Since words typically don't end in `DG` or `GD`, you know `I` goes in the middle. Using similar deduction for other sections, somewhat similarly to sudoku, you can logically figure out where every letter goes.
+
+The game does a good job of nudging you in the correct direction, by only highlighting unused letters, and indicating invalid words or reused letters. Thankfully there's no flashing indicators or adverts on the screen, just the game board and the ability to get a crossword-style hint or two if you need it.
+
+This is the entire game, with 2 new puzzles every day and a pack of 50 every month. Want access to thousands more puzzles, or customise the UI / view stats? Pay up!
+
 ### Monetisation
+
+I typically love the "game is free with ads / limitations, one time payment for full game" model, and I initially thought Knotwords fit this. Unfortunately, it's actually $5 per _year_ for the full game, or $13 for a lifetime license.
+
+This type of model is hard to find positives in. I would never pay the $13, but I would pay $5 for a year... but what happens when that year runs out? If I'm still playing, I have to pay _again_, if I've uninstalled it I probably forgot to cancel and have to notice and refund.
+
+It's a real shame, and this kind of monetisation model disincentivises me to pay any money whatsoever. What if I end up loving it, and have to keep paying every year!? Due to this, I ended up sticking to the free game.
 
 ### Tips
 
-### Improvements
+- It's a logic word game, so the ability to creatively think of words will obviously help!
+- The puzzle books puzzles have a hint, e.g. "Uncommon words". Keep this in mind to narrow down your options.
+- Getting started on the board can be the hardest part, so just put down any valid word to get the process started.
 
 ### Screenshots
+
+|                                         In game                                         |                                     Level complete                                      |                                     Locked features                                     |
+| :-------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
+| [![](/assets/images/2024/may-knot-1-thumbnail.jpg)](/assets/images/2024/may-knot-1.jpg) | [![](/assets/images/2024/may-knot-2-thumbnail.jpg)](/assets/images/2024/may-knot-2.jpg) | [![](/assets/images/2024/may-knot-3-thumbnail.jpg)](/assets/images/2024/may-knot-3.jpg) |
