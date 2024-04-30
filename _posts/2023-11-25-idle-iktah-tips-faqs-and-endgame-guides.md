@@ -86,7 +86,7 @@ It depends what you're trying to do. For most of the game, the simple answer is 
 
 Later on, if you are low on food you'll want to use higher defense armour. If you're grinding for XP against weaker enemies, you'll want to prioritise attack and strength, with defense not really mattering.
 
-The alchemist's mask (rare drop from Tamah Shaman in the "Tamah Tribesmen" combat area") is extremely powerful if you're using combat potions, as it doubles their impact.
+The alchemist's mask (rare drop from Tamah Shaman in the "Tamah Tribesmen" combat area) is extremely powerful if you're using combat potions, as it doubles their impact.
 
 ##### **9. What enchants should I use?**
 

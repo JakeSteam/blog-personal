@@ -1,5 +1,5 @@
 ---
-title: "3 Android games I've enjoyed lately: Office Cat, Knotwords 😽"
+title: "3 Android games I've enjoyed lately: Office Cat, Close Cities, Knotwords 🐈"
 author: Jake Lee
 layout: post
 image: /assets/images/2024/may-24-games.png
@@ -8,9 +8,7 @@ tags:
   - Gaming
 ---
 
-intro
-
-The games are in descending order of "fun", and might contain mild spoilers:
+Whilst I'm still playing plenty of [Sorcery School](/android-games-march-2024/#1-sorcery-school), here are 2 puzzle games and an idle game I've put lots of time into this month!
 
 ## #1: [Office Cat](https://play.google.com/store/apps/details?id=com.tree.idle.cat.office)
 
@@ -22,7 +20,7 @@ Office Cat reminds me heavily of the [Kairosoft series](https://play.google.com/
 
 In Office Cat, you are managing an office building with multiple companies inside, similar to a WeWork or other shared building. As might be expected, higher tier companies pay more, but also have higher requirements to sign a contract (e.g. seat count) or pay full rent (e.g. quality of items).
 
-The gameplay loop is a standard "earn passive income, use it to purchase items that increase quality, increasing passive income". However, unlike some games that have a very simple "upgrade bathroom from level 20 to 21", every room has multiple items that can be upgraded, plus shared rooms like bathroom, break room, or recreation room.
+The gameplay loop is a standard "earn passive income, use it to purchase items that increase quality, increasing passive income". However, unlike some games that have a very simple "upgrade bathroom from level 20 to 21", every room has multiple items that can be upgraded, including shared rooms like bathroom, break room, or recreation room.
 
 This has the great side effect of _every_ purchase you make having a positive impact. For example, perhaps you have a low tier company in a high quality office room, surely upgrading that room further would be pointless? Well, there's probably better things to upgrade, but you'll still earn more from improving their plants! As such, you can never make an objectively wrong decision, merely a not-optimal one, drastically reducing any pressure.
 
@@ -55,8 +53,8 @@ There is also the option to pay to increase gem rewards for levelling up, but th
 
 Whilst I massively enjoyed [Office Cat](https://play.google.com/store/apps/details?id=com.tree.idle.cat.office), there's a few changes I'd recommend the developer could make:
 
-- All the cats voice their feedback at the same time. Having an office full of people suddenly shouting about a plant is very odd!
-- The "plant" mechanic is too reliant on the roulette wheel. I've almost completed the game yet never saw a plant, so completely missed this feature.
+- All the cats voice their feedback at the same time. Having an office full of cats suddenly shouting about a plant is very odd!
+- The "plant" mechanic is too reliant on the roulette wheel. I've completed the game yet never saw a plant despite claiming most roulette spins, so completely missed this feature. I do have 20 fertilizers though..?
 - Similarly, the roulette wheel is an awful deal. A spin costs 160 gems, which can be converted to 4-5 hours of earnings in the shop. However, almost half the potential rewards are under an hour of cash / XP! If you get lucky and get the gems or plants maybe it's worth it, but my free spins were essentially worthless.
 - I'd like to be able to zoom out more and actually SEE an overview of every room in the office building at once.
 - The "car full of cash" mechanic is way too powerful at the end-game, and becomes the main source of income since it offers 5 minutes of income instantly. I'd like to see more random events, perhaps some with minigames or negative outcomes.
@@ -67,7 +65,42 @@ Whilst I massively enjoyed [Office Cat](https://play.google.com/store/apps/detai
 | :-----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: |
 | [![](/assets/images/2024/may-cat-1-thumbnail.jpg)](/assets/images/2024/may-cat-1.jpg) | [![](/assets/images/2024/may-cat-2-thumbnail.jpg)](/assets/images/2024/may-cat-2.jpg) | [![](/assets/images/2024/may-cat-3-thumbnail.jpg)](/assets/images/2024/may-cat-3.jpg) | [![](/assets/images/2024/may-cat-4-thumbnail.jpg)](/assets/images/2024/may-cat-4.jpg) |
 
-## #2: [Knotwords](https://play.google.com/store/apps/details?id=com.noodlecake.knotwords)
+## #2: [Close Cities](https://play.google.com/store/apps/details?id=com.juan.ma.tinycastle)
+
+Close Cities is a very laid back logic / puzzle game focused on fitting enough "cities" onto a map without touching.
+
+### Review
+
+This is one of my favourite genres of puzzle games: a simple concept, built well and presented simply yet with plenty of polish.
+
+In each level of [Close Cities](https://play.google.com/store/apps/details?id=com.juan.ma.tinycastle), you are presented with roads through a space, each of which needs a specific number of cities on. A city is a specific number of populated tiles, not touching any other populated tiles. Sounds easy, but finding enough space to fit all the cities in forms the basis of the challenge!
+
+Each collection of 10-15 levels has a different colour scheme and theme (e.g. nationality), adding a bit of visual flourish to what would otherwise be quite a repetitive appearance. Similarly, the number of tiles required to make a city occasionally changes, providing essential gameplay variation.
+
+The game seems to have around 150 puzzles included, organised into 10 packs. These packs are completely free, and unlocked by completing previous packs. As such, I suspect I'll work through them all eventually.
+
+As is common with this sort of game, if you enjoy the core mechanic: you'll love Close Cities. If you can't get your head around it, or want more fast-paced gameplay: you won't!
+
+Usually I'd complain the game doesn't have much depth, but in this case I genuinely feel gimmicks like cosmetics, power-ups, or an overall level would detract from the deeply satisfying logical puzzle solving. Once you strip away the aesthetics, the concept is so simple that I'm _sure_ this is based on some sort of traditional puzzle, but I've certainly never seen it before.
+
+### Monetisation
+
+There's a forced 5-10 second advert after each level, and I believe additional (very optional) hints can be added via adverts too. Whilst usually I find forced ads a deal-breaker, in this case I don't mind because...
+
+All ads can be removed for £2.59 ($3)! This kind of one-time payment to, as the game says, "Unlock full game", is exactly the kind of monetisation I appreciate and will absolutely be purchasing it.
+
+### Tips
+
+- Start with the hardest road first. For example, if a small loop requires 3 cities, fitting those in should be done first.
+- When completing cities, make sure you pack them as densely as possible. If you leave a gap tile and then need an extra tile on the other side of the level you'll regret it!
+
+### Screenshots
+
+|                                       Level select                                        |                                        How to play                                        |                                       Example level                                       |
+| :---------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
+| [![](/assets/images/2024/may-close-1-thumbnail.jpg)](/assets/images/2024/may-close-1.jpg) | [![](/assets/images/2024/may-close-2-thumbnail.jpg)](/assets/images/2024/may-close-2.jpg) | [![](/assets/images/2024/may-close-3-thumbnail.jpg)](/assets/images/2024/may-close-3.jpg) |
+
+## #3: [Knotwords](https://play.google.com/store/apps/details?id=com.noodlecake.knotwords)
 
 Knotwords is a word game with a very simple premise: Use the letters provided in the permitted spaces to make valid words. And don't make... (k)not words. Awful pun.
 
