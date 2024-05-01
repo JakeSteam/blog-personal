@@ -61,6 +61,8 @@ Whilst I massively enjoyed [Office Cat](https://play.google.com/store/apps/detai
 
 ### Screenshots
 
+All screenshots are from version 1.0.6:
+
 |                                     Conversation                                      |                                       Upgrading                                       |                                          Map                                          |                                        Office                                         |
 | :-----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: |
 | [![](/assets/images/2024/may-cat-1-thumbnail.jpg)](/assets/images/2024/may-cat-1.jpg) | [![](/assets/images/2024/may-cat-2-thumbnail.jpg)](/assets/images/2024/may-cat-2.jpg) | [![](/assets/images/2024/may-cat-3-thumbnail.jpg)](/assets/images/2024/may-cat-3.jpg) | [![](/assets/images/2024/may-cat-4-thumbnail.jpg)](/assets/images/2024/may-cat-4.jpg) |
@@ -93,8 +95,11 @@ All ads can be removed for £2.59 ($3)! This kind of one-time payment to, as the
 
 - Start with the hardest road first. For example, if a small loop requires 3 cities, fitting those in should be done first.
 - When completing cities, make sure you pack them as densely as possible. If you leave a gap tile and then need an extra tile on the other side of the level you'll regret it!
+- There's a bug with the ambient noise
 
 ### Screenshots
+
+All screenshots are from version 1.0.5:
 
 |                                       Level select                                        |                                        How to play                                        |                                       Example level                                       |
 | :---------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
@@ -131,6 +136,8 @@ It's a real shame, and this kind of monetisation model disincentivises me to pay
 - Getting started on the board can be the hardest part, so just put down any valid word to get the process started.
 
 ### Screenshots
+
+All screenshots are from version 1.0.51:
 
 |                                         In game                                         |                                     Level complete                                      |                                     Locked features                                     |
 | :-------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
