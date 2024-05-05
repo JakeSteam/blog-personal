@@ -11,6 +11,8 @@ tags:
 
 I have been playing Idle Iktah almost obsessively for the last 6 weeks, and have finally reached all 99s and almost 100% completion! In this post, I'll answer common questions from the [Discord](https://discord.gg/TRymHghrKA), reveal plenty of gameplay tips, and include a small collection of mini-guides. Enjoy!
 
+Note that Idle Iktah is constantly being updated, so there's plenty of new content since this article was posted (November 2023).
+
 Improvements / suggestions for this post are very much welcomed, feel free to leave a comment or [raise a PR directly](https://github.com/JakeSteam/blog-personal/blob/main/_posts/2023-11-25-idle-iktah-tips-faqs-and-endgame-guides.md) and I'll include them. Mouseover / tap to the left of a header if you want a direct link to share.
 
 You might also find [@siofreed's data spreadsheet](https://docs.google.com/spreadsheets/d/1fR6Yq8Sr5UdVHVmJ50DPeGVADz1pZCS3-it2lJy7njo/edit#gid=412514719) (from Discord) useful, it contains _tons_ of extremely useful information on drop tables, recipes, pets, and trading. Searching this for any item is a great way to find out where it comes from and what it is used for, although it is sometimes out of date.
