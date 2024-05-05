@@ -51,6 +51,8 @@ There is also the option to pay to increase gem rewards for levelling up, but th
 
 ### Improvements
 
+_Note: The game received a massive update (v1.0.7) shortly after this article, adding lots more end-game depth like cars and houses! As such, I'm back into the game again._
+
 Whilst I massively enjoyed [Office Cat](https://play.google.com/store/apps/details?id=com.tree.idle.cat.office), there's a few changes I'd recommend the developer could make:
 
 - All the cats voice their feedback at the same time. Having an office full of cats suddenly shouting about a plant is very odd!
