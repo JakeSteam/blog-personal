@@ -22,7 +22,7 @@ The puzzles always feel fair, and solvable, with your own ability to think of ap
 
 Navigating around the game can be a little confusing, as there's no "home" screen as such. Instead, you're always in a puzzle, and can open an overlay menu to change settings or pick a new level. Completing a puzzle prompts you to play the next puzzle, so this isn't much of an issue in practice.
 
-There's a "Selfie mode" which... seems to involve using your front facing camera and microphone to solve puzzles somehow!? I only opened this up to get the achievements, there's no requirement (nor interest from my side). T
+There's a "Selfie mode" which... seems to involve using your front facing camera and microphone to solve puzzles somehow!? I only opened this up to get the achievements, there's no requirement (nor interest from my side). I couldn't find a tutorial for this so... it's a mystery.
 
 The game has quite a few unique additions like this, clearly showing the developers (Bleppo Games, Mark and Samuel) have creative freedom. For example, some puzzles have a recoloured "selection" line, such as European countries being yellow and blue (Ukraine).
 
@@ -49,9 +49,15 @@ I suspect I'll work my way through the free content, watching the occasional adv
 - Focus on unique letters. If you have a J or a Z, what words include those somewhere?
 - Diagonally isolated letters are powerful. If you have a letter only connected by a diagonal, it must be the start or end of a word.
 - I find it helpful to look away from the board sometimes, and just try to come up with answers, then see which will fit.
-- The game is US-centric, so terms like "Recess" will be used.
+- The game is US-centric, so terms like "Recess" will be used. This doesn't happen too often after the unfortunate "US states" tutorial puzzle!
 
-### Improvements
+### Suggestions
+
+- I'd love a dark mode, the bright white screen makes it hard to play at night!
+- The ability to hide the timer would be appreciated, the time doesn't matter (except for a few achievements) so it's unnecessary.
+- Seeing an overall game complete % would be great, e.g. "20% current pack, 4% total", and a motivator to complete all the DLCs.
+- Whilst I'm comfortable paying the small price for additional packs, others might be unable to (e.g. sanctioned countries, no digital payment methods, kids), so an alternate method of unlock might be useful. For example, a full length advert per level.
+- A user-submitted (free) pack would be great! Obviously there'd need to be a way to gather submissions.
 
 ### Screenshots
 
