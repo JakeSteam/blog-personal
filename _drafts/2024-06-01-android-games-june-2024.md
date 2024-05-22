@@ -22,7 +22,7 @@ The puzzles always feel fair, and solvable, with your own ability to think of ap
 
 Navigating around the game can be a little confusing, as there's no "home" screen as such. Instead, you're always in a puzzle, and can open an overlay menu to change settings or pick a new level. Completing a puzzle prompts you to play the next puzzle, so this isn't much of an issue in practice.
 
-There's a "Selfie mode" which... seems to involve using your front facing camera and microphone to solve puzzles somehow!? I only opened this up to get the achievements, there's no requirement (nor interest from my side). I couldn't find a tutorial for this so... it's a mystery.
+There's a "Selfie mode" which... seems to involve using your front facing camera and microphone to solve puzzles somehow!? I only opened this up to get the achievements, there's no requirement (nor interest from my side). I couldn't find a tutorial for this so... it's a mystery. _Edit: Asked the devs, it's in case you want to record yourself playing for TikTok etc!_
 
 The game has quite a few unique additions like this, clearly showing the developers (Bleppo Games, Mark and Samuel) have creative freedom. For example, some puzzles have a recoloured "selection" line, such as European countries being yellow and blue (Ukraine).
 
