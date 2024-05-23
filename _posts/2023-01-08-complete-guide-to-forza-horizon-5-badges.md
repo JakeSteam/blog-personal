@@ -8,16 +8,16 @@ tags:
   - Gaming
 ---
 
-Badges are a post-release addition to Forza Horizon 5 in April 2022 that provide an extra incentive for online gameplay: unlocking badges next to your name in-game. Here's detailed instructions on how to obtain every badge and detailed tips for winning online races, so you can get your elusive gold Horizon Open Champion badge too! Also includes January 2024's new badges.
+Badges are a post-release addition to Forza Horizon 5 starting in April 2022 that provide an extra incentive for gameplay: unlocking badges next to your name. Here's how to obtain every badge and detailed tips for winning online races, so you can get your elusive gold Horizon Open Champion badge too! Also includes May 2024's new badges.
 
 ## Badges
 
-There are a total of 44 badges to earn, taking a total of around 100-150 hours:
+There are a total of 47 badges to earn, taking a total of around 100-150 hours:
 
 - 11 Level based badges
 - 3 Completion based badges
 - 7 Action based badges
-- 14 Limited edition badges
+- 17 Limited edition badges
 - 4 Car collection based badges
 - 5 Test track badges
 
@@ -77,7 +77,7 @@ Also, I believe "Beep, Beep, Coming Through" originally required banking 100k sc
 
 ### Limited edition badges
 
-Unfortunately these were all unlocked during various seasonal events, and no longer seem obtainable. Most are from the 10 year anniversary series between October-November 2022.
+Unfortunately these are all unlocked during various seasonal events, and no longer seem obtainable. Most are from the 10-year anniversary series between October-November 2022.
 
 They were very easy to unlock by just playing the game each week and completing the festival tasks, hopefully a future update provides an alternative way to earn them. No content should be unobtainable for new players eventually!
 
@@ -87,7 +87,8 @@ They were very easy to unlock by just playing the game each week and completing 
 | ![](/assets/images/2023/badges-spring.png)<br>**Spring Into Action!**<br>Play Forza Horizon 5 during the Hot Season of the 'Horizon 10-Year Anniversary'^   | ![](/assets/images/2023/badges-story.png)<br>**Welcome to Horizon 2.0!**<br>Complete the 'Horizon 10-Year Anniversary' Initial Experience or the 'Welcome to Mexico' chapter of the 'Horizon Origins' Story | ![](/assets/images/2023/badges-reward1.png)<br>**Happy Anniversary!**<br>Earn the first Series Reward during the 'Horizon 10-Year Anniversary'                |
 | ![](/assets/images/2023/badges-reward2.png)<br>**Piece of Cake!**<br>Earn the second Series Reward during the 'Horizon 10-Year Anniversary'                 | ![](/assets/images/2023/badges-masterexplorer.png)<br>**Master Explorer**<br>Complete all 16 Pathfinder Accolades                                                                                           | ![](/assets/images/2023/badges-dia-1.png)<br>**Enjoying the Celebrations**<br>Obtain the 1962 Ferrari 250 GT Berlinetta Lusso during 'Día de Muertos'         |
 | ![](/assets/images/2023/badges-dia-2.png)<br>**In the Spotlight**<br>Obtain the 2010 Nissan Tsuru during the Wet season of 'Día de Muertos'                 | ![](/assets/images/2023/badges-workingtogether.png)<br>**Working Together**<br>Obtain the 2020 Nissan GT-R NISMO (R35) during 'Community Choice'^                                                           | ![](/assets/images/2023/badges-makingyourmark.png)<br>**Making Your Mark**<br>Obtain the 2022 McLaren 12C Coupé during the West Season of 'Community Choice'^ |
-| ![](/assets/images/2024/badges-feelinglucky.png)<br>**Feeling Lucky**<br>Earn the 2022 Hyundai IONIQ 6 during 'Lunar New Year'                              | ![](/assets/images/2024/badges-lunardragon.png)<br>**Lunar Dragon**<br>Player Forza Horizon 5 during the Storm Season of 'Lunar New Year'                                                                   |                                                                                                                                                               |
+| ![](/assets/images/2024/badges-feelinglucky.png)<br>**Feeling Lucky**<br>Earn the 2022 Hyundai IONIQ 6 during 'Lunar New Year'                              | ![](/assets/images/2024/badges-lunardragon.png)<br>**Lunar Dragon**<br>Play Forza Horizon 5 during the Storm Season of 'Lunar New Year'                                                                     |
+| ![](/assets/images/2024/badges-settingsun.png)<br>**Setting Sun**<br>Spend 5 minutes listening to the Horizon Wave radio station during "Horizon Retrowave" | ![](/assets/images/2024/badges-playtime.png)<br>**Playtime**<br>Earn the 2022 Hyundai N Vision 74 during "Horizon Retrowave"                                                                                | ![](/assets/images/2024/badges-maxrevs.png)<br>**Max Revs**<br>Earn the 2021 Lamborghini Countach LPI 800-4 during "Horizon Retrowave"                        |
 
 _^ Badge designed by `soupmcpasta` on the Forza Forums._
 
