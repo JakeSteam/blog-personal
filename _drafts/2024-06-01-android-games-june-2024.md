@@ -1,5 +1,5 @@
 ---
-title: "3 Android games I've enjoyed lately: Word Salad"
+title: "3 Android games I've enjoyed lately: Word Salad, Meganum"
 author: Jake Lee
 layout: post
 image: /assets/images/2024/june-24-games.png
@@ -66,3 +66,53 @@ All screenshots are from version 1.0.14:
 |                                                   Level select                                                   |                                                   Themed puzzle                                                   |                                                   Puzzle start                                                   |
 | :--------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
 | [![Word Salad level select](/assets/images/2024/june-word-1-thumbnail.jpg)](/assets/images/2024/june-word-1.jpg) | [![Word Salad themed puzzle](/assets/images/2024/june-word-2-thumbnail.jpg)](/assets/images/2024/june-word-2.jpg) | [![Word Salad puzzle start](/assets/images/2024/june-word-3-thumbnail.jpg)](/assets/images/2024/june-word-3.jpg) |
+
+## #2: [Meganum](https://play.google.com/store/apps/details?id=com.crescentyr.meganum)
+
+Meganum is a slightly brain-melting maths puzzle game, with each mode almost behaving like a brand new game!
+
+### Review
+
+The core gameplay in [Meganum](https://play.google.com/store/apps/details?id=com.crescentyr.meganum) is easy to understand, but very tricky to master. Essentially you need to "activate" specific board tiles to create the number at the right / bottom for every row / column. E.g. for the "addition" game category, all the numbers on activated tiles will need to add up to the final number. For multiplication category (image 4 below), they'll need to multiply together.
+
+This concept becomes slightly more complicated with subtraction and division (where the start number neds to be transformed into the end number), especially with the "combination" and "binary" categories unlocked later! All these game categories are playable in casual mode (easily the best!), expert (no undo / hints), timed, endless, and a tutorial. Additionally, when picking a game category and mode, you can choose the range of numbers included and the board size. A lot of options!
+
+To summarise, you're choosing the game category, mode, number range, and board size. Phew!
+
+Anyway, once you're in a game, and have managed to figure out what you're meant to be doing... the game finally gets good. Every puzzle is solvable with logic, with blind guessing never the correct thing to do.
+
+There's a few bits of polish that clearly shows the developer played their game and made quality of life improvements. For example, you can long press a tile or column / row to "lock" it, avoiding accidentally undoing any tile you're already confident in.
+
+Whilst the maths puzzle gameplay is great, actually navigating to them can be surprisingly tricky! By default, my game had all labels turned off (they are re-enabled with the info button in the bottom right), meaning I was essentially blindly clicking icons trying to find some gameplay! Similarly, navigating back / next via bottoms at the very bottom (where my home / switch apps buttons usually are) is a tricky habit to get into, and various bits of text / UI sometimes get hidden behind my phone's holepunch camera.
+
+Meganum also has achievements (rewarding coins), which can then be used to purchase hints. I haven't used hints at all, and really don't think you need them. The puzzles are logical, you either know why a tile needs activating or not! There's also unlockable colour schemes, but the default dark mode is my favourite.
+
+So, the overall impression is of a fun game nestled inside a slightly confusing wrapper. This all makes sense when you discover... it's a [repackaged web game](https://crescentyr.itch.io/meganum)! Porting games to mobile can be fine, but it needs to be done with a bit more effort to fit into typical app behaviour for the platform.
+
+### Monetisation
+
+There's a short advert between every few levels, a very affordable $2.49 payment to remove all adverts, and microtransactions to purchase coins / hints.
+
+This setup seems very fair, and I ended up paying $1.49 for a few coins to instantly unlock the "combination" and "binary" game modes. However, you could definitely save up for these by completing achievements.
+
+### Tips
+
+- Use tile / line locking! If you know a tile is correct, lock it so future-you doesn't accidentally clear it.
+- You might be wrong! Even if you've locked a tile, I found that I'd missed something surprisingly often, so needed to unlock and redo past tile.
+- Solve the easy tiles first. This will vary by gametype, but all have scenarios where a row's solution is immediately obvious. For example in division / subtraction, if the end result is the same as the start, deactivate all tiles. For multiplication or addition, if the target is zero, deactivate all tiles.
+- Trial and error is OK. For harder game modes like multiplication & division, the mental maths is impossible to realistically do. Instead, if there are unique numbers, and they cannot combine to form each other, trying each combination will work eventually.
+- Rows can be partially solved. For example, if you have `5, 4, 3, 3, 6`, and don't know if you need 3+3 or 6, you can still work out the correct state of `5` and `4` then lock them in!
+
+### Suggestions
+
+- The UI urgently needs improving. Button labels should always be visible, the device's status & bottom bar shouldn't be covered up, and content shouldn't be hidden behind camera cutouts.
+- The achievements aren't intrusive enough. Whilst the achievement "Finish every size and number range in Division - Expert" is good, it's hidden away in the achievements menu, and progress needs to be manually checked for all 12 possible combinations.
+- Similarly, where's the progression? I'm enjoying the puzzles, the achievements are a good addition, but what am I _meant_ to be doing? Whilst the freedom of gameplay options is great, it can be overwhelming, and I'd love more guidance on what to play next. 6 categories x 4 modes x 3 number ranges x 4 sizes = over 250 ways to play!
+
+### Screenshots
+
+All screenshots are from version 2.1.6:
+
+|                                                   Game types                                                    |                                                   Game modes                                                    |                                                   Combination tutorial                                                    |                                                   Multiplication gameplay                                                    |
+| :-------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
+| [![Meganum game types](/assets/images/2024/june24-mega-1-thumbnail.jpg)](/assets/images/2024/june24-mega-1.jpg) | [![Meganum game modes](/assets/images/2024/june24-mega-2-thumbnail.jpg)](/assets/images/2024/june24-mega-2.jpg) | [![Meganum combination tutorial](/assets/images/2024/june24-mega-3-thumbnail.jpg)](/assets/images/2024/june24-mega-3.jpg) | [![Meganum multiplication gameplay](/assets/images/2024/june24-mega-4-thumbnail.jpg)](/assets/images/2024/june24-mega-4.jpg) |
