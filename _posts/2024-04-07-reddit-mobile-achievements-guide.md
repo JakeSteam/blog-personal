@@ -7,7 +7,7 @@ tags:
   - Reddit
 ---
 
-In April 2024, Reddit added 18 achievements to the mobile app, grouped into 3 categories (and 5 more in May). Here's all the details, and how to unlock them all!
+In April 2024, Reddit added 18 achievements to the mobile app, grouped into 3 categories (and 11 more in May). Here's all the details, and how to unlock them all!
 
 ## What are achievements?
 
@@ -23,31 +23,18 @@ Interestingly, if you view an achievement, you can see the comment / subreddit t
 
 [![Shareable Reddit achievement](/assets/images/2024/reddit_achievement-thumbnail.jpg)](/assets/images/2024/reddit_achievement.jpg)
 
-## Getting Started (7)
+## Building Community (6)
 
-These are all very simple achievements that you'll probably earn in your first time using the Reddit app! Historical actions don't count, so you'll need to repeat actions if you've completed them in the past (e.g. joining a subreddit).
+These are tricky to earn! They require long-term commitment so a single community, although I'm unsure what communities are eligible for this award.
 
-|                                                                                   Achievement                                                                                   |                                     Requirement                                      |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: |
-| [![Detective Doggo Reddit achievement](/assets/images/2024/reddit-searchexplorer-thumbnail.png)](/assets/images/2024/reddit-searchexplorer.png)<br>**Detective Doggo** (Common) |      Click 10 results (e.g. subreddits) within the Reddit app's search feature       |
-|       [![Feed Finder Reddit achievement](/assets/images/2024/reddit-feedexplorer-thumbnail.png)](/assets/images/2024/reddit-feedexplorer.png)<br>**Feed Finder** (Common)       | Change feed type (Home / Popular / Watch / Latest) on the home tab of the Reddit app |
-|          [![Newcomer Reddit achievement](/assets/images/2024/reddit-newcommunity-thumbnail.png)](/assets/images/2024/reddit-newcommunity.png)<br>**Newcomer** (Common)          |                       Join any subreddit using the Reddit app                        |
-| [![Person of Interests Reddit achievement](/assets/images/2024/reddit-welcomehome-thumbnail.png)](/assets/images/2024/reddit-welcomehome.png)<br>**Person of Interests** (Rare) |                         Join 5 subreddits via the Reddit app                         |
-|   [![Profile Perfectionist Reddit achievement](/assets/images/2024/reddit-realyou-thumbnail.png)](/assets/images/2024/reddit-realyou.png)<br>**Profile Perfectionist** (Rare)   |         Set a banner image and description on your profile in the Reddit app         |
-| [![Secured Account Reddit achievement](/assets/images/2024/reddit-securedaccount-thumbnail.png)](/assets/images/2024/reddit-securedaccount.png)<br>**Secured Account** (Common) |                Verify an email or phone number on your Reddit account                |
-|     [![Joined Reddit Reddit achievement](/assets/images/2024/reddit-joinedreddit-thumbnail.png)](/assets/images/2024/reddit-joinedreddit.png)<br>**Joined Reddit** (Common)     |                   Have a Reddit account, the easiest achievement!                    |
-
-## Exploration (5)
-
-These achievements are a little more challenging, with creating a 10 upvote post or comment being more challenging depending on which subreddits you joined. Past posts and comments are included in this, so you might rediscover a popular post you made years ago!
-
-|                                                                                            Achievement                                                                                            |                            Requirement                            |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------: |
-|             [![Hometown Hero Reddit achievement](/assets/images/2024/reddit-localexplorer-thumbnail.png)](/assets/images/2024/reddit-localexplorer.png)<br>**Hometown Hero** (Common)             | Have joined a country specific subreddit (e.g. _r/UnitedKingdom_) |
-|                [![Nice Comment Reddit achievement](/assets/images/2024/reddit-nicecomment-thumbnail.png)](/assets/images/2024/reddit-nicecomment.png)<br>**Nice Comment** (Common)                |            Receive 10 upvotes on one of your comments             |
-|                      [![New Share Reddit achievement](/assets/images/2024/reddit-newshare-thumbnail.png)](/assets/images/2024/reddit-newshare.png)<br>**New Share** (Common)                      |   Share a post outside of Reddit using the app's "Share" button   |
-|                       [![Nice Post Reddit achievement](/assets/images/2024/reddit-nicepost-thumbnail.png)](/assets/images/2024/reddit-nicepost.png)<br>**Nice Post** (Rare)                       |              Receive 10 upvotes on one of your posts              |
-| [![Conversation Starter Reddit achievement](/assets/images/2024/reddit-conversationstarter-thumbnail.png)](/assets/images/2024/reddit-conversationstarter.png)<br>**Conversation Starter** (Epic) |      Leave the first comment on 5 posts using the Reddit app      |
+|                                                                                            Achievement                                                                                             |                                      Requirement                                       |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: |
+|             [![Poster Prodigy Reddit achievement](/assets/images/2024/reddit-posterprodigy-thumbnail.png)](/assets/images/2024/reddit-posterprodigy.png)<br>**Poster Prodigy** (Epic)              |      Finish the month within the top 10% upvoted posters in a specific community       |
+|             [![Opinion Oracle Reddit achievement](/assets/images/2024/reddit-opinionoracle-thumbnail.png)](/assets/images/2024/reddit-opinionoracle.png)<br>**Poster Prodigy** (Epic)              |     Finish the month within the top 10% upvoted commenters in a specific community     |
+|     [![Repeat Contributor Reddit achievement](/assets/images/2024/reddit-repeatcontributor-thumbnail.png)](/assets/images/2024/reddit-repeatcontributor.png)<br>**Repeat Contributor** (Epic)      |                Post or comment in the same community for 20 total days                 |
+| [![Content Connoisseur Reddit achievement](/assets/images/2024/reddit-contentconnoisseur-thumbnail.png)](/assets/images/2024/reddit-contentconnoisseur.png)<br>**Content Connoisseur** (Legendary) |          Vote at least 5 times a day in the same community for 30 total days           |
+|                 [![Flag Planter Reddit achievement](/assets/images/2024/reddit-flagplanter-thumbnail.png)](/assets/images/2024/reddit-flagplanter.png)<br>**Flag Planter** (Rare)                  | Be one of the first 5 commenters on a new post in the same community for 10 total days |
+|                             [![Elder Reddit achievement](/assets/images/2024/reddit-elder-thumbnail.png)](/assets/images/2024/reddit-elder.png)<br>**Elder** (Common)                              |               Be a member of the same community for 3 consecutive years                |
 
 ## Reddit Streak (11)
 
@@ -70,3 +57,29 @@ _Streak achievement images credit: [u/RcGJogaMine](https://www.reddit.com/user/R
 | [![150 day streak Reddit achievement](/assets/images/2024/reddit-150day-thumbnail.png)](/assets/images/2024/reddit-150day.png)<br>**150-day streak** (Legendary) | Use the Reddit app (upvote / post / comment / share) for 150 days in a row |
 | [![200 day streak Reddit achievement](/assets/images/2024/reddit-200day-thumbnail.png)](/assets/images/2024/reddit-200day.png)<br>**200-day streak** (Legendary) | Use the Reddit app (upvote / post / comment / share) for 200 days in a row |
 | [![300 day streak Reddit achievement](/assets/images/2024/reddit-300day-thumbnail.png)](/assets/images/2024/reddit-300day.png)<br>**300-day streak** (Legendary) | Use the Reddit app (upvote / post / comment / share) for 300 days in a row |
+
+## Exploration (5)
+
+These achievements are a little more challenging, with creating a 10 upvote post or comment being more challenging depending on which subreddits you joined. Past posts and comments are included in this, so you might rediscover a popular post you made years ago!
+
+|                                                                                            Achievement                                                                                            |                            Requirement                            |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------: |
+|             [![Hometown Hero Reddit achievement](/assets/images/2024/reddit-localexplorer-thumbnail.png)](/assets/images/2024/reddit-localexplorer.png)<br>**Hometown Hero** (Common)             | Have joined a country specific subreddit (e.g. _r/UnitedKingdom_) |
+|                [![Nice Comment Reddit achievement](/assets/images/2024/reddit-nicecomment-thumbnail.png)](/assets/images/2024/reddit-nicecomment.png)<br>**Nice Comment** (Common)                |            Receive 10 upvotes on one of your comments             |
+|                      [![New Share Reddit achievement](/assets/images/2024/reddit-newshare-thumbnail.png)](/assets/images/2024/reddit-newshare.png)<br>**New Share** (Common)                      |   Share a post outside of Reddit using the app's "Share" button   |
+|                       [![Nice Post Reddit achievement](/assets/images/2024/reddit-nicepost-thumbnail.png)](/assets/images/2024/reddit-nicepost.png)<br>**Nice Post** (Rare)                       |              Receive 10 upvotes on one of your posts              |
+| [![Conversation Starter Reddit achievement](/assets/images/2024/reddit-conversationstarter-thumbnail.png)](/assets/images/2024/reddit-conversationstarter.png)<br>**Conversation Starter** (Epic) |      Leave the first comment on 5 posts using the Reddit app      |
+
+## Getting Started (7)
+
+These are all very simple achievements that you'll probably earn in your first time using the Reddit app! Historical actions don't count, so you'll need to repeat actions if you've completed them in the past (e.g. joining a subreddit).
+
+|                                                                                   Achievement                                                                                   |                                     Requirement                                      |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: |
+| [![Detective Doggo Reddit achievement](/assets/images/2024/reddit-searchexplorer-thumbnail.png)](/assets/images/2024/reddit-searchexplorer.png)<br>**Detective Doggo** (Common) |      Click 10 results (e.g. subreddits) within the Reddit app's search feature       |
+|       [![Feed Finder Reddit achievement](/assets/images/2024/reddit-feedexplorer-thumbnail.png)](/assets/images/2024/reddit-feedexplorer.png)<br>**Feed Finder** (Common)       | Change feed type (Home / Popular / Watch / Latest) on the home tab of the Reddit app |
+|          [![Newcomer Reddit achievement](/assets/images/2024/reddit-newcommunity-thumbnail.png)](/assets/images/2024/reddit-newcommunity.png)<br>**Newcomer** (Common)          |                       Join any subreddit using the Reddit app                        |
+| [![Person of Interests Reddit achievement](/assets/images/2024/reddit-welcomehome-thumbnail.png)](/assets/images/2024/reddit-welcomehome.png)<br>**Person of Interests** (Rare) |                         Join 5 subreddits via the Reddit app                         |
+|   [![Profile Perfectionist Reddit achievement](/assets/images/2024/reddit-realyou-thumbnail.png)](/assets/images/2024/reddit-realyou.png)<br>**Profile Perfectionist** (Rare)   |         Set a banner image and description on your profile in the Reddit app         |
+| [![Secured Account Reddit achievement](/assets/images/2024/reddit-securedaccount-thumbnail.png)](/assets/images/2024/reddit-securedaccount.png)<br>**Secured Account** (Common) |                Verify an email or phone number on your Reddit account                |
+|     [![Joined Reddit Reddit achievement](/assets/images/2024/reddit-joinedreddit-thumbnail.png)](/assets/images/2024/reddit-joinedreddit.png)<br>**Joined Reddit** (Common)     |                   Have a Reddit account, the easiest achievement!                    |
