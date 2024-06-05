@@ -1,14 +1,14 @@
 ---
-title: "3 Android games I've enjoyed lately: Word Salad, Meganum, Bumbling Cats"
+title: "3 Android games I've enjoyed lately: Word Salad, Meganum, Bumbling Cats "
 author: Jake Lee
 layout: post
-image: /assets/images/2024/june-24-games.png
+image: /assets/images/2024/june24-banner.png
 tags:
   - Android
   - Gaming
 ---
 
-intro
+ANOTHER cat based Android game this month!? Yes, yes, and a couple of word / number logic puzzles too!
 
 ## #1: [Word Salad](https://play.google.com/store/apps/details?id=com.wordsalad.app)
 
@@ -51,7 +51,7 @@ I suspect I'll work my way through the free content, watching the occasional adv
 - I find it helpful to look away from the board sometimes, and just try to come up with answers, then see which will fit.
 - The game is US-centric, so terms like "Recess" will be used. This doesn't happen too often after the unfortunate "US states" tutorial puzzle!
 
-### Suggestions
+### Dev suggestions
 
 - I'd love a dark mode, the bright white screen makes it hard to play at night!
 - The ability to hide the timer would be appreciated, the time doesn't matter (except for a few achievements) so it's unnecessary.
@@ -103,7 +103,7 @@ This setup seems very fair, and I ended up paying $1.49 for a few coins to insta
 - Trial and error is OK. For harder game modes like multiplication & division, the mental maths is impossible to realistically do. Instead, if there are unique numbers, and they cannot combine to form each other, trying each combination will work eventually.
 - Rows can be partially solved. For example, if you have `5, 4, 3, 3, 6`, and don't know if you need 3+3 or 6, you can still work out the correct state of `5` and `4` then lock them in!
 
-### Suggestions
+### Dev suggestions
 
 - The UI urgently needs improving. Button labels should always be visible, the device's status & bottom bar shouldn't be covered up, and content shouldn't be hidden behind camera cutouts.
 - The achievements aren't intrusive enough. Whilst the achievement "Finish every size and number range in Division - Expert" is good, it's hidden away in the achievements menu, and progress needs to be manually checked for all 12 possible combinations.
@@ -152,7 +152,7 @@ Paying real money is definitely not worth it currently, with more than enough ge
 
 That's it! It's too simple a game to provide many more tips.
 
-### Suggestions for devs
+### Dev suggestions
 
 Similar to my initial experience with their other games, Bumbling Cats is a great foundation to a game, and very polished, but is lacking the depth to be enjoyable long term. However, the devs have proven before that they provide ongoing content updates, so I'm optimistic!
 
