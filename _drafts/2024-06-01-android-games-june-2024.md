@@ -1,5 +1,5 @@
 ---
-title: "3 Android games I've enjoyed lately: Word Salad, Meganum"
+title: "3 Android games I've enjoyed lately: Word Salad, Meganum, Bumbling Cats"
 author: Jake Lee
 layout: post
 image: /assets/images/2024/june-24-games.png
@@ -116,3 +116,54 @@ All screenshots are from version 2.1.6:
 |                                                   Game types                                                    |                                                   Game modes                                                    |                                                   Combination tutorial                                                    |                                                   Multiplication gameplay                                                    |
 | :-------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
 | [![Meganum game types](/assets/images/2024/june24-mega-1-thumbnail.jpg)](/assets/images/2024/june24-mega-1.jpg) | [![Meganum game modes](/assets/images/2024/june24-mega-2-thumbnail.jpg)](/assets/images/2024/june24-mega-2.jpg) | [![Meganum combination tutorial](/assets/images/2024/june24-mega-3-thumbnail.jpg)](/assets/images/2024/june24-mega-3.jpg) | [![Meganum multiplication gameplay](/assets/images/2024/june24-mega-4-thumbnail.jpg)](/assets/images/2024/june24-mega-4.jpg) |
+
+## #3: [Bumbling Cats](https://play.google.com/store/apps/details?id=com.tree.the.brave.cats)
+
+Last month I reviewed [Office Cat](/android-games-late-april-2024/#1-office-cat) from TREEPLLA, and their latest game "[Bumbling Cats](https://play.google.com/store/apps/details?id=com.tree.the.brave.cats)" has just been released! It's a very simple idle battler, but given the massive content updates their previous games receive, I'm optimistic for its future.
+
+### Review
+
+You'll have seen essentially the whole game within the first 5 minutes of playing. Your cats endlessly charge towards giant enemy cats dealing damage, you upgrade your cat count, power, and speed to improve their chances.
+
+The only active gameplay comes from the insta-killing attack enemy cats do every 5-6 seconds, requiring a swipe down to pull your cats back. If you're too slow (or don't bother), you'll need to wait 7-8 seconds for all your cats to respawn and the cycle continues.
+
+And... that's it. There's all the active gameplay.
+
+Some depth is added through loot chests every few bosses, rewarding coins (for buying upgrades), relics (small boosts like +4% power), and gems (primarily for buying relics). These aren't anything particularly new, and you'll instantly understand them if you've played any other idle games.
+
+I got lucky (I think) and unlocked the "Horn Cat" mercenary (helper), automatically withdrawing my cats every 15 seconds when fully upgraded. This removes most of the active gameplay, so progression just becomes how long I decide to leave the game open for!
+
+Finally, there are "Boss Cats", but these function exactly the same as regular enemy cats plus a time limit. They can be killed 2x a day for gems and coins, and they're very, very easy.
+
+In terms of progression, the visibility of past / future gameplay is very limited. For example, I thought I was close to completing the game's progress after a few hours, turns out I just finished "Chapter 1"! Chapter 2 is identical, just with palette swapped enemies. However, I believe I'm close to the end of the game's content after leaving it open for 5-6 hours.
+
+### Monetisation
+
+The monetisation seems pretty standard, with the occasional optional advert for free gems, and the ability to purchase gem packs if desired.
+
+Paying real money is definitely not worth it currently, with more than enough gems provided for free through normal progression. I'm surprised the lootboxes / relics aren't purchasable with real money, since they're the only non-coin progression later on.
+
+### Tips
+
+- Spend all your gems on 10x relic draws (1800), the passive boosts help.
+- Claim quests as soon as they're completed.
+- Save up for extra heros when possible, since they provide a massive damage increase.
+- All enemies telegraph their big attack, you don't need to time it, you can react in time.
+
+That's it! It's too simple a game to provide many more tips.
+
+### Suggestions for devs
+
+Similar to my initial experience with their other games, Bumbling Cats is a great foundation to a game, and very polished, but is lacking the depth to be enjoyable long term. However, the devs have proven before that they provide ongoing content updates, so I'm optimistic!
+
+1. Primarily the gameplay needs more depth, in every aspect. A single occasional swipe to dodge damage isn't enough to get properly "hooked", and since your cats respawn quickly there's little risk in just letting them die.
+2. I'd love to gain customisation for my cats. Hats, colour changes, anything would help.
+3. In addition to point #1, there's just... not much to do. No minigames, no longer term strategy, no hard objectives to aim for, no achievements.
+
+### Screenshots
+
+All screenshots are from v1.0.2:
+
+|                                                       Gameplay                                                        |                                                       Relics                                                        |                                                       Chest opening                                                        |
+| :-------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
+| [![Bumble Cats gameplay](/assets/images/2024/june24-bumble-1-thumbnail.jpg)](/assets/images/2024/june24-bumble-1.jpg) | [![Bumble Cats relics](/assets/images/2024/june24-bumble-2-thumbnail.jpg)](/assets/images/2024/june24-bumble-2.jpg) | [![Bumble Cats chest opening](/assets/images/2024/june24-bumble-3-thumbnail.jpg)](/assets/images/2024/june24-bumble-3.jpg) |
