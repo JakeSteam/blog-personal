@@ -32,20 +32,22 @@ This is my blog for non-programming posts, all my programming posts are over on 
 **2017 - 2018**: Co-founder / CTO @ [Creators.Direct](https://creators.direct/)<br>
 **2014 - 2017**: Software Engineer @ [First Option Software](https://www.firstoptionsoftware.com/)
 
-## Education
+## Education / Certificates
 
 **2021 - 2025**: MBA (Technology Management) @ Open University<br>
-**2018**: Associate Android Developer<br>
-**2017**: MCSE: Data Management & Analytics<br>
-**2016**: MCSA: SQL Server 2012/2014<br>
-**2015**: MTA: Database Fundamentals<br>
+**2024**: UX Design Professional (Google)<br>
+**2024**: Cybersecurity Professional (Google)<br>
+**2018**: Associate Android Developer (Google)<br>
+**2017**: MCSE: Data Management & Analytics (Microsoft)<br>
+**2016**: MCSA: SQL Server 2012/2014 (Microsoft)<br>
+**2015**: MTA: Database Fundamentals (Microsoft)<br>
 **2011 - 2014**: BSc Computer Science @ University of Bedfordshire
 
 ## Technologies
 
 I primarily work on Android & everything related, plus a bit of general web stuff!
 
-- **Android**: Adyen, Avo, Dagger / Hilt, Gson, Gradle, GraphQL, Java, Jetpack (Compose, LiveData, Room, ViewModel, etc), Kotlin (Coroutines), Retrofit
+- **Android**: Adyen, Avo, Dagger / Hilt, Gson, Gradle, GraphQL, Java, Jetpack (Compose, LiveData, Room, ViewModel, etc), Kotlin (Coroutines), Retrofit, etc
 - **Web**: Jekyll (Liquid), Next.js (HTML, JS, TS), Prisma, React, SQL, Tailwind (CSS)
 - **Cloud**: Cloudflare, Firebase, GitHub Actions
 - **Misc**: Bash, Markdown
