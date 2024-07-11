@@ -35,6 +35,7 @@ This is my blog for non-programming posts, all my programming posts are over on 
 ## Education / Certificates
 
 **2021 - 2025**: MBA (Technology Management) @ Open University<br>
+**2024**: Android Developer (Meta)<br>
 **2024**: UX Design Professional (Google)<br>
 **2024**: Cybersecurity Professional (Google)<br>
 **2018**: Associate Android Developer (Google)<br>
