@@ -1,14 +1,14 @@
 ---
-title: "Android games I've played in July! Honey Bee Park, Numito"
+title: "Android games I've played in July! Honey Bee Park, Numito, Merge Mend 🐝"
 author: Jake Lee
 layout: post
-image: /assets/images/2024/july24-banner.png
+image: /assets/images/2024/july-banner.png
 tags:
   - Android
   - Gaming
 ---
 
-intro
+A bit less idle than usual this month, but with the usual mixture of casual gameplay and puzzles!
 
 ## #1: [Honey Bee Park](https://play.google.com/store/apps/details?id=net.gameduo.hbp)
 
@@ -27,6 +27,8 @@ Generally your main objective will be saving up for the next park level. Each of
 This fairly linear upgrade loop means there's not much to actually think about / plan whilst playing. Instead, you can watch the bees hurrying about their business, and that's about it! Luckily, there's lots of outfits to customise them a bit, all of which improve their performance.
 
 There's also a "bottle pouring" minigame that you've seen in a hundred game adverts, which feels quite out of place. It's a good way to earn extra income multipliers, but a bit more variety would be appreciated.
+
+It's also worth pointing out there is a serious "wall" in progression around park level 34-35. Instead of progressing a level every hour or two, it will take multiple days to achieve level 34, only to discover it doesn't help income whatsoever. I suspect I won't progress much further, since I'm not willing to pay!
 
 ### Monetisation
 
@@ -118,3 +120,43 @@ All screenshots are from version 1.0.1:
 |                                                Gameplay                                                |                                                Main menu                                                |                                                Weekly campaign                                                |
 | :----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
 | [![Numito gameplay](/assets/images/2024/july-num-1-thumbnail.jpg)](/assets/images/2024/july-num-1.jpg) | [![Numito main menu](/assets/images/2024/july-num-2-thumbnail.jpg)](/assets/images/2024/july-num-2.jpg) | [![Numito weekly campaign](/assets/images/2024/july-num-3-thumbnail.jpg)](/assets/images/2024/july-num-3.jpg) |
+
+## #3: [Merge Mend](https://play.google.com/store/apps/details?id=com.onegram.mergemend)
+
+Yet another merge game, [Merge Mend](https://play.google.com/store/apps/details?id=com.onegram.mergemend) slightly stands apart through a more appealing art style than many of the competitors.
+
+### Review
+
+As with many of these merge game, the gameplay is essentially identical. Merge Mend reminds me specifically of a game I mostly completed & reviewed 2 years ago: [Medieval Merge](/my-june-top-4-android-games/#1-medieval-merge---download). Both have an "overworld" with quests, requiring creating specific items to complete them.
+
+The items to be merged are more visually appealing than other games in the genre, with a nice simple art style standing out amongst a thousand shiny pseudo-3D rivals. The "story" is essentially non-existent, with the quests all working towards the simple goal of expanding your farm / house.
+
+Seasonal events earn you currency that can be used for cosmetic outfits / decorations, otherwise have no purpose. This would be a nice distraction, but the same "energy" is used for the event and the main game!
+
+Overall there's very little new here, it's just a well produced merge game. However, the information on where an item comes from, what it produces, and what it merges into is very well presented, letting you follow a chain of multiple items to work out how to obtain your quest item.
+
+### Monetisation
+
+As expected, there's a lot of monetisation! Primarily you'll be running out of energy, and prompted to pay / watch adverts to refill it through various methods.
+
+There's also payments to get a whole new game board row, or purchase various packs of items, jewels, or coins. The typical "starter pack", "booster pack", "ad-free pack" are all there to convince you to pay, although the quite high prices make them fairly unappealing.
+
+The £6 ($8) payment to receive 30 days of halved energy recharge time, 60 extra energy per day, ad-free "producing" item refills, and ad-free small coin bonuses is likely the best. However, with no forced ads, I'm happy to just wait for my energy to recharge!
+
+### Tips
+
+- Don't merge if you haven't got a goal in mind. It uses up energy (your most valuable resource), and you might merge _past_ an item required later.
+- As always, space will be the main problem. As such, try to "wrap up" any niche merging missions you do, and sell / redeem any low level items if needed.
+- Coins should exclusively be used to expand your "bag" (overflow).
+- Jewels should mostly be used to refill your energy, since this is what actually progresses you.
+- Keep your board organised! I tend to stack "outside in" with the highest level items on the outside. This lets me easily merge my way up if I receive enough of the low level items, whilst not losing track.
+- Energy maxes out at 100, and takes 2 minutes each, giving a total of 200 minutes (3.3 hours) to fully refill energy.
+- Complete lower level quests if they're available, they'll give you some sort of reward and unlock the next in the chain.
+
+### Screenshots
+
+All screenshots are from version 1.1.1:
+
+|                                                    Game world                                                    |                                                    Regular gameplay                                                    |                                                    Event gameplay                                                    |
+| :--------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
+| [![Merge Mend game world](/assets/images/2024/july-merge-1-thumbnail.jpg)](/assets/images/2024/july-merge-1.jpg) | [![Merge Mend regular gameplay](/assets/images/2024/july-merge-2-thumbnail.jpg)](/assets/images/2024/july-merge-2.jpg) | [![Merge Mend event gameplay](/assets/images/2024/july-merge-3-thumbnail.jpg)](/assets/images/2024/july-merge-3.jpg) |
