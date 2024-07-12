@@ -61,7 +61,7 @@ I've heard a rumour that Rose Tinted Goggles from "The Four Hatsmen" combat zone
 
 Essentially by selling things without any other use.
 
-For example, using pickaxe heads to make pickaxes provides great XP, and they are usually worth quite a lot. Similarly, if you've levelled a skill overnight you may end up with more lower level resources than you need.
+For example, using pickaxe heads to make pickaxes provides great XP, and they are usually worth quite a lot. Similarly, if you've levelled a skill overnight you may end up with more lower-level resources than you need.
 
 In general you won't need to spend too many rare shells early on, and you can likely use items for more direct purposes. This is especially true for rare items, use them for skills or save for later if you can. Monster drops can also be a good source of high value items.
 
@@ -464,7 +464,7 @@ Well, here's what I consider 100% completion:
 | Hard       | All pets                     | There are [14 pets in total](https://docs.google.com/spreadsheets/d/1fR6Yq8Sr5UdVHVmJ50DPeGVADz1pZCS3-it2lJy7njo/edit#gid=0) |
 | Impossible | Black Pearl                  | This is a 1/100,000 drop from shellfish, good luck!                                                                          |
 
-Whilst I've completed most of these, I'm still missing a few pets and not even trying to get the Black Pearl!
+Whilst I've completed most of these, I'm still missing a few pets and not even trying to get the Black Pearl! A commenter mentioned 3 of them are needed for "full power tidekeeper".
 
 ### Conclusion
 
