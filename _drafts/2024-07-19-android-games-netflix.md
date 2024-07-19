@@ -1,8 +1,8 @@
 ---
-title: "Netflix has Android games, and they're actually good!? Reviews of Dragon Up, Krispee Street, Word Trails, MineSweeper"
+title: "Netflix has Android games, and they're actually good!? Reviews of Dragon Up, Krispee Street, Word Trails 📺"
 author: Jake Lee
 layout: post
-image: /assets/images/2024/july-games-netflix.png
+image: /assets/images/2024/netflix-games-banner.png
 tags:
   - Android
   - Gaming
@@ -50,7 +50,7 @@ All screenshots are from version 2.0.8:
 | :--------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
 | [![Dragon Up main game](/assets/images/2024/netflix-dragon-1-thumbnail.jpg)](/assets/images/2024/netflix-dragon-1.jpg) | [![Dragon Up event](/assets/images/2024/netflix-dragon-2-thumbnail.jpg)](/assets/images/2024/netflix-dragon-2.jpg) | [![Dragon Up cutscene](/assets/images/2024/netflix-dragon-3-thumbnail.jpg)](/assets/images/2024/netflix-dragon-3.jpg) |
 
-## #1: [Krispee Street](https://play.google.com/store/apps/details?id=com.netflix.NGP.KrispeeStreet)
+## #2: [Krispee Street](https://play.google.com/store/apps/details?id=com.netflix.NGP.KrispeeStreet)
 
 Did you ever read the "Where's Wally" (also known as Waldo) books as a kid? They'd feature detailed, intricate scenes along with a few characters to try and spot amongst the chaotic scene. [Krispee Street](https://play.google.com/store/apps/details?id=com.netflix.NGP.KrispeeStreet) is essentially a digital version of this based on the [Krispee](https://krispee.com/) webcomic.
 
@@ -81,3 +81,34 @@ All screenshots are from version 1.0.11:
 |                                                           Basketball court map                                                           |                                                           Street map                                                           |                                                           Collectible cards                                                           |
 | :--------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
 | [![Krispee Street basketball court map](/assets/images/2024/netflix-krispee-1-thumbnail.jpg)](/assets/images/2024/netflix-krispee-1.jpg) | [![Krispee Street street map](/assets/images/2024/netflix-krispee-2-thumbnail.jpg)](/assets/images/2024/netflix-krispee-2.jpg) | [![Krispee Street collectible cards](/assets/images/2024/netflix-krispee-3-thumbnail.jpg)](/assets/images/2024/netflix-krispee-3.jpg) |
+
+## #3: [Word Trails](https://play.google.com/store/apps/details?id=com.netflix.NGP.WordTrails)
+
+Despite seeing the non-Netflix version constantly in adverts, I had a great time with [Word Trails](https://play.google.com/store/apps/details?id=com.netflix.NGP.WordTrails)! It's just the very popular game (10M+ downloads) "[Word Trip](https://play.google.com/store/apps/details?id=in.playsimple.wordtrip)" with all monetisation removed.
+
+### Review
+
+Gameplay is super simple, you're just forming words to fit into the grid, similar to the board game Scrabble. You're theoretically progressing through "cities", with 20 or so levels per city, but this doesn't actually change anything!
+
+On each level you're given a selection of letters, and need to spell as many words as possible, especially those that fill up the board. Bonus words earn you extra money (used for hints), so there's no harm in trying everything that comes to mind.
+
+Levels are typically pretty straight-forward, but it's a good brainteaser, helping you remember (or discover) more obscure words. There's also a daily puzzle that rewards finding words the "owl" is currently placed on.
+
+### Monetisation
+
+As a Netflix game, there is no monetisation.
+
+### Tips
+
+- The usual tips for all word games apply, such as:
+  - Also try the past / future tense of words too
+  - Always try adding "s" if you have one
+  - Always try 3 letter combinations even if you're not sure
+
+### Screenshots
+
+All screenshots are from version 1.10.2:
+
+|                                                      Normal level                                                       |                                                      Daily challenge                                                       |                                                      Level select                                                       |
+| :---------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
+| [![Word Trails normal level](/assets/images/2024/netflix-word-1-thumbnail.jpg)](/assets/images/2024/netflix-word-1.jpg) | [![Word Trails daily challenge](/assets/images/2024/netflix-word-2-thumbnail.jpg)](/assets/images/2024/netflix-word-2.jpg) | [![Word Trails level select](/assets/images/2024/netflix-word-3-thumbnail.jpg)](/assets/images/2024/netflix-word-3.jpg) |
