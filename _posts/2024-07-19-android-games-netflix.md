@@ -58,7 +58,7 @@ Did you ever read the "Where's Wally" (also known as Waldo) books as a kid? They
 
 Whilst games like [Hidden Folks](https://play.google.com/store/apps/details?id=com.adriaandejongh.hiddenfolks) are more widely known, Krispee Street's sheer variety of animated "stickers" (characters) and the complexity of each scene makes them enjoyable to explore.
 
-Each level will have 30-50 characters to spot, with each find earning you flowers that can be spent on powerups or coins. These coins are then used to purchase collectible cards, of which there are 142 in total. Each of these characters is uniquely designed and well-drawn, giving the impression of real personalty.
+Each level will have 30-50 characters to spot, with each find earning you flowers that can be spent on powerups or coins. These coins are then used to purchase collectible cards, of which there are 142 in total. Each of these characters is uniquely designed and well-drawn, giving the impression of real personality.
 
 The game controls very intuitively, with the ability to zoom in an out, and a circle of the character to find in the middle of the screen. A find is registered by holding this "crosshair" over the same character in the scene.
 
