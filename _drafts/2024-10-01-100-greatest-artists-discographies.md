@@ -8,7 +8,7 @@ tags:
 maxheader: 2
 ---
 
-I listen to a lot of music! However, it's almost entirely hip hop or related genres, and I've completely missed most of the biggest artists. Time to change that, with the help of a Top 100 list!
+I listen to a lot of music! However, it's almost entirely hip hop or related genres, and I've completely missed most of the biggest artists' discographies. Time to change that, with the help of a Top 100 list!
 
 Somewhat arbitrarily, I'm using [Billboard's "Greatest of All Time Artists"](https://www.billboard.com/charts/greatest-of-all-time-artists/#) list. It seems to favour older artists with significant impact, which is _good_ for my intention of gaining more awareness of artists in other genres.
 
@@ -42,6 +42,8 @@ Whilst the music started about how I expected, and how I imagined the 1960s, the
 - **Yellow Submarine**: Yellow Submarine's majority instrumentals surprised me, it sounds like a Disney film soundtrack! "[Let It Be](https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48?si=7396ebdcbe014a55)" also sounded very modern.
 
 ## #2: The Rolling Stones
+
+https://ew.com/music/best-rolling-stones-albums-of-all-time/
 
 ## #3: Elton John
 
