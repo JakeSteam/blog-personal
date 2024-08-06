@@ -43,7 +43,28 @@ Whilst the music started about how I expected, and how I imagined the 1960s, the
 
 ## #2: The Rolling Stones
 
+### Expectations
+
+Maybe some old rock sounding like Guns n Roses' Welcome to the Jungle? Couldn't name a single song.
+
+### Notes
+
+- Aftermath starts well! Actively enjoy Paint It, Black, but gets a bit country-y / repetitive with "Going Home". Does NOT sound like the 60s!
+- However, Their Satanic Majesties Request sounds older? And is more what I expected from Rolling Stones.
+- Recognised "Paint It, Black", although only included on US album?
+
 https://ew.com/music/best-rolling-stones-albums-of-all-time/
+
+4. ~~Aftermath (1966)~~
+5. ~~Their Satanic Majesties Request (1967)~~
+6. Beggars Banquet (1968)
+7. Let It Bleed (1969)
+8. Get Yer Ya-Ya's Out!: The Rolling Stones in Concert (1970)
+9. Sticky Fingers (1971)
+10. Exile on Main St. (1972)
+11. Goats Head Soup (1973)
+12. It's Only Rock 'n Roll (1974)
+13. Some Girls (1978)
 
 ## #3: Elton John
 
