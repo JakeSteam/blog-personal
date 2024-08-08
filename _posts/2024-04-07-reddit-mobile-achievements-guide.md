@@ -7,7 +7,9 @@ tags:
   - Reddit
 ---
 
-In April 2024, Reddit added 18 achievements to the mobile app, grouped into 3 categories (and 11 more in May). Here's all the details, and how to unlock them all!
+In April 2024, Reddit added 18 achievements to the mobile app, grouped into 3 categories (and added 20+ more later). Here's all the details, and how to unlock all 39 achievements!
+
+_PS: If you have any of the missing achievements, please [email](mailto:jake@jakelee.co.uk) or [reddit me](https://reddit.com/u/jakesteam) the images so I can add them and credit you!_
 
 ## What are achievements?
 
@@ -58,17 +60,27 @@ _Streak achievement images credit: [u/RcGJogaMine](https://www.reddit.com/user/R
 | [![200 day streak Reddit achievement](/assets/images/2024/reddit-200day-thumbnail.png)](/assets/images/2024/reddit-200day.png)<br>**200-day streak** (Legendary) | Use the Reddit app (upvote / post / comment / share) for 200 days in a row |
 | [![300 day streak Reddit achievement](/assets/images/2024/reddit-300day-thumbnail.png)](/assets/images/2024/reddit-300day.png)<br>**300-day streak** (Legendary) | Use the Reddit app (upvote / post / comment / share) for 300 days in a row |
 
-## Exploration (5)
+## Exploration (15)
 
-These achievements are a little more challenging, with creating a 10 upvote post or comment being more challenging depending on which subreddits you joined. Past posts and comments are included in this, so you might rediscover a popular post you made years ago!
+These achievements are a little more challenging, with 10,000 upvotes being pretty challenging! Interestingly, past posts and comments are included in this, so you might rediscover a popular post you made years ago.
 
-|                                                                                            Achievement                                                                                            |                            Requirement                            |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------: |
-|             [![Hometown Hero Reddit achievement](/assets/images/2024/reddit-localexplorer-thumbnail.png)](/assets/images/2024/reddit-localexplorer.png)<br>**Hometown Hero** (Common)             | Have joined a country specific subreddit (e.g. _r/UnitedKingdom_) |
-|                [![Nice Comment Reddit achievement](/assets/images/2024/reddit-nicecomment-thumbnail.png)](/assets/images/2024/reddit-nicecomment.png)<br>**Nice Comment** (Common)                |            Receive 10 upvotes on one of your comments             |
-|                      [![New Share Reddit achievement](/assets/images/2024/reddit-newshare-thumbnail.png)](/assets/images/2024/reddit-newshare.png)<br>**New Share** (Common)                      |   Share a post outside of Reddit using the app's "Share" button   |
-|                       [![Nice Post Reddit achievement](/assets/images/2024/reddit-nicepost-thumbnail.png)](/assets/images/2024/reddit-nicepost.png)<br>**Nice Post** (Rare)                       |              Receive 10 upvotes on one of your posts              |
-| [![Conversation Starter Reddit achievement](/assets/images/2024/reddit-conversationstarter-thumbnail.png)](/assets/images/2024/reddit-conversationstarter.png)<br>**Conversation Starter** (Epic) |      Leave the first comment on 5 posts using the Reddit app      |
+|                                                                                            Achievement                                                                                            |                                  Requirement                                   |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
+|             [![Hometown Hero Reddit achievement](/assets/images/2024/reddit-localexplorer-thumbnail.png)](/assets/images/2024/reddit-localexplorer.png)<br>**Hometown Hero** (Common)             |       Have joined a country specific subreddit (e.g. _r/UnitedKingdom_)        |
+| [![Conversation Starter Reddit achievement](/assets/images/2024/reddit-conversationstarter-thumbnail.png)](/assets/images/2024/reddit-conversationstarter.png)<br>**Conversation Starter** (Epic) |            Leave the first comment on 5 posts using the Reddit app             |
+|                [![Cool Comment Reddit achievement](/assets/images/2024/reddit-nicecomment-thumbnail.png)](/assets/images/2024/reddit-nicecomment.png)<br>**Cool Comment** (Common)                |                   Receive 10 upvotes on one of your comments                   |
+|           [![Quality Comment Reddit achievement](/assets/images/2024/reddit-qualitycomment-thumbnail.png)](/assets/images/2024/reddit-qualitycomment.png)<br>**Quality Comment** (Rare)           |                 Receive 1,000 upvotes on one of your comments                  |
+|   [![Captivating Comment Reddit achievement](/assets/images/2024/reddit-captivatingcomment-thumbnail.png)](/assets/images/2024/reddit-captivatingcomment.png)<br>**Captivating Comment** (Epic)   |                 Receive 10,000 upvotes on one of your comments                 |
+|                       [![Nice Post Reddit achievement](/assets/images/2024/reddit-nicepost-thumbnail.png)](/assets/images/2024/reddit-nicepost.png)<br>**Nice Post** (Rare)                       |                    Receive 10 upvotes on one of your posts                     |
+|          [![Buzz-Worthy Post Reddit achievement](/assets/images/2024/reddit-buzzworthypost-thumbnail.png)](/assets/images/2024/reddit-buzzworthypost.png)<br>**Buzz-Worthy Post** (Rare)          |                    Receive 100 upvotes on one of your posts                    |
+|                 [![Popular Post Reddit achievement](/assets/images/2024/reddit-popularpost-thumbnail.png)](/assets/images/2024/reddit-popularpost.png)<br>**Popular Post** (Rare)                 |                   Receive 1,000 upvotes on one of your posts                   |
+|               [![Premiere Post Reddit achievement](/assets/images/2024/reddit-premierepost-thumbnail.png)](/assets/images/2024/reddit-premierepost.png)<br>**Premiere Post** (Epic)               |                  Receive 10,000 upvotes on one of your posts                   |
+|                       [![Peak Post Reddit achievement](/assets/images/2024/reddit-peakpost-thumbnail.png)](/assets/images/2024/reddit-peakpost.png)<br>**Peak Post** (Rare)                       |                  Receive 100,000 upvotes on one of your posts                  |
+|                      [![New Share Reddit achievement](/assets/images/2024/reddit-newshare-thumbnail.png)](/assets/images/2024/reddit-newshare.png)<br>**New Share** (Common)                      |   Share a post or comments outside of Reddit using the app's "Share" button    |
+|     [![Sharing Enthusiast Reddit achievement](/assets/images/2024/reddit-sharingenthusiast-thumbnail.png)](/assets/images/2024/reddit-sharingenthusiast.png)<br>**Sharing Enthusiast** (Epic)     |  Share 10 posts or comments outside of Reddit using the app's "Share" button   |
+|         [![Sharing Advocate Reddit achievement](/assets/images/2024/reddit-sharingadvocate-thumbnail.png)](/assets/images/2024/reddit-sharingadvocate.png)<br>**Sharing Advocate** (Epic)         |  Share 50 posts or comments outside of Reddit using the app's "Share" button   |
+|                [![Sharing Pro Reddit achievement](/assets/images/2024/reddit-sharingpro-thumbnail.png)](/assets/images/2024/reddit-sharingpro.png)<br>**Sharing Pro** (Legendary)                 |  Share 100 posts or comments outside of Reddit using the app's "Share" button  |
+|        [![Sharing Legend Post Reddit achievement](/assets/images/2024/reddit-sharinglegend-thumbnail.png)](/assets/images/2024/reddit-sharinglegend.png)<br>**Sharing Legend** (Legendary)        | Share 1,000 posts or comments outside of Reddit using the app's "Share" button |
 
 ## Getting Started (7)
 
