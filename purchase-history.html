@@ -2,36 +2,52 @@
 permalink: /purchase-history/
 layout: page
 ---
-<h1>Google Play purchase history analyser</h1>
 
-<p>Load your <code>Purchase History.json</code> below (<a href="/analysing-my-google-play-purchase-history/">instructions</a>), or <a onclick="handlePurchasesFile(sampleData)">load sample data (mine!)</a>.</p>
+<h2>Google Play purchase history analyser</h2>
+
+<p>
+  Load your <code>Purchase History.json</code> below (<a
+    href="/analysing-my-google-play-purchase-history/"
+    >instructions</a
+  >), or
+  <a onclick="handlePurchasesFile(sampleData)">load sample data (mine!)</a>.
+</p>
 
 <label class="picker-label" for="picker">
   <div class="picker-text">Click or drag your purchase history here!</div>
-  <input type="file" name="inputfile" id="inputfile" accept=".json">
+  <input type="file" name="inputfile" id="inputfile" accept=".json" />
 </label>
 
 <p>Notes:</p>
 <ul>
   <li>No data is transferred, all processing is done in your browser.</li>
-  <li>"Total" is in your local currency, if you've purchased using multiple this tool won't be accurate.</li>
+  <li>
+    "Total" is in your local currency, if you've purchased using multiple this
+    tool won't be accurate.
+  </li>
   <li>Free purchases (e.g. trials) are not included in the analysis.</li>
   <li>Refunded purchases will still be shown.</li>
 </ul>
 
-<br><br>
+<br /><br />
 <div id="output"></div>
 
 <script src="/assets/js/purchasehistory/purchasehistory.js"></script>
 <script src="/assets/js/purchasehistory/purchasesample.js"></script>
 
 <script>
-  window.addEventListener('load', function () {
-    var shouldLoadSample = new URLSearchParams(window.location.search).get("loadsample")
-    if (shouldLoadSample != null) {
-      handlePurchasesFile(sampleData)
-    }
-  }, false);
+  window.addEventListener(
+    "load",
+    function () {
+      var shouldLoadSample = new URLSearchParams(window.location.search).get(
+        "loadsample"
+      );
+      if (shouldLoadSample != null) {
+        handlePurchasesFile(sampleData);
+      }
+    },
+    false
+  );
 </script>
 
 <style>
