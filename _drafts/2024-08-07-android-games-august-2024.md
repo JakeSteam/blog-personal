@@ -2,14 +2,14 @@
 title: "Android games I've enjoyed playing in August! Earth Inc, Pinball Masters, Bowling Ballers 🌍"
 author: Jake Lee
 layout: post
-image: /assets/images/2024/august-games-banner.png
+image: /assets/images/2024/aug-banner.png
 tags:
   - Android
   - Gaming
   - Netflix
 ---
 
-intro
+Pinball? Bowling? What an oddly sports-based month! Don't worry, there's a classic incremental that I've been spending most of my time on; here's my August Android games roundup!
 
 ## #1: [Earth Inc](https://play.google.com/store/apps/details?id=com.TreetopCrew.EarthInc)
 
@@ -97,22 +97,32 @@ All screenshots are from version 1.0.7:
 | :-----------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
 | [![Pinball Masters board select](/assets/images/2024/aug-pinball-1-thumbnail.jpg)](/assets/images/2024/aug-pinball-1.jpg) | [![Pinball Masters wrath of the elder gods](/assets/images/2024/aug-pinball-2-thumbnail.jpg)](/assets/images/2024/aug-pinball-2.jpg) | [![Pinball Masters pacific rim board](/assets/images/2024/aug-pinball-3-thumbnail.jpg)](/assets/images/2024/aug-pinball-3.jpg) |
 
-## #3: [Bowling Ballers](p)
+## #3: [Bowling Ballers](https://play.google.com/store/apps/details?id=com.netflix.NGP.BowlingBallers)
 
-intro
+It's another Netflix game! This time it's an extremely simple game that looks like half the game adverts you see, but luckily without any monetisation.
 
 ### Review
 
-review
+This is a very simple game. Guide your ball down the track to the end, collecting coins & other items, without hitting any obstacles. That's it.
+
+There's plenty of variety between levels, with various themes (e.g. I've unlocked movies, sports, and candy), mechanics (e.g. ramps, rockets, skateboard), and obstacles (static objects, swinging objects, transforming objects, etc). Despite the identical overall gameplay, each level does have a slightly different feel, essential when working through a few hundred of them.
+
+Whilst the levels start laughably easy, by around 15-20 levels into each theme they'll be genuinely challenging. I suspect this increase in difficulty was initially intended to work alongside some sort of "energy" system, which luckily doesn't exist!
+
+Each level rewards you with coins, used to buy spins on a wheel of tens of unlockable ball designs. These are surprisingly diverse, with different shapes, transparencies, and trail effects. It's a small, but appreciated detail.
 
 ### Monetisation
 
+There's none, it's a Netflix game!
+
 ### Tips
+
+There's not really many tips to give, since it's primarily a game about responding quickly to what's coming up on the track. The only tip would be make sure you go fully to the edge of the track when avoiding obstacles, it's easy to accidentally hit one!
 
 ### Screenshots
 
-All screenshots are from version :
+All screenshots are from version 1.0.8:
 
-| Main game | Seasonal event | Cutscene |
-| :-------: | :------------: | :------: |
-|           |
+|                                                       Cinema theme                                                        |                                                       Sports theme                                                        |                                                       Candy theme                                                        |
+| :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
+| [![Bowling Ballers cinema theme](/assets/images/2024/aug-bowling-1-thumbnail.jpg)](/assets/images/2024/aug-bowling-1.jpg) | [![Bowling Ballers sports theme](/assets/images/2024/aug-bowling-2-thumbnail.jpg)](/assets/images/2024/aug-bowling-2.jpg) | [![Bowling Ballers candy theme](/assets/images/2024/aug-bowling-3-thumbnail.jpg)](/assets/images/2024/aug-bowling-3.jpg) |
