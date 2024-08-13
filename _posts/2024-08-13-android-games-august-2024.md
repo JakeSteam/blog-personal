@@ -81,7 +81,7 @@ As a reward for completing each of the 3 score objectives on each table, new cos
 
 ### Monetisation
 
-As a Netflix game (see [previous post](/_posts/2024-07-19-android-games-netflix.md)) it's completely free if you have a Netflix subscription, with no adverts or ability to pay for anything.
+As a Netflix game (see [previous post](/android-games-netflix)) it's completely free if you have a Netflix subscription, with no adverts or ability to pay for anything.
 
 ### Tips
 
