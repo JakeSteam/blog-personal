@@ -7,7 +7,7 @@ tags:
   - Reddit
 ---
 
-In April 2024, Reddit added 18 achievements to the mobile app, grouped into 3 categories (and added 20+ more later). Here's all the details, and how to unlock all 41 achievements!
+In April 2024, Reddit added 18 achievements to the mobile app, grouped into 3 categories (and added 20+ more later). Here's all the details, and how to unlock all 42 achievements!
 
 _PS: If you have images of any of the missing achievements, please [email](mailto:jake@jakelee.co.uk) or [reddit me](https://reddit.com/u/jakesteam) the images so I can add them and credit you!_
 
@@ -25,7 +25,7 @@ Interestingly, if you view an achievement, you can see the comment / subreddit t
 
 [![Shareable Reddit achievement](/assets/images/2024/reddit_achievement-thumbnail.jpg)](/assets/images/2024/reddit_achievement.jpg)
 
-## Building Community (6)
+## Building Community (7)
 
 These are tricky to earn! They require long-term commitment to a single community, and a later update added progress indicators:
 
@@ -39,6 +39,7 @@ These are tricky to earn! They require long-term commitment to a single communit
 | [![Content Connoisseur Reddit achievement](/assets/images/2024/reddit-contentconnoisseur-thumbnail.png)](/assets/images/2024/reddit-contentconnoisseur.png)<br>**Content Connoisseur** (Legendary) |          Vote at least 5 times a day in the same community for 30 total days           |
 |                 [![Flag Planter Reddit achievement](/assets/images/2024/reddit-flagplanter-thumbnail.png)](/assets/images/2024/reddit-flagplanter.png)<br>**Flag Planter** (Rare)                  | Be one of the first 5 commenters on a new post in the same community for 10 total days |
 |                             [![Elder Reddit achievement](/assets/images/2024/reddit-elder-thumbnail.png)](/assets/images/2024/reddit-elder.png)<br>**Elder** (Common)                              |               Be a member of the same community for 3 consecutive years                |
+|                       [![Rising Star achievement](/assets/images/2024/reddit-risingstar-thumbnail.png)](/assets/images/2024/reddit-risingstar.png)<br>**Rising Star** (Epic)                       |                Get 1,000 upvotes during your first month in a community                |
 
 ## Reddit Streak (13)
 
