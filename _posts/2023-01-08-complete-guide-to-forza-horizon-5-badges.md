@@ -6,6 +6,7 @@ image: /assets/images/2023/badges-banner.png
 tags:
   - Forza Horizon 5
   - Gaming
+last_modified: 2024-08-24
 ---
 
 Badges are a post-release addition to Forza Horizon 5 starting in April 2022 that provide an extra incentive for gameplay: unlocking badges next to your name. Here's how to obtain every badge and detailed tips for winning online races, so you can get your elusive gold Horizon Open Champion badge too! Also includes July 2024's new badges.
