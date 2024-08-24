@@ -9,7 +9,7 @@ tags:
 
 In April 2024, Reddit added 18 achievements to the mobile app, grouped into 3 categories (and added 20+ more later). Here's all the details, and how to unlock all 42 achievements!
 
-_PS: If you have images of any of the missing achievements, please [email](mailto:jake@jakelee.co.uk) or [reddit me](https://reddit.com/u/jakesteam) the images so I can add them and credit you!_
+_PS: If you have the 300/400/500 day achievements, send me a message [on reddit](https://reddit.com/u/jakesteam) so I can add them!_
 
 ## What are achievements?
 
@@ -43,6 +43,8 @@ The streak achievements are simple loyalty rewards, requiring some sort of activ
 
 [![Reddit streak achievement tracking](/assets/images/2024/reddit-streak.png)](/assets/images/2024/reddit-streak.png)
 
+Note that the last couple of achievements cannot be obtained yet, as achievements have not been out yet. The 300-day achievement should be available late August 2024.
+
 |                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                       |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                  [![5 day streak Reddit achievement](/assets/images/2024/reddit-5day.png)](/assets/images/2024/reddit-5day.png)<br>**5-day streak** (Common)<br>Use the Reddit app (upvote / post / comment / share) for 5 days in a row                   |     [![10 day streak Reddit achievement](/assets/images/2024/reddit-10day.png)](/assets/images/2024/reddit-10day.png)<br>**10-day streak** (Common) <br> Use the Reddit app (upvote / post / comment / share) for 10 days in a row     |    [![20 day streak Reddit achievement](/assets/images/2024/reddit-20day.png)](/assets/images/2024/reddit-20day.png)<br>**20-day streak** (Common) <br> Use the Reddit app (upvote / post / comment / share) for 20 days in a row     |
@@ -53,7 +55,9 @@ The streak achievements are simple loyalty rewards, requiring some sort of activ
 
 ## Exploration (15)
 
-These achievements are a little more challenging, with 10,000 upvotes being pretty challenging! Interestingly, past posts and comments are included in this, so you might rediscover a popular post you made years ago.
+These achievements are a little more challenging, with 100,000 upvotes being almost impossible! Interestingly, past posts and comments often are included in this, so you might rediscover a popular post you made years ago.
+
+The sharing achievements can actually be obtained easily, by just tapping "share" and "copy link" repeatedly on the mobile app. As such, 1,000 shares will take 10-15 minutes of dedicated tapping.
 
 |                                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                  |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
