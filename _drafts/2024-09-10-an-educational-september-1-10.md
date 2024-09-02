@@ -40,7 +40,7 @@ Interestingly, the very first item on Jekyll's "Philosophy" page[^jekyll-philoso
 
 Perhaps this shouldn't have been a surprise, since I've regularly added plenty of new features to my [minimaJake theme](https://minima.jakelee.co.uk/) and things just... kinda make sense? I can copy the existing template, copy existing plugins, all because the project aims for simplicity and obviousness.
 
-## Conclusion
+### Conclusion
 
 Well, Jekyll ultimately is just a series of simple steps! However, the implementation of plugins, converters, and styling seems to have been very intentionally designed for extensibility, making users' lives as easy possible. Nice.
 
@@ -52,13 +52,34 @@ Well, Jekyll ultimately is just a series of simple steps! However, the implement
 [^jekyll-watch-rb]: <https://github.com/jekyll/jekyll-watch/blob/master/lib/jekyll/watcher.rb>
 [^jekyll-philosophy]: <https://jekyllrb.com/philosophy/>
 
-## 2: Cloudflare pages
+## 2: Fruit tree growing
 
-## 3: Muscle building diet
+- **What do I want to learn?** I have a few small fruit trees in my garden, and they're doing whatever they want. Should I be helping them somehow? Pruning them?
+- **How much do I know already?** Essentially nothing. I remove any dead fruits, and sometimes trim the trees if they're reaching too far towards each other, but I don't know if this is correct.
 
-## 4: F1 aero
+### Notes
 
-## Day 5:
+- They need a lot of watering[^fruits-watering]! I haven't been giving them any besides what they occasionally catch when I water the lawn (not at all this year).
+- Similarly, I should make sure they get some bonus nutritious garden compost[^fruits-compost], or the chicken manure pellets I found in my garage!
+- I should also sometimes clear some space around the bottom, so they get the compost nutrients not the grass they're growing in.
+- "Thinning" is a thing! By getting rid of some fruit in May-ish when they've just started appearing, the tree can put all its energy into fewer, bigger fruits.
+- Maintenance of the tree's shape seems pretty flexible. Prune in winter if you want MORE tree, prune in spring & summer if you want to keep it about the same size[^fruits-pruning]. I'll do the latter.
+
+### Conclusion
+
+I need to look after my trees better! Next spring I'm looking forward to thinning out the fruit, and pruning the trees so they're a less chaotic shape. Hopefully it'll help provide more plums and apples to eat, I definitely noticed having fewer this year than the one before.
+
+However, it really isn't that complicated. Like with seemingly everything else in the garden, it just needs a bit of effort at the right time. If only I was retired and could do a little gardening daily..!
+
+[^fruits-watering]: <https://www.ashridgetrees.co.uk/advice/essential-aftercare#:~:text=All%20fruit%20trees%20need%20a%20steady%2C%20consistent%20even%20supply%20of%20moisture.>
+[^fruits-compost]: <https://www.rhs.org.uk/fruit/fruit-trees/feeding-and-mulching>
+[^fruits-pruning]: <https://www.woodlandtrust.org.uk/blog/2018/02/when-to-prune-fruit-trees/>
+
+## 3: Cloudflare pages
+
+## 4: Muscle building diet
+
+## 5: F1 aero
 
 ## Day 6:
 
