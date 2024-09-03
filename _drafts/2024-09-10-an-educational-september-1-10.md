@@ -75,11 +75,19 @@ However, it really isn't that complicated. Like with seemingly everything else i
 [^fruits-compost]: <https://www.rhs.org.uk/fruit/fruit-trees/feeding-and-mulching>
 [^fruits-pruning]: <https://www.woodlandtrust.org.uk/blog/2018/02/when-to-prune-fruit-trees/>
 
-## 3: Cloudflare pages
+## 3: 80s F1 drivers?
 
-## 4: Muscle building diet
+Okay, this doesn't really count, I had a busy day!
 
-## 5: F1 aero
+I spent a couple of hours reading [Nigel Mansell's autobiography](https://www.goodreads.com/book/show/5721352-driven-to-win) from just _before_ he won the F1 world championship!
+
+It was pretty interesting reading him talk about many now-legends of the sport as current drivers, and how significantly reliability factored into performance in those days. Since I'm [still a newcomer to F1](https://jakelee.co.uk/why-i-fell-in-love-with-formula-1/), I always enjoy reading of accounts from before I was watching.
+
+## 4: Cloudflare pages
+
+## 5: Muscle building diet
+
+## 6: F1 aero
 
 ## Day 6:
 
