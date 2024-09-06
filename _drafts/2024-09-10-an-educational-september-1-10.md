@@ -120,6 +120,42 @@ How to study:
 [^f1-flowvis]: <https://www.formula1.com/en/latest/article/testing-explained-rob-smedley-on-flow-vis.7nU2VePGlVrhIGa8wgCoLE>
 [^f1-wings]: <https://racingnews365.com/aerodynamics-f1#:~:text=Front%20wing%20and%20rear%20wing>
 
+## 5: Book publishing
+
+- **What do I want to learn?** How do somebody go from writing their first fiction or non-fiction document, to it becoming a physical book in stores? I know places like Amazon let people essentially self-publish, but I'm more interested in the traditional, physical book industry.
+- **How much do I know already?** Bits and pieces. I think you need an agent, and later on you'll have an editor who will help tidy it up. However, most of what I know is from Stephen King, Terry Pratchett, or Isaac Asimov who wrote about the process when they were already successful.
+
+### Notes:
+
+The overall process is[^books-process]:
+
+1. **Author** finds an **agent** who likes their manuscript (draft), similar to other entertainment industries.
+   - The **author** submits their finished manuscripts to **agents**, and wait 1-3 months for a reply.
+   - The **agent** typically only reads more than a couple of paragraphs[^books-amountread], and might want a cover (query) letter and/or a few pages[^books-amountread2].
+2. **Agent** offers book to **editors** at **publishers**.
+   - This is where the contract negotiation process happens.
+   - Sometimes there's multiple interested editors, so possible bidding war.
+3. **Editor** "buys" the book (agrees contract), edits the content, grammar, etc. Usually takes 18 months(!). They are generally responsible for the whole process[^books-editor].
+4. Once the content is ready, the **production team** prepares all the next steps for making it a physical / ebook.
+   - The **design team** works on a cover.
+   - There are also copy-editors, proofreaders, typesetters, etc[^books-production].
+5. The **sales team** pitches the book to everywhere that might be interested. So, supermarkets, Amazon, independent bookshops, etc.
+   - Similarly, the **rights team** might sell it to foreign publishers, sell translation rights, sell movie / TV rights, etc.
+   - The **audiobook team** will obviously... make the audiobook. This is a whole process since you need casting, recording, editing, etc[^books-audio].
+6. Now the book is actually available, the **marketing and publicity teams** do all the advertising, partnerships, events interviews, about what you'd expect.
+7. Done!
+
+Seems like the process is actually straightforward! From the author's perspective once an agent likes your work, it seems that the majority of the effort is on the agent & publisher's side.
+
+Of course, before that you've got to write an entire book, one that an agent will want to work with you on. Easy..!
+
+[^books-amountread]: <https://www.reddit.com/r/writing/comments/16kdue1/how_much_publishersagents_will_really_read_of_the/>
+[^books-amountread2]: <https://www.reddit.com/r/writing/wiki/publishingfaq#wiki_-how_do_i_get_started_on_the_traditional_publishing_path_for_novel-length_fiction.3F>
+[^books-audio]: <https://www.publishers.org.uk/about-publishing/careers/audio-publisher/>
+[^books-editor]: <https://www.publishers.org.uk/about-publishing/careers/commissioning-editor/>
+[^books-production]: <https://www.publishers.org.uk/working-in-production-with-philippa-fiszzon/>
+[^books-process]: <https://www.publishers.org.uk/about-publishing/how-publishing-works/>
+
 ## 5: Cloudflare pages
 
 ## 6: Muscle building diet
