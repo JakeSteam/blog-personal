@@ -156,11 +156,44 @@ Of course, before that you've got to write an entire book, one that an agent wil
 [^books-production]: <https://www.publishers.org.uk/working-in-production-with-philippa-fiszzon/>
 [^books-process]: <https://www.publishers.org.uk/about-publishing/how-publishing-works/>
 
-## 5: Cloudflare pages
+## 6: Household electrics
 
-## 6: Muscle building diet
+- **What do I want to learn?** The basics! How do circuits work in UK houses, how do fuses work, how dangerous is household electrical power, anything really.
+- **How much do I know already?** Well, I studied physics at school and read plenty of news about electronics, watch the occasional device teardown etc... but I always forget the basics! So, I _confidently_ know zero, but _tentatively_ know more.
 
-## 7: Household electrics
+### Notes:
+
+Fuse boxes:
+
+- When too much power goes through a fuse, it melts, protecting the actual consumer of the electricity.
+- However, every "fuse box" I've owned is actually an "electrical consumer unit", with switches that flip instead of melting[^electrics-fusebox]! Interesting how the old name has stuck.
+- Some circuits have "RCD protection"[^electrics-rcd], which turns off the circuit immediately when electrical current is unexpectedly reaching earth (e.g. via your body!).
+  - This _drastically_ reduces the risk from accidentally touching a live wire, or an appliance's metal case becoming live.
+  - In my house, I have quite an old unit so only sockets & appliances have RCD protection. However, lights and other things have no protection, so random wires in the walls are dangerous.
+  - Modern houses have _all_ circuits RCD protected, which an electrician previously recommended along with replacing the box itself. Now I know what RCD does, I agree!
+
+Electrical circuits:
+
+- Each "switch" in the fuse box controls a collection of electricity consumers. For example upstairs sockets, or kitchen appliances.
+- Sockets are usually wired up in a big "loop", often in a loop per floor. Kitchens often have their own since they have higher power consumption appliances[^electrics-ring].
+- Lights are also usually in a "loop".
+
+Wires:
+
+- There are 2 wiring colour schemes, an "old" one (pre-2006), and a "new" one[^electrics-wirecolour]:
+  - Live: Brown (formerly red), carries the current from the power supply to the appliance.
+  - Neutral: Blue (formerly black), carries the current from the appliance back to the power supply.
+  - Earth: Green / yellow (or no sleeve), "catches" current through the fuse in case something goes wrong[^electrics-earth].
+
+[^electrics-fusebox]: <https://excelelectrician.co.uk/fuse-box-replacement/>
+[^electrics-rcd]: <https://wiki.diyfaq.org.uk/index.php/RCD>
+[^electrics-ring]: <https://wiki.diyfaq.org.uk/index.php/House_Wiring_for_Beginners#Ring>
+[^electrics-wirecolour]: <https://www.skillstg.co.uk/blog/guide-to-electrical-wiring-colours-in-the-uk/>
+[^electrics-earth]: <https://www.bbc.co.uk/bitesize/guides/z3fsmsg/revision/2>
+
+## 7: Cloudflare pages
+
+## 8: Muscle building diet
 
 ## Day 8:
 
