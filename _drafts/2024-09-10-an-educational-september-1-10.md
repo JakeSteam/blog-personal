@@ -124,7 +124,7 @@ How to study:
 
 ## 6: Muscle building diet
 
-## 7:
+## 7: Household electrics
 
 ## Day 8:
 

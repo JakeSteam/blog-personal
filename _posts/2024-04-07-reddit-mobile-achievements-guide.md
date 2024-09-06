@@ -6,10 +6,10 @@ image: /assets/images/2024/reddit-achievements.png
 tags:
   - Reddit
   - Achievements
-last_modified: 2024-08-24
+last_modified: 2024-09-06
 ---
 
-In April 2024, Reddit added 18 achievements to the mobile app, grouped into 3 categories (and added 20+ more later). Here's all the details, and how to unlock all 42 achievements!
+In April 2024, Reddit added 18 achievements to the mobile app, grouped into 3 categories (and added 20+ more later). Here's all the details, and how to unlock all 44 achievements!
 
 _PS: If you have the 300/400/500 day achievements, send me a message [on reddit](https://reddit.com/u/jakesteam) so I can add them!_
 
@@ -27,7 +27,7 @@ Interestingly, if you view an achievement, you can see the comment / subreddit t
 
 [![Shareable Reddit achievement](/assets/images/2024/reddit_achievement-thumbnail.jpg)](/assets/images/2024/reddit_achievement.jpg)
 
-## Building Community (7)
+## Building Community (9)
 
 These are tricky to earn! They require long-term commitment to a single community, and a later update added progress indicators:
 
@@ -37,7 +37,7 @@ These are tricky to earn! They require long-term commitment to a single communit
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                 [![Top Poster Reddit achievement](/assets/images/2024/reddit-topposter.png)](/assets/images/2024/reddit-topposter.png)<br>**Top Poster** (Epic)<br>Finish the month within the top 10% upvoted posters in a specific community                  |   [![Top Commenter Reddit achievement](/assets/images/2024/reddit-topcommenter.png)](/assets/images/2024/reddit-topcommenter.png)<br>**Top Commenter** (Epic)<br>Finish the month within the top 10% upvoted commenters in a specific community   | [![Repeat Contributor Reddit achievement](/assets/images/2024/reddit-repeatcontributor.png)](/assets/images/2024/reddit-repeatcontributor.png)<br>**Repeat Contributor** (Epic)<br>Post or comment in the same community for 20 total days |
 | [![Content Connoisseur Reddit achievement](/assets/images/2024/reddit-contentconnoisseur.png)](/assets/images/2024/reddit-contentconnoisseur.png)<br>**Content Connoisseur** (Legendary)<br>Vote at least 5 times a day in the same community for 30 total days | [![Flag Planter Reddit achievement](/assets/images/2024/reddit-flagplanter.png)](/assets/images/2024/reddit-flagplanter.png)<br>**Flag Planter** (Rare)<br>Be one of the first 5 commenters on a new post in the same community for 10 total days |                        [![Elder Reddit achievement](/assets/images/2024/reddit-elder.png)](/assets/images/2024/reddit-elder.png)<br>**Elder** (Common)<br>Be a member of the same community for 3 consecutive years                        |
-|                            [![Rising Star achievement](/assets/images/2024/reddit-risingstar.png)](/assets/images/2024/reddit-risingstar.png)<br>**Rising Star** (Epic)<br>Get 1,000 upvotes during your first month in a community                             |                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                            |
+|                            [![Rising Star achievement](/assets/images/2024/reddit-risingstar.png)](/assets/images/2024/reddit-risingstar.png)<br>**Rising Star** (Epic)<br>Get 1,000 upvotes during your first month in a community                             |                                [![Picasso](/assets/images/2024/reddit-picasso.png)](/assets/images/2024/reddit-picasso.png)<br>**Picasso** (Epic)<br>Create media posts or comments that receive 100 total upvotes                                |                                       [![That's Me](/assets/images/2024/reddit-thatsme.png)](/assets/images/2024/reddit-thatsme.png)<br>**That's Me** (Epic)<br>Set your user flair in any subreddit                                       |
 
 ## Reddit Streak (13)
 
