@@ -9,11 +9,11 @@ tags:
 last_modified: 2024-09-10
 ---
 
-Badges are a post-release addition to Forza Horizon 5 starting in April 2022 that provide an extra incentive for gameplay: unlocking badges next to your name. Here's how to obtain every badge and detailed tips for winning online races, so you can get your elusive gold Horizon Open Champion badge too! Also includes July 2024's new badges.
+Badges are a post-release addition to Forza Horizon 5 starting in April 2022 that provide an extra incentive for gameplay: unlocking badges next to your name. Here's how to obtain every badge and detailed tips for winning online races, so you can get your elusive gold Horizon Open Champion badge too! Also includes September 2024's new badges.
 
 ## Badges
 
-There are a total of 49 badges to earn, taking a total of around 100-150 hours:
+There are a total of 66 badges to earn, taking a total of around 200-250 hours:
 
 - 11 Level based badges
 - 3 Completion based badges
@@ -21,6 +21,7 @@ There are a total of 49 badges to earn, taking a total of around 100-150 hours:
 - 19 Limited edition badges
 - 4 Car collection based badges
 - 5 Test track badges
+- 17 Hide & Seek badges
 
 Here's how to earn them all!
 
