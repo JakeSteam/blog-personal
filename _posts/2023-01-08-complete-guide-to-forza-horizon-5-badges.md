@@ -109,6 +109,8 @@ As painful as that seems, the "Tinker, Tailor, Car Tuner" badge is far worse! It
 
 ### Hide and Seek badges
 
+Released in September 2024, these are all pretty straight-forward, with the level 1000 badge taking the longest by far! You'll gain 2ish levels per game (depending on how well you do) so at 7 mins per game (including wait time) you're looking at 75 hours of hide & seek. Enjoy!
+
 |                                                                                                             |                                                                                                               |                                                                                                                                    |
 | :---------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
 |   ![](/assets/images/2024/badges-hs-10.png)<br>**Just Getting Started**<br>Reach level 10 at Hide & Seek    |  ![](/assets/images/2024/badges-hs-100.png)<br>**Getting The Hang Of It**<br>Reach level 100 at Hide & Seek   |               ![](/assets/images/2024/badges-hs-200.png)<br>**Hide & Seek Rookie**<br>Reach level 200 at Hide & Seek               |
