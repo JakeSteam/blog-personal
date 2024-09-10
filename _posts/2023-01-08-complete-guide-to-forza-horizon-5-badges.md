@@ -6,7 +6,7 @@ image: /assets/images/2023/badges-banner.png
 tags:
   - Forza Horizon 5
   - Gaming
-last_modified: 2024-08-24
+last_modified: 2024-09-10
 ---
 
 Badges are a post-release addition to Forza Horizon 5 starting in April 2022 that provide an extra incentive for gameplay: unlocking badges next to your name. Here's how to obtain every badge and detailed tips for winning online races, so you can get your elusive gold Horizon Open Champion badge too! Also includes July 2024's new badges.
@@ -106,6 +106,20 @@ As painful as that seems, the "Tinker, Tailor, Car Tuner" badge is far worse! It
 | --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![](/assets/images/2023/badges-tt-purchase.png)<br>**Keeping Track**<br>Apply and purchase an upgrade at the Horizon Test Track               | ![](/assets/images/2023/badges-tt-purchase50.png)<br>**Track Record**<br>Apply and purchase an upgrade to 50 cars at the Horizon Test Track        | ![](/assets/images/2023/badges-tt-500m.png)<br>**Just Keep Driving, Driving, Driving**<br>Drive 500 miles (804.7km) at the Horizon Test Track |
 | ![](/assets/images/2023/badges-tt-spend1m.png)<br>**Break The 'Piggy' Bank**<br>Spend 1,000,000 credits on upgrades at the Horizon Test Track | ![](/assets/images/2023/badges-tt-spend10m.png)<br>**Tinker, Tailor, Car Tuner**<br>Spend 10,000,000 credits on upgrades at the Horizon Test Track |                                                                                                                                               |
+
+### Hide and Seek badges
+
+|                                                                                                             |                                                                                                               |                                                                                                                                    |
+| :---------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
+|   ![](/assets/images/2024/badges-hs-10.png)<br>**Just Getting Started**<br>Reach level 10 at Hide & Seek    |  ![](/assets/images/2024/badges-hs-100.png)<br>**Getting The Hang Of It**<br>Reach level 100 at Hide & Seek   |               ![](/assets/images/2024/badges-hs-200.png)<br>**Hide & Seek Rookie**<br>Reach level 200 at Hide & Seek               |
+|   ![](/assets/images/2024/badges-hs-300.png)<br>**Hide & Seek Amateur**<br>Reach level 300 at Hide & Seek   |  ![](/assets/images/2024/badges-hs-400.png)<br>**Hide & Seek Enthusiast**<br>Reach level 400 at Hide & Seek   |               ![](/assets/images/2024/badges-hs-500.png)<br>**Hide & Seek Expert**<br>Reach level 500 at Hide & Seek               |
+|     ![](/assets/images/2024/badges-hs-600.png)<br>**Hide & Seek Pro**<br>Reach level 600 at Hide & Seek     |     ![](/assets/images/2024/badges-hs-700.png)<br>**Hide & Seek Elite**<br>Reach level 700 at Hide & Seek     |             ![](/assets/images/2024/badges-hs-800.png)<br>**Hide & Seek Specialist**<br>Reach level 800 at Hide & Seek             |
+|   ![](/assets/images/2024/badges-hs-900.png)<br>**Hide & Seek Master**<br>Reach level 900 at Hide & Seek    |  ![](/assets/images/2024/badges-hs-1000.png)<br>**Hide & Seek Champion**<br>Reach level 1000 at Hide & Seek   |              ![](/assets/images/2024/badges-hs-50streak.png)<br>**No Stopping Me**<br>Reach a Highest Streak of 50`*`              |
+| ![](/assets/images/2024/badges-hs-100streak.png)<br>**Never Back Down**<br>Reach a Highest Streak of 100`*` | ![](/assets/images/2024/badges-hs-detection.png)<br>**Undetected**<br>Win a game with 0% detection as a hider | ![](/assets/images/2024/badges-hs-100chasebreaker.png)<br>**Sting In The Tail**<br>Hit a total of 100 cars with a Chase Breaker`^` |
+| ![](/assets/images/2024/badges-hs-1000miles.png)<br>**World Traveller**<br>Drive 1000 miles in Hide & seek  |      ![](/assets/images/2024/badges-hs-100pings.png)<br>**Ding Ding Ding**<br>Make 100 successful Pings       |                                                                                                                                    |
+
+- `*`: Streaks seem to just be games played without quitting out. Network disconnects don't break the streak.
+- `^`: This badge says "as a seeker", but Chase Breakers are only available as a hider.
 
 ## Online racing
 
