@@ -1,17 +1,22 @@
 ---
-title: "An educational September: Days 1-10"
+title: "Notes on Jekyll Builds, Fruit Tree Growing, F1 Aerodynamics, Book Publishing, and Household Electronics"
 author: Jake Lee
 layout: post
-image: /assets/images/2024/
+image: /assets/images/2024/sept-notes-banner.gif
 tags:
-  - Education
-  - Hobby
+  - Jekyll
+  - F1
+  - Writing
+  - Electronics
+  - Gardening
 maxheader: 2
 ---
 
-intro
+Okay so here's the deal, I was going to learn 1 new topic a day in September, but quickly realised... topics are either pointlessly small or overwhelmingly big. So, here you go, have a few days of topic notes!
 
-## 1: Jekyll build process
+_Banner image is from [this excellent guide to UK house wiring](https://wiki.diyfaq.org.uk/index.php/House_Wiring_for_Beginners#Overview)._
+
+## Jekyll build process
 
 - **What do I want to learn?** How does Jekyll convert my list of posts and templates into... an actual site? Is it just convert markdown, glue it together, and done?
 - **How much do I know already?** Despite making a theme used on various sites... not much! I know how to use it, and how to customise it, but not about how it actually compiles, how the automatic rebuilding works, or anything else.
@@ -52,7 +57,7 @@ Well, Jekyll ultimately is just a series of simple steps! However, the implement
 [^jekyll-watch-rb]: <https://github.com/jekyll/jekyll-watch/blob/master/lib/jekyll/watcher.rb>
 [^jekyll-philosophy]: <https://jekyllrb.com/philosophy/>
 
-## 2: Fruit tree growing
+## Fruit tree growing
 
 - **What do I want to learn?** I have a few small fruit trees in my garden, and they're doing whatever they want. Should I be helping them somehow? Pruning them?
 - **How much do I know already?** Essentially nothing. I remove any dead fruits, and sometimes trim the trees if they're reaching too far towards each other, but I don't know if this is correct.
@@ -75,15 +80,7 @@ However, it really isn't that complicated. Like with seemingly everything else i
 [^fruits-compost]: <https://www.rhs.org.uk/fruit/fruit-trees/feeding-and-mulching>
 [^fruits-pruning]: <https://www.woodlandtrust.org.uk/blog/2018/02/when-to-prune-fruit-trees/>
 
-## 3: 80s F1 drivers?
-
-Okay, this doesn't really count, I had a busy day!
-
-I spent a couple of hours reading [Nigel Mansell's autobiography](https://www.goodreads.com/book/show/5721352-driven-to-win) from just _before_ he won the F1 world championship!
-
-It was pretty interesting reading him talk about many now-legends of the sport as current drivers, and how significantly reliability factored into performance in those days. Since I'm [still a newcomer to F1](https://jakelee.co.uk/why-i-fell-in-love-with-formula-1/), I always enjoy reading of accounts from before I was watching.
-
-## 4: F1 Aerodynamics
+## F1 Aerodynamics
 
 - **What do I want to learn?** What does aero / aerodynamics actually mean? What is it trying to do? How?
 - **How much do I know already?** Well, I know that the car wants to be "pushed" down to maximise tyre grip on the track. I also know it wants to minimise air resistance and have air flow smoothly over. However, I don't understand how tiny changes to the overall shape can have such a significant impact, or what "good" aero looks like. The little I do know is from [SuperfastMatt](https://www.youtube.com/@SuperfastMatt).
@@ -120,7 +117,7 @@ How to study:
 [^f1-flowvis]: <https://www.formula1.com/en/latest/article/testing-explained-rob-smedley-on-flow-vis.7nU2VePGlVrhIGa8wgCoLE>
 [^f1-wings]: <https://racingnews365.com/aerodynamics-f1#:~:text=Front%20wing%20and%20rear%20wing>
 
-## 5: Book publishing
+## Book publishing
 
 - **What do I want to learn?** How do somebody go from writing their first fiction or non-fiction document, to it becoming a physical book in stores? I know places like Amazon let people essentially self-publish, but I'm more interested in the traditional, physical book industry.
 - **How much do I know already?** Bits and pieces. I think you need an agent, and later on you'll have an editor who will help tidy it up. However, most of what I know is from Stephen King, Terry Pratchett, or Isaac Asimov who wrote about the process when they were already successful.
@@ -156,7 +153,7 @@ Of course, before that you've got to write an entire book, one that an agent wil
 [^books-production]: <https://www.publishers.org.uk/working-in-production-with-philippa-fiszzon/>
 [^books-process]: <https://www.publishers.org.uk/about-publishing/how-publishing-works/>
 
-## 6: Household electrics
+## Household electrics
 
 - **What do I want to learn?** The basics! How do circuits work in UK houses, how do fuses work, how dangerous is household electrical power, anything really.
 - **How much do I know already?** Well, I studied physics at school and read plenty of news about electronics, watch the occasional device teardown etc... but I always forget the basics! So, I _confidently_ know zero, but _tentatively_ know more.
@@ -190,15 +187,5 @@ Wires:
 [^electrics-ring]: <https://wiki.diyfaq.org.uk/index.php/House_Wiring_for_Beginners#Ring>
 [^electrics-wirecolour]: <https://www.skillstg.co.uk/blog/guide-to-electrical-wiring-colours-in-the-uk/>
 [^electrics-earth]: <https://www.bbc.co.uk/bitesize/guides/z3fsmsg/revision/2>
-
-## 7: Cloudflare pages
-
-## 8: Muscle building diet
-
-## Day 8:
-
-## Day 9:
-
-## Day 10:
 
 ## References
