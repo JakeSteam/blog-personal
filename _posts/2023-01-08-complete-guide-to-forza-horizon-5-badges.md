@@ -6,7 +6,7 @@ image: /assets/images/2023/badges-banner.png
 tags:
   - Forza Horizon 5
   - Gaming
-last_modified: 2024-09-10
+last_modified: 2024-09-11
 ---
 
 Badges are a post-release addition to Forza Horizon 5 starting in April 2022 that provide an extra incentive for gameplay: unlocking badges next to your name. Here's how to obtain every badge and detailed tips for winning online races, so you can get your elusive gold Horizon Open Champion badge too! Also includes September 2024's new badges.
@@ -121,7 +121,7 @@ Released in September 2024, these are all pretty straight-forward, with the leve
 | ![](/assets/images/2024/badges-hs-100streak.png)<br>**Never Back Down**<br>Reach a Highest Streak of 100`*` | ![](/assets/images/2024/badges-hs-detection.png)<br>**Undetected**<br>Win a game with 0% detection as a hider | ![](/assets/images/2024/badges-hs-100chasebreaker.png)<br>**Sting In The Tail**<br>Hit a total of 100 cars with a Chase Breaker`^` |
 | ![](/assets/images/2024/badges-hs-1000miles.png)<br>**World Traveller**<br>Drive 1000 miles in Hide & seek  |      ![](/assets/images/2024/badges-hs-100pings.png)<br>**Ding Ding Ding**<br>Make 100 successful Pings       |                                                                                                                                    |
 
-- `*`: Streaks seem to just be games played without quitting out. Network disconnects don't break the streak.
+- `*`: Streaks are just games played without quitting out ([Playground Games confirmation](https://www.reddit.com/r/ForzaHorizon/comments/1fdn6is/hide_n_seek_is_fun_personal_thoughts/lmkvuh0/?context=3)). Network disconnects don't break the streak.
 - `^`: This badge says "as a seeker", but Chase Breakers are only available as a hider.
 
 ## Online racing
