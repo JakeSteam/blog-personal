@@ -98,7 +98,7 @@ All screenshots are from version 1.0.6:
 
 ## #3: [Wonderputt Forever](https://play.google.com/store/apps/details?id=com.netflix.NGP.WonderputtForever)
 
-Another game from Netflix (see [previous post](/_posts/2024-07-19-android-games-netflix.md)), this one is an absurdly beautiful minigolf simulator!
+Another game from Netflix (see [previous post](/android-games-netflix/)), this one is an absurdly beautiful minigolf simulator!
 
 ### Review
 
