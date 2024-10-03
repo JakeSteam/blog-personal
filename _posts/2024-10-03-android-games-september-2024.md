@@ -133,7 +133,7 @@ All screenshots are from version 0.1.7:
 
 ## #4: [Idle Space Soldier](https://play.google.com/store/apps/details?id=com.RubbleGames.IdleSpaceSoldier)
 
-This sidescrolling autoshooter entered early access in late September, and I downloaded mostly for the appearance and setting. It's a pretty basic incremental, but I'm a big fan of the overall retro-y sci-fi-y aesthetic, it reminds me of old Game Boy Advance games! Whilst it seems a bit bare bones for now, it definitely has potential.
+This sidescrolling autoshooter entered early access [in late September](https://www.reddit.com/r/incremental_games/comments/1fof75d/idle_space_soldier_is_now_in_android_early_access/), and I downloaded mostly for the appearance and setting. It's a pretty basic incremental, but I'm a big fan of the overall retro-y sci-fi-y aesthetic, it reminds me of old Game Boy Advance games! Whilst it seems a bit bare bones for now, it definitely has potential.
 
 ### Review
 
