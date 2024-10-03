@@ -8,7 +8,7 @@ tags:
   - Gaming
 ---
 
-intro
+A real mixture this month! One actively doesn't want your attention (cube farm), one wants you to be fully immersed (Wonderputt Forever), with the other 2 falling somewhere in-between. Of course, there's also a cat themed game...
 
 ## #1: [cube farm](https://play.google.com/store/apps/details?id=com.tarotfocus.cubefarm)
 
