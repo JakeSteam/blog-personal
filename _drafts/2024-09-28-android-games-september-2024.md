@@ -1,5 +1,5 @@
 ---
-title: "Android games I've enjoyed playing in September! Cube farm, Idle Space Soldier"
+title: "4 Android games I enjoyed playing in September! 🟩 Cube farm, 😼 Cat Valley Town, ⛳ Wonderputt Forever, 🌌 Idle Space Soldier"
 author: Jake Lee
 layout: post
 image: /assets/images/2024/sept-banner.png
@@ -57,7 +57,81 @@ All screenshots are from version 0.6.9:
 | :-------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
 | [![cube farm bottom layer](/assets/images/2024/sept-cube-1-thumbnail.jpg)](/assets/images/2024/sept-cube-1.jpg) | [![cube farm top layer](/assets/images/2024/sept-cube-2-thumbnail.jpg)](/assets/images/2024/sept-cube-2.jpg) | [![cube farm market](/assets/images/2024/sept-cube-3-thumbnail.jpg)](/assets/images/2024/sept-cube-3.jpg) |
 
-## #2: [Idle Space Soldier](https://play.google.com/store/apps/details?id=com.RubbleGames.IdleSpaceSoldier)
+## #2: [Cat Town Valley](https://play.google.com/store/apps/details?id=com.tree.idle.cattown)
+
+Remember when I [reviewed Office Cat](/android-games-late-april-2024/#1-office-cat) earlier this year, and loved it? Well, Cat Town Valley is more of the same!
+
+### Review
+
+Similar to any [Kairosoft game](https://play.google.com/store/apps/dev?id=7710637777904825280), these games aren't _hard_, the progress is pretty linear and focuses on slowly expanding a town. This means building houses for villagers, giving them jobs, upgrading your buildings, and ensuring your supply chains are nicely balanced.
+
+There's plenty of resources (rocks, wheat, coins, stone), with multi-stage ones unlocking later (e.g. fisherman catches fish, chef cooks into a meal, waiter delivers to customer, to earn silver coins). Each resource source has 2 attributes to upgrade: the output, and the traffic. Keeping these in balance ensures all your resources can be delivered to the town hall for further use, but all the actual movement and building placement is handled for you.
+
+Instead, your time will be taken up with monitoring the quests that will primarily drive your progress. These might be upgrading a building enough times, collecting enough of a specific resource, or very occasionally watching an advert.
+
+There's just enough complexity to Cat Town Valley to avoid the simple "collect resources, upgrade, complete quest, and repeat" loop becoming too repetitive. This includes balloons floating over the town offering free resources or the option to watch an advert for bonus resources, "cards" that can be used to upgrade various speeds, a "Tree of Abundance" with free resources and a plant collecting minigame, all of which help keep it interesting.
+
+As with Office Cat, this first version is excellent, but over in a few days, with no reason to pay and no serious grinds. I suspect more depth will be added later, but for now it's absolutely worth playing through!
+
+### Monetisation
+
+The main monetisation is via adverts for resources / income boosts, but these are completely optional, and I only used them occasionally throughout my playthrough.
+
+There is the usual shop, with gems, packs, time skips, a "piggy bank", and card packs, none of which are required (and are all prices too high to be appealing). The only purchase I considered making (but didn't) was "Ta-da Construction Slot" which increases the concurrent building upgrades from 2 to 3.
+
+The gems themselves are not particularly useful, only being used to purchase time travel directly, or pay to skip construction waits.
+
+### Tips
+
+- Make sure your construction queue is always full! This will end up being the main chokepoint, so upgrading things you're not sure you need yet is better than doing nothing.
+- Upgrade your houses more than you need to. Having extra capacity will let you instantly utilise any new employee slots that open up.
+- Keep item production and transport as balanced as possible, but ideally have production slightly higher. Extra production capacity stacks up for later transporting, but excess transport capacity is wasted.
+- Use quests to guide your progress. They take away the complexity of choosing what to upgrade, and help unlock the next Town Hall (with new features).
+
+### Screenshots
+
+All screenshots are from version 1.0.6:
+
+|                                                    Main town                                                     |                                                    Quests                                                     |                                                    Town hall                                                     |
+| :--------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
+| [![Cat Town Valley main town](/assets/images/2024/sept-cat-1-thumbnail.jpg)](/assets/images/2024/sept-cat-1.jpg) | [![Cat Town Valley quests](/assets/images/2024/sept-cat-2-thumbnail.jpg)](/assets/images/2024/sept-cat-2.jpg) | [![Cat Town Valley town hall](/assets/images/2024/sept-cat-3-thumbnail.jpg)](/assets/images/2024/sept-cat-3.jpg) |
+
+## #3: [Wonderputt Forever](https://play.google.com/store/apps/details?id=com.netflix.NGP.WonderputtForever)
+
+Another game from Netflix (see [previous post](/_posts/2024-07-19-android-games-netflix.md)), this one is an absurdly beautiful minigolf simulator!
+
+### Review
+
+I've played a few golf games before, with relaxing things like [Desert Golfing](https://play.google.com/store/apps/details?id=com.captaingames.golf) always having a place in my heart (I apparently rated that 5/5 over a decade ago!), but Wonderputt Forever is a bit different. Instead of short courses with the usual grass and obstacles, Wonderputt quickly gets... wild.
+
+It's hard to explain in words how drastically each level differs from the last, and how smoothly each level flows into the next. It reminds me of games like Monument Valley, where the actual _gameplay_ isn't particularly astounding, but the aesthetic experience is excellent.
+
+There's 50+ core levels, plus another 50-100 "Geometry Trips" that are more Portal-esque experimental levels. Whilst there's a par to beat, a time objective, and even an overall points score, most of this information is hidden from you whilst you're actually playing. Instead, your only goal is getting the ball into the hole, via a very intuitive "drag anywhere on screen to pull back" mechanic.
+
+I'm an hour or so into the game (via many smaller sessions), and have no idea how the "relics" work, what the unlockable "modifiers" do, what the cosmetic options are, and much much more! Instead, I'm just ignoring all the extra functionality to focus on a very pretty mini golf game, and looking forward to one more level.
+
+It looks like the game is [also available on Steam](https://store.steampowered.com/app/1766540/Wonderputt_Forever/), with "Very positive" reviews, which seems far more representative than the 2.8 on the Play Store!
+
+I'd definitely recommend [giving the trailer a watch](https://www.youtube.com/watch?v=O5gcmSctGeU), it does a great job of summarising the constantly surprising variety of the levels and gameplay mechanics, whilst keeping the same vibe as the game itself.
+
+### Monetisation
+
+None (if you have Netflix)!
+
+### Tips
+
+- You can restart a level at any time, and you might as well do this immediately for Par 1 holes.
+- The game prioritises fun over being an ultra-competitive esport, so there'll be all kinds of surprises (Animals in cages! Flying balls! Balls changing size!).
+
+### Screenshots
+
+All screenshots are from version 0.1.7:
+
+|                                                             First level                                                             |                                                             Domes                                                             |                                                             Lions                                                             |                                                             Space station                                                             |                                                             Unlocks                                                             |
+| :---------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: |
+| [![Wonderputt Forever first level](/assets/images/2024/sept-wonderputt-0-thumbnail.jpg)](/assets/images/2024/sept-wonderputt-0.jpg) | [![Wonderputt Forever domes](/assets/images/2024/sept-wonderputt-1-thumbnail.jpg)](/assets/images/2024/sept-wonderputt-1.jpg) | [![Wonderputt Forever lions](/assets/images/2024/sept-wonderputt-2-thumbnail.jpg)](/assets/images/2024/sept-wonderputt-2.jpg) | [![Wonderputt Forever space station](/assets/images/2024/sept-wonderputt-3-thumbnail.jpg)](/assets/images/2024/sept-wonderputt-3.jpg) | [![Wonderputt Forever unlocks](/assets/images/2024/sept-wonderputt-4-thumbnail.jpg)](/assets/images/2024/sept-wonderputt-4.jpg) |
+
+## #4: [Idle Space Soldier](https://play.google.com/store/apps/details?id=com.RubbleGames.IdleSpaceSoldier)
 
 This sidescrolling autoshooter entered early access [in late September], and I downloaded mostly for the appearance and setting. It's a pretty basic incremental, but I'm a big fan of the overall retro-y sci-fi-y aesthetic, it reminds me of old Game Boy Advance games! Whilst it seems a bit bare bones for now, it definitely has potential.
 
