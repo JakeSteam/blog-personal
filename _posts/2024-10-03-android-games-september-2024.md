@@ -63,7 +63,7 @@ Remember when I [reviewed Office Cat](/android-games-late-april-2024/#1-office-c
 
 ### Review
 
-Similar to any [Kairosoft game](https://play.google.com/store/apps/dev?id=7710637777904825280), these games aren't _hard_, the progress is pretty linear and focuses on slowly expanding a town. This means building houses for villagers, giving them jobs, upgrading your buildings, and ensuring your supply chains are nicely balanced.
+Similar to any [Kairosoft game](https://play.google.com/store/apps/dev?id=7710637777904825280), [TREEPLLA](https://play.google.com/store/apps/dev?id=7995654722198644416)'s games aren't _hard_, the progress is pretty linear and focuses on slowly expanding a town. This means building houses for villagers, giving them jobs, upgrading your buildings, and ensuring your supply chains are nicely balanced.
 
 There's plenty of resources (rocks, wheat, coins, stone), with multi-stage ones unlocking later (e.g. fisherman catches fish, chef cooks into a meal, waiter delivers to customer, to earn silver coins). Each resource source has 2 attributes to upgrade: the output, and the traffic. Keeping these in balance ensures all your resources can be delivered to the town hall for further use, but all the actual movement and building placement is handled for you.
 
@@ -133,7 +133,7 @@ All screenshots are from version 0.1.7:
 
 ## #4: [Idle Space Soldier](https://play.google.com/store/apps/details?id=com.RubbleGames.IdleSpaceSoldier)
 
-This sidescrolling autoshooter entered early access [in late September], and I downloaded mostly for the appearance and setting. It's a pretty basic incremental, but I'm a big fan of the overall retro-y sci-fi-y aesthetic, it reminds me of old Game Boy Advance games! Whilst it seems a bit bare bones for now, it definitely has potential.
+This sidescrolling autoshooter entered early access in late September, and I downloaded mostly for the appearance and setting. It's a pretty basic incremental, but I'm a big fan of the overall retro-y sci-fi-y aesthetic, it reminds me of old Game Boy Advance games! Whilst it seems a bit bare bones for now, it definitely has potential.
 
 ### Review
 
