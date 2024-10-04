@@ -24,7 +24,7 @@ Farming this many individually would be impossible, so you instead "combine" plo
 
 And when you finally manage to unlock all 729 plots in the top layer? You prestige, increasing all yields by 10x but keeping your increased price per plot! After a few iterations, you start to unlock features like the market, where you can buy and sell your resources to take advantage of massive yields whilst still progressing.
 
-There's also a "gooster" minigame, tiny blob pets that recharge HP when you harvest their preferred crop, and can fight other blobs to level up. There doesn't seem to be any point to them yet, although mine aren't at the level where they can perform the mysterious "combine". You can use "goo" (obtained from combat) to unlock rarer goosters, and obtain limited edition ones from the dev's social media.
+There's also a "gooster" minigame, tiny blob pets that recharge HP when you harvest their preferred crop, and can fight other blobs to level up. ~~There doesn't seem to be any point to them yet~~ Battling goosters earns gold for use on the vegetable market, although mine aren't at the level where they can perform the mysterious "combine". You can use "goo" (obtained from combat) to unlock rarer goosters, and obtain limited edition ones from the dev's social media.
 
 It's an extremely minimal game, with no options, no almost no stats, no quests, very little guidance beyond endlessly buying plots and farming ever greater numbers of vegetables. That being said, the understated nature is part of what makes it so appealing. Instead of demanding all your attention, cube farm leaves it entirely up to you how much you want to interact with the game, and won't remind you with notifications etc. It's almost a zen experience.
 
@@ -44,7 +44,7 @@ There's almost none. You can donate money to the developer or pay for a cosmetic
 ### Tips
 
 - After a prestige, grind 7 second plots until you've at least got a few 3x3 grids ready, then similarly grind 7 minute plots until you have a few of the 3x3x3x3 grids, otherwise progress will be slowly.
-- When collecting your crops, make sure to use any roosters as they recharge (from the harvesting) otherwise you'll "waste" some of their potential health.
+- When collecting your crops, make sure to use any goosters as they recharge (from the harvesting) otherwise you'll "waste" some of their potential health.
 - Use the market extensively. You'll lose out on every trade, but the additional progress made is more than worth it.
 - The higher layers don't show an accurate preview of the crops within (e.g. locked / unlocked status, or crop within) so make sure to click down to look.
 - You can [follow the dev on Instagram](https://www.instagram.com/tarotfocusgames/), [the subreddit](https://www.reddit.com/r/cubefarm/), or the super active [Discord](https://discord.com/invite/ZxcdvuCjAS).
@@ -58,6 +58,8 @@ All screenshots are from version 0.6.9:
 | [![cube farm bottom layer](/assets/images/2024/sept-cube-1-thumbnail.jpg)](/assets/images/2024/sept-cube-1.jpg) | [![cube farm top layer](/assets/images/2024/sept-cube-2-thumbnail.jpg)](/assets/images/2024/sept-cube-2.jpg) | [![cube farm market](/assets/images/2024/sept-cube-3-thumbnail.jpg)](/assets/images/2024/sept-cube-3.jpg) |
 
 ## #2: [Cat Town Valley](https://play.google.com/store/apps/details?id=com.tree.idle.cattown)
+
+_Update: This is currently only available in some countries (e.g. not the USA), since it came out a couple of days ago I'm sure it'll expand soon!_
 
 Remember when I [reviewed Office Cat](/android-games-late-april-2024/#1-office-cat) earlier this year, and loved it? Well, Cat Town Valley is more of the same!
 
