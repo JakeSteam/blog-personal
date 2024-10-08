@@ -9,9 +9,9 @@ tags:
 last_modified: 2024-09-10
 ---
 
-In April 2024, Reddit added 18 achievements to the mobile app, grouped into 3 categories (and added 20+ more later). Here's all the details, and how to unlock all 44 achievements!
+In April 2024, Reddit added 18 achievements to the mobile app, grouped into 3 categories (and added 20+ more & outfits later). Here's all the details, and how to unlock all 44 achievements!
 
-_PS: If you have the 300/400/500 day achievements, send me a message [on reddit](https://reddit.com/u/jakesteam) so I can add them!_
+_PS: If you have the 400/500 day achievements, send me a message [on reddit](https://reddit.com/u/jakesteam) so I can add them!_
 
 ## What are achievements?
 
@@ -26,6 +26,14 @@ Achievements are greyed out until earned, when a full colour version is unlocked
 Interestingly, if you view an achievement, you can see the comment / subreddit that earned you the achievement, as well as what number user you were to unlock it. Finally, you can also share an earned achievement (or current streak), giving you an image (with toggleable username & avatar) to post... on Reddit?
 
 [![Shareable Reddit achievement](/assets/images/2024/reddit_achievement-thumbnail.jpg)](/assets/images/2024/reddit_achievement.jpg)
+
+## Outfits?
+
+Yep! An update in October 2024 made one achievement in each category unlock an "outfit" of 7 items for your reddit avatar (left item, right item, hat, glasses, face, top, bottom). These are limited to 25,000 redeems.
+
+|                                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                     |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [![Community captain outfit](/assets/images/2024/reddit-community-captain.png)](/assets/images/2024/reddit-community-captain.png)<br>**Community Captain** <br>Unlocked with Rising Star achievement<br> _([Building Community](#building-community-9))_ | [![Heat streak outfit outfit](/assets/images/2024/reddit-heat-streak.png)](/assets/images/2024/reddit-heat-streak.png)<br>**Heat Streak** <br>Unlocked with 150-day streak achievement<br> _([Reddit Streak](#reddit-streak-13))_ | [![Curiosity cadet outfit](/assets/images/2024/reddit-curiosity-cadet.png)](/assets/images/2024/reddit-curiosity-cadet.png)<br>**Curiosity Cadet** <br>Unlocked with Premiere Post achievement<br> _([Exploration](#exploration-15))_ | [![Noob patrol outfit](/assets/images/2024/reddit-noob-patrol.png)](/assets/images/2024/reddit-noob-patrol.png)<br>**Noob Patrol** <br>Unlocked with Profile Perfectionist achievement<br>_([Getting Started](#getting-started-7))_ |
 
 ## Building Community (9)
 
