@@ -6,19 +6,19 @@ image: /assets/images/2023/badges-banner.png
 tags:
   - Forza Horizon 5
   - Gaming
-last_modified: 2024-09-11
+last_modified: 2024-10-08
 ---
 
-Badges are a post-release addition to Forza Horizon 5 starting in April 2022 that provide an extra incentive for gameplay: unlocking badges next to your name. Here's how to obtain every badge and detailed tips for winning online races, so you can get your elusive gold Horizon Open Champion badge too! Also includes September 2024's new badges.
+Badges are a post-release addition to Forza Horizon 5 starting in April 2022 that provide an extra incentive for gameplay: unlocking badges next to your name. Here's how to obtain every badge and detailed tips for winning online races, so you can get your elusive gold Horizon Open Champion badge too! Also includes October 2024's new badges.
 
 ## Badges
 
-There are a total of 66 badges to earn, taking a total of around 200-250 hours:
+There are a total of 69 badges to earn, taking a total of around 200-250 hours:
 
 - 11 Level based badges
 - 3 Completion based badges
 - 7 Action based badges
-- 19 Limited edition badges
+- 22 Limited edition badges
 - 4 Car collection based badges
 - 5 Test track badges
 - 17 Hide & Seek badges
@@ -92,6 +92,7 @@ They were very easy to unlock by just playing the game each week and completing 
 | ![](/assets/images/2024/badges-feelinglucky.png)<br>**Feeling Lucky**<br>Earn the 2022 Hyundai IONIQ 6 during 'Lunar New Year'                              | ![](/assets/images/2024/badges-lunardragon.png)<br>**Lunar Dragon**<br>Play Forza Horizon 5 during the Storm Season of 'Lunar New Year'                                                                                               |
 | ![](/assets/images/2024/badges-settingsun.png)<br>**Setting Sun**<br>Spend 5 minutes listening to the Horizon Wave radio station during "Horizon Retrowave" | ![](/assets/images/2024/badges-playtime.png)<br>**Playtime**<br>Earn the 2022 Hyundai N Vision 74 during "Horizon Retrowave"                                                                                                          | ![](/assets/images/2024/badges-maxrevs.png)<br>**Max Revs**<br>Earn the 2021 Lamborghini Countach LPI 800-4 during "Horizon Retrowave"                        |
 | ![](/assets/images/2024/badges-cutea.png)<br>**What a cu-tea!**<br>Earn the 2017 Aston Martin Vanquish Zagato Coupe during "Horizon Cars & Coffee"          | ![](/assets/images/2024/badges-brewtiful.png)<br>**Looking brew-tiful!**<br>Earn the 2021 Lamborghini Aventador LP 780-4 Ultimae at the Horizon Cars & Coffee Shop, at the western end of the Highway, during "Horizon Cars & Coffee" |                                                                                                                                                               |
+| ![](/assets/images/2024/badges-clippy.png)<br>**Would You Like Help?**<br>Drive 10 miles in any car from the 1990's during "Back to the 90's"               | ![](/assets/images/2024/badges-staycool.png)<br>**Stay Cool!**<br>Take a photo of the 1997 Toyota Soarer 2.5 GT-T during "Back to the 90's"                                                                                           | ![](/assets/images/2024/badges-cassetting.png)<br>**Cassetting The Trend**<br>Equip the 90's Outfit during "Back to the 90's"                                 |
 
 _^ Badge designed by `soupmcpasta` on the Forza Forums._
 
