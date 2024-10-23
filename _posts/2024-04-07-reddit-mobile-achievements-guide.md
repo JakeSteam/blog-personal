@@ -9,7 +9,7 @@ tags:
 last_modified: 2024-10-23
 ---
 
-In April 2024, Reddit added 18 achievements to the mobile app, grouped into 3 categories (and added 20+ more & outfits later). Here's all the details, and how to unlock all 44 achievements!
+In April 2024, Reddit added 18 achievements to the mobile app, grouped into 3 categories (and added 30+ more & outfits later). Here's all the details, and how to unlock all 51 achievements!
 
 _PS: If you have the 400/500 day achievements, send me a message [on reddit](https://reddit.com/u/jakesteam) so I can add them!_
 
