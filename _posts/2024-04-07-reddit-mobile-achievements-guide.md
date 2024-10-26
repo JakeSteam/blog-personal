@@ -6,7 +6,7 @@ image: /assets/images/2024/reddit-achievements.png
 tags:
   - Reddit
   - Achievements
-last_modified: 2024-10-23
+last_modified: 2024-10-26
 ---
 
 In April 2024, Reddit added 18 achievements to the mobile app, grouped into 3 categories (and added 30+ more & outfits later). Here's all the details, and how to unlock all 51 achievements!
@@ -26,6 +26,8 @@ Achievements are greyed out until earned, when a full colour version is unlocked
 Interestingly, if you view an achievement, you can see the comment / subreddit that earned you the achievement, as well as what number user you were to unlock it. Finally, you can also share an earned achievement (or current streak), giving you an image (with toggleable username & avatar) to post... on Reddit?
 
 [![Shareable Reddit achievement](/assets/images/2024/reddit_achievement-thumbnail.jpg)](/assets/images/2024/reddit_achievement.jpg)
+
+You can also view other people's achievements via their profile.
 
 ## Outfits?
 
