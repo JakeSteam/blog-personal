@@ -29,6 +29,14 @@ Interestingly, if you view an achievement, you can see the comment / subreddit t
 
 You can also view other people's achievements via their profile.
 
+## Does anyone hunt them?
+
+A whole community of active achievement hunters has sprung up at [r/redditachievments](https://reddit.com/r/Redditachievments/)!
+
+Over there, tactics for unlocking achievements are discussed, along with updates on new achievements, and even a weekly leaderboard of top achievement hunters. Moderators (especially [u/EndersGame_Reviewer](https://www.reddit.com/user/EndersGame_Reviewer)) keep an eagle eye out for any new content, and maintain their own achievement list & help others achieve.
+
+The subreddit has been invaluable for this article, and I usually hear about new achievements via it. I also use it to find users with rarer achievements so I can get screenshots!
+
 ## Outfits?
 
 Yep! An update in October 2024 made one achievement in each category unlock an "outfit" of 7 items for your reddit avatar (left item, right item, hat, glasses, face, top, bottom). These are limited to 25,000 redeems.
