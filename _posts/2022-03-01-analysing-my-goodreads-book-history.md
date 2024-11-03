@@ -1,7 +1,5 @@
 ---
 title: Analysing my Goodreads book history since 2014 (and how you can too!)
-author: Jake Lee
-layout: post
 image: /assets/images/2022/goodreadsexport-header.png
 tags:
     - Goodreads

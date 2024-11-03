@@ -1,7 +1,5 @@
 ---
 title: Why I stopped moderating Android subreddits
-author: Jake Lee
-layout: post
 image: /assets/images/2022/reddit.png
 tags:
     - Reddit

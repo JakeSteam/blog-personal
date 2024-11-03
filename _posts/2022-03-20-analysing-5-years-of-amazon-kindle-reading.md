@@ -1,7 +1,5 @@
 ---
 title: Analysing 5 years of Amazon Kindle reading (and how you can too!)
-author: Jake Lee
-layout: post
 image: /assets/images/2022/kindle-time-740w.png
 tags:
     - Amazon

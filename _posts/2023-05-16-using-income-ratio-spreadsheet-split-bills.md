@@ -1,7 +1,5 @@
 ---
 title: Using an income ratio spreadsheet & Splitwise to split household expenses fairly and transparently as a couple
-author: Jake Lee
-layout: post
 image: /assets/images/2023/ratio-example.png
 tags:
     - Finance

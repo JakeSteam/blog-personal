@@ -1,7 +1,5 @@
 ---
 title: Forza Horizon 5 Series 5 (Horizon Rush Takeover) Accolades Guide
-author: Jake Lee
-layout: post
 image: /assets/images/2022/fh5s5-header.png
 tags:
     - Gaming

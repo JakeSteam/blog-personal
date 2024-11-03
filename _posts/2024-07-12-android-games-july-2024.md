@@ -1,7 +1,5 @@
 ---
 title: "Android games I've played in July! Honey Bee Park, Numito, Merge Mend 🐝"
-author: Jake Lee
-layout: post
 image: /assets/images/2024/july-banner.png
 tags:
   - Android

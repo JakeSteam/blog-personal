@@ -1,7 +1,5 @@
 ---
 title: How I spent 4 days in Prague, told via 25 Google Maps & TripAdvisor reviews 🌆
-author: Jake Lee
-layout: post
 image: /assets/images/2024/prague-1480w.jpg
 tags:
     - Travel

@@ -1,7 +1,5 @@
 ---
 title: "3 Android games I've enjoyed lately: Pawnbarian, ShakaShaka, and Dice Tycoon 🎲"
-author: Jake Lee
-layout: post
 image: /assets/images/2024/apr-24-games.png
 tags:
   - Android

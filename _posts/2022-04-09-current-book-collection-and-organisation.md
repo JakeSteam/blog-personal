@@ -1,7 +1,5 @@
 ---
 title: My current book collection and organisation strategy
-author: Jake Lee
-layout: post
 image: /assets/images/2022/books-740w.jpg
 tags:
     - Books

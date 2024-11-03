@@ -1,7 +1,5 @@
 ---
 title: The complete guide to unlocking all of Forza Horizon 5's creative accolades (from a top 100 player)
-author: Jake Lee
-layout: post
 image: /assets/images/2022/fh5-creative-create-header.jpeg
 tags:
     - 'Forza Horizon 5'

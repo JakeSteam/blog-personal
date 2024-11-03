@@ -1,7 +1,5 @@
 ---
 title: Kindle Paperwhite 5 review & Paperwhite 3 visual comparison
-author: Jake Lee
-layout: post
 image: /assets/images/2022/paperwhite-screen-nowarmth-740w.jpg
 tags:
     - Amazon

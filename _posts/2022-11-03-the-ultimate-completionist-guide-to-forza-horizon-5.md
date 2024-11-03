@@ -1,7 +1,5 @@
 ---
 title: The ultimate over-the-top completionist's guide to 'finishing' Forza Horizon 5
-author: Jake Lee
-layout: post
 image: /assets/images/2022/fh5-completionist-bonus-cars.png
 tags:
     - Forza Horizon 5

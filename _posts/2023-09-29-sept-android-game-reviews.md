@@ -1,7 +1,5 @@
 ---
 title: "4 recent Android game recommendations: Knights of San Francisco, .projekt, inbento, red 📲"
-author: Jake Lee
-layout: post
 image: /assets/images/2023/sept-games-banner.png
 tags:
     - Android

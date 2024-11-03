@@ -1,7 +1,5 @@
 ---
 title: I love Idle Iktah. Here's 43 tips, and 3 mini-guides ⏳
-author: Jake Lee
-layout: post
 image: /assets/images/2023/iktah-banner-2.png
 tags:
   - Idle Iktah

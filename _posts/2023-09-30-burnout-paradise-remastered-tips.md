@@ -1,7 +1,5 @@
 ---
 title: 47 tips for Burnout Paradise (Remastered), still fun 15 (or 5) years later! 🚗💨
-author: Jake Lee
-layout: post
 image: /assets/images/2023/burnout-banner.png
 tags:
     - Burnout

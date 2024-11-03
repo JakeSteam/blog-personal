@@ -1,7 +1,5 @@
 ---
 title: How I spent 3 days in Zurich, told via 23 Google Maps & TripAdvisor reviews 🏔️
-author: Jake Lee
-layout: post
 image: /assets/images/2023/zurich-review-1480w.jpg
 tags:
     - Travel

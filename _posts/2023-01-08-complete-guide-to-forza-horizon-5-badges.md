@@ -1,7 +1,5 @@
 ---
 title: The complete guide to Forza Horizon 5's badges, and detailed tips for online racing (Horizon Open)
-author: Jake Lee
-layout: post
 image: /assets/images/2023/badges-banner.png
 tags:
   - Forza Horizon 5

@@ -1,7 +1,5 @@
 ---
 title: "Notes on The 100 Greatest Artists' discographies: Part 1 (#1 - #25)"
-author: Jake Lee
-layout: post
 image: /assets/images/2024/
 tags:
   - Music

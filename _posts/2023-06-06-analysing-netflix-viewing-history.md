@@ -1,7 +1,5 @@
 ---
 title: "Analysing your Netflix viewing history: How much have you watched, when, and how?"
-author: Jake Lee
-layout: post
 image: /assets/images/2023/netflix-banner.jpg
 tags:
     - Netflix

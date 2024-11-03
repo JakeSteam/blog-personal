@@ -1,7 +1,5 @@
 ---
 title: Analysing my Google Play purchase history (and how you can too!)
-author: Jake Lee
-layout: post
 image: /assets/images/2022/googleplay-header.png
 tags:
     - 'Google Play'

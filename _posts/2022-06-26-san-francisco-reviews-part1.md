@@ -1,7 +1,5 @@
 ---
 title: How I spent a week in San Francisco, told via Google Maps reviews (part 1/2, 19 reviews)
-author: Jake Lee
-layout: post
 image: /assets/images/2022/sf-part1.jpeg
 tags:
     - Travel

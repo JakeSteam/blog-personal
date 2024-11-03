@@ -1,7 +1,5 @@
 ---
 title: My 5-platform information organisation system is totally rational and not madness... I promise
-author: Jake Lee
-layout: post
 image: /assets/images/2024/
 tags:
   - Organisation

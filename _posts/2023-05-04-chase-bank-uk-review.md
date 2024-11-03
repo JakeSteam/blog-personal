@@ -1,7 +1,5 @@
 ---
 title: My year with Chase UK's current & savings accounts
-author: Jake Lee
-layout: post
 image: /assets/images/2023/chase-header.jpg
 tags:
     - Finance

@@ -1,7 +1,5 @@
 ---
 title: "3 Android game recommendations: IdleTale ⚔️"
-author: Jake Lee
-layout: post
 image: /assets/images/2024/oct-banner.png
 tags:
   - Android

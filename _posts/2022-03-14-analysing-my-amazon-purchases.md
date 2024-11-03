@@ -1,7 +1,5 @@
 ---
 title: Analysing 12 years of Amazon purchases (and how you can too!)
-author: Jake Lee
-layout: post
 image: /assets/images/2022/amazon-header.png
 tags:
     - Amazon

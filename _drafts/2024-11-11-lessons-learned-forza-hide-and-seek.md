@@ -1,7 +1,5 @@
 ---
 title: XX lessons learned in Forza Horizon 5's Hide and Seek on the way to level 1000
-author: Jake Lee
-layout: post
 image: /assets/images/2024/
 tags:
   - Gaming

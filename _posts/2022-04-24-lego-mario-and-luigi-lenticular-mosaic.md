@@ -1,7 +1,5 @@
 ---
 title: How I made a LEGO lenticular mosaic of Mario & Luigi (in 2017!)
-author: Jake Lee
-layout: post
 image: /assets/images/2022/legomario-luigi2.jpg
 tags:
     - LEGO

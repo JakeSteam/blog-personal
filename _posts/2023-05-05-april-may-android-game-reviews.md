@@ -1,7 +1,5 @@
 ---
 title: "Reviews of my 3 favourite recent incremental games: SpinCraft, Power Inc, and Skrimp Fall"
-author: Jake Lee
-layout: post
 image: /assets/images/2023/april_android_header.png
 tags:
     - Android

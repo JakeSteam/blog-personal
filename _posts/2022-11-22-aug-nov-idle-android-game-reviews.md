@@ -1,7 +1,5 @@
 ---
 title: "Android game reviews: Farm & Mine, Idle Research, Tap Ninja, Solitaire Golden Prairies, Eatventure"
-author: Jake Lee
-layout: post
 image: /assets/images/2022/aug-nov-games-header.png
 tags:
     - Android

@@ -1,7 +1,5 @@
 ---
 title: Introducing 'Jake Week Lee', a weekly newsletter of all new articles & found content from around the internet
-author: Jake Lee
-layout: post
 image: /assets/images/2023/substack-banner.png
 tags:
     - Substack

@@ -1,7 +1,5 @@
 ---
 title: How I spent 4 days in Berlin, told via 20 Google Maps reviews 🪖
-author: Jake Lee
-layout: post
 image: /assets/images/2024/berlin-1480w.jpg
 tags:
     - Travel

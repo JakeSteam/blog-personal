@@ -1,7 +1,5 @@
 ---
 title: "Idle Iktah: An Android idle game that has become my obsession"
-author: Jake Lee
-layout: post
 image: /assets/images/2023/idle-iktah-header.png
 tags:
     - Android

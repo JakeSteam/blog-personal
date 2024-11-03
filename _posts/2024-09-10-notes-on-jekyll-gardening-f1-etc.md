@@ -1,7 +1,5 @@
 ---
 title: "Notes on Jekyll Builds, Fruit Tree Growing, F1 Aerodynamics, Book Publishing, and Household Electronics"
-author: Jake Lee
-layout: post
 image: /assets/images/2024/sept-notes-banner.gif
 tags:
   - Jekyll

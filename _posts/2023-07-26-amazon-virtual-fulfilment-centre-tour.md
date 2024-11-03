@@ -1,7 +1,5 @@
 ---
 title: My experience attending Amazon's virtual fulfilment centre tour
-author: Jake Lee
-layout: post
 image: /assets/images/2023/amazon-starting-soon.png
 tags:
     - Amazon

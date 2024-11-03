@@ -1,7 +1,5 @@
 ---
 title: The irresistible allure of shitshow comedy, from Adam & Joe to Jerma to Eric Andre
-author: Jake Lee
-layout: post
 image: /assets/images/2023/shitshow-header.png
 tags:
   - Comedy

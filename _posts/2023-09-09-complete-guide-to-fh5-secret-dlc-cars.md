@@ -1,7 +1,5 @@
 ---
 title: The complete guide to all 4 "secret" Forza Horizon 5 DLC cars (and 1 DLC outfit)
-author: Jake Lee
-layout: post
 image: /assets/images/2023/fh5cars-opi.png
 tags:
     - Forza Horizon 5

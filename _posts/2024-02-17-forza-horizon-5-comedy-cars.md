@@ -1,7 +1,5 @@
 ---
 title: Want to look ridiculous in Forza Horizon 5? Here's 18 comedy cars, 3 outfits, and 4 livery ideas! 🚗🤡
-author: Jake Lee
-layout: post
 image: /assets/images/2024/fh5c-trident.png
 tags:
   - Forza Horzon 5

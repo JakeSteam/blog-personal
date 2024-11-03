@@ -1,7 +1,5 @@
 ---
 title: 27 Need For Speed Unbound tips I learned the hard way... by completing the game
-author: Jake Lee
-layout: post
 image: /assets/images/2023/nfs-unbound.jpg
 tags:
     - Need For Speed

@@ -1,7 +1,5 @@
 ---
 title: What house can you afford? A calculator to simplify all house buying & selling calculations in the UK 🏡 
-author: Jake Lee
-layout: post
 image: /assets/images/2023/affordability-banner.png
 tags:
     - Finance

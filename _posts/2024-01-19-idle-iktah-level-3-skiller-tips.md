@@ -1,7 +1,5 @@
 ---
 title: Playing Idle Iktah as a level 3 no-combat skiller ☮️
-author: Jake Lee
-layout: post
 image: /assets/images/2024/skiller-banner.png
 tags:
     - Idle Iktah

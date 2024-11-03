@@ -1,7 +1,5 @@
 ---
 title: A guide to unlocking all of the Reddit app's new achievements ⭐
-author: Jake Lee
-layout: post
 image: /assets/images/2024/reddit-achievements.png
 tags:
   - Reddit

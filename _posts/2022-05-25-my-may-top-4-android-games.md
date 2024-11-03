@@ -1,7 +1,5 @@
 ---
 title: The 4 Android games I played far too much of in May
-author: Jake Lee
-layout: post
 image: /assets/images/2022/mobile-may.jpeg
 tags:
     - Android

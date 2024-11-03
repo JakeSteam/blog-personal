@@ -1,7 +1,5 @@
 ---
 title: "Some recent Android games I've enjoyed: Casting Away, Inventory Idle, Griddie Islands, and Fill-a-pix 📲"
-author: Jake Lee
-layout: post
 image: /assets/images/2023/aug-banner.png
 tags:
     - Android

@@ -1,7 +1,5 @@
 ---
 title: Why I fell in love with Formula 1, after a lifetime of disliking sport
-author: Jake Lee
-layout: post
 image: /assets/images/2022/formula1-header.png
 tags:
     - Cars

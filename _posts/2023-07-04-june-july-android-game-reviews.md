@@ -1,7 +1,5 @@
 ---
 title: "Reviewing 3 recent Android games I've greatly enjoyed: Slitherlink, Lone Tower, and Cell: Idle Factory"
-author: Jake Lee
-layout: post
 image: /assets/images/2023/july-banner.png
 tags:
     - Android

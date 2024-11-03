@@ -1,7 +1,5 @@
 ---
 title: How I spent a long weekend in Barcelona, told via Google Maps reviews (part 2/2, 15 reviews)
-author: Jake Lee
-layout: post
 image: /assets/images/2022/barcelona-part2.jpeg
 tags:
     - Travel

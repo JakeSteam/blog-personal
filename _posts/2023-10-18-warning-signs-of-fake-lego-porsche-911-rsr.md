@@ -1,7 +1,5 @@
 ---
 title: I got scammed with a very high quality fake LEGO Porsche 911 RSR! Here's all the red flags I missed, and why I'm keeping the set
-author: Jake Lee
-layout: post
 image: /assets/images/2023/fakelego_banner2.png
 tags:
     - LEGO

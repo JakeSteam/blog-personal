@@ -1,7 +1,5 @@
 ---
 title: The overall cost of owning a cat in the UK
-author: Jake Lee
-layout: post
 image: /assets/images/2022/cassie_header.jpg
 tags:
     - Cats

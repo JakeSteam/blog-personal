@@ -1,7 +1,5 @@
 ---
 title: Analysing my YouTube subscriptions & views over the last 4 years (and how you can too!)
-author: Jake Lee
-layout: post
 image: /assets/images/2022/youtubetypes.png
 tags:
     - Google

@@ -1,7 +1,5 @@
 ---
 title: "3 Android games I've enjoyed lately: Office Cat, Close Cities, Knotwords 🐈"
-author: Jake Lee
-layout: post
 image: /assets/images/2024/may-24-games.png
 tags:
   - Android

@@ -1,7 +1,5 @@
 ---
 title: 30 MORE tips for Burnout Paradise (Remastered), for those aiming for 100%+ completion
-author: Jake Lee
-layout: post
 image: /assets/images/2023/
 tags:
     - 

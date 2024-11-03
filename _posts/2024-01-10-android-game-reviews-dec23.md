@@ -1,7 +1,5 @@
 ---
 title: "3 Android games I've enjoyed lately: Riddle Zen, Smashing Simulator, Idle Game 1 📲"
-author: Jake Lee
-layout: post
 image: /assets/images/2024/dec23games.png
 tags:
     - Android

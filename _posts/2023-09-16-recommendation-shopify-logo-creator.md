@@ -1,7 +1,5 @@
 ---
 title: "A recommendation for Shopify's free logo generator 'Hatchful', and pros & cons of free logo tools"
-author: Jake Lee
-layout: post
 image: /assets/images/2023/hatchful-banner.png
 tags:
     - Logo
