@@ -1,5 +1,5 @@
 ---
-title: "3 Android game recommendations: IdleTale ⚔️"
+title: "3 Android game recommendations: IdleTale ⚔️, Alto's Odyssey 🏂,"
 image: /assets/images/2024/oct-banner.png
 tags:
   - Android
@@ -71,3 +71,45 @@ All screenshots are from version 0.4.5:
 |                                                     Gear                                                     |                                                     Prestiging                                                     |                                                     Combat                                                     |
 | :----------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
 | [![IdleTale gear](/assets/images/2024/oct-idletale-1-thumbnail.jpg)](/assets/images/2024/oct-idletale-1.jpg) | [![IdleTale prestiging](/assets/images/2024/oct-idletale-2-thumbnail.jpg)](/assets/images/2024/oct-idletale-2.jpg) | [![IdleTale combat](/assets/images/2024/oct-idletale-3-thumbnail.jpg)](/assets/images/2024/oct-idletale-3.jpg) |
+
+## #2: [Alto's Odyssey](https://play.google.com/store/apps/details?id=com.noodlecake.altosodyssey)
+
+A non-incremental game with a single button control scheme? Yep, Alto's Odyssey is a super simple exploration game, and whilst it's not going to hold your attention for long, it's fun for a bit.
+
+### Review
+
+Whilst this isn't the first game of this style I've played, it's probably the simplest and prettiest. You're Alto, sandboarding forever and ever across the dunes, tapping the screen to jump and holding to rotate. That's it!
+
+There's a little nuance added through things like tornadoes (lifting you up in the air), hot air balloons with connecting lines (extra coins), and performing backflips for extra speed & impact protection, but the core behaviour never changes. There's also changing weather, and a day/night cycle.
+
+Progression through the game consists of 2 things, levels and coins. Coins are used in the "workshop", essentially a store where you can buy items like a "Mysterious Radio" or a "Wingsuit", or pay real money for perks like double coins or ad removal. Levels are a set of 3 objectives you need to complete, e.g. "Rip 50 balloon flags in one run".
+
+Overall it's an extremely simple game, and I was amazed to discover it's actually a sequel to the identical looking [Alto's Adventure](https://play.google.com/store/apps/details?id=com.noodlecake.altosadventure). I assume there's some differences but... good luck identifying them from the screenshots!
+
+Whilst Alto's Odyssey is pretty, especially with the day-night cycle, the minimalist design is also a drawback. After 20-30 runs, I'm really not sure there's much interest left. Sure, there's new characters to unlock, and new features, but they're not going to change the extremely repetitive core gameplay, nor the aggressive monetisation.
+
+Years ago I spent a lot of time with [Extreme Road Trip 2](https://play.google.com/store/apps/details?id=ca.roofdog.roadtrip2), which is vastly more complex, with a far higher skill ceiling, more dynamic gameplay, many more game mechanics, and just overall a far, far more interesting experience. Even "[Tiny Wings](https://www.youtube.com/watch?v=x6pT_2E5xI0)" from 2011 is a more engrossing game, despite running on phones 13 years ago!
+
+### Monetisation
+
+It's pretty bad, unfortunately.
+
+There's forced 30-second adverts after every run, in-app purchases to remove adverts, double coins, buy coins for item purchases etc, and incentivised adverts.
+
+I strongly suspect the coin earning rate is made far more "grindy" than it needs to be purely to encourage spending real money. However, I personally wasn't enjoying the game enough to pay for ad removal, but at least it's priced reasonably (£2 / $3).
+
+### Tips
+
+It's a simple game, so tips are limited.
+
+- Always play it safe, there's not that much benefit to doing an extra flip instead of just landing it safely.
+- However, if you're not doing _any_ tricks at all you'll likely be going too slowly to make any of the jumps.
+- Since there's an advert between each run making repeated runs painful, make sure you're focusing on your objectives not just mindlessly coin farming.
+
+### Screenshots
+
+All screenshots are from version 1.0.33:
+
+|                                                    Objectives                                                    |                                                    Daytime ship                                                    |                                                    Sunset balloons                                                    |
+| :--------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
+| [![Alto's Odyssey objectives](/assets/images/2024/oct-alto-1-thumbnail.jpg)](/assets/images/2024/oct-alto-1.jpg) | [![Alto's Odyssey daytime ship](/assets/images/2024/oct-alto-2-thumbnail.jpg)](/assets/images/2024/oct-alto-2.jpg) | [![Alto's Odyssey sunset balloons](/assets/images/2024/oct-alto-3-thumbnail.jpg)](/assets/images/2024/oct-alto-3.jpg) |
