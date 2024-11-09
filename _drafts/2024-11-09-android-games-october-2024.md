@@ -1,12 +1,12 @@
 ---
-title: "3 Android game recommendations: IdleTale ⚔️, Alto's Odyssey 🏂,"
+title: "3 Android game recommendations: IdleTale ⚔️, Alto's Odyssey 🏂, Cat Magic School 🧙"
 image: /assets/images/2024/oct-banner.png
 tags:
   - Android
   - Gaming
 ---
 
-intro
+This month is actually "1 game I'm obsessed with, and 2 that are OK"! Still, I've enjoyed all 3 to some degree, maybe you will too.
 
 ## #1: [IdleTale](https://play.google.com/store/apps/details?id=com.EdGrace.Idle)
 
@@ -37,7 +37,7 @@ The game does a good job of balancing various currencies and traits, since you'l
 
 Whilst this might make the game seem chaotic and confusing, the slow release of features ensures you're never overwhelmed, and instead constantly have a couple of goals to work towards.
 
-Extremely engrossing and absorbing, I'm terrified if I'll ever escape playing this game!
+Extremely engrossing and absorbing, I'm terrified I'll never escape playing this game!
 
 ### Monetisation
 
@@ -58,11 +58,12 @@ I presume in-app purchases will appear eventually, but there's nothing yet.
 - Shop upgrades are often unlocked after purchasing X (e.g. 10, 25, 50, 100) of the simple idle cash generators (e.g. health potions), so try to purchase in batches.
 - I tried to balance my idle income and active income, e.g. ensuring my "Gains" were upgraded as much as my "Skills" / "Codex". Of course shop upgrades affect this, but it's something to aim for!
 - You can likely do dungeons earlier than you think, when you're at or just before the minimum level. However, there's no point doing them until you can use the reward weapons (tap them on dungeon preview for minimum level).
-- When prestiging, be clear what glory upgrade you're aiming for. Once you're earning glory it's pretty easy to gain a few more, so push further if you can wait.
-- Respeccing your level up perks is quite cheap, so if you've hit a wall it's worth trying. I found the "assassination" path to be better for damage & boss fights.
-- I did my first prestige around level 33, and my second around 35, with my third at 38. This felt late enough, and may have even been a bit early, since rebuilding after a prestige takes significant effort.
+- When prestiging, be clear what glory upgrade you're aiming for. Once you're earning glory it's pretty easy to gain a few more, so push further if you can wait. If I didn't have a specific perk I was aiming for, I'd aim for 2x my current glory points.
+- Respeccing your level up perks is quite cheap, so if you've hit a wall it's worth trying. In the mid-game I found the "assassination" path to be better for damage & boss fights, but later on found specialising in crit chance & damage useful.
+- I did my first prestige around level 33, and my second around 35, with subsequent prestiges every 2-3 levels. This felt late enough, and may have even been a bit early, since rebuilding after a prestige takes significant effort.
 - Whilst you can store & withdraw items from the armoury across playthroughs based on your level, you'll likely only be doing this manually for a single run so it's not worth worrying about much. There's an "autogear" button unlocked via prestige later.
 - There's [a discord server](https://discord.com/invite/B9mamWkNtV) with a startling 3700 members, I haven't joined yet though as I'm enjoying the discovery process. I'll likely give it a look once I've hit a "wall" I can't find a way past.
+- You're _really_ going to want to have some way to auto-tap / hold down on the screen if you don't want to have your thumbs held down all day! If you play lots of incremental games you may have one already (I use the now delisted "QuickTouch").
 
 ### Screenshots
 
@@ -113,3 +114,55 @@ All screenshots are from version 1.0.33:
 |                                                    Objectives                                                    |                                                    Daytime ship                                                    |                                                    Sunset balloons                                                    |
 | :--------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
 | [![Alto's Odyssey objectives](/assets/images/2024/oct-alto-1-thumbnail.jpg)](/assets/images/2024/oct-alto-1.jpg) | [![Alto's Odyssey daytime ship](/assets/images/2024/oct-alto-2-thumbnail.jpg)](/assets/images/2024/oct-alto-2.jpg) | [![Alto's Odyssey sunset balloons](/assets/images/2024/oct-alto-3-thumbnail.jpg)](/assets/images/2024/oct-alto-3.jpg) |
+
+## #3: [Cat Magic School](https://play.google.com/store/apps/details?id=com.tree.idle.cat.academy)
+
+TREEPLLA have made a niche for themselves with cute, cat-based incremental games... but this Harry Potter inspired variant is not one of their best. I debated even including it in this article, but there is _some_ enjoyment to be had!
+
+### Review
+
+With the similar (but far better) [Cat Town Valley](/android-games-september-2024/#2-cat-town-valley) releasing a month or two ago, and the even better [Office Cat](/android-games-late-april-2024/#1-office-cat) earlier in the year, the aggressive release schedule is perhaps to blame for some of the game's issues.
+
+The gameplay is similar to Office Cat overall (upgrade offices to earn revenue, and repeat), but with the variation of upgrading magical classrooms to train wizards. You earn revenue for cats signing up, taking classes, eating food, passing exams, etc.
+
+Visuals are somewhat magical, again very similar (yet inferior) to Office Cat, plus a few magical broomsticks scattered around. Whilst it is (mostly) high quality, it's less Hogwarts, more Hogwarts decorations in an office.
+
+The classrooms themselves are responsible for a truly baffling design choice. The number of cats that visit your school is affected by your class success rate. Since each classroom's level, capacity, and speed can be upgraded, surely these will improve success rate? Nope, higher level classrooms actually _fail more often_!
+
+Luckily the game has info on how to improve class success rates, there's only 2 ways:
+
+1. Use many "Gems" (premium currency, some rewarded occasionally) to pay for a small increase in rate. Every gem I've earned in the game so far just about lets me get a 10% pass rate increase.
+2. Use the correct professor's "cards" (very rare) and magic potions (semi-rare currency) to upgrade the professor, again for a minor bump. Or, of course, pay lots of gems to upgrade.
+
+Using one of my classrooms as an example, only 35% of students are passing, yet there is no way to improve this number without paying significantly for gems. Now, repeat this for every classroom. Great. Similarly, improving the bigger, "student upgrade" exam is done by professor upgrades or improving classrooms.
+
+The cumulative effect of this is that you'll quickly end up with a school where most students are failing most classes, your revenue is slow due to this, and there's seemingly no (free) way to make significant progress.
+
+Shallow engagement events (click this to get some money, click this to get some gems, click this to get some wizard's stones, click this student to wake them up) are scattered around your school's grounds, but you'll see all of them in your first 5 minutes and there is no variation or complexity. The only game with any complexity is "Lucky Crystal Ball", where you blindly pick rewards from 4 options a few times in a row, until eventually "Unlucky Balls" that cause a complete loss begin to appear. You can stop at any time and earn half your rewards, but there's no skill involved, just luck.
+
+Progression is also pretty limited, with my school looking pretty similar 1 day vs 7 days in. Sure, a few new plain looking rooms, but the overall changes are very limited. This is really disappointing, since the magic theme gives free rein for almost anything, yet we've ended up with empty offices!
+
+Overall it's a worse variation of their past games, with an obnoxious focus on aggressive monetisation. Instead of "enjoy for free, pay / watch adverts to progress faster", this is more "slow progress until you are forced to constantly watch adverts / pay for any progress". Awful.
+
+### Monetisation
+
+Playing Cat Magic School is a battle against accidental advert watching. Whilst there technically aren't any forced adverts, almost every screen will have a button that will trigger an advert, often with an "!" indicating something that requires attention. Looking at the main game screen, I can see 8 buttons that would open an advert, a shop, or a prompt to spend the premium currency gems.
+
+It's overwhelming, and tiring.
+
+There's all the typical expensive ad removal package (£17, approx $22), offline package, multiple starter packages, 5 gem purchases (up to £70, approx $90), 3 wizard's stone purchases, 3 magic potion purchases, plus all the nudges to spend gems that will open the shop if you don't have enough.
+
+Finally, the linear quest system will sometimes literally require watching a few adverts, removing any illusions that the adverts are optional!
+
+### Tips
+
+- The quest system tells you exactly what to do, there's no need to try and plan ahead.
+- Resources are hard to come by, so make sure to claim them as they appear.
+
+### Screenshots
+
+All screenshots are from version 1.0.7:
+
+|                                                    Early game                                                    |                                                    Mid game                                                    |                                                    Classroom overview                                                    |
+| :--------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
+| [![Cat Magic School early game](/assets/images/2024/oct-cat-1-thumbnail.jpg)](/assets/images/2024/oct-cat-1.jpg) | [![Cat Magic School mid game](/assets/images/2024/oct-cat-2-thumbnail.jpg)](/assets/images/2024/oct-cat-2.jpg) | [![Cat Magic School classroom overview](/assets/images/2024/oct-cat-3-thumbnail.jpg)](/assets/images/2024/oct-cat-3.jpg) |
