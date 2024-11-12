@@ -4,7 +4,7 @@ image: /assets/images/2024/reddit-achievements.png
 tags:
   - Reddit
   - Achievements
-last_modified_at: 2024-11-02
+last_modified_at: 2024-11-12
 ---
 
 In April 2024, Reddit added 18 achievements to the mobile app, grouped into 3 categories (and added 30+ more & outfits later). Here's all the details, and how to unlock all 57 achievements!
@@ -19,7 +19,9 @@ Some of these achievements are unlocked based on past activity (e.g. I unlocked 
 
 Most are pretty straightforward, and I unlocked all in the initial batch except the [streak awards](#reddit-streak-6) within a few minutes. The streak awards require up to 500 days of daily activity, so for now they're still locked for me!
 
-Achievements are greyed out until earned, when a full colour version is unlocked. They also have a progress indicator underneath.
+A later update added displaying the "Top X%" achievements next to a user's name when they post / comment in the subreddit they earned the achievement in:
+
+[![Achievement next to user's name](/assets/images/2024/reddit-flair.png)](/assets/images/2024/reddit-flair.png)
 
 Interestingly, if you view an achievement, you can see the comment / subreddit that earned you the achievement, as well as what number user you were to unlock it. Finally, you can also share an earned achievement (or current streak), giving you an image (with toggleable username & avatar) to post... on Reddit?
 
@@ -50,6 +52,8 @@ _Thanks to [u/ezioir1](https://www.reddit.com/r/Redditachievments/comments/1fyla
 These are tricky to earn! They require long-term commitment to a single community, and a later update added progress indicators:
 
 [![Community progress indicator](/assets/images/2024/reddit-progress-indicator-thumbnail.png)](/assets/images/2024/reddit-progress-indicator.png)
+
+Note the 10% achievements are _more_ common than the 25% achievements (Rare vs Legendary) due to being released far earlier.
 
 |                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                              |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
