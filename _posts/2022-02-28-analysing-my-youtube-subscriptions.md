@@ -8,7 +8,7 @@ tags:
     - Data
 ---
 
-According to Wallace Boyer in [Chuck Palahniuk's "Rant"](https://www.goodreads.com/book/show/22285.Rant): "... every person is obsessed with himself. You are your own favorite hobby. You’re an expert on you". With that in mind, I spent some time exploring my YouTube viewing / subscribing habits over the last few years! 
+According to Wallace Boyer in [Chuck Palahniuk's "Rant"](https://www.goodreads.com/book/show/22285.Rant): "... every person is obsessed with himself. You are your own favorite hobby. You're an expert on you". With that in mind, I spent some time exploring my YouTube viewing / subscribing habits over the last few years! 
 
 Yes, this post is going to be of limited interest to anyone besides myself / any stalkers I happen to have. However, detailing the simple steps I took may help you to do the same!
 

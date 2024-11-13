@@ -119,13 +119,13 @@ Within that 30 seconds... I had a logo I was happy with! Picking business catego
 
 Before actually using my generated logo, I was very paranoid that there'd be some sort of licensing issue. However, this snippet from the Hatchful website seems pretty clear:
 
-> The logo you design with Shopify’s logo creator is 100% free and yours to own. *([source](https://www.shopify.com/tools/logo-maker#is-the-hatchful-logo-maker-free))*
+> The logo you design with Shopify's logo creator is 100% free and yours to own. *([source](https://www.shopify.com/tools/logo-maker#is-the-hatchful-logo-maker-free))*
 
 If this was a random website, I would be suspicious about how they can afford even the basic hosting costs. However, given the fact it's on the industry giant Shopify's site, and includes lots of references to Shopify, it's clear how it can be free: To get new Shopify customers. This is confirmed through one of the FAQs:
 
 > **Did you know Hatchful is a free logo maker created by Shopify?**
 >
-> Shopify is a platform that allows you to build an online or offline store, with the mission of making commerce better for everyone. That’s why Shopify has created Hatchful, the free online logo maker tool, for you to have a free logo with your own branding identity. ([source](https://www.shopify.com/tools/logo-maker#hatchful-is-a-free-logo-maker-created-by-shopify))
+> Shopify is a platform that allows you to build an online or offline store, with the mission of making commerce better for everyone. That's why Shopify has created Hatchful, the free online logo maker tool, for you to have a free logo with your own branding identity. ([source](https://www.shopify.com/tools/logo-maker#hatchful-is-a-free-logo-maker-created-by-shopify))
 
 ### High quality
 
@@ -142,7 +142,7 @@ Whilst the ability to customise colour schemes is good, it's a real shame they c
 ### Lack of uniqueness
 
 The reality of any free logo creator is you might run into other companies with very similar logos. As I mentioned [in my post about free asset packs in games](https://blog.jakelee.co.uk/should-i-use-a-free-cheap-resource-pack-in-my-game/):
-> Of course, whilst seeing the assets you’re using elsewhere can be a nice experience, it isn’t always. In the past I’ve been accused of theft / stealing assets when they come from a pack. Users may see assets from their favourite game reused, and assume another developer has stolen it, without considering alternatives. Whilst users often correct their negative review once the situation is explained, they don’t always!
+> Of course, whilst seeing the assets you're using elsewhere can be a nice experience, it isn't always. In the past I've been accused of theft / stealing assets when they come from a pack. Users may see assets from their favourite game reused, and assume another developer has stolen it, without considering alternatives. Whilst users often correct their negative review once the situation is explained, they don't always!
 
 I can definitely see a scenario where two companies innocently use Hatchful to create a free logo, then one is accused of "ripping off" the other!
 

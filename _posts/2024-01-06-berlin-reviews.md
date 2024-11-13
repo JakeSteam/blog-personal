@@ -78,7 +78,7 @@ The underground part, the exhibition, is absolutely worth queuing to enter and p
 
 I really appreciate the combination of historical information underground, surreal sculpture above ground, and the areas where it overlaps (parts of the underground). A moving memorial.
 
-*Note: No Google Maps review available, as "This place is currently more likely to receive content that violates Google’s policies. To prevent this, Google has turned off posting."!*
+*Note: No Google Maps review available, as "This place is currently more likely to receive content that violates Google's policies. To prevent this, Google has turned off posting."!*
 
 ### Mall of Berlin ★★★★✰
 
@@ -110,7 +110,7 @@ The large building will definitely take longer than you expect, we spent an hour
 
 A personal highlight is a section showing what happened to the higher-ups after the war. Disturbingly, the answer seems to usually be "they escaped", and were eventually caught decades later.
 
-*Note: No Google Maps review available, as "This place is currently more likely to receive content that violates Google’s policies. To prevent this, Google has turned off posting."!*
+*Note: No Google Maps review available, as "This place is currently more likely to receive content that violates Google's policies. To prevent this, Google has turned off posting."!*
 
 ### Checkpoint Charlie ★★★★✰
 
@@ -120,7 +120,7 @@ However, without the Wall, this checkpoint is... essentially just an island in a
 
 I also find it strange wanting to take a selfie here, I didn't expect it to be that sort of attraction!
 
-*Note: No Google Maps review available, as "This place is currently more likely to receive content that violates Google’s policies. To prevent this, Google has turned off posting."!*
+*Note: No Google Maps review available, as "This place is currently more likely to receive content that violates Google's policies. To prevent this, Google has turned off posting."!*
 
 ### Curry Mitte ★★★★★
 
@@ -150,7 +150,7 @@ All information is very well written and clear, providing further reading wherev
 
 This should definitely be a location visited during any Berlin trip, it's the most accessible former camp for anyone in the capital city.
 
-*Note: No Google Maps review available, as "This place is currently more likely to receive content that violates Google’s policies. To prevent this, Google has turned off posting."!*
+*Note: No Google Maps review available, as "This place is currently more likely to receive content that violates Google's policies. To prevent this, Google has turned off posting."!*
 
 ### Bavaria ★★★★★
 
@@ -212,7 +212,7 @@ This was the only place in central Berlin where I didn't feel completely safe! R
 
 No idea if we just got unlucky with timing, but I won't visit here again unless I have to.
 
-*Note: No Google Maps review available, as "This place is currently more likely to receive content that violates Google’s policies. To prevent this, Google has turned off posting."!*
+*Note: No Google Maps review available, as "This place is currently more likely to receive content that violates Google's policies. To prevent this, Google has turned off posting."!*
 
 ### Aldi ★★★★★
 

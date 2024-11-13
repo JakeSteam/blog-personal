@@ -45,11 +45,11 @@ There's none. At all. Anywhere. I have absolutely no idea how this has been made
 
 > **What is the current state of the Early Access version?**
 >
-> “As of now, IdleTale offers over several weeks of content, featuring over 400 items to collect, over 250 achievements to unlock, 50 total levels, over 30 different dungeons (counting Normal and Deadly modes) and a lot of enemies and maps to discover!”
+> "As of now, IdleTale offers over several weeks of content, featuring over 400 items to collect, over 250 achievements to unlock, 50 total levels, over 30 different dungeons (counting Normal and Deadly modes) and a lot of enemies and maps to discover!"
 >
 > **Will the game be priced differently during and after Early Access?**
 >
-> “IdleTale will remain free after launch.”
+> "IdleTale will remain free after launch."
 
 I presume in-app purchases will appear eventually, but there's nothing yet.
 
