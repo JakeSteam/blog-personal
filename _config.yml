@@ -24,7 +24,7 @@ network:
       colour: "#075e78",
     }
   - { name: Theme, url: "https://minima.jakelee.co.uk", colour: "#951A00" }
-  - { name: Everything Else, url: "https://jakelee.co.uk", colour: "#acacac" }
+  - { name: Everything Else, url: "https://jakelee.co.uk", colour: "#acacac", current: true }
 
 # Setting article defaults
 defaults:
