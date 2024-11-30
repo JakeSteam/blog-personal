@@ -1,6 +1,6 @@
 ---
 title: "4 Android games I enjoyed playing in September! 🟩 Cube farm, 😼 Cat Valley Town, ⛳ Wonderputt Forever, 🌌 Idle Space Soldier"
-image: /assets/images/2024/sept-banner.png
+image: /assets/images/banners/sept-24-banner.png
 tags:
   - Android
   - Gaming

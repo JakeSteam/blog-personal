@@ -1,6 +1,6 @@
 ---
 title: "3 Android game recommendations: IdleTale ⚔️, Alto's Odyssey 🏂, Cat Magic School 🧙"
-image: /assets/images/2024/oct-banner.png
+image: /assets/images/banners/oct-24-banner.png
 tags:
   - Android
   - Gaming

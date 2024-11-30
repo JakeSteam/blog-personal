@@ -1,6 +1,6 @@
 ---
 title: "3 Android games I've enjoyed lately: Word Salad, Meganum, Bumbling Cats "
-image: /assets/images/2024/june24-banner.png
+image: /assets/images/banners/june-24-banner.png
 tags:
   - Android
   - Gaming

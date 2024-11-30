@@ -1,6 +1,6 @@
 ---
 title: "3 Android games I've enjoyed lately: Sorcery School, King's Landing, Tile Collector 📲"
-image: /assets/images/2024/mar24-banner.png
+image: /assets/images/banners/mar-24-banner.png
 tags:
   - Android
   - Gaming

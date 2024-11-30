@@ -1,6 +1,6 @@
 ---
 title: A guide to unlocking all of the Reddit app's new achievements ⭐
-image: /assets/images/2024/reddit-achievements.png
+image: /assets/images/banners/reddit-achievements.png
 tags:
   - Reddit
   - Achievements

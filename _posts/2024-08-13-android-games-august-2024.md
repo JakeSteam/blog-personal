@@ -1,6 +1,6 @@
 ---
 title: "Android games I've enjoyed playing in August! Earth Inc, Pinball Masters, Bowling Ballers 🌍"
-image: /assets/images/2024/aug-banner.png
+image: /assets/images/banners/aug-24-banner.png
 tags:
   - Android
   - Gaming

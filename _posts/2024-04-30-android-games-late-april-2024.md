@@ -1,6 +1,6 @@
 ---
 title: "3 Android games I've enjoyed lately: Office Cat, Close Cities, Knotwords 🐈"
-image: /assets/images/2024/may-24-games.png
+image: /assets/images/banners/may-24-games.png
 tags:
   - Android
   - Gaming

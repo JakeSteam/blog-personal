@@ -1,6 +1,6 @@
 ---
 title: "Netflix has Android games, and they're actually good!? Reviews of Dragon Up, Krispee Street, Word Trails 📺"
-image: /assets/images/2024/netflix-games-banner.png
+image: /assets/images/banners/netflix-games-banner.png
 tags:
   - Android
   - Gaming

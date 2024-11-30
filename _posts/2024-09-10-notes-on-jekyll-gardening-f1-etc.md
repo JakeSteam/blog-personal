@@ -1,6 +1,6 @@
 ---
 title: "Notes on Jekyll Builds, Fruit Tree Growing, F1 Aerodynamics, Book Publishing, and Household Electronics"
-image: /assets/images/2024/sept-notes-banner.gif
+image: /assets/images/banners/sept-notes-banner.gif
 tags:
   - Jekyll
   - F1
