@@ -1,5 +1,5 @@
 ---
-title: "3 Android game recommendations: Home Town 🎴"
+title: "3 Android game recommendations: Home Town 🎴, Number Salad 🔢, Atom Idle ☢️"
 image: /assets/images/2024/dec-banner.png
 tags:
   - Android
@@ -64,3 +64,45 @@ All screenshots are from version 1.8.1.20231106:
 |                                                     Farm view                                                     |                                                     Gameplay                                                     |                                                     Orders                                                     |
 | :---------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
 | [![Tripeaks farm view](/assets/images/2024/dec-tripeaks-1-thumbnail.jpg)](/assets/images/2024/dec-tripeaks-1.jpg) | [![Tripeaks gameplay](/assets/images/2024/dec-tripeaks-2-thumbnail.jpg)](/assets/images/2024/dec-tripeaks-2.jpg) | [![Tripeaks orders](/assets/images/2024/dec-tripeaks-3-thumbnail.jpg)](/assets/images/2024/dec-tripeaks-3.jpg) |
+
+## #2: [Number Salad](https://play.google.com/store/apps/details?id=com.numbersalad.app)
+
+Remember [Word Salad](/android-games-june-2024/#1-word-salad)? Number Salad is that, but with a lot more numbers & maths!
+
+### Review
+
+I massively enjoyed developer Bleppo's previous game, and Number Salad is very, very similar.
+
+Instead of a word-based theme, it's number-themed. Whilst this sounds like a minor change, it actually adds a *lot* of complexity, since choosing when to multiply drastically changes the final number!
+
+Similarly to Word Salad, there's a new level every day, plus a couple of thousand standard puzzles to play. These are separated by difficulty, but even the hardest aren't *that* tricky. With 8 tiles, and every target requiring 2-6 tiles, you can idly try combinations until you get close, then fine tune.
+
+Instead of requiring knowledge of words and decoding the level's topic, Number Salad instead requires the ability to identify patterns and intuitively predict just how high a multiplier will transform a number. 
+
+Multipliers make up all the difficulty in Number Salad, since deciding whether to collect a number before and after a `x7` multiplier changes your total significantly! The ability to quickly do mental maths (especially multiplication) is very helpful.
+
+There are a few indicators that this is a first release, with minor bugs. For example, "See Achievements" and "Share" do nothing, and I get prompted to enable a Google Play Profile every time I open the game(?). Despite these minor issues, if you're into maths puzzles you *will* enjoy Number Salad. There's a completely optional timer, and once this is turned off it's just you vs the puzzle, with the only limitation your own mathematical ability. Excellent.
+
+### Monetisation
+
+Similarly to the previous game, monetisation consists of:
+1. Short adverts every couple of levels.
+2. A £4.79 ($6) payment to remove adverts.
+3. Buying "hints" or watching adverts to earn them.
+
+These are pretty reasonable, although with the current format just putting up with the adverts seems preferable to paying.
+
+### Tips
+
+1. The multiplier is the most important part of any combination, aim to multiply to just below the target, then add a number or two to complete.
+2. The hints are useful! If you get stuck, use them.
+3. If a level seems impossible, try randomly combining tiles and you might unexpectedly end up close to the target. 
+
+
+### Screenshots
+
+All screenshots are from version 1.5:
+
+|                                                     Overall level select                                                     |                                                     Puzzle types                                                     |                                                     Gameplay                                                     |
+| :---------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
+| [![Number Salad level select](/assets/images/2024/dec-number-1-thumbnail.jpg)](/assets/images/2024/dec-number-1.jpg) | [![Number Salad puzzle types](/assets/images/2024/dec-number-2-thumbnail.jpg)](/assets/images/2024/dec-number-2.jpg) | [![Number Salad gameplay](/assets/images/2024/dec-number-3-thumbnail.jpg)](/assets/images/2024/dec-number-3.jpg) |
