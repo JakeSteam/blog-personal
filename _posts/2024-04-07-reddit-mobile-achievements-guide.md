@@ -4,7 +4,7 @@ image: /assets/images/banners/reddit-achievements.png
 tags:
   - Reddit
   - Achievements
-last_modified_at: 2024-11-27
+last_modified_at: 2024-12-03
 ---
 
 In April 2024, Reddit added 18 achievements to the mobile app, grouped into 3 categories (and added 30+ more & outfits later). Here's all the details, and how to unlock all 58 achievements!
@@ -60,7 +60,9 @@ Note the 10% achievements are _more_ common than the 25% achievements (Rare vs L
 |          [![Top 5% Commenter Reddit achievement](/assets/images/2024/reddit-commenter-top5.png)](/assets/images/2024/reddit-commenter-top5.png)<br>**Top 5% Commenter** (Legendary)<br>Finish a month in the top 5% upvoted commenters in a subreddit           |   [![Top 1% Commenter Reddit achievement](/assets/images/2024/reddit-commenter-top1.png)](/assets/images/2024/reddit-commenter-top1.png)<br>**Top 1% Commenter** (Legendary)<br>Finish a month in the top 1% upvoted commenters in a subreddit    |  [![Repeat Contributor Reddit achievement](/assets/images/2024/reddit-repeatcontributor.png)](/assets/images/2024/reddit-repeatcontributor.png)<br>**Repeat Contributor** (Epic)<br>Post or comment in the same community for 20 total days  |
 | [![Content Connoisseur Reddit achievement](/assets/images/2024/reddit-contentconnoisseur.png)](/assets/images/2024/reddit-contentconnoisseur.png)<br>**Content Connoisseur** (Legendary)<br>Vote at least 5 times a day in the same community for 30 total days | [![Flag Planter Reddit achievement](/assets/images/2024/reddit-flagplanter.png)](/assets/images/2024/reddit-flagplanter.png)<br>**Flag Planter** (Rare)<br>Be one of the first 5 commenters on a new post in the same community for 10 total days |                         [![Elder Reddit achievement](/assets/images/2024/reddit-elder.png)](/assets/images/2024/reddit-elder.png)<br>**Elder** (Common)<br>Be a member of the same community for 3 consecutive years                         |
 |                            [![Rising Star achievement](/assets/images/2024/reddit-risingstar.png)](/assets/images/2024/reddit-risingstar.png)<br>**Rising Star** (Epic)<br>Get 1,000 upvotes during your first month in a community                             |                                [![Picasso](/assets/images/2024/reddit-picasso.png)](/assets/images/2024/reddit-picasso.png)<br>**Picasso** (Epic)<br>Create media posts or comments that receive 100 total upvotes                                |                                        [![That's Me](/assets/images/2024/reddit-thatsme.png)](/assets/images/2024/reddit-thatsme.png)<br>**That's Me** (Epic)<br>Set your user flair in any subreddit                                        |
-| [![Super Contributor](/assets/images/2024/reddit-supercontributor.png)](/assets/images/2024/reddit-supercontributor.png)<br>**Super Contributor** (Legendary)<br>Be in the top 1% of upvoted commenters or posters in a subreddit for 5 months in the last year | | |
+| [![Super Contributor](/assets/images/2024/reddit-supercontributor.png)](/assets/images/2024/reddit-supercontributor.png)<br>**Super Contributor** (Legendary)<br>Frequently contribute excellent content in one of your communities<sup>1</sup>:  | | |
+
+<sup>1</sup>This accolade previously had the description "*Be in the top 1% of upvoted commenters or posters in a subreddit for 5 months in the last year*", and may still have the same unlock requirements.
 
 ## Reddit Streak (13)
 

@@ -1,5 +1,5 @@
 ---
-title: Reviewing ALL X+ Steam games from the Yogscast's 2024 Jingle Jam charity bundle (part 1 of 3)
+title: Reviewing all 18 Steam games from the Yogscast's 2024 Jingle Jam charity bundle
 image: /assets/images/2024/jj-banner-1.png
 tags:
     - Steam
@@ -20,8 +20,6 @@ I'll be using the same rating system as last year, essentially it's purely how m
 * **1/5**: The game experience was actively unpleasant. I had to force myself to play more than a few minutes of it, and was relieved when I finally closed the game. 
 
 I played most games for at least an hour, but some are pretty small and understood / completed after 15-20 minutes. Information on peak player count are [from SteamDB.info](https://steamdb.info/).
-
-This is part 1 of a 3 part series: Games **1-30**, ...
 
 ## 5/5 Games
 
