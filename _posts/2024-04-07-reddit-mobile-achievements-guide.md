@@ -4,7 +4,7 @@ image: /assets/images/banners/reddit-achievements.png
 tags:
   - Reddit
   - Achievements
-last_modified_at: 2024-12-03
+last_modified_at: 2024-12-04
 ---
 
 In April 2024, Reddit added 18 achievements to the mobile app, grouped into 3 categories (and added 30+ more & outfits later). Here's all the details, and how to unlock all 58 achievements!
