@@ -1,12 +1,12 @@
 ---
 title: "3 Android game recommendations: Home Town 🎴, Number Salad 🔢, Atom Idle ☢️"
-image: /assets/images/2024/dec-banner.png
+image: /assets/images/banners/dec-24-games.png
 tags:
   - Android
   - Gaming
 ---
 
-intro
+Only 1 idle game out of 3? A new record low! This month had maths, solitaire, and atoms.
 
 ## #1: [Tripeaks Solitaire - Home Town](https://play.google.com/store/apps/details?id=solitaire.tripeaks.farm.town.adventure.card.games.free)
 
@@ -142,7 +142,7 @@ I purchased the £1 banner removal as it seemed a good price, I definitely won't
 
 It's hard to give tips when I spent most of my time either feeling confused or that I was probably working on the wrong area!
 
-The only advice to give is use the help screens, they really do describe every button and feature in detail.
+The only advice to give is use the help screens, they really do describe every button and feature in detail. There's [also a Discord](https://discord.com/invite/gRqAFv6wfb).
 
 ### Screenshots
 
