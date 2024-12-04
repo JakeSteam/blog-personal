@@ -73,19 +73,20 @@ Remember [Word Salad](/android-games-june-2024/#1-word-salad)? Number Salad is t
 
 I massively enjoyed developer Bleppo's previous game, and Number Salad is very, very similar.
 
-Instead of a word-based theme, it's number-themed. Whilst this sounds like a minor change, it actually adds a *lot* of complexity, since choosing when to multiply drastically changes the final number!
+Instead of a word-based theme, it's number-themed. Whilst this sounds like a minor change, it actually adds a _lot_ of complexity, since choosing when to multiply drastically changes the final number!
 
-Similarly to Word Salad, there's a new level every day, plus a couple of thousand standard puzzles to play. These are separated by difficulty, but even the hardest aren't *that* tricky. With 8 tiles, and every target requiring 2-6 tiles, you can idly try combinations until you get close, then fine tune.
+Similarly to Word Salad, there's a new level every day, plus a couple of thousand standard puzzles to play. These are separated by difficulty, but even the hardest aren't _that_ tricky. With 8 tiles, and every target requiring 2-6 tiles, you can idly try combinations until you get close, then fine tune.
 
-Instead of requiring knowledge of words and decoding the level's topic, Number Salad instead requires the ability to identify patterns and intuitively predict just how high a multiplier will transform a number. 
+Instead of requiring knowledge of words and decoding the level's topic, Number Salad instead requires the ability to identify patterns and intuitively predict just how high a multiplier will transform a number.
 
 Multipliers make up all the difficulty in Number Salad, since deciding whether to collect a number before and after a `x7` multiplier changes your total significantly! The ability to quickly do mental maths (especially multiplication) is very helpful.
 
-There are a few indicators that this is a first release, with minor bugs. For example, "See Achievements" and "Share" do nothing, and I get prompted to enable a Google Play Profile every time I open the game(?). Despite these minor issues, if you're into maths puzzles you *will* enjoy Number Salad. There's a completely optional timer, and once this is turned off it's just you vs the puzzle, with the only limitation your own mathematical ability. Excellent.
+There are a few indicators that this is a first release, with minor bugs. For example, "See Achievements" and "Share" do nothing, and I get prompted to enable a Google Play Profile every time I open the game(?). Despite these minor issues, if you're into maths puzzles you _will_ enjoy Number Salad. There's a completely optional timer, and once this is turned off it's just you vs the puzzle, with the only limitation your own mathematical ability. Excellent.
 
 ### Monetisation
 
 Similarly to the previous game, monetisation consists of:
+
 1. Short adverts every couple of levels.
 2. A £4.79 ($6) payment to remove adverts.
 3. Buying "hints" or watching adverts to earn them.
@@ -96,13 +97,57 @@ These are pretty reasonable, although with the current format just putting up wi
 
 1. The multiplier is the most important part of any combination, aim to multiply to just below the target, then add a number or two to complete.
 2. The hints are useful! If you get stuck, use them.
-3. If a level seems impossible, try randomly combining tiles and you might unexpectedly end up close to the target. 
-
+3. If a level seems impossible, try randomly combining tiles and you might unexpectedly end up close to the target.
 
 ### Screenshots
 
 All screenshots are from version 1.5:
 
-|                                                     Overall level select                                                     |                                                     Puzzle types                                                     |                                                     Gameplay                                                     |
-| :---------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
+|                                                 Overall level select                                                 |                                                     Puzzle types                                                     |                                                     Gameplay                                                     |
+| :------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
 | [![Number Salad level select](/assets/images/2024/dec-number-1-thumbnail.jpg)](/assets/images/2024/dec-number-1.jpg) | [![Number Salad puzzle types](/assets/images/2024/dec-number-2-thumbnail.jpg)](/assets/images/2024/dec-number-2.jpg) | [![Number Salad gameplay](/assets/images/2024/dec-number-3-thumbnail.jpg)](/assets/images/2024/dec-number-3.jpg) |
+
+## #3: [Atom Idle](https://play.google.com/store/apps/details?id=com.AG.atomMerge)
+
+Atom Idle is a pretty standard incremental game, albeit one with some variety, with the distinguishing feature being the atom-based theme!
+
+### Review
+
+The core of Atom Idle is a merge game, where the objects being merged are (unsurprisingly) atoms, earning you "energy" (just currency). Building on top of this are standard features like upgrades with various currencies, achievements that increase income, and the ability to manually tap to spawn atoms faster.
+
+Luckily, the game doesn't stop at these basics, and adds multiple areas that help increase your income. Each of these is essentially a whole other incremental game, with their own currency, yet it all feeds into the core game:
+
+1. There's a research lab with scientists to hire, and a skill tree.
+2. There's a microchip factory, with an Adventure Capitalist-style gameplay for "F-coins".
+3. There's a nuclear reactor, with particles used to increase your multiplayer.
+4. There's a particle collider with antimatter, isotope traps, neutrinos, and all kinds of science-y jargon.
+
+The end result is like playing 5 quite basic incremental games at once, which has a bit of a learning curve. There is a help button on each screen that has plenty of description of all the bits and pieces, but there are so many _things_ available to upgrade at any one time that there's a bit of decision paralysis.
+
+Should I buy an injection for my collider which does something unknown to do with antimatter, buy my 50th Intel 8088 for some sort of F-coin improvement, maybe upgrade my superconductivity? Who knows!
+
+I really wanted to like Atom Idle, as there's clearly a lot of passion put into the gameplay mechanic, and it looks and plays great. However, I never quite managed to _care_ about the game, perhaps because there are just so many simple things going on. Nothing complex, but many little pieces.
+
+I've come back to Atom Idle a few times over the past few weeks, and whilst the gameplay is always solid, it neve quite managed to hook me in. There's definitely a lot of depth, if you can push past the initial jargon word salad!
+
+### Monetisation
+
+You can watch adverts to skip various things, earn various currencies, and upgrade bits and pieces, and I did this a few times.
+
+There's also 13 currency microtransactions (although they get pretty expensive, £55 at half price!), 4 donation options, a payment to remove the constant banner ad, and an expensive payment to remove all ads (£9 down from £19).
+
+I purchased the £1 banner removal as it seemed a good price, I definitely won't be spending any more.
+
+### Tips
+
+It's hard to give tips when I spent most of my time either feeling confused or that I was probably working on the wrong area!
+
+The only advice to give is use the help screens, they really do describe every button and feature in detail.
+
+### Screenshots
+
+All screenshots are from version 1.1.173:
+
+|                                                 Main area                                                  |                                                 Antimatter upgrades                                                  |                                                 Processor upgrades                                                  |
+| :--------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
+| [![Atom Idle main area](/assets/images/2024/dec-atom-1-thumbnail.jpg)](/assets/images/2024/dec-atom-1.jpg) | [![Atom Idle antimatter upgrades](/assets/images/2024/dec-atom-2-thumbnail.jpg)](/assets/images/2024/dec-atom-2.jpg) | [![Atom Idle processor upgrades](/assets/images/2024/dec-atom-3-thumbnail.jpg)](/assets/images/2024/dec-atom-3.jpg) |
