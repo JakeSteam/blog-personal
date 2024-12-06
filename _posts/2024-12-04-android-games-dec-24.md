@@ -4,6 +4,7 @@ image: /assets/images/banners/dec-24-games.png
 tags:
   - Android
   - Gaming
+last_modified_at: 2024-12-06
 ---
 
 Only 1 idle game out of 3? A new record low! This month had maths, solitaire, and atoms.
@@ -82,6 +83,8 @@ Instead of requiring knowledge of words and decoding the level's topic, Number S
 Multipliers make up all the difficulty in Number Salad, since deciding whether to collect a number before and after a `x7` multiplier changes your total significantly! The ability to quickly do mental maths (especially multiplication) is very helpful.
 
 There are a few indicators that this is a first release, with minor bugs. For example, "See Achievements" and "Share" do nothing, and I get prompted to enable a Google Play Profile every time I open the game(?). Despite these minor issues, if you're into maths puzzles you _will_ enjoy Number Salad. There's a completely optional timer, and once this is turned off it's just you vs the puzzle, with the only limitation your own mathematical ability. Excellent.
+
+**Update: The developer reached out and informed me the mentioned bugs are now fixed, and were due to a misconfigured Google Play option.**
 
 ### Monetisation
 
