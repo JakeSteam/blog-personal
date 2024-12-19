@@ -4,7 +4,7 @@ image: /assets/images/banners/reddit-achievements.png
 tags:
   - Reddit
   - Achievements
-last_modified_at: 2024-12-04
+last_modified_at: 2024-12-19
 ---
 
 In April 2024, Reddit added 18 achievements to the mobile app, grouped into 3 categories (and added 30+ more & outfits later). Here's all the details, and how to unlock all 58 achievements!
@@ -88,7 +88,7 @@ These achievements are a little more challenging, with 100,000 upvotes being alm
 
 The sharing achievements can actually be obtained easily, by just tapping "share" and "copy link" repeatedly on the mobile app. As such, 1,000 shares will take 10-15 minutes of dedicated tapping.
 
-Since the banana achievements are relatively new (late October 2024), I'm not sure exactly how far 1 million banana lengths is! However, considering I achieved the 1,000 banana lengths the day the achievement came out, hopefully the achievements aren't too tricky. There also seems to be a daily limit (maybe 20,000 per day?).
+Since the banana achievements are relatively new (late October 2024), I'm not sure exactly how far 1 million banana lengths is! There is also a daily limit of 20,000 per day.
 
 |                                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                  |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
