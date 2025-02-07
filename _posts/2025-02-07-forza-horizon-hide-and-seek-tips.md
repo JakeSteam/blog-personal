@@ -6,7 +6,7 @@ tags:
   - Forza Horizon 5
 ---
 
-5 months after Hide & Seek released, only 100 people have fully "completed" the game mode. Why? An extremely dull grind to Level 1000, here are some tips to get there quicker!
+5 months after Hide & Seek released, only ~100 people have fully "completed" the game mode. Why? An extremely dull grind to Level 1000, here are some tips to get there quicker!
 
 ## What's the point?
 
@@ -20,9 +20,9 @@ The game mode is also pretty generous with (overall) XP, so you'll gain hundreds
 
 ## General tips
 
-1. **Distance travelled is all that matters**: Chase breakers, hiders pinged, win or loss, none of it matters anywhere near as much as the distance travelled in a game.
+1. **Distance travelled is all that matters**: Chase breakers, Hiders pinged, win or loss, none of it matters anywhere near as much as the distance travelled in a game.
 2. **You want to drive as straight as possible, as fast as possible**: Straight is fast, and fast is far. This is why you ideally want to be [a hider](#hider-tips) (faster cars) on [Mulége](#mulége) (long highway).
-3. **Avoid other players**: Whether you're a hider or a seeker, nothing positive comes from interacting with players on either team. As collision is enabled, bumping into a friendly hider can drastically reduce your XP, so give everyone plenty of space when overtaking.
+3. **Avoid other players**: Whether you're a Hider or a Seeker, nothing positive comes from interacting with players on either team. As collisions are enabled, bumping into a friendly Seeker can drastically reduce your XP, so give everyone plenty of space when overtaking.
 4. **Ignore the game objectives, only the clock & distance matters**: Regardless of what the announcer says, you don't care about hunting down the hider, or reaching the objective as fast as possible. You're just driving as far as possible, for as long as possible.
 5. **This is extremely time-consuming**: Level 1000 took me around 1500 games (including non-grind games, and instant finishes), totalling 100+ hours. Settle in, this will be painful.
 6. **Level 1000 requires 15,000,000 XP**: At a maximum of around 20,000 XP per game, that's at least 750 games. You'll likely need twice that to account for hider rounds, bad maps, and early finishes.
@@ -31,8 +31,8 @@ The game mode is also pretty generous with (overall) XP, so you'll gain hundreds
 
 ## Seeker tips
 
-9. **Usually drive the [2017 Nissan GT-R](<https://forza.fandom.com/wiki/Nissan_GT-R_(2017)>)**: This car has a very high top speed (200+), and my personal favoutie handling, making it the best car for pure speed maps like Mulége.
-10. **There are multiple other good choices**: You might prefer one of the other car choices, you've got hundreds of games to play so try them all! I'd recommend the [2016 Toyota Land Cruiser](https://forza.fandom.com/wiki/Toyota_Land_Cruiser_Arctic_Trucks_AT37) if you want to skip more corners, or [2012 Lamborghini Spyder](https://forza.fandom.com/wiki/Lamborghini_Gallardo_LP570-4_Spyder_Performante) / [2011 Mercedez-Benz SLS AMG](https://forza.fandom.com/wiki/Mercedes-Benz_SLS_AMG) if you want fancier ride. Try them out, and find your preferred handling. They're all reasonable choices, except the useless [2016 Ariel Nomad](https://forza.fandom.com/wiki/Ariel_Nomad).
+9. **Usually drive the [2017 Nissan GT-R](<https://forza.fandom.com/wiki/Nissan_GT-R_(2017)>)**: This car has a very high top speed (200+), and my personal favourite handling, making it the best car for pure speed maps like Mulége.
+10. **There are multiple other good choices**: You might prefer one of the other car choices, you've got hundreds of games to play so try them all! I'd recommend the [2016 Toyota Land Cruiser](https://forza.fandom.com/wiki/Toyota_Land_Cruiser_Arctic_Trucks_AT37) if you want to skip more corners, or [2012 Lamborghini Spyder](https://forza.fandom.com/wiki/Lamborghini_Gallardo_LP570-4_Spyder_Performante) / [2011 Mercedez-Benz SLS AMG](https://forza.fandom.com/wiki/Mercedes-Benz_SLS_AMG) if you want a fancier ride. Try them out, and find your preferred handling. They're all reasonable choices, except the useless [2016 Ariel Nomad](https://forza.fandom.com/wiki/Ariel_Nomad).
 11. **On Guanajuato, drive the [2008 Mitsubishi Lancer GSR](https://forza.fandom.com/wiki/Mitsubishi_Lancer_Evolution_X_GSR)**: It has slightly better handling whilst still being fast, making it better at navigating the narrow crowded streets. However, as before, most cars (except the Ariel Nomad) are good here, with top speed not being as important. The Lamborghini Spyder is very good.
 12. **Corner safely, not max speed**: Since you lose so much speed by hitting street furniture (e.g. edges of buildings on Playa Azul), it's far better to slow down by 10-20mph than risk slowing to zero.
 
@@ -62,8 +62,8 @@ This map is pretty good as a Seeker, with a decent high speed route available. T
 
 [![FH5 Hide & Seek Playa Azul route](/assets/images/2025/fh5hide-playaazul-thumbnail.png)](/assets/images/2025/fh5hide-playaazul-thumbnail.png)
 
-21. **As a Seeker, you have a choice of 2 routes through the urban area (split into pink and red on the map below)**: I prefer the pink route, as the corners on the red route can be hard to avoid. You may also want to skip the turn West at the North of the map and just drive North to South.
-22. **As a Hider, you probably want to just drive in a circle**: The map is complex enough with lots of slow areas (buildings / trees) that Seekers will struggle to keep up. There's a [video guide by JakeRhino](https://www.youtube.com/watch?v=kri356phudk), who is currently in the top 10 for Hide & seek.
+21. **As a Seeker, you have a choice of 2 routes through the urban area (split into pink and red on the map)**: I prefer the pink route usually, as the building corners on the red route can be hard to avoid. You may also want to skip the turn West at the North of the map and just drive North to South.
+22. **As a Hider, you probably want to just drive in a circle**: The map is complex enough with lots of slow areas (buildings / trees) that Seekers will struggle to keep up. There's a [video guide by JakeRhino](https://www.youtube.com/watch?v=kri356phudk), who is currently in the top 10 for Hide & Seek.
 23. **If it's foggy here, good luck!** Visibility can be close to zero, especially at night.
 
 ### Mulége
@@ -80,7 +80,7 @@ You will love it here. Fastest speeds, highest XP, easiest driving.
 ## Anti-boredom tips
 
 28. **You don't need to pay that much attention, especially on Mulége**: After grinding each map 10+ times, you'll likely know it pretty well. As such, I was usually watching movies on my other monitor throughout. An audiobook or podcast is also a good option, whatever you need to keep driving the same line over and over!
-29. **Mix it up for your own sanity**: Whilst I do recommend doing a high-speed 180 at each end of a run and bouncing off the barrier, other techniques like slowing and turning, or driving a large loop, are pretty similar and give you _something_ to look forward to.
+29. **Mix it up for your own sanity**: Whilst I do recommend doing a high-speed 180 at each end of a run and bouncing off the barrier, other techniques like slowing and turning, or driving a large loop, are pretty similar and give you _something_ to look forward to. Trying new routes occasionally also helps break up the monotony.
 30. **Use fun quick-chats ([Forza Link](https://forza.fandom.com/wiki/Forza_Horizon_5/Forza_LINK))**: This is a pretty solitary grind for most people, so even a tiny bit of interaction in the form of Forza Link phrases can help. Phrases with quick responses such as [Colin McRae's quote](https://x.com/GoodwoodRRC/status/1820414939732828517) "Straight roads are for fast cars" and reply "and turns are for fast drivers" are fun to find.
 31. **Convoying can be helpful**: Whilst I mostly played alone, I occasionally convoyed with other completionists. There was a higher chance of speed-cancelling collisions (since you're doing the same route), but this was compensated by longer rounds due to fewer people actually playing the objective.
 
@@ -91,8 +91,10 @@ You will love it here. Fastest speeds, highest XP, easiest driving.
 
 ## Conclusion
 
-Hide and Seek is so, so close to being a lot of fun. However, the clear imbalance, the lack of any complex game mechanics, and a clearly untested grind to Level 1000 ensure anybody who actually "completes" it is long sick of playing. Similarly, the mechanics needed refining, with anything except expert Seeker players will result in a Hider win.
+Hide and Seek is so, so close to being a lot of fun. However, the clear imbalance, the lack of any complex game mechanics, and a clearly untested grind to Level 1000 ensure anybody who actually "completes" it is long sick of playing. The mechanics need refining, with anything except expert Seeker players resulting in a Hider win.
 
-The game design itself is also deeply flawed, with "Hide" actually being pretty much impossible. Instead, it is "Run Away & Chase", which can be fun, but doesn't have much complexity. [FailRace on YouTube](https://www.youtube.com/playlist?list=PLhD-hS9TYDwZQg0xyjRBpgTEjEkCroURe) has been running a "Survive The Hunt" custom gamemode for a decade, and it has far more complexity, tension, and opportunity for exciting gameplay. It's a real shame Playground Games didn't take more inspiration from the gamemode, I'd have loved to see larger player counts and something closer to Prop Hunt.
+The game design itself is also deeply flawed, with the "Hide" [shown in the trailer](https://www.youtube.com/watch?v=Z32r8ECNNiA) actually being pretty much impossible. Instead, it is "Run Away & Chase", which can be fun, but doesn't have much complexity. [FailRace on YouTube](https://www.youtube.com/playlist?list=PLhD-hS9TYDwZQg0xyjRBpgTEjEkCroURe) has been running a "Survive The Hunt" custom gamemode for a decade, and it has far more complexity, tension, and opportunity for exciting gameplay. It's a real shame Playground Games didn't take more inspiration from the gamemode, I'd have loved to see larger player counts and something closer to Prop Hunt.
+
+I also think this game mode could actually become _fun_ past the first 30 games with a single change: Randomised map areas. Instead of a ridiculously limited 3 maps, what if a random oval (or uneven shape) was drawn over the map? I'd love to play across the mountain, or one of the off-road areas.
 
 Hopefully this guide helped a bit, or at least provided a nice distraction along the way. Regardless, I'm very, very relieved this grind is over. Whilst I've enjoyed watching plenty of movies and TV, it's nice to get back to actually playing games not just holding down an accelerator!

@@ -7,7 +7,7 @@ url: https://jakelee.co.uk
 
 # Optional native feature customisation (delete to turn off)
 table_of_contents_header: "Jump to:"
-post_end_promo: <i><b>Enjoyed this article? You'll like "<a href="https://jakeweeklee.substack.com">Jake Week Lee</a>", a newsletter of articles & online things!</b></i>
+post_end_promo: <i><b>Enjoyed this article? You'll like "<a href="https://jakeweeklee.substack.com">Jake Occasional Lee</a>", a newsletter of articles & online things!</b></i>
 google_analytics: G-N9826CF93M
 
 # Third party feature customisation (delete to turn off)
@@ -24,7 +24,12 @@ network:
       colour: "#075e78",
     }
   - { name: Theme, url: "https://minima.jakelee.co.uk", colour: "#951A00" }
-  - { name: Everything Else, url: "https://jakelee.co.uk", colour: "#acacac", current: true }
+  - {
+      name: Everything Else,
+      url: "https://jakelee.co.uk",
+      colour: "#acacac",
+      current: true,
+    }
 
 # Setting article defaults
 defaults:
@@ -104,7 +109,7 @@ kramdown:
     guess_lang: true
 
 # Webp conversion settings
-webp: 
+webp:
   enabled: true
   quality: 95
   img_dir: ["/assets/images/banners"]
