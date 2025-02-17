@@ -66,3 +66,17 @@ There's none! If you have Netflix, it's entirely free.
 - You can exit and resume a level at any time, so don't feel obligated to finish it in one sitting.
 - There are 24 achievements, with 3 requiring a 7-day streak. As such, I'd recommend playing all the daily matches for a week to complete them.
 - I have a theory that many levels have a single possible 9-letter word. As such, taking a second to see if you can spot it can often win you the game on the very first round.
+
+## #2: [Arranger]()
+
+intro
+
+### Screenshots
+
+All screenshots are from version X:
+
+### Review
+
+### Monetisation
+
+### Tips
