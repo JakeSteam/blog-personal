@@ -1,6 +1,6 @@
 ---
-title: "3 Android game recommendations: Tumblewords 🔤"
-image: /assets/images/banners/feb-25-games.png
+title: "3 Android game recommendations: Tumblewords 🔤, Mystery Digger ⛏️"
+image: /assets/images/banners/mar-25-games.png
 tags:
   - Android
   - Gaming
@@ -67,21 +67,47 @@ There's none! If you have Netflix, it's entirely free.
 - There are 24 achievements, with 3 requiring a 7-day streak. As such, I'd recommend playing all the daily matches for a week to complete them.
 - I have a theory that many levels have a single possible 9-letter word. As such, taking a second to see if you can spot it can often win you the game on the very first round.
 
-## #2: [Mystery Digger]()
+## #2: [Mystery Digger](https://play.google.com/store/apps/details?id=com.gepnitogames.mysterydigger)
 
-intro
+Another game found [a developer's posts on r/incremental_games](https://www.reddit.com/r/incremental_games/comments/1j2onb2/mystery_digger_is_now_on_android_dive_into_the/)! Mystery Digger is a relatively simple auto-digger, and a short but high quality experience.
 
 ### Screenshots
 
-All screenshots are from version X:
+All screenshots are from version 1.0.9:
+
+|                                                   Early game                                                   |                                                   Mid game                                                   |                                                   Late game                                                   |
+| :------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
+| [![Mystery Digger early game](/assets/images/2025/mar-dig-1-thumbnail.jpg)](/assets/images/2025/mar-dig-1.jpg) | [![Mystery Digger mid game](/assets/images/2025/mar-dig-2-thumbnail.jpg)](/assets/images/2025/mar-dig-2.jpg) | [![Mystery Digger late game](/assets/images/2025/mar-dig-3-thumbnail.jpg)](/assets/images/2025/mar-dig-3.jpg) |
 
 ### Review
 
+As you might have guessed from the screenshots, the gameplay is pretty consistent. Your digger... thing drives right, grinds rocks, and earns you money.
+
+Along the way you'll upgrade everything you'd expect to speed up your progress (disc size, power, spike size & count, rotation speed), whilst occasionally refuelling / repairing your digger (a simple tap). The repetitive gameplay will be broken up occasionally by fairly passive enemies, including a multi-armed alien, or mystery items (envelopes, balls, gems) hidden in the rock wall.
+
+These occasional gems are used to purchase ammo for your gun. Whilst you get basic ammo for free, sniper, shotgun, or laser ammo will destroy far more rock / deal far more damage. However, you're unlikely to be using your gun much as your digging machine is far better at getting through rock.
+
+This rock wall varies in density, with your digger slowing down if it's not upgraded enough to speed through the rock. Balancing your machine's power versus speed adds a small amount of strategy to the otherwise linear gameplay.
+
+You'll have 3 quests available at all times, completable for some bonus cash. These are fairly predictable, mostly based around distance, time, upgrades, speed, etc. They're worth doing though, since it's all progress that will need to be made eventually.
+
+Finally, a story is told via some of the items found, with a conclusion when you finally make your way to the end. Whilst it isn't a complex story, it is surprisingly mature and different from typical "dig because it's your job" or "dig to defeat evil".
+
 ### Monetisation
+
+Fairly typical "watch an advert" for a boost. This can either be doubled income for a few minutes, some gems, or multiplying the amount in a chest, however I never found these particularly worth doing. There are a few quests that require using boosts, so watching a few optional ads is useful for clearing space for new quests.
+
+The game also has a link to the developer's [buymeacoffee page](https://buymeacoffee.com/gepnitogames), where you can optionally donate (I did!).
 
 ### Tips
 
-## #2: [Ballchinko]()
+- I only used the sniper ammo, since it's very cheap and can easily drill or shoot fast moving enemies (e.g. a star).
+- Keeping the resistance entirely in the green section (by upgrading power and similar aspects) will keep you moving quickly, ultimately earning more cash per second.
+- Keep an eye out for sparkling rocks, and use sniper bullets to access the gems, chests, or story items hidden within.
+- Upgrading your maximum speed / rotation also seems to increase your _current_ speed / rotation, so it's worth doing regardless of whether you are near the maximum or not.
+- It's a very linear game, so you can't make a bad decision, don't worry!
+
+## #3: [Ballchinko]()
 
 intro
 
