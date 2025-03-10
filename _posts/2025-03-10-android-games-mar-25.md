@@ -6,7 +6,7 @@ tags:
   - Gaming
 ---
 
-intro
+Only 1 idle game this month!? Yep, luckily the other 2 are puzzle games so not too different to usual.
 
 For this post I'm trialling moving screenshots above the wall-of-text review. Seeing the game before reading me yapping about it might make a better sales pitch!
 
