@@ -1,5 +1,5 @@
 ---
-title: "3 Android game recommendations: Tumblewords 🔤, Mystery Digger ⛏️"
+title: "3 Android game recommendations: Tumblewords 🔤, Mystery Digger ⛏️, Arranger 🟧"
 image: /assets/images/banners/mar-25-games.png
 tags:
   - Android
@@ -69,7 +69,7 @@ There's none! If you have Netflix, it's entirely free.
 
 ## #2: [Mystery Digger](https://play.google.com/store/apps/details?id=com.gepnitogames.mysterydigger)
 
-Another game found [a developer's posts on r/incremental_games](https://www.reddit.com/r/incremental_games/comments/1j2onb2/mystery_digger_is_now_on_android_dive_into_the/)! Mystery Digger is a relatively simple auto-digger, and a short but high quality experience.
+Another game found via [a developer's posts on r/incremental_games](https://www.reddit.com/r/incremental_games/comments/1j2onb2/mystery_digger_is_now_on_android_dive_into_the/)! Mystery Digger is a relatively simple auto-digger, and a short but high quality experience.
 
 ### Screenshots
 
@@ -107,16 +107,36 @@ The game also has a link to the developer's [buymeacoffee page](https://buymeaco
 - Upgrading your maximum speed / rotation also seems to increase your _current_ speed / rotation, so it's worth doing regardless of whether you are near the maximum or not.
 - It's a very linear game, so you can't make a bad decision, don't worry!
 
-## #3: [Ballchinko]()
+## #3: [Arranger](https://play.google.com/store/apps/details?id=com.netflix.NGP.Arranger)
 
-intro
+Yet another solid game from Netflix, one that outsmarts me!
 
 ### Screenshots
 
-All screenshots are from version X:
+All screenshots are from version 1.1.14:
+
+|                                                     Dungeon                                                     |                                                     Overworld                                                     |                                                     Comics                                                     |
+| :-------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
+| [![Arranger dungeon](/assets/images/2025/mar-arranger-1-thumbnail.jpg)](/assets/images/2025/mar-arranger-1.jpg) | [![Arranger overworld](/assets/images/2025/mar-arranger-2-thumbnail.jpg)](/assets/images/2025/mar-arranger-2.jpg) | [![Arranger comics](/assets/images/2025/mar-arranger-3-thumbnail.jpg)](/assets/images/2025/mar-arranger-3.jpg) |
 
 ### Review
 
+Arranger is a game about swiping tiles. For example, swiping up moves your current "strip" of tiles up, with the current top tiles appearing at the bottom. This simple gameplay mechanic is used to transport items around, move objects to destroy other objects, and various other puzzle-y problems.
+
+These puzzles are all in one world, with various areas to enter, and the only objective being to continue on and find the next bit of the story. I'll admit I'm not very good at it, with _some_ of my solutions coming from semi-blindly swiping until things start looking the way I want them to!
+
+There's additional story through dialogue and comic-esque cutscenes, but it's usually pretty clear where you're trying to go, and there's no strategy or complexity besides solving the puzzle in front of you.
+
+Gameplay is very relaxed, with as much time as you want to move, and no ability to "fail" an area. You're just slowly working towards a solution, taking as long as you need. Whilst this is good, as I hate timers, it does mean there's little incentive to progress besides the somewhat arbitrary story.
+
+I found navigating around to be slightly painful. Each navigation requires a swipe, with a longer movement requiring a swipe and hold. This sounds fine, but due to the rotating nature of each vertical or horizontal "strip", you'll need to change direction frequently to actually get anywhere. You'll also likely need to shuffle around various items on the way, with a fairly complex chain of swipes required for any meaningful progress.
+
+Overall it's clearly a good game, and one that has far more depth to discover, yet I keep bouncing off it after a few minutes. I've also experienced minor progress losses, with the game not necessarily saving your exact progress, but instead restarting you to the beginning of the current room.
+
 ### Monetisation
 
+None, it's a Netflix game!
+
 ### Tips
+
+Honestly I don't think I'm good enough at the game to offer any tips! All I'll say is it is safe to experiment and shuffle tiles around a bit, which can help reveal some useful progress.
