@@ -66,11 +66,13 @@ As with many incremental games, it's impossible to "fail" at any point. Instead,
 
 Progress is fairly quick initially, but slows down around the planet "Petra". Unfortunately there's little active gameplay here, with the only viable approach leaving the game open for a couple of days to collect enough "fossils".
 
-Active gameplay is possible, but after a few weapon upgrades slowly swiping left to right will provide identical results to anything more challenging, and is only slightly better than letting your passive weapons work.
+Active gameplay is possible, but after a few weapon upgrades slowly swiping left to right will provide almost identical results to anything more challenging, and is only slightly better than letting your passive weapons work. There is a "wormhole" feature that provides bonuses, but again it's not much better than passive income (or swiping without looking).
 
 There are a few extra bits that are worth calling out. You'll have daily quests (just defeat X, play for X seconds, kill X extra large monsters) providing star coins or temporary boosts, and a standard daily item bonus. This is likely where my first pet will come from, with "Panda" unlocked after Day 15. There's also a "boost" feature which provides a slight increase in enemy rate for a very brief period.
 
-Overall there's a satisfying gameplay loop, but the gameplay can feel a little thin after a couple of planets. Whilst I'm only on the Dune-themed planet 4 (of 6), and there seems to be a prestige mechanic later on, I suspect I won't make it that far. However, it's a pretty fun first few hours, and worth a go!
+Overall there's a satisfying gameplay loop, but the gameplay can feel a little thin after a couple of planets. Honestly I was pretty bored with the game around Planet 4, however the prestige mechanic on the final planet added some depth. I'm a little concerned that the prestiged playthrough is... almost identical to the first playthrough. I'll probably complete another playthrough or two, since the prestige bonuses look interesting.
+
+Definitely worth a look, to at least check if the core gameplay loop is something you enjoy.
 
 ### Monetisation
 
