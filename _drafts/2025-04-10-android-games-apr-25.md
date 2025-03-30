@@ -1,16 +1,18 @@
 ---
-title: "3 Android game recommendations: Ore Buster 🪨, Idle Space Force 🚀"
+title: "3 Android game recommendations: Ore Buster 🪨, Idle Space Force 🚀, Lucky Luna 🦊"
 image: /assets/images/banners/apr-25-games.png
 tags:
   - Android
   - Gaming
 ---
 
-intro
+This month's Android game recommendations are two idle games and a platformer! None are very long, all are worth playing.
 
 ## #1: [Ore Buster](https://play.google.com/store/apps/details?id=com.tornupgaming.orebuster)
 
 I spotted this short but sweet incremental in the ever-reliable [r/incremental_games "What games are you playing" thread](https://www.reddit.com/r/incremental_games/comments/1j7r4qf/what_games_are_you_playing_this_week_game/mh2hv0j/). It only took a couple of hours to complete, so it's worth your time!
+
+Whilst it is simple, the powerful unlocks are delivered rapidly, and avoid the gameplay ever becoming stale. Tap the rocks, upgrade your stuff. Repeat.
 
 ### Screenshots
 
@@ -74,6 +76,8 @@ Overall there's a satisfying gameplay loop, but the gameplay can feel a little t
 
 Definitely worth a look, to at least check if the core gameplay loop is something you enjoy.
 
+Update: Despite my lukewarm review, I'm still playing! I've done 4-5 playthroughs now, and whilst the gameplay hasn't changed or evolved, I should mention that as you prestige you'll unlock new planets. So far I've unlocked two boss fights with pets as rewards, and I'm probably going to keep playing.
+
 ### Monetisation
 
 There are a few monetisation methods, luckily all of them are optional (and none feel too overpowered).
@@ -84,8 +88,55 @@ These star coins can be earned slowly through normal gameplay (this is good!), a
 
 Whilst I do appreciate how the monetisation is entirely optional, I'm not a fan of the loot chests that can be purchased, and the premium currency is fairly expensive. For context, I'm a few days in and have around 90 star coins (100 is £2 (~$3)), so will shortly be able to buy a chest (5-20% chance at a pet), a purely cosmetic theme, or a temporary boost.
 
+A few days later, I've earned around 500. I've spent 200 on chests (a waste!), and am now saving them for pet bundles.
+
 ### Tips
 
 - Generators have 2x purchases unlocked at 25/50/75/100, so it's worth getting to those milestones if possible.
 - Each new generator is usually far more valuable than the one before, make sure to focus them.
 - Progress is pretty linear, so not many tips are needed!
+- When the horde mode power-up is activated, it's worth the extra effort to play actively, engaging boost etc.
+
+---
+
+## #3: [Lucky Luna](https://play.google.com/store/apps/details?id=com.netflix.NGP.LuckyLuna&hl=en_GB)
+
+Another free Netflix game, Lucky Luna feels distinctly different from most games I review. It's clearly a premium, polished platformer, and I'm surprised it hasn't received more attention along with Monument Valley etc.
+
+### Screenshots
+
+There's an official trailer! [https://www.youtube.com/watch?v=2Jhfofq-ehw](https://www.youtube.com/watch?v=2Jhfofq-ehw)
+
+All screenshots are from version 1.0.34:
+
+|                                                  Level select                                                  |                                                  Water level                                                  |                                                  Bee hive level                                                  |
+| :------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
+| [![Lucky Luna level select](/assets/images/2025/apr-luna-1-thumbnail.jpg)](/assets/images/2025/apr-luna-1.jpg) | [![Lucky Luna water level](/assets/images/2025/apr-luna-2-thumbnail.jpg)](/assets/images/2025/apr-luna-2.jpg) | [![Lucky Luna bee hive level](/assets/images/2025/apr-luna-3-thumbnail.jpg)](/assets/images/2025/apr-luna-3.jpg) |
+
+### Review
+
+It's unusual a game is controlled almost entirely through swiping left and right, no jumping, and this is especially true for a platformer!
+
+The clearly well-designed levels instead guide you through them, with horizontal and downwards motion being the main ways of navigating. Each level is, sonic-style, a linear but branching route, with plenty of hidden extras behind secret walls or tricky jumps. Somewhat startlingly, according to Wikipedia Lucky Luna was [in development for 8 years(!)](https://en.wikipedia.org/wiki/Lucky_Luna#Development), making my primary criticism even stranger: there's only 6 levels in this platformer.
+
+Each of these levels are dense, and have bonus areas, challenges, and reward multiple playthroughs, but there's still only 6. The problem is exacerbated by the fact that you can't _really_ fail. You can fail a bonus are, and immediately try again, but in the main levels you'll just respawn a little way back to have another go. This does combine well with the one-hit-kill mechanics, however it unfortunately makes some areas essentially trial and error to complete.
+
+Finishing a level gives you a score across 3 metrics (pearls earned, deaths, time), with a medal awarded for each. Assuming you've explored each level at a medium pace, it's pretty normal to receive none / bronze medal for all 3! This is especially true with deaths, where you're going to die a lot just figuring out how things work. I can see how replaying a level for fast completion may be of interest to speedrunners, but for me completed is completed.
+
+The game features essentially no text, instead relying on the control scheme being intuitive enough. This is mostly true, however the lack of information gives the game a slightly surreal feel, where I have no idea who I am, where I am, or why I'm doing anything. The [Wikipedia article](https://en.wikipedia.org/wiki/Lucky_Luna) adds story information that would have been helpful to know!
+
+> The game's setting was inspired by The Tale of the Bamboo Cutter, a tale from Japanese folklore about a princess from the Moon who grows up on Earth, who sets her six suitors impossible tasks before ascending to her throne on the Moon.
+
+Overall the game is satisfying to play, but the one-hit-kills combined with meandering gameplay make it hard to love. I've struggled to pick it up for more than a few minutes, with the abysmal end of level scores not being a great motivator! If I knew there was some sort of point to the progression it might be more engaging.
+
+There's a highly praised endless mode that I haven't tried, having only completed 4 of the 6 levels despite having it installed for weeks (mostly due to hesitance to play, not difficulty!).
+
+### Monetisation
+
+Netflix game, so entirely free if you have a subscription.
+
+### Tips
+
+- Make sure you trigger every checkpoint you pass, so you can respawn on them.
+- Bonus areas are hidden pretty well, try nudging any suspicious looking walls.
+- You can adjust the swipe speed in settings if it feels "off".
