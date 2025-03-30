@@ -6,7 +6,7 @@ tags:
   - Gaming
 ---
 
-This month's Android game recommendations are two idle games and a platformer! None are very long, all are worth playing.
+This batch of Android game recommendations has two idle games and a platformer! None are very long, all are worth playing.
 
 ## #1: [Ore Buster](https://play.google.com/store/apps/details?id=com.tornupgaming.orebuster)
 
