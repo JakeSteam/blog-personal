@@ -126,19 +126,38 @@ Now, back to the web for a few final pieces.
 
 ## Finishing up (web)
 
-- Back to PC, automatically updated (image 7)
-  - Enter address, date moved
-  - Experian credit check (image 8)
-  - All done (image 9)
-- Services available: https://www.gov.uk/using-your-gov-uk-one-login/services
-- Finished account (image 10)
+I'd left the previous tab open whilst performing the app steps, and it had automatically changed to a success message!
+
+[![](/assets/images/2025/govuk-successfullyverified.png)](/assets/images/2025/govuk-successfullyverified.png)
+
+### Final checks
+
+Next up, a soft Experian credit check (image below)! This was pretty unexpected, but it makes sense due to the likely highly accurate and comprehensive data credit agencies hold (plus their awareness of fraud markers etc). To quote the information box, again with useful rationale:
+
+> We'll check your details with Experian. This is because companies like Experian have access to information about interactions you've previously had with other organisations.
+
+If you think about it too hard it's a little scary that a company you might never have interacted with likely holds more information on you than the government, so don't think too hard!
+
+First my current address was needed, along with the date moved. This is fairly common when performing a credit lookup, so I suspect it's to ensure the correct person is being looked up. The results weren't shown to me, just a loading screen then a successful verification message (image below).
+
+I was given a new personal code (in the format `ABC-D123-4567`), which goes alongside the [company code](https://www.gov.uk/guidance/company-authentication-codes-for-online-filing) for future filings. This is a little confusing, but it's understandable that verifying I'm me, and verifying I can act on the company's behalf are different codes. It's also good to see this code is fairly long, unlike the previous 5 digit company authentication codes.
+
+Finally, I made my way to the list of services in One Login, and yep, there's Companies House. Hopefully there'll be lots more services (all?) in the future, although some are under different email addresses so that'll be fun!
+
+|                                         Experian credit check                                         |                                                  Verification complete                                                  |                                           One Login services                                            |
+| :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
+| [![](/assets/images/2025/govuk-creditcheck-thumbnail.png)](/assets/images/2025/govuk-creditcheck.png) | [![](/assets/images/2025/govuk-verificationcomplete-thumbnail.png)](/assets/images/2025/govuk-verificationcomplete.png) | [![](/assets/images/2025/govuk-yourservices-thumbnail.png)](/assets/images/2025/govuk-yourservices.png) |
+
+We're done! There's a bit of further analysis, but my identity is fully verified.
 
 ## Engineering notes
 
-## Other notes
+- Handover very smooth
+- Each route feels "correct", despite undoubtedly branching
 
+## Design notes
+
+- Very clear, only one thing being asked at a time
 - Tone of voice is confident, reassuring
 
 ## Conclusion
-
-[![](/assets/images/2024/example_thumbnail.png)](/assets/images/2024/example.png)
