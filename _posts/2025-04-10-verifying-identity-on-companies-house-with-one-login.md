@@ -32,7 +32,7 @@ As a nice surprise, 2FA appeared to be _required_ to create the account. Since t
 
 As a fun quirk, the new "GOV.UK One Login" shows a "Capital One" icon in Authy (presumably due to the name), not quite right!
 
-[![](/assets/images/2025/govuk-createaccount.png)](/assets/images/2025/govuk-createaccount.png)
+[![GOV.UK One Login create account prompt](/assets/images/2025/govuk-createaccount.png)](/assets/images/2025/govuk-createaccount.png)
 
 ### Email mismatch
 
@@ -40,7 +40,7 @@ I was then prompted for the password to my Companies House account, but that use
 
 Whilst this does seem a bad experience, it was entirely my own fault! The previous page warned me, in bold, and I apparently skim read it and ignored the instructions entirely. Proof you can't completely idiot-proof anything, huh?
 
-[![](/assets/images/2025/govuk-sameemail.png)](/assets/images/2025/govuk-sameemail.png)
+[![GOV.UK One Login using same email](/assets/images/2025/govuk-sameemail.png)](/assets/images/2025/govuk-sameemail.png)
 
 Anyway, once the Companies House password for the email used for the new account is entered, we're on to the next step.
 
@@ -54,7 +54,7 @@ On the surface "Has your identity been verified for Companies House?" seems easy
 
 Since I'm connecting 2 Government service (One Login & Companies House) they know the answer better than me, so this isn't ideal. I worked on the assumption that by "verified" it means this brand-new system, so selected "No", presumably correctly.
 
-[![](/assets/images/2025/govuk-haveverified.png)](/assets/images/2025/govuk-haveverified.png)
+[![GOV.UK One Login have verified question](/assets/images/2025/govuk-haveverified.png)](/assets/images/2025/govuk-haveverified.png)
 
 ### Preparing to verify
 
@@ -62,7 +62,7 @@ Now that I've confirmed I haven't verified before, it's unsurprisingly time to v
 
 I intended to use the app, although I'm very curious what questions would be asked to verify my identity that would be anywhere near as secure as scanning my passport's NFC and my face.
 
-[![](/assets/images/2025/govuk-verifyinfo-thumbnail.png)](/assets/images/2025/govuk-verifyinfo.png)
+[![GOV.UK One Login verify info](/assets/images/2025/govuk-verifyinfo-thumbnail.png)](/assets/images/2025/govuk-verifyinfo.png)
 
 I'm now taken to a rapid-fire series of eligibility questions, to check the app is suitable for me. My scenario is very simple (UK resident, up-to-date documents, etc) so I suspect this is mostly the "happy path" through (besides needing to handover to my phone). Anyway, the questions were:
 
@@ -75,9 +75,9 @@ I'm now taken to a rapid-fire series of eligibility questions, to check the app 
 
 And with that, I'm recommended to install the app to verify further:
 
-|                                       On computer?                                        |                                   Use the app!                                    |
-| :---------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
-| [![](/assets/images/2025/govuk-oncomputer.png)](/assets/images/2025/govuk-oncomputer.png) | [![](/assets/images/2025/govuk-useapp.png)](/assets/images/2025/govuk-useapp.png) |
+|                                                          On computer?                                                          |                                                      Use the app!                                                       |
+| :----------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
+| [![GOV.UK One Login on computer question](/assets/images/2025/govuk-oncomputer.png)](/assets/images/2025/govuk-oncomputer.png) | [![GOV.UK One Login prompt to use the app](/assets/images/2025/govuk-useapp.png)](/assets/images/2025/govuk-useapp.png) |
 
 ### Installing app
 
@@ -89,9 +89,9 @@ So, into the app we go!
 
 Here's a preview of the next few steps:
 
-|                                             Analytics prompt                                              |                                              App linking                                              |                                                   Passport reading                                                    |                                                  Review prompt                                                  |
-| :-------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: |
-| [![](/assets/images/2025/govuk-app-analytics-thumbnail.jpg)](/assets/images/2025/govuk-app-analytics.jpg) | [![](/assets/images/2025/govuk-app-linking-thumbnail.jpg)](/assets/images/2025/govuk-app-linking.jpg) | [![](/assets/images/2025/govuk-app-passportreading-thumbnail.jpg)](/assets/images/2025/govuk-app-passportreading.jpg) | [![](/assets/images/2025/govuk-app-reviewprompt-thumbnail.jpg)](/assets/images/2025/govuk-app-reviewprompt.jpg) |
+|                                                              Analytics prompt                                                              |                                                            App linking                                                            |                                                                    Passport reading                                                                     |                                                                 Review prompt                                                                 |
+| :----------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: |
+| [![GOV.UK One Login analytics prompt](/assets/images/2025/govuk-app-analytics-thumbnail.jpg)](/assets/images/2025/govuk-app-analytics.jpg) | [![GOV.UK One Login app linking](/assets/images/2025/govuk-app-linking-thumbnail.jpg)](/assets/images/2025/govuk-app-linking.jpg) | [![GOV.UK One Login passport scanning](/assets/images/2025/govuk-app-passportreading-thumbnail.jpg)](/assets/images/2025/govuk-app-passportreading.jpg) | [![GOV.UK One Login review prompt](/assets/images/2025/govuk-app-reviewprompt-thumbnail.jpg)](/assets/images/2025/govuk-app-reviewprompt.jpg) |
 
 ### Preparing app
 
@@ -130,7 +130,7 @@ Now, back to the web for a few final pieces.
 
 I'd left the previous tab open whilst performing the app steps, and it had automatically changed to a success message!
 
-[![](/assets/images/2025/govuk-successfullyverified.png)](/assets/images/2025/govuk-successfullyverified.png)
+[![GOV.UK One Login successfully verified](/assets/images/2025/govuk-successfullyverified.png)](/assets/images/2025/govuk-successfullyverified.png)
 
 ### Final checks
 
@@ -146,9 +146,9 @@ I was given a new personal code (in the format `ABC-D123-4567`), which goes alon
 
 Finally, I made my way to the list of services in One Login, and yep, there's Companies House. Hopefully there'll be lots more services (all?) in the future, although some are under different email addresses so that'll be fun!
 
-|                                         Experian credit check                                         |                                                  Verification complete                                                  |                                           One Login services                                            |
-| :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
-| [![](/assets/images/2025/govuk-creditcheck-thumbnail.png)](/assets/images/2025/govuk-creditcheck.png) | [![](/assets/images/2025/govuk-verificationcomplete-thumbnail.png)](/assets/images/2025/govuk-verificationcomplete.png) | [![](/assets/images/2025/govuk-yourservices-thumbnail.png)](/assets/images/2025/govuk-yourservices.png) |
+|                                                           Experian credit check                                                            |                                                                     Verification complete                                                                     |                                                            One Login services                                                            |
+| :----------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
+| [![GOV.UK One Login credit check warning](/assets/images/2025/govuk-creditcheck-thumbnail.png)](/assets/images/2025/govuk-creditcheck.png) | [![GOV.UK One Login verification complete](/assets/images/2025/govuk-verificationcomplete-thumbnail.png)](/assets/images/2025/govuk-verificationcomplete.png) | [![GOV.UK One Login list of services](/assets/images/2025/govuk-yourservices-thumbnail.png)](/assets/images/2025/govuk-yourservices.png) |
 
 We're done! There's a bit of further commentary below, but my identity is fully verified.
 
