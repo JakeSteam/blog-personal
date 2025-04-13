@@ -10,6 +10,19 @@ I'm inventing a new term, right now: "shitshow comedy". It's my favourite form o
 
 This post took far too long to write, since I kept getting distracted by, you guessed it, the "irresistible allure" of the very content I was trying to document! I've spent tens if not hundreds of hours listening to / watching everyone listed here, most of it multiple times.
 
+<style>
+  table {
+    width: 100%;
+    table-layout: fixed;
+  }
+  
+  table th, table td {
+    width: 50%;
+    word-wrap: break-word;
+    vertical-align: top;
+  }
+</style>
+
 ## What is "shitshow comedy"?
 
 Shitshow comedy is comedy that isn't scripted, isn't predictable, isn't primarily driven by financial gain, and is a non-stop inexplicable car crash throughout. It's not "absurdist", "random", "fringe", or "zoomer humour", but the shitshow has elements from all of them. It can be unintentional or intentional.
