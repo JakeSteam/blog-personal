@@ -1,5 +1,5 @@
 ---
-title: "3 more great Android games: 🏞️ Pondlife, 🪱 I got worms"
+title: "3 more great Android games: 🏞️ Pondlife, 🪱 I got Worms"
 image: /assets/images/banners/apr-25-games-2.png
 tags:
   - Android
@@ -52,7 +52,40 @@ Luckily these aren't too aggressive, or mandatory. I purchased one of the cheape
 
 - Aquacash should probably only be used to upgrade your feeding station, since that can't be upgraded any other way and provides constant benefits.
 - Following quests is a good way to get extra XP and unlock new areas, so keep an eye on them.
-- Make sure your pond is always full, so you're not wasting capacity.
+- You can feed animals just by putting food roughly nearby, so don't worry too much about placing the food directly on then.
+- Make sure your pond is always full, and fully grown creatures are released quickly, so you're not wasting capacity.
 - Merging decorations to make the rarer ones more powerful is useful, letting you quickly collect large amounts of bubbles.
 - Getting a creature to the next "level" typically rewards well, so it's worth picking creatures carefully.
 - Having a balance of animals that eat expensive (e.g. Cleaner Fish, ~100 bubbles) and cheap (e.g. Glitter Fish, ~10 bubbles) food is essential, or you'll run out of bubbles and be unable to feed them!
+
+---
+
+## #1: [I got Worms](https://play.google.com/store/apps/details?id=com.vdh.worms)
+
+I found this simple Snake-based incremental [via r/incremental_games](https://www.reddit.com/r/incremental_games/comments/1k0smgx/i_have_worms_is_a_pretty_fun_game/), and given it was last updated 8 years ago I'm surprised it still runs OK!
+
+### Screenshots
+
+All screenshots are from version 1.015:
+
+|                                                   Gameplay                                                    |                                                   Manual control                                                    |                                                   Upgrades                                                    |
+| :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
+| [![I got Worms gameplay](/assets/images/2025/apr-worms-1-thumbnail.jpg)](/assets/images/2025/apr-worms-1.jpg) | [![I got Worms manual control](/assets/images/2025/apr-worms-2-thumbnail.jpg)](/assets/images/2025/apr-worms-2.jpg) | [![I got Worms upgrades](/assets/images/2025/apr-worms-3-thumbnail.jpg)](/assets/images/2025/apr-worms-3.jpg) |
+
+### Review
+
+You know Snake, the game where your snake eats items and gets bigger until you run out of space? Well, this incremental game is entirely based on that!
+
+You'll unlock automation early on, and realistically won't be playing Snake at all after the first few minutes, but it's a nice simple framing for a "numbers go up" game. Each Snake board earns you passive income, and you can purchase upgrades to each board.
+
+Progression is very straightforward and slow, with little incentive to actually open the game for more than a few seconds every couple of hours. When you do, you'll have a couple of upgrades to pick from, then you're done again. Eventually there's a prestige mechanic, but it's a slow grind there, and it just increases the numbers.
+
+After a few days of checking in every couple of hours I have ~200 of the 1,567 upgrades, although presumably these will slow down massively later on. I'll probably keep going until I hit some sort of wall, since there's doesn't seem to be any limit to offline gains!
+
+### Monetisation
+
+None!
+
+### Tips
+
+None! Your snakes control themselves, I prefer buying the upgrades from cheapest to more expensive, but that's personal preference.
