@@ -1,5 +1,5 @@
 ---
-title: "3 more great Android games: 🏞️ Pondlife, 👾 Thronglets, 🪱 I got Worms"
+title: "3 fun creature-y Android games: 🏞️ Pondlife, 👾 Thronglets, 🪱 I got Worms"
 image: /assets/images/banners/apr-25-games-2.png
 tags:
   - Android
