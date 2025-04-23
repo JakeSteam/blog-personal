@@ -6,11 +6,11 @@ tags:
   - Gaming
 ---
 
-intro.
+Despite very different play styles and aesthetics, all 3 games in this post are incremental-y! They also all involve indirectly influencing communities of creatures, a bizarre coincidence...
 
 ## #1: [Pondlife](https://play.google.com/store/apps/details?id=com.runawayplay.fishgame)
 
-This is not a challenging game. It's not even a particularly engaging game. However, it is a lovely way to spend a relaxing minute or two every half hour or so, and sometimes that's all you want!
+This is not a challenging game. It's not even a particularly engaging or complex game. However, it is a lovely way to spend a relaxing minute or two every half hour or so by looking at swimming fish, and sometimes that's all you want!
 
 ### Screenshots
 
@@ -32,7 +32,7 @@ Progression comes in the form of XP and levels, with new levels unlocking new ar
 
 On this topic, the game does a good job of letting you choose your own play style. If you intend to play actively, then selecting fast maturing plants and fast-growing fish will reward more engagement. If however you're more like me and only want to interact with your pond occasionally, slower growing but higher yield choices will make more sense.
 
-Something I really appreciated about Pondlife is no incentive for keeping the game open. For example, if you carefully plan your pond so everything takes about half hour, there's no benefit whatsoever to keeping the app open all that time. Instead, you can close it, come back at the right time, and everything will be ready for you! There's also no prestige mechanic, or income multipliers, just slowly making your pond better. It's worth mentioning the app does however require an internet connection to play.
+Something I really appreciated about Pondlife is there's no incentive for keeping the game open. For example, if you carefully plan your pond so everything takes about half hour, there's no benefit whatsoever to keeping the app open all that time. Instead, you can close it, come back at the right time, and everything will be ready for you! There's also no prestige mechanic, or income multipliers, just slowly making your pond better. It's worth mentioning the app does however require an internet connection to play.
 
 Whilst it is ultimately a fairly simple game, there are a few extras that make it engaging. For example, there's a quest system providing objectives ranging from releasing enough of a certain fish to nudging different fish into each other (via slowly dragging your finger to guide them). These quests help provide a hint on the next thing to do, but are fairly optional with helpful but not essential rewards.
 
@@ -40,7 +40,7 @@ Releasing enough of a specific creature will unlock the next creature in the cat
 
 Similarly, there's some really nice touches by the developers, showing there's some extra effort put in. If you have multiple of the same fish, they will form groups and swim together, whilst frogs will sometimes hop up on the logs poking out of your pond. These effects are entirely aesthetic, but add more life to the pond.
 
-Finally, there also seems to be regularly seasonal events. My time with the game overlapped with a 2 week "Treasure Fish" event, essentially a whole new category of fish with their own food that grow in your pond. Nurturing and releasing enough of these fish provide "main game" rewards, and I actually engaged with the event more than the main game due to the pretty fish!
+Finally, there also seems to be regular seasonal events. My time with the game overlapped with a 2 week "Treasure Fish" event, essentially a whole new category of fish with their own food that grow in your pond. Nurturing and releasing enough of these fish provide main game rewards, and I actually engaged with the event more than the main game due to the pretty fish!
 
 ### Monetisation
 
@@ -62,7 +62,7 @@ Luckily these aren't too aggressive, or mandatory. I purchased one of the cheape
 
 ## #2: [Thronglets](https://play.google.com/store/apps/details?id=com.netflix.NGP.Venice)
 
-Thronglets is closely based on the episode "[Plaything](<https://en.wikipedia.org/wiki/Plaything_(Black_Mirror)>)" from the latest Black Mirror episode, and I'd highly recommend watching that first to avoid spoilers!
+Thronglets is closely based on the episode "[Plaything](<https://en.wikipedia.org/wiki/Plaything_(Black_Mirror)>)" from the latest Black Mirror series, and I'd highly recommend watching that first to avoid spoilers! It is also related indirectly to "[Bandersnatch](https://en.wikipedia.org/wiki/Black_Mirror:_Bandersnatch)", the playable Netflix show from 2018.
 
 ### Screenshots
 
