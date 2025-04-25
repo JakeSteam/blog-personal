@@ -11,7 +11,7 @@ Badges are a post-release addition to Forza Horizon 5 starting in April 2022 tha
 
 ## Badges
 
-There are a total of 69 badges to earn, taking a total of around 200-250 hours:
+There are a total of 81 badges to earn, taking a total of around 200-250 hours:
 
 - 11 Level based badges
 - 3 Completion based badges
@@ -20,6 +20,7 @@ There are a total of 69 badges to earn, taking a total of around 200-250 hours:
 - 4 Car collection based badges
 - 5 Test track badges
 - 17 Hide & Seek badges
+- 12 Horizon Realms badges
 
 Here's how to earn them all!
 
@@ -112,16 +113,27 @@ As painful as that seems, the "Tinker, Tailor, Car Tuner" badge is far worse! It
 Released in September 2024, these are all pretty straight-forward, with the level 1000 badge taking the longest by far! You'll gain 2ish levels per game (depending on how well you do) so at 7 mins per game (including wait time) you're looking at 75 hours of hide & seek. Enjoy!
 
 |                                                                                                             |                                                                                                               |                                                                                                                                    |
-| :---------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
-|   ![](/assets/images/2024/badges-hs-10.png)<br>**Just Getting Started**<br>Reach level 10 at Hide & Seek    |  ![](/assets/images/2024/badges-hs-100.png)<br>**Getting The Hang Of It**<br>Reach level 100 at Hide & Seek   |               ![](/assets/images/2024/badges-hs-200.png)<br>**Hide & Seek Rookie**<br>Reach level 200 at Hide & Seek               |
-|   ![](/assets/images/2024/badges-hs-300.png)<br>**Hide & Seek Amateur**<br>Reach level 300 at Hide & Seek   |  ![](/assets/images/2024/badges-hs-400.png)<br>**Hide & Seek Enthusiast**<br>Reach level 400 at Hide & Seek   |               ![](/assets/images/2024/badges-hs-500.png)<br>**Hide & Seek Expert**<br>Reach level 500 at Hide & Seek               |
-|     ![](/assets/images/2024/badges-hs-600.png)<br>**Hide & Seek Pro**<br>Reach level 600 at Hide & Seek     |     ![](/assets/images/2024/badges-hs-700.png)<br>**Hide & Seek Elite**<br>Reach level 700 at Hide & Seek     |             ![](/assets/images/2024/badges-hs-800.png)<br>**Hide & Seek Specialist**<br>Reach level 800 at Hide & Seek             |
-|   ![](/assets/images/2024/badges-hs-900.png)<br>**Hide & Seek Master**<br>Reach level 900 at Hide & Seek    |  ![](/assets/images/2024/badges-hs-1000.png)<br>**Hide & Seek Champion**<br>Reach level 1000 at Hide & Seek   |              ![](/assets/images/2024/badges-hs-50streak.png)<br>**No Stopping Me**<br>Reach a Highest Streak of 50`*`              |
+| :---------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------- |
+| ![](/assets/images/2024/badges-hs-10.png)<br>**Just Getting Started**<br>Reach level 10 at Hide & Seek      | ![](/assets/images/2024/badges-hs-100.png)<br>**Getting The Hang Of It**<br>Reach level 100 at Hide & Seek    | ![](/assets/images/2024/badges-hs-200.png)<br>**Hide & Seek Rookie**<br>Reach level 200 at Hide & Seek                             |
+| ![](/assets/images/2024/badges-hs-300.png)<br>**Hide & Seek Amateur**<br>Reach level 300 at Hide & Seek     | ![](/assets/images/2024/badges-hs-400.png)<br>**Hide & Seek Enthusiast**<br>Reach level 400 at Hide & Seek    | ![](/assets/images/2024/badges-hs-500.png)<br>**Hide & Seek Expert**<br>Reach level 500 at Hide & Seek                             |
+| ![](/assets/images/2024/badges-hs-600.png)<br>**Hide & Seek Pro**<br>Reach level 600 at Hide & Seek         | ![](/assets/images/2024/badges-hs-700.png)<br>**Hide & Seek Elite**<br>Reach level 700 at Hide & Seek         | ![](/assets/images/2024/badges-hs-800.png)<br>**Hide & Seek Specialist**<br>Reach level 800 at Hide & Seek                         |
+| ![](/assets/images/2024/badges-hs-900.png)<br>**Hide & Seek Master**<br>Reach level 900 at Hide & Seek      | ![](/assets/images/2024/badges-hs-1000.png)<br>**Hide & Seek Champion**<br>Reach level 1000 at Hide & Seek    | ![](/assets/images/2024/badges-hs-50streak.png)<br>**No Stopping Me**<br>Reach a Highest Streak of 50`*`                           |
 | ![](/assets/images/2024/badges-hs-100streak.png)<br>**Never Back Down**<br>Reach a Highest Streak of 100`*` | ![](/assets/images/2024/badges-hs-detection.png)<br>**Undetected**<br>Win a game with 0% detection as a hider | ![](/assets/images/2024/badges-hs-100chasebreaker.png)<br>**Sting In The Tail**<br>Hit a total of 100 cars with a Chase Breaker`^` |
-| ![](/assets/images/2024/badges-hs-1000miles.png)<br>**World Traveller**<br>Drive 1000 miles in Hide & seek  |      ![](/assets/images/2024/badges-hs-100pings.png)<br>**Ding Ding Ding**<br>Make 100 successful Pings       |                                                                                                                                    |
+| ![](/assets/images/2024/badges-hs-1000miles.png)<br>**World Traveller**<br>Drive 1000 miles in Hide & seek  | ![](/assets/images/2024/badges-hs-100pings.png)<br>**Ding Ding Ding**<br>Make 100 successful Pings            |                                                                                                                                    |
 
 - `*`: Streaks are just games played without quitting out ([Playground Games confirmation](https://www.reddit.com/r/ForzaHorizon/comments/1fdn6is/hide_n_seek_is_fun_personal_thoughts/lmkvuh0/?context=3)). Network disconnects don't break the streak.
 - `^`: This badge says "as a seeker", but Chase Breakers are only available as a hider.
+
+### Horizon Realms badges
+
+Released in April 2025, each of the 12 Horizon Realms has a badge unlocked just for setting a score. As such, each takes exactly 5 minutes.
+
+|                                                                                                                                        |                                                                                                                           |                                                                                                                               |
+| :------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------- |
+| ![](/assets/images/2024/badges-stuntpark.png)<br>**Old Dog, New Tricks**<br>Complete Skill Mode in the Stunt Park                      | ![](/assets/images/2024/badges-icerink.png)<br>**Skating to Victory**<br>Complete Skill Mode in the Ice Rink              | ![](/assets/images/2024/badges-ovaltrack.png)<br>**Round and Around**<br>Complete Skill Mode in the Oval Track                |
+| ![](/assets/images/2024/badges-summerparty.png)<br>**Beach Ballin'**<br>Complete Skill Mode at the Summer Party                        | ![](/assets/images/2024/badges-diademuertos.png)<br>**Marigold Sights**<br>Complete Skill Mode at Día de Muertos          | ![](/assets/images/2024/badges-winterwonderland.png)<br>**Winter Whiz**<br>Complete Skill Mode in the Winter Wonderland       |
+| ![](/assets/images/2024/badges-lunardriftarena.png)<br>**It's Kind Of Like A Dragon?**<br>Complete Skill Mode in the Lunar Drift Arena | ![](/assets/images/2024/badges-neonairstrip.png)<br>**Brighter and Brighter**<br>Complete Skill Mode at the Neon Airstrip | ![](/assets/images/2024/badges-retrowavehighway.png)<br>**Jammin' Throwback**<br>Complete Skill Mode in the Retrowave Highway |
+| ![](/assets/images/2024/badges-carsandcoffee.png)<br>**How Do You Like Your Coffee?**<br>Complete Skill Mode in the Cars & Coffee Shop | ![](/assets/images/2024/badges-stadiummaze.png)<br>**Lost and Found**<br>Complete Skill Mode in the Stadium Maze          | ![](/assets/images/2024/badges-stadiumtrack.png)<br>**Right on Track**<br>Complete Skill Mode in the Stadium Track            |
 
 ## Online racing
 
