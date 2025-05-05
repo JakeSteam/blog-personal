@@ -1,5 +1,5 @@
 ---
-title: "3 Android games: 🤑 Forest Fables"
+title: "3 Android games: 💸 Forest Fables, 💡 Dig-Dig Rush"
 image: /assets/images/banners/may-25-games.png
 tags:
   - Android
@@ -81,3 +81,101 @@ Ultimately you don't need any of these at all, with the only real incentive to b
 - You get paid for your work the month _after_ you work, so don't worry if you don't seem to be earning anything!
 
 ---
+
+## #2: [Dig-Dig Rush](https://play.google.com/store/apps/details?id=com.learn.daily.grow)
+
+This game is not at all what I expected. I wanted to play a slow, pretty game about mining and upgrading loot. Instead, I entered what can only be described as incremental system overload, and yet I can't stop playing.
+
+### Screenshots
+
+All screenshots are from version 1.0.0.26:
+
+|                                                  Main screen                                                  |                                                  Adventure                                                  |                                                  Digging                                                  |                                                  Arena                                                  |
+| :-----------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
+| [![Dig-Dig Rush main screen](/assets/images/2025/may-dig-1-thumbnail.jpg)](/assets/images/2025/may-dig-1.jpg) | [![Dig-Dig Rush adventure](/assets/images/2025/may-dig-2-thumbnail.jpg)](/assets/images/2025/may-dig-2.jpg) | [![Dig-Dig Rush digging](/assets/images/2025/may-dig-3-thumbnail.jpg)](/assets/images/2025/may-dig-3.jpg) | [![Dig-Dig Rush arena](/assets/images/2025/may-dig-4-thumbnail.jpg)](/assets/images/2025/may-dig-4.jpg) |
+
+|                                                  Collectibles                                                  |                                                  Events                                                  |                                                  Pets                                                  |                                                  Inventory                                                  |
+| :------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
+| [![Dig-Dig Rush collectibles](/assets/images/2025/may-dig-5-thumbnail.jpg)](/assets/images/2025/may-dig-5.jpg) | [![Dig-Dig Rush events](/assets/images/2025/may-dig-6-thumbnail.jpg)](/assets/images/2025/may-dig-6.jpg) | [![Dig-Dig Rush pets](/assets/images/2025/may-dig-7-thumbnail.jpg)](/assets/images/2025/may-dig-7.jpg) | [![Dig-Dig Rush inventory](/assets/images/2025/may-dig-8-thumbnail.jpg)](/assets/images/2025/may-dig-8.jpg) |
+
+### Review
+
+In Dig-Dig Rush, you are mining rocks across various areas to "prove yourself" to a big... lightbulb... king? I don't know, there's a lot to keep track of in this game and the hint of story isn't important. Mine the rock, obtain items to make you stronger, kill enemies, and repeat. Simple! Except, there's so many systems layered on top that is almost feels like a parody of incrementals / gachas, with every "pass" / "arena" / "guild" / "bonus" you can imagine existing somewhere.
+
+So, as I mentioned, Dig-Dig Rush has a truly absurd number of systems and sub-systems. Unlike most incrementals where you are deciding how best to use your resources, here you are merely trying to keep up with the flood of items being thrown at you from progression systems, and trying to work out what on earth anything even is. There are so many that there's even a progression system for how many progression systems / game features you've unlocked, with 24 entries(!).
+
+I'm going to do my best to describe the sources of items / currency I am aware of, but note that I'm only a couple of days in, and have undoubtedly missed some despite staring at the game whilst writing this. Note that most of these reward items of some kind:
+
+1. The main game: Mining for items, each with stats & perks, to fit into your 12(!) equipment slots.
+2. "Climb the Ranks: Adventuring up & Tarot Triumph": 2x boards of challenges for completing "adventures", along with end-of-event rewards depending on your rank, and a shop for each. These also earn currencies for the "Ranking store".
+3. "Preview": Diamonds rewarded for unlocking new game features, and showing you what is next.
+4. "Daily Quests": Nice and simple quests, reward a unique currency for completion plus rewards at various totals.
+5. "Week of Wonders": Totally different system that functions similarly to "Daily Quests", but you can complete tasks from any current or previous days this week. Also rewards a unique currency.
+6. "7-Day Sign-in": Unrelated to the week of wonders, a thankfully simple daily bonus with streak rewards etc.
+7. Advertising collection of systems:
+   1. "Privilege Centre: Perk Pass": Mostly just adverts for 4 complex pass systems, but also has a daily bonus.
+   2. "Privilege Centre: Growth Plan": 5x progression systems for various aspects of the game, with rewards at various levels and the ability to pay for better rewards. Also a daily bonus.
+   3. "Beginner's Deals": Standard bundle adverts, yet has a daily bonus.
+8. "Black Market": A traditional "exchange diamonds for items" shop.
+9. "Spending Bonus": A progression system for total purchases _and_ purchase streaks.
+10. "Arena": Player vs player, with loot from each fight and daily & weekly rewards based on your overall ranking.
+11. "Idle Rewards": A typical idle system, earning pickaxe uses & coins & time skips over time.
+12. "Ascension": Completing large objectives to ascend to a new rank, increasing your stats and level cap.
+13. "Lode level": Spending gold to upgrade your chance of achieving rarer loot.
+14. Character collection of systems:
+    1. Can forge different headpieces with different stats.
+    2. Can upgrade your headpiece to boost stats.
+    3. Can collect sets of headpieces to unlock bonuses.
+15. Divination collection of systems:
+    1. Can "divine" fragments of cards, that then form full cards, providing boosts.
+    2. Can collect sets of cards to unlock bonuses.
+16. Pet collection of systems:
+    1. Can summon pets with different rarities and bonuses.
+    2. Can upgrade / merge pets to improve their stats.
+    3. Can collect sets of pets to unlock bonuses.
+17. Guild collection of systems (there's also a store):
+    1. Guild trials, fighting a boss on cooldown for rewards, can also claim "chests" when others kill.
+    2. Donating diamonds to the guild in exchange for 3 other currencies.
+    3. "Help"ing guildmates provided coin boosts for both.
+18. Base collection of systems:
+    1. Mining for stones and other resources in your basement.
+    2. Using stones to purchase various boosts on a tech tree.
+    3. Opening chests with item fragments inside, providing boosts.
+    4. Earning points from these chests that open other chests.
+    5. Collecting sets of collectibles that, you guessed it, provide boosts.
+19. Adventure collection of systems:
+    1. Fighting steadily harder battles to progress, earning loot after each.
+    2. Receiving rewards for each "chapter" cleared.
+20. Dungeon collection of systems:
+    1. "Daily dungeons": 4x unique boss fights, each of which use their own key to unlock and provide unique rewards.
+    2. "Endless trials": Progressively harder battles, offering chests and other rewards.
+    3. "Challenge the intruders": Again, progressively harder battles with rewards.
+21. The 5 systems I haven't unlocked yet (Farm, Space Odyssey, Backgear, Radio, Artifacts), each of which sound large.
+
+Are you getting the idea now? It's ridiculous, and you'll be spending all your time just trying to wander around the menus and find out where to claim whatever free item you have there. It seems like the game's strategy is to include every engagement & monetisation technique possible, so at least one of them catches you. Like rolling for pets, and upgrading them? Or talking to your guild? Or daily passes? It'll be in here somewhere!
+
+Eventually your pickaxe uses start to run out, but I hit ~1m power before then, and I'm pretty sure when I wake up tomorrow I'll have a thousand free _things_ to sort out. The game's art is beautiful, and there are hundreds of unique assets, yet it's hard to actually notice them in amongst all the _stuff_ on screen at any time. It's not unusual to have 3-4 dialogs stacked on top of each other, each requiring an action, as you try to navigate a menu whilst auto-mining in the background.
+
+It's hard to review this game beyond saying that if you enjoy drowning in menus whilst watching numbers go up, you'll enjoy it. I do, I think. It's hard to tell.
+
+### Monetisation
+
+Think of a technique, it has it, at every price point from $1 to $300. Truly absurd:
+
+- Ads to skip waits, ads to retry fights, ads to increase rewards, ads to roll for rewards.
+- Bundles of different currencies, bundles for starters, bundle for specific use cases, bundles of items.
+- New starter bonus, limited time bonus, first purchase bonus, purchase streak bonus, increase rewards from various passes bonuses.
+- Pay to spin the wheel, pay to upgrade rewards, pay to skip waits, pay to get daily rewards, pay to remove ads, pay to beat other guilds.
+
+Despite this madness, there's so much going on that it all kind of cancels out. I usually buy 1-2 things in a game, but there are so many options here that none of them stand out. The closest thing is the "Monthly pass" providing daily _stuff_ for ~$6, yet so much is provided for free anyway that it feels pointless.
+
+Truly impressive how the game has been overmonetized to the extent that I'm unlikely to spend anything or watch any adverts!
+
+### Tips
+
+- Complete quests as soon as they appear, to unlock the next one.
+- Focus on the ascension goals, they're what actually matters long term.
+- Save your pet summon points for one good pet instead of upgrading your starter.
+- The global chat can be absolutely awful, but keep an eye out for a good guild to join.
+- Good luck finding all your various things that are recharging on a timer, I constantly find new bits and pieces!
+- As you level up(?) you can auto-pickaxe more at once, there's no downside to always setting this to your maximum.
