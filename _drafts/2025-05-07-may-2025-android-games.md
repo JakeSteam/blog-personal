@@ -1,12 +1,13 @@
 ---
-title: "3 Android games: 💸 Forest Fables, 💡 Dig-Dig Rush"
+title: "3 fun little Android games: 💸 Forest Fables, 💡 Dig-Dig Rush, 📃 Paper War"
 image: /assets/images/banners/may-25-games.png
 tags:
   - Android
   - Gaming
+maxheader: 2
 ---
 
-intro
+A decent mixture of games this month, from the scarily complex to the far-too-simple! Plus, the first ever educational game I'd recommend to everyone.
 
 ## #1: [Forest Fables](https://play.google.com/store/apps/details?id=com.DotDotFire.DDF2024)
 
@@ -154,7 +155,11 @@ I'm going to do my best to describe the sources of items / currency I am aware o
 
 Are you getting the idea now? It's ridiculous, and you'll be spending all your time just trying to wander around the menus and find out where to claim whatever free item you have there. It seems like the game's strategy is to include every engagement & monetisation technique possible, so at least one of them catches you. Like rolling for pets, and upgrading them? Or talking to your guild? Or daily passes? It'll be in here somewhere!
 
+There also seems to be multiple servers you can play on at once, with a new character in each. Just yet another feature.
+
 Eventually your pickaxe uses start to run out, but I hit ~1m power before then, and I'm pretty sure when I wake up tomorrow I'll have a thousand free _things_ to sort out. The game's art is beautiful, and there are hundreds of unique assets, yet it's hard to actually notice them in amongst all the _stuff_ on screen at any time. It's not unusual to have 3-4 dialogs stacked on top of each other, each requiring an action, as you try to navigate a menu whilst auto-mining in the background.
+
+Bizarrely, despite the game having more features than almost any I've played, it only has ~50k downloads, and [their Discord](https://discord.com/invite/hUggAeBhEc) only has ~400 members! The game feels like it's a massively popular AAA game from an alternate universe that has just been transferred in, and has lost the millions of users that are surely needed to build something so complex. I did notice some non-English very briefly appearing at one point, and the developers are in Singapore, so I wonder if this is a giant game in China / elsewhere now entering the western market.
 
 It's hard to review this game beyond saying that if you enjoy drowning in menus whilst watching numbers go up, you'll enjoy it. I do, I think. It's hard to tell.
 
@@ -179,3 +184,46 @@ Truly impressive how the game has been overmonetized to the extent that I'm unli
 - The global chat can be absolutely awful, but keep an eye out for a good guild to join.
 - Good luck finding all your various things that are recharging on a timer, I constantly find new bits and pieces!
 - As you level up(?) you can auto-pickaxe more at once, there's no downside to always setting this to your maximum.
+- There [is a Discord](https://discord.com/invite/hUggAeBhEc).
+
+---
+
+## #3: [Paper War](https://play.google.com/store/apps/details?id=com.firestudios.paperwar)
+
+Paper War is a straightforward autobattler, where you'll be building up a little army to fight enemy armies and complete quests, earning coins and gems to upgrade your army. And repeat.
+
+### Screenshots
+
+All screenshots are from version 24:
+
+|                                                  Combat                                                   |                                                  Skills                                                   |                                                  Army                                                   |
+| :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
+| [![Paper War combat](/assets/images/2025/may-paper-1-thumbnail.jpg)](/assets/images/2025/may-paper-1.jpg) | [![Paper War skills](/assets/images/2025/may-paper-2-thumbnail.jpg)](/assets/images/2025/may-paper-2.jpg) | [![Paper War army](/assets/images/2025/may-paper-3-thumbnail.jpg)](/assets/images/2025/may-paper-3.jpg) |
+
+### Review
+
+Before diving deeper into the review, this game is a bit odd. It has a solid early game, and looks like it continues to grow, but in reality you've seen pretty much all of the game's content after 10-20 minutes!
+
+The developer seems to have 2 other quite similar games (same concept, style, UI), [Circle Defense](https://play.google.com/store/apps/details?id=com.firestudios.circledefense) and [The Army](https://play.google.com/store/apps/details?id=com.firestudios.thearmy), suggesting to me at least that perhaps each game isn't a labour of love, but instead trying to figure out what will get users / profit.
+
+So, with that massive caveat out of the way, what is Paper War? Well, you'll recruit permanent "Characters" to your army, and summon permanent "Skills", which will then automatically attack waves of enemies for you, with no ability to take manual control. There's essentially no strategy around placement, and all skills autocast perfectly, with the only real choice being which skills to select and what to spend earnings on.
+
+The game isn't balanced, with my single rare "Onager" being 10x as strong as any other character in every aspect. As characters do not respawn between waves, this means only my rare character survives any battles for more than a second, so is typically all I'll see! Whilst there is a "Gold Rush" and "Boss Rush" mode (requiring slowly respawning keys), the enemies will die so quickly they'll barely be visible, making it really just a "free loot" mode.
+
+There is a quest system helping to guide your initial gameplay, but it quickly hits an impassable wall. Upgrade costs increases as you upgrade, so getting from 100 -> 150 in a skill is about as tricky as, say, 150 -> 170. As such, quest 84 that requires getting from 200 to 700 hitpoints is essentially impossible unless you leave the game alone for hours, and your progress is severely limited until it is completed (quests are the main gem source). You can also prestige, but it provides negligible benefits (20% more gold) in exchange for an almost complete reset!
+
+Finally, there's a PvP event (which required signing up for an account) that is very bare bones. Use a ticket, get matched randomly against an opponent (AI, using a player's army), one of you completely destroys the other. No tactics, no planning, just matching against someone with literally 1000x stronger units than you. A bit pointless.
+
+So is it good? Well, no not really. Every minute playing it is vaguely enjoyable, and it looks pretty, but you'll notice essentially no difference 10 minutes vs 100 minutes into the game, with other player's reviews suggesting this isn't going to change any time soon. Perhaps one to pick up for an hour, then delete.
+
+### Monetisation
+
+This is probably the most fleshed-out area of the game! There are 4x "cards" providing various daily bonuses, 3x "packages" providing resources, 6x gem packs, and various incentivised ad offers scattered all over the place.
+
+None if it is forced, but I do suspect the slowing down of gameplay is to encourage paying.
+
+### Tips
+
+- A single strong unit will overwhelm everything else, so you might as well use all your summoned army units to upgrade your strong unit / maximises chances of getting one.
+- Try out the skills, I found "Poison Cloud" (area of effect attack) to work well.
+- There [is an oddly large Discord](https://discord.com/invite/MqWhZP8Kn4).
