@@ -9,7 +9,57 @@ maxheader: 2
 
 intro
 
-## #1: [Heroll](https://play.google.com/store/apps/details?id=com.percent.aos.rollinghero)
+## #1: [Scratch Inc](https://play.google.com/store/apps/details?id=scratchinc.app)
+
+I've never been interested in scratchcards, but I _am_ very interested in well-made incrementals, and Scratch Inc combines these 2 things!
+
+### Screenshots
+
+All screenshots are from version 1.1.06:
+
+|                                                      Scratch card                                                       |                                                      Loyalty scheme                                                       |                                                      Store ownership                                                       |                                                      Settings                                                       |
+| :---------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
+| [![Scratch Inc scratch card](/assets/images/2025/june-scratch-1-thumbnail.jpg)](/assets/images/2025/june-scratch-1.jpg) | [![Scratch Inc loyalty scheme](/assets/images/2025/june-scratch-2-thumbnail.jpg)](/assets/images/2025/june-scratch-2.jpg) | [![Scratch Inc store ownership](/assets/images/2025/june-scratch-3-thumbnail.jpg)](/assets/images/2025/june-scratch-3.jpg) | [![Scratch Inc settings](/assets/images/2025/june-scratch-4-thumbnail.jpg)](/assets/images/2025/june-scratch-4.jpg) |
+
+### Review
+
+The game is built around a simple central mechanic: playing scratch cards for money to upgrade earnings, card size, and multipliers. The complexity comes in what happens _after_ you earn enough "loyalty" (through card completions) to "prestige" and earn loyalty points. This is the first layer of prestige.
+
+After completing cards to earn store loyalty, you'll eventually be able to prestige this to begin owning stores. You'll eventually be able to prestige this to take over the overall scratch card market. You'll eventually be able to prestige this to enter new markets. You'll eventually be able to prestige this to begin again on other plants.
+
+The point is... there are many layers of prestige. These resets are initially pretty brutal, losing almost everything, but each new layer of progress currency becomes extremely powerful. For example, it might multiply earnings, let you automate the purchasing of automations, etc.
+
+I typically don't enjoy games with aggressive prestige resets, but the game balance is very well implemented, so each prestige feels worth it but not overpowered. Additionally, the level of automation is extremely rewarding, so as you progress through the "layers" you eventually won't even be looking at the first layer at all.
+
+The game becomes more automated as it progresses, avoiding it ever feeling too grindy. I've currently completed my first monopoly reset, meaning (I think) I'm 5% of the way to leaving Earth. Whilst it took the entirety of my playtime so far (a few days) to get here, the snowballing effect means I doubt it'll take more than another day or two!
+
+Automating the purchasing of automation employees is a great way of adding meaningful upgrades to higher prestige levels without actually increasing complexity. It allows the game to scale to (at least) 6 prestige levels without ever deviating from the key concept of scratching cards for money. Everything else is just a wrapper around this, with the layers making logical sense.
+
+Supporting this great game design is a clear and understandable UI, and consistent phrasing used to avoid confusion. The game in general feels "fair", like it is genuinely just trying to provide a fun experience, not hassle you to pay up. This is reinforced by the (very optional) "Gold" currency, with the purchase screen even stating "The game has been balanced without [gold]", and that this game is an after-work hobby not a job. This currency is also earned through achievements.
+
+The result of this is a game that clearly prioritises player experience, including features such as a completely unnecessary (but appreciated) character customisation and name generator (in the format [adjective][noun], say hello to "ScientificPromotion"!). I'm currently rank ~1000 overall, and it's fun seeing "WoefulEstimate", "LiquidHour", and "EmotionalDisaster" in the top 3 spots.
+
+### Monetisation
+
+As mentioned, Scratch Inc has entirely optional gold purchases that can boost points, loyalty, grid size, multipliers, etc. Although almost any source of income can be multiplied, which would usually be seen as a downside, the fact it is entirely unnecessary (and any benefit would be quickly nullified by normal progress) makes this extremely fair.
+
+The monetisation is perhaps a little too fair, as currently there is no real incentive for myself personally. After the basic purchases that are easily earned through normal gameplay, the first meaningful permanent upgrade is increasing grid size, at around £9 (~$12), far too much for the benefit provided.
+
+Whilst I greatly appreciate a game with no adverts whatsoever that disincentivises payments, Scratch Inc is perhaps too far in this direction! I'm always happy to spend $2-5 on a game I review, but here there is seemingly no point.
+
+### Tips
+
+1. Increasing automation is almost always the correct choice.
+2. Across all prestiges, the "points" you earn increase in cost. For example 6% market share might take twice as much effort as 5% market share. This means prestiging earlier than normal earns you far more overall.
+3. Increasing grid size is one of the most powerful upgrades, always pick it!
+4. In the settings, I highly recommend turning off "90% scratch threshold" to make cards complete faster.
+5. I also recommend turning on "Transparent menus" so you can see your pending currencies whilst in a menu.
+6. There is a [pretty active Discord](https://discord.com/invite/TYem6nFBhH), possibly because the developer [also made Pincremental](https://play.google.com/store/apps/details?id=com.Makopaz.Pincremental) (which I didn't enjoy!).
+7. Interestingly, you can see a far more basic and less appealing [early version of the game](https://play.google.com/store/apps/details?id=com.Makopaz.IdleScratch) on the developer's store page!
+
+---
+
+## #2: [Heroll](https://play.google.com/store/apps/details?id=com.percent.aos.rollinghero)
 
 Sometimes a simple game with a nice aesthetic can be all you need, in this case Heroll's roguelite Monopoly-with-combat format is great for a sub-5 minute run!
 
@@ -47,7 +97,7 @@ So, there's purchaseable "diamonds", used for gold (upgrades) and energy (playti
 
 ### Tips
 
-The game is almost entirely lucky based, so there's not many tips!
+The game is almost entirely luck based, so there aren't many tips!
 
 1. Save your potions until you're low, but not too low health, since you'll often gain health naturally.
 2. Any items that give you lifesteal / heal on battle end will be extremely powerful, since any passive restoration is very useful.
@@ -55,7 +105,7 @@ The game is almost entirely lucky based, so there's not many tips!
 4. You should spend all your money at the shop when you can, since there's no benefit in saving up. I found buying the passive perk best, followed by improving health potion capacity / effect.
 5. You can earn health potions above your maximum, but it's still worth having the capacity.
 
-## Updates
+## Past games
 
 - [I got Worms](/april-android-games-2025/#3-i-got-worms): I'm still checking in on this once or twice a day, and buying all! When I wrote the review I had ~200 upgrades purchased, I now have ~1200, although the last few achievements do look a little tricky. Still, there's a decent chance I'll end up 100%'ing it, without spending a penny.
 - [Dig-Dig Rush](/may-2025-android-games/#2-dig-dig-rush): Okay, I got _really_ into Dig-Dig Rush after writing my review. Whilst the gameplay hasn't changed much, there's something deeply satisfying in spending 20 minutes watching numbers go up every morning! I eventually purchased the £10 (~$13) ad-free pack, permanently granting all the advert bonuses. This means lots of free items, free dungeon attempts, free speed-ups etc. I'm up to level 229, rank Duke 1, and suspect I'm starting to run out of new content.
