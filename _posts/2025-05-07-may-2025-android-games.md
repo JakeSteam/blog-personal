@@ -87,9 +87,11 @@ Ultimately you don't need any of these at all, with the only real incentive to b
 
 ---
 
-## #2: [Dig-Dig Rush](https://play.google.com/store/apps/details?id=com.learn.daily.grow)
+## #2: [Dig-Dig Rush](https://play.google.com/store/apps/details?id=com.sword.ancient)
 
 This game is not at all what I expected. I wanted to play a slow, pretty game about mining and upgrading loot. Instead, I entered what can only be described as incremental system overload, and yet I can't stop playing.
+
+_Note: The game changed package IDs for technical reasons, the latest one is linked above._
 
 ### Screenshots
 
