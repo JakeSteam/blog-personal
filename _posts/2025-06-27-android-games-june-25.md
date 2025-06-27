@@ -1,5 +1,5 @@
 ---
-title: "3 Android games: 🎲 Heroll"
+title: "3 simple yet satisfying Android games: 🐰 A Tiny Sticker Tale, 🎰 Scratch Inc, 🎲 Heroll"
 image: /assets/images/banners/june-25-games.png
 tags:
   - Android
@@ -7,9 +7,57 @@ tags:
 maxheader: 2
 ---
 
-intro
+A cosy adventure, a scratch card incremental, and a monopoly roguelite! What an odd collection of games, they're all simple yet satisfying.
 
-## #1: [Scratch Inc](https://play.google.com/store/apps/details?id=scratchinc.app)
+## #1: [A Tiny Sticker Tale](https://play.google.com/store/apps/details?id=com.ogrepixel.atinystickertale)
+
+This is a very cozy metroidvania adventure / collecting game, with its [Steam](https://store.steampowered.com/app/2322180/A_Tiny_Sticker_Tale/) and [Nintendo Switch](https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/A-Tiny-Sticker-Tale-2437400.html) origins explaining the high quality compared to other mobile games (and the one-off payment model)!
+
+### Screenshots
+
+All screenshots are from version 1.1.15:
+
+|                                                      Beach archery                                                       |                                                      Mountain waterfall                                                       |                                                      Secret cult                                                       |
+| :----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
+| [![A Tiny Sticker Tale beach archery](/assets/images/2025/jun-tiny-1-thumbnail.jpg)](/assets/images/2025/jun-tiny-1.jpg) | [![A Tiny Sticker Tale mountain waterfall](/assets/images/2025/jun-tiny-2-thumbnail.jpg)](/assets/images/2025/jun-tiny-2.jpg) | [![A Tiny Sticker Tale secret cult](/assets/images/2025/jun-tiny-3-thumbnail.jpg)](/assets/images/2025/jun-tiny-3.jpg) |
+
+|                                                      Full map                                                       |                                                      Example inventory                                                       |                                                      Sticker book                                                       |
+| :-----------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
+| [![A Tiny Sticker Tale full map](/assets/images/2025/jun-tiny-4-thumbnail.jpg)](/assets/images/2025/jun-tiny-4.jpg) | [![A Tiny Sticker Tale example inventory](/assets/images/2025/jun-tiny-5-thumbnail.jpg)](/assets/images/2025/jun-tiny-5.jpg) | [![A Tiny Sticker Tale sticker book](/assets/images/2025/jun-tiny-6-thumbnail.jpg)](/assets/images/2025/jun-tiny-6.jpg) |
+
+### Review
+
+I absolutely love this game! I started it up, and didn't move for ~2.5 hours until it was pretty much 100% completed. It has a very simple core concept, with all characters and many objects actually being "stickers". This means you can pick them up, move them, put them in your inventory, take them somewhere else, etc.
+
+This mechanic starts off very simply with just moving objects out of your way, and the game is clearly designed with it in mind. For example, a character might say "meet you at the top of the mountain", you walk up there, then realise you forgot to put them in your backpack first! Oops!
+
+Your inventory has a limited amount of space, with a bit of very retro "inventory tetris" sometimes needed to fit everything you want to carry around. You'll quickly end up carrying a fishing rod, a bomb, a bridge, a crossbow, a character you know needs to go _somewhere_, a trophy you earned, it gets messy!
+
+Whilst the overall story is very wholesome and sweet, it's pretty straightforward and really just serves as a motivator to explore the intriguing island. There's a swap, a desert, an ice area, a beach, everything you'd expect from an adventure game spread across almost 50 screens.
+
+What makes the game so enjoyable to play is the metroidvania-y tactic of dripfeeding new features just when you're starting to get bored, and regularly finding new uses for previous content. For example, a miner mentions he can't see well enough to mine some rocks. Luckily you've unlocked a sun that changes the time of day! The miner then mines a gem, which can be used somewhere else to make bombs, which can then be used to unblock a passage that... you get the idea. Completing a puzzle unlocks something that unlocks a puzzle, over and over.
+
+In addition to the "main" storyline, there's optional side puzzles all over the place. For example, someone gave me a shovel, and I discovered the small cracks in the ground I kept seeing can actually be dug into! This reveals various treasure, like fairies that can be collected for a larger sticker inventory, or items that help solve puzzles.
+
+You'll spend your time essentially being on 3-4 quests at once, with each being scattered all around the map. This might be giving unique trees to a character that makes furniture, wondering how to lower a bridge, beating your antagonist at tennis, all without any indicators or quest list. I generally have a pretty poor memory, and it was sometimes tricky to remember where I left an item an hour ago, with the map's limited size proving an advantage.
+
+Later on, you'll unlock a map, a sticker re-finder, a moveable tent home, and even a within-current-screen teleport, as well as various items to buy furniture, outfits, and Christmas / Halloween themed items.
+
+By the time I'd had enough of the game it was around 95% completed, with the remaining work being hunting down _one_ missing fairy (grrr), and picking up a few scenery items I'd never picked up. Each trophy / achievement feels _earned_, and they're well paced to make each have real value.
+
+### Monetisation
+
+A Tiny Sticker Tale is a one-time purchase of £3.79 (~$5), however I accessed it as part of Play Pass. It contains around 3 hours of high quality gameplay, with no additional monetisation or adverts.
+
+### Tips
+
+1. Carry your useful stuff with you! Fishing rod, bomb, shovel, a bug that plays music, stack them in your inventory as best you can.
+2. Wander around sometimes, early on I frequently took a wrong turn and ended up in a new screen!
+3. Don't forget the sticker mechanic! I kept forgetting that bridges and ladders can be moved.
+
+---
+
+## #2: [Scratch Inc](https://play.google.com/store/apps/details?id=scratchinc.app)
 
 I've never been interested in scratchcards, but I _am_ very interested in well-made incrementals, and Scratch Inc combines these 2 things!
 
@@ -59,7 +107,7 @@ Whilst I greatly appreciate a game with no adverts whatsoever that disincentivis
 
 ---
 
-## #2: [Heroll](https://play.google.com/store/apps/details?id=com.percent.aos.rollinghero)
+## #3: [Heroll](https://play.google.com/store/apps/details?id=com.percent.aos.rollinghero)
 
 Sometimes a simple game with a nice aesthetic can be all you need, in this case Heroll's roguelite Monopoly-with-combat format is great for a sub-5 minute run!
 
@@ -107,5 +155,5 @@ The game is almost entirely luck based, so there aren't many tips!
 
 ## Past games
 
-- [I got Worms](/april-android-games-2025/#3-i-got-worms): I'm still checking in on this once or twice a day, and buying all! When I wrote the review I had ~200 upgrades purchased, I now have ~1200, although the last few achievements do look a little tricky. Still, there's a decent chance I'll end up 100%'ing it, without spending a penny.
+- [I got Worms](/april-android-games-2025/#3-i-got-worms): I continued checking in on this once or twice a day for a few weeks and buying all. When I wrote the review I had ~200 upgrades purchased, I now have ~1200, although the last few achievements do look a little too time consuming to be appealing. Still, there's a decent chance I'll come back to it now and then.
 - [Dig-Dig Rush](/may-2025-android-games/#2-dig-dig-rush): Okay, I got _really_ into Dig-Dig Rush after writing my review. Whilst the gameplay hasn't changed much, there's something deeply satisfying in spending 20 minutes watching numbers go up every morning! I eventually purchased the £10 (~$13) ad-free pack, permanently granting all the advert bonuses. This means lots of free items, free dungeon attempts, free speed-ups etc. I'm up to level 358, rank Prince 2, and suspect I've run out of new content.
