@@ -155,5 +155,5 @@ The game is almost entirely luck based, so there aren't many tips!
 
 ## Past games
 
-- [I got Worms](/april-android-games-2025/#3-i-got-worms): I continued checking in on this once or twice a day for a few weeks and buying all. When I wrote the review I had ~200 upgrades purchased, I now have ~1200, although the last few achievements do look a little too time consuming to be appealing. Still, there's a decent chance I'll come back to it now and then.
+- [I got Worms](/april-android-games-2025/#3-i-got-worms): I continued checking in on this once or twice a day for a few weeks and buying all. When I wrote the review I had ~200/1567 upgrades purchased, I now have 1438/1567, although the last few upgrades and achievements do look a little too time-consuming to be appealing. Still, there's a decent chance I'll come back to it now and then.
 - [Dig-Dig Rush](/may-2025-android-games/#2-dig-dig-rush): Okay, I got _really_ into Dig-Dig Rush after writing my review. Whilst the gameplay hasn't changed much, there's something deeply satisfying in spending 20 minutes watching numbers go up every morning! I eventually purchased the £10 (~$13) ad-free pack, permanently granting all the advert bonuses. This means lots of free items, free dungeon attempts, free speed-ups etc. I'm up to level 358, rank Prince 2, and suspect I've run out of new content.
