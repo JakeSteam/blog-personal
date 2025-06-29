@@ -1,5 +1,5 @@
 ---
-title: "More games for July: 🚀 Spaceplan, 🙀 Cat Museum, 🦜 Bird Alone, 🦞 Dungeon Clawler"
+title: "More games for July: 🚀 SPACEPLAN, 🙀 Cat Museum, 🦜 Bird Alone, 🦞 Dungeon Clawler"
 image: /assets/images/banners/june-25-games.png
 tags:
   - Android
@@ -9,7 +9,7 @@ maxheader: 2
 
 intro
 
-## #1: [Spaceplan](https://play.google.com/store/apps/details?id=com.devolver.spaceplan)
+## #1: [SPACEPLAN](https://play.google.com/store/apps/details?id=com.devolver.spaceplan)
 
 This might be the closest thing to a perfect incremental I've played, from setting, to story, to gameplay, to actually having an ending.
 
@@ -17,15 +17,15 @@ This might be the closest thing to a perfect incremental I've played, from setti
 
 |                                                   Planet Looker                                                    |                                                   Thing Maker                                                    |                                                   Word Outputter                                                    |
 | :----------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
-| [![Spaceplan planet looker](/assets/images/2025/july_space_1-thumbnail.jpg)](/assets/images/2025/july_space_1.jpg) | [![Spaceplan thing maker](/assets/images/2025/july_space_2-thumbnail.jpg)](/assets/images/2025/july_space_2.jpg) | [![Spaceplan word outputter](/assets/images/2025/july_space_3-thumbnail.jpg)](/assets/images/2025/july_space_3.jpg) |
+| [![SPACEPLAN planet looker](/assets/images/2025/july_space_1-thumbnail.jpg)](/assets/images/2025/july_space_1.jpg) | [![SPACEPLAN thing maker](/assets/images/2025/july_space_2-thumbnail.jpg)](/assets/images/2025/july_space_2.jpg) | [![SPACEPLAN word outputter](/assets/images/2025/july_space_3-thumbnail.jpg)](/assets/images/2025/july_space_3.jpg) |
 
 ### Review
 
-Full disclosure, I'd heard Spaceplan brought up _all the time_ in incremental game recommendations for years, and ignored it because it's a one-off purchase of £2.79 ($4). I should have bought it sooner.
+Full disclosure, I'd heard SPACEPLAN brought up _all the time_ in incremental game recommendations for years (it's from 2017), and ignored it because it's a one-off purchase of £2.79 ($4). I should have bought it sooner, oops.
 
-Spaceplan starts off like a lot of incrementals, with a theme of space exploration, upgrading items that earn currency (watts), etc. What differentiates it is a complete lack of painful grind, instead it has a clear story that progresses smoothly, with the incremental aspect being more of a mild time gate instead of a way to prolong gameplay.
+SPACEPLAN starts off like a lot of incrementals, with a theme of space exploration, upgrading items that earn currency (watts), etc. What differentiates it is a complete lack of painful grind, instead it has a clear story that progresses smoothly, with the incremental aspect being more of a mild time gate instead of a way to prolong gameplay.
 
-The story isn't too complex, but features time travel, aliens, parallel universes, and an absolutely excellent ending making the journey worth it. I'll avoid spoilers since the surprises and story is half the appeal, with high quality writing balancing comedy and standard updates on idle income etc.
+The story isn't too complex, but features time travel, aliens, parallel universes, and an absolutely excellent ending making the journey worth it. I'll avoid spoilers since the surprises and story are half the appeal, with high quality writing balancing comedy and standard updates on idle income etc.
 
 Depending on how long you idle for between sessions, the game won't take more than a few hours of gameplay. I checked in perhaps 5-6 times at least an hour apart, and always had significant upgrades to buy even when between the major story plot points. There's not really any replayability unless you want to read the story again, however this shouldn't take away from the actual quality of the experience.
 
@@ -33,7 +33,7 @@ Whilst the game is very well-built, and has smooth interactions and graphics, I 
 
 ### Monetisation
 
-No ads or in-app purchases, just a one-time payment to play. Spaceplan is included free with Google Play Pass.
+No ads or in-app purchases, just a one-time payment to play. SPACEPLAN is included free with Google Play Pass.
 
 ### Tips
 
@@ -41,6 +41,7 @@ You don't need many tips, this is fairly linear!
 
 - As with any incremental, make sure you calculate the cost / reward for different tiers of upgrades to buy the more efficient option.
 - At some point you need to "fire" mass by purchasing upgrades. It took me a minute to realise some purchases were actually interacting with the planet itself, and timing was important.
+- SPACEPLAN is also [available on Steam](https://store.steampowered.com/app/616110/SPACEPLAN/) (£1 / $1 at time of writing!).
 
 ---
 
