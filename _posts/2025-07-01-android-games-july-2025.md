@@ -162,4 +162,8 @@ The game is also free on Google Play Pass, the only way I would recommend playin
 
 ### Tips
 
+- Start your clue timer as soon as you start a level, you'll need it!
+- Tap everything.
+- Move everything.
+
 ---
