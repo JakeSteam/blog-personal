@@ -1,5 +1,5 @@
 ---
-title: "More games for July: 🚀 SPACEPLAN, 🙀 Cat Museum, 🦜 Bird Alone, 🦞 Dungeon Clawler"
+title: "July Android game reviews: 🚀 SPACEPLAN, 🙀 Cat Museum, 🦞 Dungeon Clawler, 🔎 Wind Peaks"
 image: /assets/images/banners/june-25-games.png
 tags:
   - Android
@@ -21,7 +21,9 @@ This might be the closest thing to a perfect incremental I've played, from setti
 
 ### Review
 
-Full disclosure, I'd heard SPACEPLAN brought up _all the time_ in incremental game recommendations for years (it's from 2017), and ignored it because it's a one-off purchase of £2.79 ($4). I should have bought it sooner, oops.
+I'd heard SPACEPLAN brought up _all the time_ in incremental game recommendations for years (it's from 2017), and ignored it because it's a one-off purchase of £2.79 ($4). I should have bought it sooner, oops. To quote [wikipedia](https://en.wikipedia.org/wiki/Spaceplan):
+
+> The game received universally positive reviews from critics, who stated that its narrative sci-fi elements improved the otherwise simplistic gameplay.
 
 SPACEPLAN starts off like a lot of incrementals, with a theme of space exploration, upgrading items that earn currency (watts), etc. What differentiates it is a complete lack of painful grind, instead it has a clear story that progresses smoothly, with the incremental aspect being more of a mild time gate instead of a way to prolong gameplay.
 
@@ -41,7 +43,7 @@ You don't need many tips, this is fairly linear!
 
 - As with any incremental, make sure you calculate the cost / reward for different tiers of upgrades to buy the more efficient option.
 - At some point you need to "fire" mass by purchasing upgrades. It took me a minute to realise some purchases were actually interacting with the planet itself, and timing was important.
-- SPACEPLAN is also [available on Steam](https://store.steampowered.com/app/616110/SPACEPLAN/) (£1 / $1 at time of writing!).
+- SPACEPLAN is also [available on Steam](https://store.steampowered.com/app/616110/SPACEPLAN/) (£1 / $1 at time of writing!), and there's a [free simpler web version](http://jhollands.co.uk/spaceplan/).
 
 ---
 
@@ -88,7 +90,7 @@ It costs £4 (currently 50% off) [on Steam](https://store.steampowered.com/app/1
 
 ---
 
-## #2: [Bird Alone](https://play.google.com/store/apps/details?id=com.GeorgeBatchelor.BirdAlone)
+## #3: [Dungeon Clawler](https://play.google.com/store/apps/details?id=com.strayfawnstudio.dungeonclawlermobile)
 
 ### Screenshots
 
@@ -100,13 +102,39 @@ It costs £4 (currently 50% off) [on Steam](https://store.steampowered.com/app/1
 
 ---
 
-## #3: [Dungeon Clawler](https://play.google.com/store/apps/details?id=com.strayfawnstudio.dungeonclawlermobile)
+## #4: [Wind Peaks](https://play.google.com/store/apps/details?id=com.actoonstudio.windpeaks)
+
+A very simple "find the items" game, similar to the very popular [Hidden Folks](https://play.google.com/store/apps/details?id=com.adriaandejongh.hiddenfolks).
 
 ### Screenshots
 
+|                                                   Campsite                                                   |                                                  Campsite (night)                                                  |                                                   Halloween event                                                   |
+| :----------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
+| [![Wind Peaks campsite](/assets/images/2025/july_wind_1-thumbnail.jpg)](/assets/images/2025/july_wind_1.jpg) | [![Wind Peaks campsite night](/assets/images/2025/july_wind_2-thumbnail.jpg)](/assets/images/2025/july_wind_2.jpg) | [![Wind Peaks halloween event](/assets/images/2025/july_wind_3-thumbnail.jpg)](/assets/images/2025/july_wind_3.jpg) |
+
 ### Review
 
+This somewhat unfinished feeling (yet astonishingly overpriced) game is a pleasant way to spend an hour or so, but that's it. As with all games of this type, you'll poke around a small isometric level and find the various items listed at the bottom of the screen.
+
+The art style is nice, although let down by a couple of problems:
+
+1. Objects sometimes have a bit of 3D confusion, and cut into each other oddly.
+2. Very heavy item & scenery reuse both within & between levels. Once you've played 2 levels, you've seen pretty much everything in the game.
+3. Movable objects that sometimes reveal items, sometimes have no purpose, and sometimes turn out to be unmoveable after all despite looking identical. It's not fun tapping on 30 identical bushes.
+
+As mentioned, the game hints at what it _could_ have been. Some levels have torches that help light up an area, others that do nothing. Some levels have simple puzzles that open up new areas containing required items, none requiring more than a few seconds thought. There's a halloween level, but unfortunately it's just more of the same with a few new art assets.
+
+There is a story, but it's nonsensical and can be summarised as "people go to campsite" for every level.
+
+Unfortunately the game also commits arguably the greatest sin for an object finding game: Some of the objects are impossible. It might be a small part of the object visible behind an uninteractable plant, or it might be one in a totally nonsensical place.
+
+Luckily the game does come with an answers system, where you can get any item's location after a 2 minute timer. You'll likely be using this for around half of the items, since the size and repetitiveness of the levels (plus inability to zoom out enough) makes solving it properly an exercise in frustration.
+
 ### Monetisation
+
+Wind Peaks is an unbelievable £11.39 (~$15) one-off purchase, perhaps the worst value for money I've seen.
+
+The game is also free on Google Play Pass, the only way I would recommend playing it.
 
 ### Tips
 
