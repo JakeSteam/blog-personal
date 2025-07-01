@@ -1,13 +1,13 @@
 ---
-title: "July Android game reviews: 🚀 SPACEPLAN, 🙀 Cat Museum, 🦞 Dungeon Clawler, 🔎 Wind Peaks"
-image: /assets/images/banners/june-25-games.png
+title: "4 Play Pass game reviews: 🚀 SPACEPLAN, 🙀 Cat Museum, 🦞 Dungeon Clawler, 🔎 Wind Peaks"
+image: /assets/images/banners/july-25-games.png
 tags:
   - Android
   - Gaming
 maxheader: 2
 ---
 
-intro
+I've bought a month of Google Play Pass, so here's a few short games I've enjoyed so far!
 
 ## #1: [SPACEPLAN](https://play.google.com/store/apps/details?id=com.devolver.spaceplan)
 
@@ -92,13 +92,37 @@ It costs £4 (currently 50% off) [on Steam](https://store.steampowered.com/app/1
 
 ## #3: [Dungeon Clawler](https://play.google.com/store/apps/details?id=com.strayfawnstudio.dungeonclawlermobile)
 
+In a similar theme to [Ballionaire](https://store.steampowered.com/app/2667120/Ballionaire/) or [Peglin](https://store.steampowered.com/app/1296610/Peglin/) for Pachinko, Dungeon Clawler is a roguelike claw game!
+
 ### Screenshots
+
+|                                                        Combat                                                         |                                                        Boss                                                         |                                                        Upgrading                                                         |
+| :-------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
+| [![Dungeon Clawler combat](/assets/images/2025/july_dungeon_1-thumbnail.jpg)](/assets/images/2025/july_dungeon_1.jpg) | [![Dungeon Clawler boss](/assets/images/2025/july_dungeon_2-thumbnail.jpg)](/assets/images/2025/july_dungeon_2.jpg) | [![Dungeon Clawler upgrading](/assets/images/2025/july_dungeon_3-thumbnail.jpg)](/assets/images/2025/july_dungeon_3.jpg) |
 
 ### Review
 
+Dungeon Clawler is a very laid back game about picking items out of claw machines. Pick a character (class), then build up a strategy through various branching rooms with enemies and events, before battling the boss at level 20.
+
+Your first playthrough will be very simple, consisting almost entirely of swords (attack) and shields (block). This run likely won't end too well! During your runs, you'll gather perks and build up your claw machine's items along the way, by the end likely have some sort of strategy you're using to win.
+
+Each event will result in using your claw machine pull(s) to grab items out of the machine, with the classic unpredictability of the claw sometimes making aiming for a safer but less powerful area a better choice. I've completed 3-4 runs and unlocked around half the characters, and the gameplay differs significantly depending on your build.
+
+Most of the depth is somewhat optional, such as every item having a material type, yet none of my builds have considered this at all! Instead I've focused on poison, vampire healing, or water-based approaches. For example, you can fill your machine with water (lasts 3 turns), convert that water into another substance, and then use that synergy with other items to perform powerful moves after a little setup.
+
+Each 2+ claw turn requires balancing short term gain (healing, blocking, or direct attacking) vs setting up a more complicated system including multiple items. I noticed some builds seem very overpowered (vampire healing!), however this is balanced by new characters being unlocked through specific actions (e.g. getting enough frost debuffs on an enemy). This encourages a bit of experimentation, although my frost-based build never lasts long!
+
+Overall this is solid turn-based roguelike, with each run being standalone and a combination of planning, accuracy, and luck. I'm not sure if I'll play it _much_ more after a few more completions / character unlocks, but it's still worth a try if you have access!
+
 ### Monetisation
 
+Dungeon Crawler is £4.79 (~$6.50), or included in Google Play Pass
+
 ### Tips
+
+- Make sure your planned build works with your character's built-in buffs.
+- Your claw can hit the side of the machine easier than you'd think, so leave plenty of room.
+- If your claw is overloaded (especially when using the tentacle claw) some items won't manage to get out.
 
 ---
 
