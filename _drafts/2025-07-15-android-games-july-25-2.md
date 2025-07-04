@@ -1,5 +1,5 @@
 ---
-title: "3 Play Pass game reviews: 🤠 Bounty Of One, 🫁 Homo Machina"
+title: "3 Play Pass game reviews: 🤠 Bounty Of One, 🫁 Homo Machina, 🦜 Bird Alone"
 image: /assets/images/banners/july-25-games-2.png
 tags:
   - Android
@@ -82,3 +82,19 @@ One-off payment of £2.49 (~$3.49), currently £1.49 (~$1.99).
 No need for tips, just solve each puzzle!
 
 ---
+
+## #3: [Bird Alone](https://play.google.com/store/apps/details?id=com.GeorgeBatchelor.BirdAlone)
+
+Want a friend AND a bird, without any of the hassle or commitment? Here's Bird Alone!
+
+### Screenshots
+
+|                                                   Making music                                                   |                                                   Conversation                                                   |                                                   Poems                                                   |
+| :--------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
+| [![Bird Alone making music](/assets/images/2025/july-bird-1-thumbnail.jpg)](/assets/images/2025/july-bird-1.jpg) | [![Bird Alone conversation](/assets/images/2025/july-bird-2-thumbnail.jpg)](/assets/images/2025/july-bird-2.jpg) | [![Bird Alone poems](/assets/images/2025/july-bird-3-thumbnail.jpg)](/assets/images/2025/july-bird-3.jpg) |
+
+### Review
+
+### Monetisation
+
+### Tips
