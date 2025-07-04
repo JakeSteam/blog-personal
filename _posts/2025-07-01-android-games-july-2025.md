@@ -35,7 +35,7 @@ Whilst the game is very well-built, and has smooth interactions and graphics, I 
 
 ### Monetisation
 
-No ads or in-app purchases, just a one-time payment to play. SPACEPLAN is included free with Google Play Pass.
+No ads or in-app purchases, just a one-time £2.79 (~$4) payment to play. SPACEPLAN is included free with Google Play Pass.
 
 ### Tips
 
@@ -165,5 +165,3 @@ The game is also free on Google Play Pass, the only way I would recommend playin
 - Start your clue timer as soon as you start a level, you'll need it!
 - Tap everything.
 - Move everything.
-
----
