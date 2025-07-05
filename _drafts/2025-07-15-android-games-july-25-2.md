@@ -15,6 +15,8 @@ You know Vampire Survivors? This is an okay-ish mobile port of a wild west theme
 
 ### Screenshots
 
+All screenshots are from version 1.0.202:
+
 |                                                      Combat                                                       |                                                      Mineshaft                                                       |                                                      Upgrades                                                       |
 | :---------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
 | [![Bounty Of One combat](/assets/images/2025/july-bounty-1-thumbnail.jpg)](/assets/images/2025/july-bounty-1.jpg) | [![Bounty Of One mineshaft](/assets/images/2025/july-bounty-2-thumbnail.jpg)](/assets/images/2025/july-bounty-2.jpg) | [![Bounty Of One upgrades](/assets/images/2025/july-bounty-3-thumbnail.jpg)](/assets/images/2025/july-bounty-3.jpg) |
@@ -59,6 +61,8 @@ This is an educational game about your body, but more game than education!
 
 ### Screenshots
 
+All screenshots are from version 1.6.38:
+
 |                                                       Nose                                                       |                                                       Ear                                                       |                                                    About                                                    |
 | :--------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
 | [![Homo Machina nose level](/assets/images/2025/july-homo-1-thumbnail.jpg)](/assets/images/2025/july-homo-1.jpg) | [![Homo Machina ear level](/assets/images/2025/july-homo-2-thumbnail.jpg)](/assets/images/2025/july-homo-2.jpg) | [![Homo Machina about](/assets/images/2025/july-homo-3-thumbnail.jpg)](/assets/images/2025/july-homo-3.jpg) |
@@ -83,11 +87,54 @@ No need for tips, just solve each puzzle!
 
 ---
 
-## #3: [Bird Alone](https://play.google.com/store/apps/details?id=com.GeorgeBatchelor.BirdAlone)
+## #3: [MERGE KITCHEN](https://play.google.com/store/apps/details?id=com.FATSTAR.MergeKitchen)
+
+This Japanese merge / wave-defense game is a short and repetitive item merging experience made trivial by Google Play Pass, but I can't deny there's something enjoyable about it!
+
+### Screenshots
+
+All screenshots are from version 1.203:
+
+|                                                     Map                                                      |                                                     Combat                                                      |                                                     Combat 2                                                      | Challenge mode                                                                                                          |
+| :----------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------- |
+| [![MERGE KITCHEN map](/assets/images/2025/july-merge-1-thumbnail.jpg)](/assets/images/2025/july-merge-1.jpg) | [![MERGE KITCHEN combat](/assets/images/2025/july-merge-2-thumbnail.jpg)](/assets/images/2025/july-merge-2.jpg) | [![MERGE KITCHEN combat 2](/assets/images/2025/july-merge-3-thumbnail.jpg)](/assets/images/2025/july-merge-3.jpg) | [![MERGE KITCHEN challenge mode](/assets/images/2025/july-merge-4-thumbnail.jpg)](/assets/images/2025/july-merge-4.jpg) |
+
+### Review
+
+MERGE KITCHEN is one of those games where you'll see pretty much the entire thing within the first 120 seconds.
+
+Wait for items to spawn in your grid, merge them to create units, send them into a realtime battle against a flood of enemies alongside occasional special attacks (Healer, Wizard, etc). Win the level, earn currency to upgrade, play a harder level. And repeat.
+
+The upgrades available are fairly typical for a merge game. Unlocking higher merge tiers, increasing unit strength, and decreasing the 2-hour timer to gain free currency. Interestingly, due to Google Play Pass providing all bonuses, you'll gain a _ton_ of resources per level win and rarely have to retry. This means you can upgrade enough between each level to beat the next level, removing any sense of progression or difficulty.
+
+As the spawn timer for tile begins as soon as it is empty, you are incentivised to instantly merge whenever possible to maximise your items. This means you'll spend your time ignoring the top half of the screen and just blindly merging identical items until they hit max level, then throwing them into the battle. With a level typically lasting 2-3 minutes, you'll be "in the zone" and suddenly interrupted by the level complete screen!
+
+There are 50 levels, organised into packs of 5, so a full playthrough will take around 1.5-2 hours. After game completion there's a "challenge mode" which plays like a time-limited version of the entire game, offering upgrades in-level after enough kills. This is a nice addition, but the gameplay is still almost identical to the main game so doesn't provide much incentive unless you're already a massive fan.
+
+Visuals are consistently high quality throughout, although there's not much variety in enemies. Essentially everything walks forward and melee attacks, with your units luckily having more variety with range units (witch) staying behind the battle frontline.
+
+MERGE KITCHEN does have a story, told via short cutscenes every few levels, but it's fairly skippable. Whilst not as cliché as other games, it features a fairly melodramatic (and sometimes clunky) writing style revealing the creator's Japanese origin. Similarly, a few phrases in the app will display in Japanese, as will the app name, but this doesn't hinder gameplay.
+
+### Monetisation
+
+It's hard to say! It's free through Play Pass, but I believe there would be a fair amount of grinding otherwise unless purchasing the Ad-Free pack for an unknown price.
+
+### Tips
+
+1. You can drag to merge without slowing down, so a single swipe can upgrade multiple tiers.
+2. Item respawn timers still count whilst a special unit animation is playing, so use these as soon as they spawn to gain extra items.
+3. Unlocking new tiers of unit will mean it takes longer for your (stronger) units to enter the battlefield. Make sure you don't unlock too many tiers at once.
+4. Similarly, if the enemy is getting close to your base throw out any units you have, even if under max level, to buy some time.
+
+---
+
+## #4: [Bird Alone](https://play.google.com/store/apps/details?id=com.GeorgeBatchelor.BirdAlone)
 
 Want a friend AND a bird, without any of the hassle or commitment? Here's Bird Alone!
 
 ### Screenshots
+
+All screenshots are from version 4.3:
 
 |                                                   Making music                                                   |                                                   Conversation                                                   |                                                   Poems                                                   |
 | :--------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
