@@ -4,10 +4,10 @@ image: /assets/images/banners/reddit-achievements.png
 tags:
   - Reddit
   - Achievements
-last_modified_at: 2024-12-19
+last_modified_at: 2025-07-05
 ---
 
-In April 2024, Reddit added 18 achievements to the mobile app, grouped into 3 categories (and added 30+ more & outfits later). Here's all the details, and how to unlock all 58 achievements!
+In April 2024, Reddit added 18 achievements to the mobile app, grouped into 3 categories (and added 30+ more & outfits later). Here's all the details, and how to unlock all 59 achievements!
 
 ## What are achievements?
 
@@ -31,7 +31,7 @@ You can also view other people's achievements via their profile.
 
 A whole community of active achievement hunters has sprung up at [r/redditachievments](https://reddit.com/r/Redditachievments/)!
 
-Over there, tactics for unlocking achievements are discussed, along with updates on new achievements, and even a weekly leaderboard of top achievement hunters. Moderators (especially [u/EndersGame_Reviewer](https://www.reddit.com/user/EndersGame_Reviewer)) keep an eagle eye out for any new content, and maintain their own achievement list & help others achieve.
+Over there, tactics for unlocking achievements are discussed, along with updates on new achievements, and even a weekly leaderboard of top achievement hunters. Moderators (especially [u/RossTheRev](https://www.reddit.com/user/RossTheRev)) keep an eagle eye out for any new content, and maintain their own achievement list & help others achieve.
 
 The subreddit has been invaluable for this article, and I usually hear about new achievements via it. I also use it to find users with rarer achievements so I can get screenshots!
 
@@ -109,3 +109,11 @@ These are all very simple achievements that you'll probably earn in your first t
 | [![Detective Doggo Reddit achievement](/assets/images/2024/reddit-detectivedoggo.png)](/assets/images/2024/reddit-detectivedoggo.png)<br>**Detective Doggo** (Common) <br> Click 10 results (e.g. subreddits) within the Reddit app's search feature |            [![Feed Finder Reddit achievement](/assets/images/2024/reddit-feedfinder.png)](/assets/images/2024/reddit-feedfinder.png)<br>**Feed Finder** (Common) <br> Change feed type (Home / Popular / Watch / Latest) on the home tab of the Reddit app            |                     [![Newcomer Reddit achievement](/assets/images/2024/reddit-newcomer.png)](/assets/images/2024/reddit-newcomer.png)<br>**Newcomer** (Common) <br> Join any subreddit using the Reddit app                      |
 |             [![Person of Interests Reddit achievement](/assets/images/2024/reddit-personofinterests.png)](/assets/images/2024/reddit-personofinterests.png)<br>**Person of Interests** (Rare) <br> Join 5 subreddits via the Reddit app              | [![Profile Perfectionist Reddit achievement](/assets/images/2024/reddit-profileperfectionist.png)](/assets/images/2024/reddit-profileperfectionist.png)<br>**Profile Perfectionist** (Rare) <br> Set a banner image and description on your profile in the Reddit app | [![Secured Account Reddit achievement](/assets/images/2024/reddit-securedaccount.png)](/assets/images/2024/reddit-securedaccount.png)<br>**Secured Account** (Common) <br> Verify an email or phone number on your Reddit account |
 |                  [![Joined Reddit Reddit achievement](/assets/images/2024/reddit-joinedreddit.png)](/assets/images/2024/reddit-joinedreddit.png)<br>**Joined Reddit** (Common) <br> Have a Reddit account, the easiest achievement!                  |                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                   |
+
+## Unknown (1)
+
+In July 2025 a mysterious "Alumni Mod" achievement appeared on Reddit CEO u/spez's profile, with no information on the category or rarity. It is presumably part of [the new "Alumni" feature](https://support.reddithelp.com/hc/en-us/articles/37281225195156-What-s-an-alumni-mod).
+
+|                                                                                                                                                                     |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [![Reddit Alumni Mod achievement](/assets/images/2024/reddit-alumni.png)](/assets/images/2024/reddit-alumni.png)<br>**Alumni Mod**<br>Unknown, only 1 owner so far. |
