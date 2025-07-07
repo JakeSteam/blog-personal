@@ -2,14 +2,14 @@
 title: How I made a LEGO lenticular mosaic of Mario & Luigi (in 2017!)
 image: /assets/images/2022/legomario-luigi2.jpg
 tags:
-    - LEGO
-    - Mario
-    - Photoshop
+  - LEGO
+  - Mario
+  - Photoshop
 ---
 
 Waaaay back in 2017, I designed and created a lenticular LEGO mosaic (2 images in 1) of Mario & Luigi, and it's the only original build I've kept! Luckily I still have my notes from the time, so I'm writing them up in case anyone else wants to make something similar.
 
-As a warning, these can be surprisingly expensive (it is LEGO after all). Mine cost around £30, plus £10 shipping, and £5 for the baseplate. There's more pixels than you think! 
+As a warning, these can be surprisingly expensive (it is LEGO after all). Mine cost around £30, plus £10 shipping, and £5 for the baseplate. There's more pixels than you think!
 
 So, what is a lenticular mosaic? Well, it's this:
 
@@ -19,13 +19,13 @@ By laying out alternating rows of ramp bricks, 2 images can be seen depending on
 
 ## 1: Picking your design
 
-First, you need to decide what 2 pixel art images to use. These can be anything at all, but of course every pixel will mean a brick, so keep the overall size and cost in mind! 
+First, you need to decide what 2 pixel art images to use. These can be anything at all, but of course every pixel will mean a brick, so keep the overall size and cost in mind!
 
 I chose Mario and Luigi sprites from one of my favourite games of all time, Super Mario Advance 4. Make sure you have the original sprites, and not compressed images, or you may miscount the pixels later on.
 
-| Spritesheet | Mario | Luigi |
-| -- | -- | -- |
-[![](/assets/images/2022/legomario-sprites-thumbnail.png)](/assets/images/2022/legomario-sprites.png) | ![](/assets/images/2022/legomario-mario.png) | ![](/assets/images/2022/legomario-luigi.png) |
+| Spritesheet                                                                                           | Mario                                        | Luigi                                        |
+| ----------------------------------------------------------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
+| [![](/assets/images/2022/legomario-sprites-thumbnail.png)](/assets/images/2022/legomario-sprites.png) | ![](/assets/images/2022/legomario-mario.png) | ![](/assets/images/2022/legomario-luigi.png) |
 
 ## 2: Create your LEGO colour palette
 
@@ -60,6 +60,19 @@ Either by hand, or in Photoshop, count the number of pixels of each colour. In P
 
 ![](/assets/images/2022/legomario-histogram.png)
 
+For my design, I needed (in addition to a 32x32 baseplate):
+
+- [White](https://www.bricklink.com/v2/catalog/catalogitem.page?P=54200&idColor=1#T=S&C=1&O=%7B%22color%22:1,%22iconly%22:0%7D): 317
+- [Black](https://www.bricklink.com/v2/catalog/catalogitem.page?P=54200&idColor=11#T=S&C=11&O=%7B%22color%22:11,%22iconly%22:0%7D): 313
+- [Bright green](https://www.bricklink.com/v2/catalog/catalogitem.page?P=54200&idColor=36#T=S&C=36&O=%7B%22color%22:36,%22iconly%22:0%7D): 19
+- [Green](https://www.bricklink.com/v2/catalog/catalogitem.page?P=54200&idColor=6#T=S&C=6&O=%7B%22color%22:6,%22iconly%22:0%7D): 12
+- [Red](https://www.bricklink.com/v2/catalog/catalogitem.page?P=54200&idColor=5#T=S&C=5&O=%7B%22color%22:5,%22iconly%22:0%7D): 25
+- [Tan](https://www.bricklink.com/v2/catalog/catalogitem.page?P=54200&idColor=2#T=S&C=2&O=%7B%22color%22:2,%22iconly%22:0%7D): 151
+- [Dark red](https://www.bricklink.com/v2/catalog/catalogitem.page?P=54200&idColor=59#T=S&C=59&O=%7B%22color%22:59,%22iconly%22:0%7D): 13
+- [Dark blue](https://www.bricklink.com/v2/catalog/catalogitem.page?P=54200&idColor=63#T=S&C=63&O=%7B%22color%22:63,%22iconly%22:0%7D): 23
+- [Blue](https://www.bricklink.com/v2/catalog/catalogitem.page?P=54200&idColor=7#T=S&C=7&O=%7B%22color%22:7,%22iconly%22:0%7D): 43
+- [Reddish brown](https://www.bricklink.com/v2/catalog/catalogitem.page?P=54200&idColor=88#T=S&C=88&O=%7B%22color%22:88,%22iconly%22:0%7D): 44
+
 ## 5: Buying your bricks
 
 You should now have a list of LEGO slope colours, and how many of each you need. The final step is actually buying them!
@@ -67,7 +80,7 @@ You should now have a list of LEGO slope colours, and how many of each you need.
 Bricklink is great for this, and is essentially eBay for LEGO. This was my first time using it, so here's a few tips I wish I'd known:
 
 1. Order a few extra (~10%)! Bricks are around 1p / 1c, so it's worth it.
-2. Order from the same seller when possible, to save on shipping. 
+2. Order from the same seller when possible, to save on shipping.
 
 ![](/assets/images/2022/legomario-bricklink.png)
 
@@ -75,7 +88,7 @@ Bricklink is great for this, and is essentially eBay for LEGO. This was my first
 
 Debatably the easiest step, just follow your blueprint from step 3! I found it easiest to go colour by colour, be careful when counting your pixels though.
 
-Hopefully this post helped and you've now got an interesting lenticular mosaic! 
+Hopefully this post helped and you've now got an interesting lenticular mosaic!
 
 One more time, here's my finished result:
 
@@ -83,19 +96,18 @@ One more time, here's my finished result:
 
 ## Bonus: Pictures from my build
 
-| Stage | Picture | Description |
-| -- | -- | -- |
-| Outline | [![](/assets/images/2022/legomario-outline-thumbnail.jpg)](/assets/images/2022/legomario-outline.jpg) | First, I did Mario's outline. I used a bright green background in photoshop so that the pixels stood out easier. |
-| Mario skin | [![](/assets/images/2022/legomario-skin-thumbnail.jpg)](/assets/images/2022/legomario-skin.jpg) | Next, he gained skin! |
-| Mario clothes | [![](/assets/images/2022/legomario-clothes-thumbnail.jpg)](/assets/images/2022/legomario-clothes.jpg) | He then gained boots, a top, and a hat. |
-| Luigi skin + clothes | [![](/assets/images/2022/legomario-luigi1-thumbnail.jpg)](/assets/images/2022/legomario-luigi1.jpg) | Luigi then got involved, note that it looks messy here because lots of bricks are missing, so the images are merging together. |
-| Luigi skin + clothes 2 | [![](/assets/images/2022/legomario-luigi2-thumbnail.jpg)](/assets/images/2022/legomario-luigi2.jpg) | Luigi's outline, skin, shoes, and dark green bits are done. All that's left to do is their dungarees, and Luigi's light green sections. |
-| Mario finished | [![](/assets/images/2022/legomario-finished1-thumbnail.jpg)](/assets/images/2022/legomario-finished1.jpg) | All done! Mario looks very Mario-y... |
-| Luigi finished | [![](/assets/images/2022/legomario-finished2-thumbnail.jpg)](/assets/images/2022/legomario-finished2.jpg) | ... and Luigi looks very Luigi-y! |
+| Stage                  | Picture                                                                                                   | Description                                                                                                                             |
+| ---------------------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Outline                | [![](/assets/images/2022/legomario-outline-thumbnail.jpg)](/assets/images/2022/legomario-outline.jpg)     | First, I did Mario's outline. I used a bright green background in photoshop so that the pixels stood out easier.                        |
+| Mario skin             | [![](/assets/images/2022/legomario-skin-thumbnail.jpg)](/assets/images/2022/legomario-skin.jpg)           | Next, he gained skin!                                                                                                                   |
+| Mario clothes          | [![](/assets/images/2022/legomario-clothes-thumbnail.jpg)](/assets/images/2022/legomario-clothes.jpg)     | He then gained boots, a top, and a hat.                                                                                                 |
+| Luigi skin + clothes   | [![](/assets/images/2022/legomario-luigi1-thumbnail.jpg)](/assets/images/2022/legomario-luigi1.jpg)       | Luigi then got involved, note that it looks messy here because lots of bricks are missing, so the images are merging together.          |
+| Luigi skin + clothes 2 | [![](/assets/images/2022/legomario-luigi2-thumbnail.jpg)](/assets/images/2022/legomario-luigi2.jpg)       | Luigi's outline, skin, shoes, and dark green bits are done. All that's left to do is their dungarees, and Luigi's light green sections. |
+| Mario finished         | [![](/assets/images/2022/legomario-finished1-thumbnail.jpg)](/assets/images/2022/legomario-finished1.jpg) | All done! Mario looks very Mario-y...                                                                                                   |
+| Luigi finished         | [![](/assets/images/2022/legomario-finished2-thumbnail.jpg)](/assets/images/2022/legomario-finished2.jpg) | ... and Luigi looks very Luigi-y!                                                                                                       |
 
 ## Links
 
-* [Original inspiration by Daniele Benedettelli](https://robotics.benedettelli.com/lego-lenticular-mosaic/)
-* [My imgur album from 2017](https://imgur.com/gallery/GI8Cs)
-* [1x1 slope on Bricklink](https://www.bricklink.com/v2/catalog/catalogitem.page?P=54200#T=C&C=74)
-
+- [Original inspiration by Daniele Benedettelli](https://robotics.benedettelli.com/lego-lenticular-mosaic/)
+- [My imgur album from 2017](https://imgur.com/gallery/GI8Cs)
+- [1x1 slope on Bricklink](https://www.bricklink.com/v2/catalog/catalogitem.page?P=54200#T=C&C=74)
