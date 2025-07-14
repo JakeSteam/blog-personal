@@ -1,13 +1,13 @@
 ---
-title: "3 Play Pass game reviews: 🤠 Bounty Of One, 🫁 Homo Machina, 🦜 Bird Alone"
-image: /assets/images/banners/july-25-games-2.png
+title: "4 Play Pass game reviews: 🤠 Bounty Of One, 🫁 Homo Machina, ⚔️ MERGE KITCHEN, 🦜 Bird Alone"
+image: /assets/images/banners/jul-25-games-2.png
 tags:
   - Android
   - Gaming
 maxheader: 2
 ---
 
-I'm still in my Google Play Pass month, so here are 3 more games!
+I'm still in my Google Play Pass month, so here are 4 more games!
 
 ## #1: [Bounty Of One](https://play.google.com/store/apps/details?id=com.bountyofone.premium.mobile.gp)
 
@@ -142,6 +142,20 @@ All screenshots are from version 4.3:
 
 ### Review
 
+I'm hesitant to call Bird Alone game. It's more of an art experience / tamagotchi / story combination.
+
+Once you've introduced yourself and named your bird, you'll spend 1-2 minutes with it daily over a 3-4 week period. In these sessions, your bird will ask to talk to you. It will then ask to make music together, finish a poem, draw some art, plant flowers, or answer philosophical questions.
+
+Whilst these can start off pretty easy, asking how your day was, they quickly escalate into love, death, change, and genuinely thoughtful comments. The writing is mature and intelligent enough to overcome the fact that it is coming from a stylised parrot. At times it can overstep slightly (e.g. declaring love) or perhaps be a bit too intense, but this is always a risk with anything philosophical.
+
+Bird Alone is more of a thought of the day app than a game, and whilst this can be enjoyable, it scratches a different itch. Without spoilers, your bird will grow older and mature, and dwell on what that means.
+
+It's worth a playthrough if you have any interest in philosophy or more mature themes, and is fairly well-made (if a little simple).
+
 ### Monetisation
 
+I played Bird Alone as part of Google Play Pass, I believe it is $2.99 otherwise.
+
 ### Tips
+
+None needed, this is a linear experience.
