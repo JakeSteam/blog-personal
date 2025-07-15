@@ -2,9 +2,10 @@
 title: "Analysing your Netflix viewing history: How much have you watched, when, and how?"
 image: /assets/images/2023/netflix-banner.jpg
 tags:
-    - Netflix
-    - Analysis
-    - Data
+  - Netflix
+  - Analysis
+  - Data
+last_modified_at: 2025-07-15
 ---
 
 With Netflix's [recent changes to account sharing](https://www.bbc.co.uk/news/business-65691127), I was curious how my (shared!) account had been used over the last 10 years. To do this, I made a spreadsheet, and you can analyse your viewing history with it easily too!
@@ -21,7 +22,7 @@ To get your data, visit [Your Account](https://www.netflix.com/YourAccount) page
 
 On here, submit a request, and verify your email. You should receive an email in a day or so (mine took 12 hours) with a link to download.
 
-### Download your data 
+### Download your data
 
 Once the email arrives, click the download link, confirm your password, and there'll be a download button:
 
@@ -33,7 +34,7 @@ Once downloaded, unzip the downloaded file ([how to unzip](https://support.micro
 
 ### Initial sheet creation
 
-First, open up my [Netflix analysis template spreadsheet](https://docs.google.com/spreadsheets/d/1rmQ0BNOr5BrFJQpvTdse7nj_KpFwYDPKW4cmg_3TLXQ/edit?usp=sharing). 
+First, open up my [Netflix analysis template spreadsheet](https://docs.google.com/spreadsheets/d/1rmQ0BNOr5BrFJQpvTdse7nj_KpFwYDPKW4cmg_3TLXQ/edit?usp=sharing).
 
 Next, click `File` -> `Make a copy` to create an editable version for yourself:
 
@@ -51,13 +52,15 @@ This might take a few seconds to load, and the analysis sheet will definitely ta
 
 [![](/assets/images/2023/netflix-full-thumbnail.png)](/assets/images/2023/netflix-full.png)
 
+_Note: A reader reached out and shared that their export had the columns in a different order. Make sure to rearrange your columns so they match the example spreadsheet to enable the data analysis!_
+
 ## Analysing my own data
 
 ### Users
 
-The "User breakdown" table shows Netflix stats split by profile that has watched content. 
+The "User breakdown" table shows Netflix stats split by profile that has watched content.
 
-I used to watch a *lot* more Netflix, and had exclusive access for the first 3-4 years, so I was pretty surprised I'm only responsible for around 25% of the total watch time! It's still 62 days of watch time, but over 10 years this is to be expected.
+I used to watch a _lot_ more Netflix, and had exclusive access for the first 3-4 years, so I was pretty surprised I'm only responsible for around 25% of the total watch time! It's still 62 days of watch time, but over 10 years this is to be expected.
 
 Most of the data is very self-explanatory, I was quite interested in seeing my first watch session was almost a decade ago, and that nobody uses the "Kids" profile anymore.
 
@@ -67,7 +70,7 @@ Most of the data is very self-explanatory, I was quite interested in seeing my f
 
 The "Hour breakdown" and "Year breakdown" tables show Netflix viewing history split by year and hour of day. Whilst these 2 data sets (and associated graphs) look suspiciously similar, it's a coincidence!
 
-Unsurprisingly my account has watched more and more content over the years, this is more due to my account being shared with more family members than my personal watch time actually increasing.  Time of day distribution is also as expected, I often watch videos as background noise whilst working so I suspect I'll have a smaller "evening" spike than most people.
+Unsurprisingly my account has watched more and more content over the years, this is more due to my account being shared with more family members than my personal watch time actually increasing. Time of day distribution is also as expected, I often watch videos as background noise whilst working so I suspect I'll have a smaller "evening" spike than most people.
 
 [![](/assets/images/2023/netflix-time-thumbnail.png)](/assets/images/2023/netflix-time.png)
 
@@ -75,13 +78,13 @@ Unsurprisingly my account has watched more and more content over the years, this
 
 The "Country breakdown" and "Device breakdown" tables show Netflix viewing history split by countries accessed from, and devices watched on.
 
-Okay okay, this looks a little bit suspicious... I used to have an extension that would load *all* countries' Netflix libraries, hence the occasional trip to Ghana! The non-VPN data is unsurprisingly entirely US & UK based. The device information is much messier than expected. I assumed there'd be some sort of coherent system, but it seems to be all over the place. I recognise my old devices (Galaxy S2, Nexus 7!), makes me weirdly nostalgic!
+Okay okay, this looks a little bit suspicious... I used to have an extension that would load _all_ countries' Netflix libraries, hence the occasional trip to Ghana! The non-VPN data is unsurprisingly entirely US & UK based. The device information is much messier than expected. I assumed there'd be some sort of coherent system, but it seems to be all over the place. I recognise my old devices (Galaxy S2, Nexus 7!), makes me weirdly nostalgic!
 
 [![](/assets/images/2023/netflix-countrydevice-thumbnail.png)](/assets/images/2023/netflix-countrydevice.png)
 
 ### By content watched
 
-The "Content breakdown" table is a couple of thousand rows long, and lists every single show / film watched on my Netflix account. 
+The "Content breakdown" table is a couple of thousand rows long, and lists every single show / film watched on my Netflix account.
 
 This was by far the hardest part of this spreadsheet to write a formula for (see ["finding unique substrings"](#finding-unique-substrings)), and it's amazing how many awkward TV show names break any code. For example, the show "3%" is formatted as `0.03` and... I've given up fixing it! All other shows / films seem OK, let me know if any others seem broken.
 
@@ -127,12 +130,12 @@ The full code to do this (made more readable) is:
 
 I know, it's a bit chaotic when seen all at once. Here's what each bit does, from the middle outwards:
 
-* [`FILTER...`](https://support.google.com/docs/answer/3093197?hl=en-GB) & [`ISBLANK...`](https://support.google.com/docs/answer/3093290?hl=en-GB): This fetches all titles (`ViewingActivity!E2:E`) that don't have anything in column F, which is used to indicate trailers or other non-standard content.
-* [`SPLIT...`](https://support.google.com/docs/answer/3094136?hl=en-GB): This splits each title by `:`, separating the show name from any episode information.
-* [`INDEX...`](https://support.google.com/docs/answer/3098242?hl=en-GB): This grabs the first split value, e.g. the show's name. Google Sheets is not zero-indexed!
-* [`TO_TEXT...`](https://support.google.com/docs/answer/3094285?hl=en-GB): This converts the value into plaintext, avoiding any numerical show titles breaking the formula.
-* [`UNIQUE...`](https://support.google.com/docs/answer/10522653?hl=en-GB): This filters all the show / film titles to be unique.
-* [`SORT...`](https://support.google.com/docs/answer/3093150?hl=en-GB): Finally, this sorts all the titles alphabetically.
+- [`FILTER...`](https://support.google.com/docs/answer/3093197?hl=en-GB) & [`ISBLANK...`](https://support.google.com/docs/answer/3093290?hl=en-GB): This fetches all titles (`ViewingActivity!E2:E`) that don't have anything in column F, which is used to indicate trailers or other non-standard content.
+- [`SPLIT...`](https://support.google.com/docs/answer/3094136?hl=en-GB): This splits each title by `:`, separating the show name from any episode information.
+- [`INDEX...`](https://support.google.com/docs/answer/3098242?hl=en-GB): This grabs the first split value, e.g. the show's name. Google Sheets is not zero-indexed!
+- [`TO_TEXT...`](https://support.google.com/docs/answer/3094285?hl=en-GB): This converts the value into plaintext, avoiding any numerical show titles breaking the formula.
+- [`UNIQUE...`](https://support.google.com/docs/answer/10522653?hl=en-GB): This filters all the show / film titles to be unique.
+- [`SORT...`](https://support.google.com/docs/answer/3093150?hl=en-GB): Finally, this sorts all the titles alphabetically.
 
 Note that the session count and duration total are just basic `SUMIF` and `COUNTIF`s, used throughout the analysis sheet.
 
@@ -149,23 +152,23 @@ I'll walk through the "Sessions" count, since "Total Duration" is just an extens
     COUNTIFS(
         TIME(
             HOUR(ViewingActivity!B2:B)
-        , 0, 0), 
+        , 0, 0),
     A22&":00:00")
 )
 ```
 
 Not as bad as the last formula, but still confusing. Here's how it works, from the inside out:
 
-* [`HOUR...`](https://support.google.com/docs/answer/3093045?hl=en-GB): This pulls the hour from all viewing events, e.g. "10" from "10:33:21".
-* [`TIME...`](https://support.google.com/docs/answer/3093056?hl=en-GB): This creates a new time with the previously retrieved `HOUR`, and a minute & second of `0`. E.g. "10:00:00" from "10".
-* [`COUNTIFS...`](https://support.google.com/docs/answer/3256550?hl=en-GB): This counts every one of these new timestamps that matches one we've built using `A22`. For example if `A22` contained "10", we'd be matching all rows with "10:00:00".
-* [`ARRAYFORMULA...`](https://support.google.com/docs/answer/3093275?hl=en-GB): I don't understand `ArrayFormula` honestly, but it converts the count into a format that can be displayed in a cell!
+- [`HOUR...`](https://support.google.com/docs/answer/3093045?hl=en-GB): This pulls the hour from all viewing events, e.g. "10" from "10:33:21".
+- [`TIME...`](https://support.google.com/docs/answer/3093056?hl=en-GB): This creates a new time with the previously retrieved `HOUR`, and a minute & second of `0`. E.g. "10:00:00" from "10".
+- [`COUNTIFS...`](https://support.google.com/docs/answer/3256550?hl=en-GB): This counts every one of these new timestamps that matches one we've built using `A22`. For example if `A22` contained "10", we'd be matching all rows with "10:00:00".
+- [`ARRAYFORMULA...`](https://support.google.com/docs/answer/3093275?hl=en-GB): I don't understand `ArrayFormula` honestly, but it converts the count into a format that can be displayed in a cell!
 
 ## Conclusion
 
-Overall, I'm pretty happy with how the analysis went. I'd have liked to share my full viewing data, but since multiple people use the account it wasn't possible. 
+Overall, I'm pretty happy with how the analysis went. I'd have liked to share my full viewing data, but since multiple people use the account it wasn't possible.
 
-I'll avoid complaining about the [changes to Netflix's account sharing policies](https://www.bbc.co.uk/news/business-65691127), since I've already (somewhat) acted with my wallet by reducing my plan. Since I no longer need the 4 active screens perk of the highest plan, I downgraded to save £5/mo! 
+I'll avoid complaining about the [changes to Netflix's account sharing policies](https://www.bbc.co.uk/news/business-65691127), since I've already (somewhat) acted with my wallet by reducing my plan. Since I no longer need the 4 active screens perk of the highest plan, I downgraded to save £5/mo!
 
 Whilst analysing the content itself (e.g. genre, % of shows finished, rewatches) would have been a useful addition, it would be pretty tricky without hooking up to IMDb's datasets. The metadata analysis itself is still pretty interesting, I was definitely surprised how much other family members use my shared account.
 
