@@ -1,6 +1,6 @@
 ---
-title: "Yet more Play Pass gamrd"
-image: /assets/images/banners/jul-25-games-23.png
+title: "Yet more Play Pass games! 🦖 Tap Dig My Museum, 🏠 Possessions, 🏎️ Super Arcade Racing"
+image: /assets/images/banners/jul-25-games-3.png
 tags:
   - Android
   - Gaming
@@ -83,3 +83,41 @@ Free on Play Pass, the store mentions in-app payments of $3-6 but I'm not sure w
 - There are no time pressures / incentives, so take it slowly.
 
 ---
+
+## #3: [Super Arcade Racing](https://play.google.com/store/apps/details?id=com.outofthebit.superarcaderacing)
+
+Can you guess what Super Arcade racing is about? Yep, arcade racing!
+
+### Screenshots
+
+All screenshots are from version 1.15:
+
+|                                                         Desert Race                                                          |                                                         City Race                                                          |                                                         Cutscene                                                          | Garage                                                                                                                  |
+| :--------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------- |
+| [![super arcade racing desert race](/assets/images/2025/july-racing-1-thumbnail.jpg)](/assets/images/2025/july-racing-1.jpg) | [![super arcade racing city race](/assets/images/2025/july-racing-4-thumbnail.jpg)](/assets/images/2025/july-racing-4.jpg) | [![super arcade racing cutscene](/assets/images/2025/july-racing-2-thumbnail.jpg)](/assets/images/2025/july-racing-2.jpg) | [![super arcade racing garage](/assets/images/2025/july-racing-3-thumbnail.jpg)](/assets/images/2025/july-racing-3.jpg) |
+
+### Review
+
+Super Arcade Racing looks simple, but has a surprising amount of depth. Clearly heavily inspired by 80s and 90s top down games (it reminds me a lot of old GTA or Micro Machines), it includes the brutal difficulty you'd expect!
+
+Each level consists of 1-3 laps racing around a complex and winding course, often with oil slicks, secret bonus levels, shortcuts, jumps, boosts, and environmental events (e.g. collapsing logs or snow drifts). There are 60 tracks in total, across 5 biomes (e.g. city, desert, racing track), and each track is designed to be easy enough to learn, yet hard enough to always provide a challenge.
+
+The difficulty can be brutal, with a single wrong turn (or missing a jump) often dooming an entire race. Whilst this is faithful to retro games, it's pretty frustrating when driving up or down and only being able to see a few metres ahead on a phone screen. This problem is compounded by your thumbs blocking the bottom of the screen, meaning your main enemy isn't the other drivers but your own visibility.
+
+Whilst there [is a Steam version](https://store.steampowered.com/app/1103770/Super_Arcade_Racing/), this limited visibility (minus the thumbs!) seems to be an intentional choice. Admittedly there is a "practice" option for each track, but for a casual racing game I always skip it and generally do _okay_.
+
+Luckily, many levels don't require a win. Most just require finishing in the top 3, which at least allows recovery from a minor mistake.
+
+On top of this retro racing gameplay is a story about your kidnapped brother, plus a detailed customisation system. Completing levels will earn money, used to upgrade your car's parts (with higher tiers being unlocked as you progressed). In a nice touch, your car's visual appearance can be customised independently of any performance. As part of this, you unlock "front", "middle", and "back" parts, all interchangeable, letting you make a ridiculous sports car / pickup hybrid!
+
+There's an online multiplayer mode, but after ~20 levels (out of 60) I don't feel good enough to want to be ridiculed online! There's cross-platform multiplayer, so it's hard to see how any player using touch controls would have a chance against a PC player on a controller.
+
+### Monetisation
+
+Super Arcade Racing is fully free on Play Pass. Worryingly, there seems to be in-app purchases for $1 - $20 listed on the store, yet I'm not sure what they could be for. I noticed my income is doubled, making the challenge more skill based than just a grind, so hopefully the payments are mostly for car cosmetics.
+
+### Tips
+
+- I never use my brake! Thumb on the accelerator, easing off for a hairpin turn, other thumb trying to steer.
+- For your first lap on a track, it's a good idea to follow the AI who actually know where to go.
+- You can totally barge opponents into walls to get ahead!
