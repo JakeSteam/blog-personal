@@ -7,7 +7,7 @@ tags:
 maxheader: 2
 ---
 
-I'm still in my Google Play Pass month, so here are 4 more games!
+I'm still in my Google Play Pass month, so here are 3 more games!
 
 ## #1: [TAP! DIG! MY MUSEUM!](https://play.google.com/store/apps/details?id=jp.oridio.museum)
 
