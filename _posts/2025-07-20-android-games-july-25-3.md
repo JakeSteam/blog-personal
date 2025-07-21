@@ -74,7 +74,9 @@ Overall completing Possessions won't take more than an hour or so, at least at t
 
 ### Monetisation
 
-Free on Play Pass, the store mentions in-app payments of $3-6 but I'm not sure what they correlate to. I probably wouldn't pay more than $5 for the entire game personally.
+Free on Play Pass, otherwise a £5 (~$6.50) payment is needed to play more than a simple trial. There also seems to be other payments listed on the store, possibly for the bonus levels.
+
+In my opinion that's a little too expensive for the length of the game.
 
 ### Tips
 
