@@ -53,3 +53,29 @@ I accessed hocus for free via Google Play Pass, but it looks like a one-off £1.
 - Due to the game's confusing perspective, never assume how 2 poles are going to interact! I often found I'd unexpectedly be able to hop from one to the other, or be blocked, so it's always worth trying out all possible routes.
 
 ---
+
+## #2: [Hidden Through Time 2: Discovery]()
+
+### Screenshots
+
+All screenshots are from version :
+
+### Review
+
+### Monetisation
+
+### Tips
+
+---
+
+## #2: [Hidden Through Time 2: Magic]()
+
+### Screenshots
+
+All screenshots are from version :
+
+### Review
+
+### Monetisation
+
+### Tips
