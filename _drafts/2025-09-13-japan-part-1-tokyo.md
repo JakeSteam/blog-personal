@@ -10,19 +10,19 @@ tags:
 
 intro
 
-_Note: This is a series of posts, with Tokyo [Part 1](/japan-part-1-tokyo/), Takayama [Part 2](/japan-part-2-takayama/), Kyoto [Part 3](/japan-part-3-kyoto/), and Tokyo [Part 4](/japan-part-4-tokyo/)_
+_Note: This is a series of posts, with Tokyo Part 1 (this article), Takayama [Part 2](/japan-part-2-takayama/), Kyoto [Part 3](/japan-part-3-kyoto/), and Tokyo [Part 4](/japan-part-4-tokyo/)._
 
 ## Day 1 (22nd August): Arrival & Asakusa
 
 intro **13,441 steps (5.84 miles)**.
 
-[![Japan day 1 map](/assets/images/2025/japan-day1-thumbnail.png)](/assets/images/2025/japan-day1.png)
+[![Japan 1 day 1 map](/assets/images/2025/japan1-day1-thumbnail.png)](/assets/images/2025/japan1-day1.png)
 
 ### Onyado Nono Hotel
 
 ### Age.3
 
-### Senso-ji Temple (and surrounding gardens)
+### Senso-ji Temple (and surrounding gardens etc)
 
 ### Nakamise shopping street
 
@@ -40,11 +40,15 @@ intro **13,441 steps (5.84 miles)**.
 
 intro **23,018 steps (10.70 miles)**.
 
-[![Japan day 2 map](/assets/images/2025/japan-day2-thumbnail.png)](/assets/images/2025/japan-day2.png)
+[![Japan 1 day 2 map](/assets/images/2025/japan1-day2-thumbnail.png)](/assets/images/2025/japan1-day2.png)
 
 ### Tsukiji Outer Market
 
+Custard stick place? Grape place? Strawberry dessert place on corner? Shaved ice place, maybe marukita II
+
 ### Hamarikyu Gardens
+
+Rest place, misc stuff inside
 
 ### Teatro Effe Tokyo
 
@@ -60,7 +64,7 @@ intro **23,018 steps (10.70 miles)**.
 
 intro **7,339 steps (2.62 miles)**.
 
-[![Japan day 3 map](/assets/images/2025/japan-day3-thumbnail.png)](/assets/images/2025/japan-day3.png)
+[![Japan 1 day 3 map](/assets/images/2025/japan1-day3-thumbnail.png)](/assets/images/2025/japan1-day3.png)
 
 ### Mt Fuji / Hakone TripAdvisor tour (Aya / Yama-san)
 
@@ -70,17 +74,19 @@ intro **7,339 steps (2.62 miles)**.
 
 ### Hakone Ropeway (cable car)
 
+### Sulfur place
+
 ### Lake Ashinoko (pirate ship cruise)
 
 ## Day 4 (25th August): Ueno & Akihabara
 
 intro **16,778 steps (6.73 miles)**.
 
-[![Japan day 4 map](/assets/images/2025/japan-day4-thumbnail.png)](/assets/images/2025/japan-day4.png)
+[![Japan 1 day 4 map](/assets/images/2025/japan1-day4-thumbnail.png)](/assets/images/2025/japan1-day4.png)
 
 ### Ueno Park (Shinobazu Pond)
 
-### Kanazawa Maimonzushi
+### Kanazawa Maimonzushi Ueno
 
 ### Onitsuka Tiger
 
@@ -102,7 +108,7 @@ intro **16,778 steps (6.73 miles)**.
 
 intro **14,684 steps (6.41 miles)**.
 
-[![Japan day 5 map](/assets/images/2025/japan-day5-thumbnail.png)](/assets/images/2025/japan-day5.png)
+[![Japan 1 day 5 map](/assets/images/2025/japan1-day5-thumbnail.png)](/assets/images/2025/japan1-day5.png)
 
 ### Small Worlds Museum
 
