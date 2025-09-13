@@ -110,23 +110,59 @@ intro **23,018 steps (10.70 miles)**.
 
 [![Japan 1 day 2 map](/assets/images/2025/japan1-day2-thumbnail.png)](/assets/images/2025/japan1-day2.png)
 
-### Tsukiji Outer Market
+### Tsukiji Outer Market ★★★★✰
 
-Custard stick place? Grape place? Strawberry dessert place on corner? Shaved ice place, maybe marukita II
+This chaotic market is unique, and has plenty to offer even if you have no interest in seafood. It's hard to know exactly which shops you're buying from, so you'll have to rely on instinct instead or reviews!
 
-### Hamarikyu Gardens
+Whilst here we had matcha shaved ice, a custard dessert slab, and glazed fruit, all of which were great. The inner market is mostly fish, with the outer market consisting of more standard snacks and drinks. It's a BIG area, and finding a past shop can be tricky so just buy anything you like the look of!
 
-Rest place, misc stuff inside
+It can get very crowded here, with some of the smaller alleyways being impossible to get down if a larger family or eating tour group is currently in there. The main roads and outside are easily navigated though, note many will only accept cash however.
 
-### Teatro Effe Tokyo
+**[Original review (3 photos)](https://maps.app.goo.gl/u4AuxYLyQxTm8FeJ9)**
 
-### Marutake
+### TEATRO eFfe TOKYO ★★★✰✰
 
-### Tomago-to-watashi
+A very sweet cream soda and matcha latte, plus fairly high prices and an enforced 1-drink-per-person policy (even when completely empty) makes the store hard to recommend if you're just after a drink. However, it does have good air con and is in a convenient location.
 
-### Ginza Itoya
+**[Original review](https://maps.app.goo.gl/fHRKG4k8DaPYFnJ86)**
 
-### Ippudo Asakusa
+### Hamarikyu Gardens ★★★★★
+
+A good way to spend a few hours, with the small entry fee ensuring it's a quiet and peaceful contrast to the nearby Tsukiji market.
+
+The Shonoji Isle bridges are great for photos, with the duck hunting sites providing some interesting information on how ducks were historically trapped here (it includes trained decoys!). The 300-year old pine is also impressively gnarled, whilst the Shogun's Landing Place is a fairly bland concrete area.
+
+A special shoutout for the "rest area" is needed, since the shaded zone with sprayed water vapour (and a nearby drink seller) was absolutely essential when visiting on a summer day.
+
+Overall it's a very aesthetic and well maintained garden area, providing contrast from the busy city nearby.
+
+**[Original review (3 photos)](https://maps.app.goo.gl/5MBQMSwWj17xzigo6)**
+
+### Marutake ★★★★✰
+
+This popular cash-only shop primarily sells warm tamago (sweet egg omelette), with a small strip costing 200 yen. Whilst nice, it's not particularly unique (there's another shop on the same street). There's no eating area, so you'll need to stand in the busy & chaotic street.
+
+**[Original review (1 photo)](https://maps.app.goo.gl/T5Vf8JdR9pZTaD868)**
+
+### Tomago-to-watashi ★★✰✰✰
+
+Small restaurant within the station selling omurice (fluffy egg pancake with rice). The "soufflé" version was better, but both were fairly basic yet expensive meals. We struggled to get noticed when trying to make an order, with staff members seemingly initially avoiding us due to being foreigners, however there was an English menu available.
+
+**[Original review](https://maps.app.goo.gl/SvLRAin8CGherT387)**
+
+### Ginza Itoya ★★★★✰
+
+A multi-level stationary store, even if you're not particularly into arts & crafts it's intriguing seeing all the options available. The ground floor is a bit too busy, and it can be hard to navigate.
+
+**[Original review](https://maps.app.goo.gl/9Evmzcw2HrUFztoL8)**
+
+### Ippudo Asakusa ★★★★★
+
+Great ramen, fast service, order is via a touchscreen making it easy for foreigners. Ippudo was one of the few places open late at night, a lucky find!
+
+Careful of the spicy ramen, they really mean spicy.
+
+**[Original review](https://maps.app.goo.gl/CmJh2KgoMBveuQhT6)**
 
 ## Day 3 (24th August): Mt Fuji
 
