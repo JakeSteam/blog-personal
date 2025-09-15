@@ -14,7 +14,9 @@ _Note: This is a series of posts, with Tokyo Part 1 (this article), Takayama [Pa
 
 ## Day 1 (22nd August): Arrival & Asakusa
 
-intro **13,441 steps (5.84 miles)**.
+We arrived in Tokyo at an impressively early 7am after a 14-hour flight, so our jetlag and exhaustion levels were immense!
+
+Despite this, our wandering around Asakusa both before our hotel's check-in time, and then after a much-needed nap, resulted in **13,441 steps (5.84 miles)**.
 
 [![Japan 1 day 1 map](/assets/images/2025/japan1-day1-thumbnail.png)](/assets/images/2025/japan1-day1.png)
 
@@ -106,7 +108,7 @@ Helpfully, a guide on how to use each item / dip is provided in front of you in 
 
 ## Day 2 (23rd August): Ginza
 
-intro **23,018 steps (10.70 miles)**.
+Our first full day in Tokyo focused on the Tsukiji / Ginza area, making our way from the riverfront to Tokyo Station (with lots of shops along the way) resulted in **23,018 steps (10.70 miles)**.
 
 [![Japan 1 day 2 map](/assets/images/2025/japan1-day2-thumbnail.png)](/assets/images/2025/japan1-day2.png)
 
@@ -164,49 +166,123 @@ Careful of the spicy ramen, they really mean spicy.
 
 **[Original review](https://maps.app.goo.gl/CmJh2KgoMBveuQhT6)**
 
-## Day 3 (24th August): Mt Fuji
+## Day 3 (24th August): Mt Fuji & Hakone
 
-intro **7,339 steps (2.62 miles)**.
+The entire day was taken up with a trip to Mt Fuji and Hakone, with lots of travel time resulting in only **7,339 steps (2.62 miles)**.
 
 [![Japan 1 day 3 map](/assets/images/2025/japan1-day3-thumbnail.png)](/assets/images/2025/japan1-day3.png)
 
-### Mt Fuji / Hakone TripAdvisor tour (Aya / Yama-san)
+### Mt Fuji / Hakone TripAdvisor tour ★★★★★
 
-### Mt Fuji 5th Station
+This day trip exceeded our expectations! Whilst there was a fair amount of travelling on the bus, this time was used very productively by Aya (with Yamasan driving) to educate about Japan, Mt Fuji, a few Japanese words, and much more.
 
-### Shinobi No Sato
+A brief warning about the meeting point at Shinjuku, there are multiple groups meeting here at once (including multiple from Japan Panoramic Tours), so get there a little early and listen carefully to the groups. We had a few people looking for a Tokyo bus tour getting a bit confused!
 
-### Hakone Ropeway (cable car)
+Our first main stop, Mt Fuji 5th station, was unexpectedly very busy with hikers, making it tricky to do much there in the allotted time besides buying a few souvenirs and seeing a viewpoint. It was unfortunately cloudy when we visited, so it was a little surreal being surrounded by grey nothingness!
 
-### Sulfur place
+Lunch was a weak point, with a very average "buffet" provided at a strange ninja experience / scenic garden / restaurant hybrid called Shinobi No Sato. At least there was a good shop and the garden was pleasant to walk around.
 
-### Lake Ashinoko (pirate ship cruise)
+The ropeway was busier than normal so we had to change plans slightly here, with Aya and another guide impressively changing the itinerary on the fly (including rebooking boats etc) to ensure we still got to do everything. The changed plan was arguably better, with a flyover of the sulfur mines now included, a very alien sight.
+
+Finally, the cruise after the ropeway was excellent! The scenery was breathtaking, and on a hot day the breeze was a welcome break. The boat did a 180 after departing the dock, so our average position at the back became an excellent view forward!
+
+Throughout the day, Aya was informative, friendly, funny and energetic. She had far more patience than I would have with people wandering off, with an early incident disciplined with lighthearted and effective brief teasing instead of anything more dramatic. Aya also made an effort to get not just a group photo at the end, but also take photos for couples at multiple opportunities.
+
+It was truly impressive how she managed to coordinate everyone, and provide information throughout, whilst still finding the time to talk to every group (usually couples) individually about their travel plans, Japan experience, etc. She provided us with some excellent restaurant and vintage shopping recommendations (and local slang!) in her native Osaka, many of which we utilised later in our trip.
+
+I highly recommend the tour, and can't thank Aya enough!
+
+**[Original review (10 photos)](https://www.tripadvisor.co.uk/ShowUserReviews-g1066457-d9741667-r1030388993-Japan_Panoramic_Tours-Shinjuku_Tokyo_Tokyo_Prefecture_Kanto.html)**
 
 ## Day 4 (25th August): Ueno & Akihabara
 
-intro **16,778 steps (6.73 miles)**.
+A fairly meandering (and very hot!) day around Ueno then Akihabara, resulting in **16,778 steps (6.73 miles)**.
 
 [![Japan 1 day 4 map](/assets/images/2025/japan1-day4-thumbnail.png)](/assets/images/2025/japan1-day4.png)
 
-### Ueno Park (Shinobazu Pond)
+### Shinobazu Pond Bentendo ★★★★★
 
-### Kanazawa Maimonzushi Ueno
+A surprisingly pleasant small temple surrounded by a lotus flower pond (with turtles!), very quiet in the mornings. The inside is fairly typical for a temple, peaceful and visually appealing. You can also buy small blessings and similar items.
 
-### Onitsuka Tiger
+**[Original review (2 photos)](https://maps.app.goo.gl/GsW5VB6PnxXeUuYu7)**
 
-### Ameyoko Street
+### Kanazawa Maimonzushi Ueno ★★★★★
 
-### Super Potato
+This made-to-order sushi restaurant is hidden away on the top floor of the mall, we only found it by following a hungry-looking salaryman!
 
-### Edion Akiba
+After registering our group size (2) on the iPad out front, after a few minutes of waiting we were given a table at the counter. Here, we could watch the chefs selecting fish cuts, make ourselves hot green tea, and order dishes from the iPad.
 
-### Gachapon hall (cat clock?)
+Each "group" is separated by a plastic transparent barrier, so you can use their dishes for inspiration if needed whilst still having your own private space. Dishes are typically passed directly from the chefs in front of you, or sometimes via a waiter behind you, but there's no conveyer belt we could see.
 
-### One of the GiGo arcades..?
+The dishes themselves were good, perhaps not quite as good as elsewhere but hard to complain for the price. A few were unreasonably oversized making them a challenge to eat, be careful!
+
+**[Original review (3 photos)](https://maps.app.goo.gl/iTEe61Lr5cHkGSuV8)**
+
+### Onitsuka Tiger Parco_ya Ueno ★★★★★
+
+We visited 4-5 different Onitsuka Tiger stores during our trip, and this was consistently the quietest! Whilst others were chaotic and even had queues out front, this slightly less obvious location meant there were as many staff as customers.
+
+Staff were helpful despite missing some items of stock, and the completely open store layout makes it a far better shopping experience than most footwear stores.
+
+**[Original review](https://maps.app.goo.gl/sPxpPe7uBWcS8dV7A)**
+
+### Super Potato ★★★★✰
+
+Super Potato felt like something from another world. After taking the lift up to the top floor, each floor had a different unique vibe. Some had a few guys hanging around playing arcade games, others were more like a small sweet shop, others were more like museums.
+
+I can't comment on prices, but it was great seeing thousands of retro games and tech scattered everywhere, although the narrow corridors made it hard to navigate sometimes.
+
+**[Original review (3 photos)](https://maps.app.goo.gl/W92ughhJFKJodVqJ9)**
+
+### Edion Akiba ★★★★✰
+
+This store has so much variety! Going up the escalators, you'll start with a massive variety of anime / gaming related figures, then go through watches, then wine, then microwaves, and suddenly you're surrounded by trading cards or a car racing track.
+
+The top floor had trading card vending machines for various games, plus a few guys playing a game near the drinks vending machine, and it had a very calm and peaceful vibe. I can easily imagine spending a few hours here playing a card game with friends.
+
+The car racing track wasn't open when I visited, but it seems to be frequently used, with all the related accessories sold nearby too.
+
+**[Original review (1 photo)](https://maps.app.goo.gl/mBmvo7Y6F5P3aqhy7)**
+
+### Gachapon hall ★★★✰✰
+
+A very dense gachapon hall. Machines are stacked high, and more than a couple of customers (plus members of staff emptying machines) makes it a challenge to make any progress looking at them all. Other locations have far more space, although perhaps less variety.
+
+The machines are an OK price, with a change dispenser situated in the middle of the hall, employee desk in the middle, and figurine sales at the back.
+
+**[Original review (1 photo)](https://maps.app.goo.gl/Hqt1LQtjEMvvLM587)**
+
+### GiGO Akihabara 2 ★★★✰✰
+
+Quite a poorly laid out and expensive GiGO, mostly consisting of claw machines, many of which have bizarre items like household stools.
+
+**[Original review (2 photos)](https://maps.app.goo.gl/kcHXriwDhubPxaNk9)**
 
 ### Uniqlo Asakusa
 
-### Sumo show & meal @ Rockza
+A large, well laid out Uniqlo with multiple floors. There's plenty of appealing t-shirts here, plus of course the essential Airism polo / shirt / underwear for hot summers.
+
+**[Original review (1 photo)](https://maps.app.goo.gl/NW7qFC4GDrXryfTf6)**
+
+### Tokyo Sumo Entertainment Show
+
+This isn't a serious sumo show, nor is it trying to be. It's fun entertainment for tourists, and so long as you know what you're getting into, you'll have a great time!
+
+After a short geisha show (fairly authentic as far as I can tell, it was just a much shorter version of a genuine performance seen in Kyoto), there's a typical hotpot meal provided, with free food refills (and paid drinks) available via a QR code mobile website. A presenter explains what's happening (in native English) throughout.
+
+Those on the front seats will then have their tables taken away for the main event: Sumo! The 2 wrestlers are obviously playing characters, with all the pantomime "cheer for your guy, boo the other guy" style encouragement you'll recognise from other family-friendly entertainment. There's a bit of slapstick entertainment throughout, and the sumo wrestlers sell it well!
+
+After showcasing some basic moves and pushes, the wrestlers have a "real" fight (with the audience throwing in the traditional salt). This looked convincing, but it's hard to tell as an outsider.
+
+Next up is some audience participation! 6 or so candidates from ~10 volunteers were chosen, with ages ranging from 13 to late 40s. Whilst there's clearly been some behind-the-scenes coaching on what's going to happen, making these scripted fights, they're chaotic fun with lots of audience cheering throughout.
+
+During our show, an Australian rules football player SEEMED to genuinely win his battle with pushing power! At the very least, the brief surprised shout from the losing wrestler was real. The wrestlers themselves deserve extra credit for their physical AND comedic performances.
+
+Finally, you'll get a chance to take a photo with the wrestlers (and geisha), handled via efficient turn-based coordination, and be given a branded tote bag with branded wooden boxes, stickers, scarves, and your photos.
+
+Overall this was a very fun couple of hours in the evening, and a great way to experience a heavily compacted (and simplified) slice of Japanese culture.
+
+**Original review (4 photos)** (link coming soon)
 
 ## Day 5 (26th August): Odaiba
 
