@@ -312,7 +312,7 @@ I'd recommend coming at opening time, as even an hour later the empty rooms beco
 
 **[Original review (28 photos)](https://maps.app.goo.gl/WGTBbREpq65YFifZ8)**
 
-### Tokyo Rinkai Disaster Prevention ★★★★★
+### Rinkai Disaster Prevention ★★★★★
 
 A surprisingly detailed educational centre focusing on disaster recovery.
 
