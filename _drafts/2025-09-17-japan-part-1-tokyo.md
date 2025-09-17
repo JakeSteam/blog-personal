@@ -1,16 +1,18 @@
 ---
-title: 5 days in Tokyo, told via Google Maps reviews (part 1/4, X reviews)
-image: /assets/images/banners/japan1.jpg
+title: 5 days in Tokyo, told via Google Maps reviews (part 1/4, 37 reviews)
+image: /assets/images/banners/japan1.png
 tags:
   - Japan
+  - Tokyo
   - Travel
   - Reviews
   - "Google Maps"
+maxheader: 2
 ---
 
-intro
+I recently went to Japan for an unbelievably excellent 3-week holiday! Here's the first location visited, Tokyo's Asakusa, told via 37 Google Maps reviews (well, some are TripAdvisor).
 
-_Note: This is a series of posts, with Tokyo Part 1 (this article), Takayama [Part 2](/japan-part-2-takayama/), Kyoto [Part 3](/japan-part-3-kyoto/), and Tokyo [Part 4](/japan-part-4-tokyo/)._
+_Note: This is a series of posts, with Tokyo Part 1 (this article, 22nd-27th August), Takayama [Part 2](/japan-part-2-takayama/), Kyoto [Part 3](/japan-part-3-kyoto/), and Tokyo [Part 4](/japan-part-4-tokyo/)._
 
 ## Day 1 (22nd August): Arrival & Asakusa
 
@@ -258,13 +260,13 @@ Quite a poorly laid out and expensive GiGO, mostly consisting of claw machines, 
 
 **[Original review (2 photos)](https://maps.app.goo.gl/kcHXriwDhubPxaNk9)**
 
-### Uniqlo Asakusa
+### Uniqlo Asakusa ★★★★★
 
 A large, well laid out Uniqlo with multiple floors. There's plenty of appealing t-shirts here, plus of course the essential Airism polo / shirt / underwear for hot summers.
 
 **[Original review (1 photo)](https://maps.app.goo.gl/NW7qFC4GDrXryfTf6)**
 
-### Tokyo Sumo Entertainment Show
+### Tokyo Sumo Entertainment Show ★★★★★
 
 This isn't a serious sumo show, nor is it trying to be. It's fun entertainment for tourists, and so long as you know what you're getting into, you'll have a great time!
 
@@ -282,30 +284,102 @@ Finally, you'll get a chance to take a photo with the wrestlers (and geisha), ha
 
 Overall this was a very fun couple of hours in the evening, and a great way to experience a heavily compacted (and simplified) slice of Japanese culture.
 
-**Original review (4 photos)** (link coming soon)
+**[Original review (4 photos)](https://www.tripadvisor.co.uk/ShowUserReviews-g14134311-d27189884-r1030572225-Asakusa_Sumo_Stable-Asakusa_Taito_Tokyo_Tokyo_Prefecture_Kanto.html)**
 
 ## Day 5 (26th August): Odaiba
 
-intro **14,684 steps (6.41 miles)**.
+A day spent exploring Tokyo's reclaimed island "[Odaiba](https://en.wikipedia.org/wiki/Odaiba)", a slightly surreal area that feels far more artificial and unnatural than the rest of Tokyo. There's a convenient monorail, however we still managed **14,684 steps (6.41 miles)**.
 
 [![Japan 1 day 5 map](/assets/images/2025/japan1-day5-thumbnail.png)](/assets/images/2025/japan1-day5.png)
 
-### Small Worlds Museum
+### Small Worlds Museum ★★★★★
 
-### Tokyo Rinkai Disaster Prevention
+Small Worlds was one of our best experiences in Tokyo, consisting of tens of extremely detailed miniature scenes. There's a very whimsical seamless blending of fact and fiction, making it not at all unusual to see a bizarre monster next to historically accurate architecture! Note that the entrance is somewhat hidden, being a few minutes walk from a monorail station on the opposite side of the "Under Armour" building.
 
-### "Decks"? Joypolis Daiba 1-Chome?
+The first few rooms consist of both nature and urban landscapes, alongside a heavy focus on space exploration and construction. Scattered throughout are buttons that activate a variety of sounds, lights, and movements within the landscapes. For example, one button might make a car navigate around a cityscape, another might make a monster appear, another might make a bizarre domestic scene play out.
 
-### Gundam Statue
+Next up, there's a "guest creator" area, consisting of more modest creations such as sections of rail, individual shops and cottages, or fictional locations. Information is provided on who created each item, and some can even be purchased directly.
 
-### Gyukatsu Kyoto Katsugyu - Divercity Tokyo Plaza
+Following on, there's a full-scale airport! This includes a real life departure lounge, departure boards, announcements, security cameras, plus of course a miniature airport including planes taking off and landing. This area can be viewed from multiple angles, and the extreme attention to detail is stunning. No matter what bizarre angle you peek inside a nondescript building, it will be fully detailed throughout, even if it seems impossible that anyone else has looked exactly where you are.
 
-### Statue of Liberty
+Finally, there is a significant area dedicated to fictional anime locations and characters, specifically Evangelion. We didn't spend much time here, but an entire city appearing and disappearing from the ground (with day night cycle) was truly impressive, even more so due to the button-triggered actions working in bright light and pitch blackness accordingly.
 
-### Boat cruise
+There are also a few final amenities, such as the ability to purchase a 3D print of yourself (with a multiple week waiting time), a typical souvenir shop with a photobooth etc, a cafe, and a workshop where you can see employees creating both the digital and physical objects necessary. It was a unique experience being able to peek at a 3D printer and see an upcoming attraction being created in real time, or watching a clearly skilled and experienced employee researching the geometry needed.
 
-### Hatoya Asakusa
+It's clear throughout that every person involved in creating these models cares significantly about their art, and do their absolute best to create something far higher quality than you might expect given the scale. Despite this, there are no glass / plastic barriers, instead relying on trust to prevent any theft / vandalism to the easily-touchable models.
 
-### Gonpachi
+I'd recommend coming at opening time, as even an hour later the empty rooms become a bit more crowded, making it harder to see full vistas at once, or activate a button without knowing what will happen.
+
+**[Original review (28 photos)](https://maps.app.goo.gl/WGTBbREpq65YFifZ8)**
+
+### Tokyo Rinkai Disaster Prevention Park ★★★★★
+
+A surprisingly detailed educational centre focusing on disaster recovery.
+
+There are regular "tours", with a Japanese-only guide explaining around 5 minutes of preamble before iPads in multiple languages are thankfully provided, followed by 5 minutes more Japanese-only information that apparently isn't essential!
+
+This tour recreates a real disaster, consisting of being stuck in a lift during an earthquake, escaping through a mall, then making your way around dramatic destroyed architecture. Progress is made by scanning QR codes in each area and answering quiz questions on your iPad, although scanning these codes is a little unreliable and require a few retries.
+
+Throughout, practical and sobering information about exactly what to do during a natural disaster is provided. After the convincing "tour", there are multiple rooms with extremely high levels of detail around preparing and surviving a disaster. This includes things like how to help blind people, what to do about contact lenses, how to conserve water, and literally dozens of other topics.
+
+Hidden away in a corner is an area where Tokyo's real disaster management room can be seen (also featured in a recent Godzilla film), a key location when any disaster hits. It's quite rare to be able to see this crucial infrastructure, and is augmented by information around how this area is protected, what plans would be enacted during a disaster, motivations behind design, etc.
+
+The entire area is suitable for children, yet engaging and practical for adults, and whilst in the small shop afterwards we saw multiple school trips entering.
+
+**[Original review (5 photos)](https://maps.app.goo.gl/BPBUjhHLtKKAhtui6)**
+
+### Unicorn Gundam ★★★★✰
+
+It's a big Gundam statue! Easy to take photos of, easy to spot, somewhat bizarre.
+
+**[Original review (4 photos)](https://maps.app.goo.gl/UpDsr7FrE8Cx5WiB8)**
+
+### Gyukatsu Kyoto Katsugyu ★★★★★
+
+We ended up here after other lunch plans fell through, and we're very glad they did! A high quality gyukatsu restaurant despite the mall location, with decent prices and some interesting drinks (matcha beer? matcha soda?).
+
+It can be a little crowded and noisy in here at lunchtime (although no wait on a weekday), but the food is excellent enough that it's worth it. I'd recommend getting the larger than smallest beef option, since there are plenty of toppings that you'll want to use up.
+
+**[Original review (2 photos)](https://maps.app.goo.gl/emLFF5T5yMfGwZTZ7)**
+
+### Statue of Liberty - Odaiba ★★★★✰
+
+A smaller clone of NYC's Statue of Liberty, with a metropolis backdrop, on an artificial island in Tokyo? Sure, why not. Can be viewed from the nearby mall.
+
+**[Original review (1 photo)](https://maps.app.goo.gl/SbZ1qCi1tRnPcgLg8)**
+
+### TOKYO CRUISE Odaiba Seaside Park ★★★★✰
+
+This is a great way to get from Odaiba to Asakusa, taking a scenic cruise up the Sumida River. I recommend purchasing tickets online beforehand, and don't worry if the QR code doesn't show up, the ticket inspector somehow uses NFC to scan it!
+
+During summer the waiting area isn't too appealing, with limited shade and (on some days) no inside waiting area despite needing to get there early. Once on the boat there's a bit of a rush for seats, although they're all strange and spaced out, with most inexplicably facing inside the boat instead of at the actual views.
+
+Some drinks (e.g. coffee) are offered onboard, and I believe there's an open air viewing platform that we didn't visit. It's a smooth and peaceful journey, worth doing just for the unique novelty of it.
+
+**[Original review (4 photos)](https://maps.app.goo.gl/BZjpHsT1JjEbCRsD7)**
+
+### Hatoya Asakusa ★★★★✰
+
+A quite busy place to get the matcha-est desserts we found! The brownie is excellent, and the mochi-esque balls are quite good too, although all require a strong tolerance of matcha tastes.
+
+There are a few standing places in the fairly small shop.
+
+**[Original review (4 photos)](https://maps.app.goo.gl/aEru4hJFMTfYYDbK6)**
+
+### Gonpachi ★★★✰✰
+
+This 2-story restaurant was one of the most tourist-y restaurants we accidentally visited in Tokyo, with around 2/3 of the guests upstairs clearly being non-Japanese. When we visited it was almost entirely full, and whilst the (somewhat expensive) food and drink was tasty, the overcrowded and noisy ambience upstairs combined with slow and inconsistent service made it hard to enjoy.
+
+I don't recommend the soba noodles, however the zenzai is a surprisingly tasty dessert. Despite this, if you get lucky with seats (or go earlier than dinner!) it becomes noticeably better, offering an excellent view of the river.
+
+**[Original review](https://maps.app.goo.gl/LKs6fDhFH13JPJzJ7)**
 
 ## Conclusion
+
+Despite the nearly 40 reviews across 5 days here, tens of small shops or locations that consist of multiple smaller destinations aren't included! Due to our mixture of planned and unplanned Tokyo exploration, there are plenty of places that I may even have a photo of... yet can't identify. For example, good luck figuring out any of the tiny shop's names in Tsukiji Outer Market.
+
+Tokyo is so dense and varied that walking down almost any alley or sideroad will reveal a restaurant or shop worth visiting, and this is especially true when moving even 100 metres away from a touristy attraction, or on a day trip nearby. Ultimately, wandering is never a waste of time, so make sure to leave plenty of gaps and flexible time in any schedule! This is especially true when visiting during summer, this trip covered the 22nd-27th August with temperatures consistently 35°C+.
+
+The size and population of Tokyo means that no matter how thoroughly you explore an area, you can come back at another time of day and it will feel completely different, let alone another time of year. For example, despite walking back to our hotel every evening, the location we came from or the exact time / day completely changed the vibe. One day there might be a film crew outside for unknown reasons, another salarymen on their way home, and another completely silent and empty.
+
+I hope I get a chance to come back here during winter, although there are still so, so many new places I want to visit in Japan (and the world!), it's impossible to choose yet! This concludes the _first_ part of _four_ posts containing reviews from Japan, it was a very busy 3 weeks.
