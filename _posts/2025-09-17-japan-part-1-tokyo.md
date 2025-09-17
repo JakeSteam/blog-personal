@@ -7,16 +7,16 @@ tags:
   - Travel
   - Reviews
   - "Google Maps"
-maxheader: 2
+maxheader: 3
 ---
 
 I recently went to Japan for an unbelievably excellent 3-week holiday! Here's the first location visited, Tokyo's Asakusa, told via 37 Google Maps reviews (well, some are TripAdvisor).
 
 _Note: This is a series of posts, with Tokyo Part 1 (this article, 22nd-27th August), Takayama [Part 2](/japan-part-2-takayama/), Kyoto [Part 3](/japan-part-3-kyoto/), and Tokyo [Part 4](/japan-part-4-tokyo/)._
 
-## Day 1 (22nd August): Arrival & Asakusa
+## Day 1: Arrival & Asakusa
 
-We arrived in Tokyo at an impressively early 7am after a 14-hour flight, so our jetlag and exhaustion levels were immense!
+We arrived in Tokyo at an impressively early 7am after a 14-hour flight to 38° weather, so our jetlag and exhaustion levels were immense!
 
 Despite this, our wandering around Asakusa both before our hotel's check-in time, and then after a much-needed nap, resulted in **13,441 steps (5.84 miles)**.
 
@@ -108,7 +108,7 @@ Helpfully, a guide on how to use each item / dip is provided in front of you in 
 
 **[Original review (1 photo)](https://maps.app.goo.gl/dA3WrbDSxztMavdm9)**
 
-## Day 2 (23rd August): Ginza
+## Day 2: Ginza
 
 Our first full day in Tokyo focused on the Tsukiji / Ginza area, making our way from the riverfront to Tokyo Station (with lots of shops along the way) resulted in **23,018 steps (10.70 miles)**.
 
@@ -168,13 +168,13 @@ Careful of the spicy ramen, they really mean spicy.
 
 **[Original review](https://maps.app.goo.gl/CmJh2KgoMBveuQhT6)**
 
-## Day 3 (24th August): Mt Fuji & Hakone
+## Day 3: Mt Fuji & Hakone
 
 The entire day was taken up with a trip to Mt Fuji and Hakone, with lots of travel time resulting in only **7,339 steps (2.62 miles)**.
 
 [![Japan 1 day 3 map](/assets/images/2025/japan1-day3-thumbnail.png)](/assets/images/2025/japan1-day3.png)
 
-### Mt Fuji / Hakone TripAdvisor tour ★★★★★
+### Mt Fuji / Hakone tour ★★★★★
 
 This day trip exceeded our expectations! Whilst there was a fair amount of travelling on the bus, this time was used very productively by Aya (with Yamasan driving) to educate about Japan, Mt Fuji, a few Japanese words, and much more.
 
@@ -196,7 +196,7 @@ I highly recommend the tour, and can't thank Aya enough!
 
 **[Original review (10 photos)](https://www.tripadvisor.co.uk/ShowUserReviews-g1066457-d9741667-r1030388993-Japan_Panoramic_Tours-Shinjuku_Tokyo_Tokyo_Prefecture_Kanto.html)**
 
-## Day 4 (25th August): Ueno & Akihabara
+## Day 4: Ueno & Akihabara
 
 A fairly meandering (and very hot!) day around Ueno then Akihabara, resulting in **16,778 steps (6.73 miles)**.
 
@@ -266,7 +266,7 @@ A large, well laid out Uniqlo with multiple floors. There's plenty of appealing 
 
 **[Original review (1 photo)](https://maps.app.goo.gl/NW7qFC4GDrXryfTf6)**
 
-### Tokyo Sumo Entertainment Show ★★★★★
+### Sumo Entertainment Show ★★★★★
 
 This isn't a serious sumo show, nor is it trying to be. It's fun entertainment for tourists, and so long as you know what you're getting into, you'll have a great time!
 
@@ -286,7 +286,7 @@ Overall this was a very fun couple of hours in the evening, and a great way to e
 
 **[Original review (4 photos)](https://www.tripadvisor.co.uk/ShowUserReviews-g14134311-d27189884-r1030572225-Asakusa_Sumo_Stable-Asakusa_Taito_Tokyo_Tokyo_Prefecture_Kanto.html)**
 
-## Day 5 (26th August): Odaiba
+## Day 5: Odaiba
 
 A day spent exploring Tokyo's reclaimed island "[Odaiba](https://en.wikipedia.org/wiki/Odaiba)", a slightly surreal area that feels far more artificial and unnatural than the rest of Tokyo. There's a convenient monorail, however we still managed **14,684 steps (6.41 miles)**.
 
@@ -312,7 +312,7 @@ I'd recommend coming at opening time, as even an hour later the empty rooms beco
 
 **[Original review (28 photos)](https://maps.app.goo.gl/WGTBbREpq65YFifZ8)**
 
-### Tokyo Rinkai Disaster Prevention Park ★★★★★
+### Tokyo Rinkai Disaster Prevention ★★★★★
 
 A surprisingly detailed educational centre focusing on disaster recovery.
 
@@ -348,7 +348,7 @@ A smaller clone of NYC's Statue of Liberty, with a metropolis backdrop, on an ar
 
 **[Original review (1 photo)](https://maps.app.goo.gl/SbZ1qCi1tRnPcgLg8)**
 
-### TOKYO CRUISE Odaiba Seaside Park ★★★★✰
+### TOKYO CRUISE ★★★★✰
 
 This is a great way to get from Odaiba to Asakusa, taking a scenic cruise up the Sumida River. I recommend purchasing tickets online beforehand, and don't worry if the QR code doesn't show up, the ticket inspector somehow uses NFC to scan it!
 
