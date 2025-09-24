@@ -1,6 +1,6 @@
 ---
-title: 3 days in Takayama, told via Google Maps reviews (part 2/4, X reviews)
-image: /assets/images/banners/japan2.jpg
+title: 3 days in Takayama, told via Google Maps reviews (part 2/4, 30 reviews)
+image: /assets/images/banners/japan2.png
 tags:
   - Japan
   - Travel
@@ -8,7 +8,7 @@ tags:
   - "Google Maps"
 ---
 
-intro
+I recently went to Japan for an unbelievably excellent 3-week holiday! Here's the second location visited, Takayama, told via 30 Google Maps reviews (well, some are TripAdvisor).
 
 _Note: This is a series of posts, with Tokyo [Part 1](/japan-part-1-tokyo/), Takayama Part 2 (this article), Kyoto [Part 3](/japan-part-3-kyoto/), and Tokyo [Part 4](/japan-part-4-tokyo/)._
 
@@ -172,7 +172,7 @@ Photos aren't permitted here (you're meant to focus on the food!) so you may not
 
 ## Day 3 (29th August): Shirakawago
 
-intro **14,915 steps (5.77 miles)**.
+A busy day out visiting Shirakawago and Ainokura, traditional villages up in the mountains! We ended up with **14,915 steps (5.77 miles)**.
 
 [![Japan 2 day 3 map](/assets/images/2025/japan2-day3-thumbnail.png)](/assets/images/2025/japan2-day3.png)
 
@@ -190,7 +190,7 @@ Overall this was a fairly simple day trip, and ended quite early (around 4pm). H
 
 **[Original review (23 photos)](https://www.tripadvisor.co.uk/AttractionProductReview-g298113-d25984539-Departing_from_Takayama_Regular_sightseeing_bus_World_Heritage_Sites_Shirakawago_a.html)**
 
-### Ainokura Village Observation Desk ★★★★★
+### Ainokura Observation Deck ★★★★★
 
 Unbelievable views! If you're in Ainokura, make sure you take the 10 minute well-signposted hike up the hill by the car park. There's no amenities here (besides bells to scare off bears!), but the view itself is completely worth it.
 
@@ -208,7 +208,7 @@ A small restaurant and souvenir shop, with a seating area and drinks. This is th
 
 **[Original review (1 photo)](https://maps.app.goo.gl/meNAMQEkropBf8ck7)**
 
-### Shirakawa-go
+### Shirakawa-go ★★★★★
 
 A great way to spend at least a few hours! The surprisingly free village has plenty of food, shops, and natural beauty, with a dedicated paid world heritage site. There are plenty of routes around the village, with all sorts of hidden beauty if you look in any direction (check out the fish by pathways)!
 
@@ -224,7 +224,7 @@ Note that shoes must be taken off at the entrance.
 
 **[Original review (3 photos)](https://maps.app.goo.gl/qiiiRHfXirnFFYqT7)**
 
-### Shirakawa-go World Heritage Site ★★★★★
+### Shirakawa-go Heritage Site ★★★★★
 
 Very picturesque historical village, with the small entry fee being well worth it for a peaceful walk around. Alongside various traditional buildings with information boards, there's also a relaxing building with free hot and cold green tea / water, ideal during the summer months.
 
@@ -285,3 +285,7 @@ We came during summer evening, where the lack of air con made the whole place un
 **[Original review (1 photo)](https://maps.app.goo.gl/chN5V2Y3wTuzYNoE8)**
 
 ## Conclusion
+
+We only visited Takayama for a couple of days, but loved the feel of the town. It felt much calmer and peaceful than Tokyo (obviously, it's a fraction of the size!), with beautiful mountain landscapes on any train trip. Having a traditional hotel with absurdly good breakfast helped the experience significantly. It was also surprisingly hard to find somewhere to eat in the evenings, with seemingly everywhere closing early, or being fully booked.
+
+The town itself had a somewhat bizarre feel, with a clearly touristy main road, then a very different but also touristy old town, then finally a standard Japanese small town everywhere else. I suspect it's been affected negatively by overtourism, but that doesn't take away from the experience much! However, our 2.5 days there seemed enough to do pretty much everything, any longer might get a little dull.
