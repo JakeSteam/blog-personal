@@ -176,22 +176,112 @@ intro **14,915 steps (5.77 miles)**.
 
 [![Japan 2 day 3 map](/assets/images/2025/japan2-day3-thumbnail.png)](/assets/images/2025/japan2-day3.png)
 
-### Day trip (host Chiname Yamashita, driver Kamiya)
+### Shirakawago etc Day Trip ★★★★★
 
-### Soba dojo restaurant
+Shirakawago is a common tourist destination from Takayama, but this day trip also lets you visit the Ainokura Gassho village, a far smaller and more "real" version, as well as briefly seeing Suganuma village.
 
-### Ainokura Gassho Community
+After an hour or so journey in the bus whilst information is shared by the host (ours was Chiname Yamashita), you'll drive past Suganama. This is just a brief preview, but it's a nice extra.
 
-### The Historic Villages of Shirakawago Gassho Style Houses
+First is Ainokura Gassho Village. There are around 10 buildings here, and it's a very quiet and peaceful village. The highlight is the observation deck, accessed by a 10 minute uphill walk, and showing the entire village with perfect tree framing. There are also a few other museums, shops, and landmarks / viewpoints worth taking a look at.
 
-Various small areas in Shirakawago, such as ice cream store, statement stone near entrance, rest area, bridge
+Next is Shirakawago, where you'll spend most of the day. There's plenty of reviews of here already, but make sure you spend plenty of time in the historical section, and visit the key landmarks if you have time!
 
-### Viewpoint in Shirakawago
+Overall this was a fairly simple day trip, and ended quite early (around 4pm). However, it was an efficient way to visit all of the traditional villages in the area, whilst also learning additional information.
 
-### Shirakawago Purin no le (pudding house)
+**[Original review (23 photos)](https://www.tripadvisor.co.uk/AttractionProductReview-g298113-d25984539-Departing_from_Takayama_Regular_sightseeing_bus_World_Heritage_Sites_Shirakawago_a.html)**
 
-### New and Old Arts Town store
+### Ainokura Village Observation Desk ★★★★★
+
+Unbelievable views! If you're in Ainokura, make sure you take the 10 minute well-signposted hike up the hill by the car park. There's no amenities here (besides bells to scare off bears!), but the view itself is completely worth it.
+
+**[Original review (2 photos)](https://maps.app.goo.gl/JcVP5abzk7ondm2S6)**
+
+### Ainokurajinushi Shrine ★★★★✰
+
+Small shrine with a nearby stone related to an emperor. Not much information available, but a pretty and shaded area nonetheless.
+
+**[Original review (2 photos)](https://maps.app.goo.gl/1unUyEg7gezovt5P8)**
+
+### Matsuya ★★★★✰
+
+A small restaurant and souvenir shop, with a seating area and drinks. This is the main shop in the quiet village, and the shop had a wide variety of unique items with cute signs.
+
+**[Original review (1 photo)](https://maps.app.goo.gl/meNAMQEkropBf8ck7)**
+
+### Shirakawa-go
+
+A great way to spend at least a few hours! The surprisingly free village has plenty of food, shops, and natural beauty, with a dedicated paid world heritage site. There are plenty of routes around the village, with all sorts of hidden beauty if you look in any direction (check out the fish by pathways)!
+
+Make sure you visit the buildings highlighted on the tourist map, and remember that locals still live here. It was disappointing seeing other tourists treating people's homes like photoshoots. Regardless, there's lots of opportunities for photos, without intruding on others' privacy.
+
+**[Original review (16 photos)](https://maps.app.goo.gl/NGNthWrECHEZTyyw6)**
+
+### Soba dojo restaurant ★★★★★
+
+A great set meal of noodles, rice, and meat, in this underrated soba restaurant at the entrance to the historical village. The food is affordable, and there's a floor seating area if you prefer. Instructions are provided for which dish goes with which, in case you need reminding!
+
+Note that shoes must be taken off at the entrance.
+
+**[Original review (3 photos)](https://maps.app.goo.gl/qiiiRHfXirnFFYqT7)**
+
+### Shirakawa-go World Heritage Site ★★★★★
+
+Very picturesque historical village, with the small entry fee being well worth it for a peaceful walk around. Alongside various traditional buildings with information boards, there's also a relaxing building with free hot and cold green tea / water, ideal during the summer months.
+
+There's also a unique ice cream stand, waterfalls, and plenty of places to sit and rest.
+
+Even though the rest of the village is free, this paid heritage section near the car park is essential to visit, if only due to the lack of tourists making it far calmer.
+
+**[Original review (9 photos)](https://maps.app.goo.gl/M19LDxTouKN157b68)**
+
+### Deai Bridge ★★★★★
+
+A surprisingly pretty way to cross from the car park into the historical Shirakawa-go village, with great views. It can get quite busy, so try not to hold up traffic when taking a picture!
+
+**[Original review (2 photos)](https://maps.app.goo.gl/PfDZ8GRYFYdMR95x7)**
+
+### Shop ★★★★✰
+
+A small shop selling souvenirs and a few unique ice cream flavours, all of which were surprisingly delicious! There's also a good rest area outside to sit and enjoy the ice cream.
+
+Visitors via the sightseeing bus can show their sticker for a small discount.
+
+**[Original review (1 photo)](https://maps.app.goo.gl/pS2zBpShCxb3tuvT7)**
+
+### Nakano Chojiro Residence ★★★★★
+
+Be careful, most of the photos here are inaccurate! This is an excellent place to rest after exploring the village, with a silent and dim interior and a nearby free self-service green tea / water machine.
+
+When we visited, despite already having a cup earlier, and elderly woman with no English insisted we try the green tea! It was easier to just accept, so we had plenty of tea here! Lucky it was tasty.
+
+There's also a cute stuffed cat, and a small table to look out over the surroundings from.
+
+**[Original review (4 photos)](https://maps.app.goo.gl/xoW8b6DM71vpJHk59)**
+
+### Wooden Walkway ★★★★★
+
+An excellent way to get through the village, with natural beauty on all sides.
+
+**[Original review (2 photos)](https://maps.app.goo.gl/Kn7S4M4CJQEcpafC9)**
+
+### Purin no le ★★★★★
+
+A very busy store selling puddings, clearly with a lot of social media popularity! Regardless, it's worth the price, being an excellent custard dessert, we ended up buying 2. There is a small amount of seating outside, and a place to return your glass jars / rubbish.
+
+**[Original review](https://maps.app.goo.gl/Fj6vnvxkjP2Fsrx7A)**
+
+### Shinkogei Sanmachi
+
+A very cute store where hand-dyed stuffed animals are sold in various sizes. Friendly owner.
+
+**[Original review (3 photos)](https://maps.app.goo.gl/jAiEqq8f1rXZ6FR29)**
 
 ### Suzuya
+
+A very hot and chaotic restaurant! A great place for hotpot and sake, with filling portions.
+
+We came during summer evening, where the lack of air con made the whole place unbelievably sweaty, even with the few fans trying their hardest!
+
+**[Original review (1 photo)](https://maps.app.goo.gl/chN5V2Y3wTuzYNoE8)**
 
 ## Conclusion
