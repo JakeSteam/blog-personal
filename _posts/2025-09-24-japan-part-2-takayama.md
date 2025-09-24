@@ -270,13 +270,13 @@ A very busy store selling puddings, clearly with a lot of social media popularit
 
 **[Original review](https://maps.app.goo.gl/Fj6vnvxkjP2Fsrx7A)**
 
-### Shinkogei Sanmachi
+### Shinkogei Sanmachi ★★★★★
 
 A very cute store where hand-dyed stuffed animals are sold in various sizes. Friendly owner.
 
 **[Original review (3 photos)](https://maps.app.goo.gl/jAiEqq8f1rXZ6FR29)**
 
-### Suzuya
+### Suzuya ★★★★✰
 
 A very hot and chaotic restaurant! A great place for hotpot and sake, with filling portions.
 
