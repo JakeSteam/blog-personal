@@ -70,19 +70,19 @@ Despite plenty of souvenir shops along the old town streets, SAN AI manages to i
 
 **[Original review](https://maps.app.goo.gl/dRpaF7cjvD51b2eQ8)**
 
-### Kaji Bridge
+### Kaji Bridge ★★★★★
 
 Busy bridge with shops on both sides, plus a good view downriver. It's also possible to sit on the waterside and watch the foot traffic.
 
 **[Original review (2 photos)](https://maps.app.goo.gl/VDTTCkYEU6gvyeE48)**
 
-### Ikada Bridge
+### Ikada Bridge ★★★★★
 
 Convenient bridge to get into the old town, plus excellent views of Nakabashi Bridge at night!
 
 **[Original review (1 photo)](https://maps.app.goo.gl/Zy71Exo91BAezJPh7)**
 
-### Gyojin Bridge
+### Gyojin Bridge ★★★★★
 
 Small convenient bridge to get between the two halves of the town, far quieter than any others. A nice riverside seat too.
 
@@ -90,23 +90,85 @@ Small convenient bridge to get between the two halves of the town, far quieter t
 
 ## Day 2 (28th August): Museums
 
-intro **11,216 steps (4.78 miles)**.
+A quite rambly day throughout Takayama, with the morning market, Showa era museum, and open air museum proving highlights. A total of **11,216 steps (4.78 miles)**.
 
 [![Japan 2 day 2 map](/assets/images/2025/japan2-day2-thumbnail.png)](/assets/images/2025/japan2-day2.png)
 
-### Morning market (Miyagawa)
+### Miyagawa Morning Markets ★★★★✰
 
-### Takayama Showa-kan
+There are 2 morning markets in Takayama, this one being a fairly typical small town market, yet running daily! The market runs between Yayoi Bridge and Kaji Bridge during the morning, primarily selling snacks ready to eat. There are more permanent restaurants selling slightly more substantial food and drinks, however these will all close at lunchtime too.
 
-### Yoshijima Traditional House(?)
+Definitely worth a visit, although most stalls are cash only and often speak limited English, but they're all fairly specialised so ordering shouldn't be too hard!
 
-### Cat cafe
+**[Original review](https://maps.app.goo.gl/SAVGJpw55pLJU8JdA)**
 
-### Oku
+### Takayama Showa-kan ★★★★★
 
-### Hida no Sato Open Air Museum (and parts inside)
+This very dense museum can take 30 minutes or 2-3 hours, depending on how interested you are in the Showa period of Japan! Every room is absolutely full of historical items, with a lot of trust put in visitors to not touch / break all of the items.
 
-### Center4 burger
+Rooms are convincing, and vary from classrooms, opticians, living rooms, arcades, and plenty more. The effect is made convincing by street signs and advertising all over the place. Each room is absolutely full of unique details, and there's hundreds of opportunities for selfies if interested.
+
+Tickets are purchased at the door, after a small souvenir / traditional sweet shop.
+
+**[Original review (8 photos)](https://maps.app.goo.gl/73RXmQhGEpmdkhki8)**
+
+### Yoshijima Traditional House ★★✰✰✰
+
+Hidden inside an unassuming sliding door, this massive empty traditional Japanese living space is quite odd. There is almost nothing on display until you get to the outside space at the back, which seemed to have some sort of collaboration with an artist? As such, the fairly high entry price (1500Y, cash only) is hard to justify when your time will consist of 10 minutes wandering around large empty spaces!
+
+Whilst the hidden entrance and high cost ensures it is empty, there's almost no actual information here. I'd recommend instead visiting a restaurant or inn with traditional layouts.
+
+**[Original review (6 photos)](https://maps.app.goo.gl/QEcWpYVc8xo6m1Bp6)**
+
+### Neko no Tsuki ★★★★★
+
+This cat cafe is instantly noticeable from outside, with some of the key characters peeking out of the large glass windows!
+
+Thankfully, in comparison to many other animal cafes in Japan, the cat's welfare is clearly placed first here. Shoe coverings must be worn, hands must be washed, and information about how to approach cats, give them space, etc is presented beforehand whilst ordering drinks.
+
+Drinks are a little expensive, on top of the time spent with cats, but this is completely justifiable due to the focus on the cat's welfare. The owner(?) spoke to us throughout our time about the cats, our experiences with our own cat, and similar topics, with her love and care for the cats being very obvious. She was very knowledgeable about cats, with their health obviously being this cafe's focus.
+
+The cats themselves were clearly comfortable and well cared for, each expressing their personality instead of desperately asking for treats / affection. For example, a set of two brothers "run the show", with one patrolling whilst we visited, and another keeping an eye on outdoors. They were both obviously very happy and healthy, enjoying their life and tolerating the occasional visitor intrusion.
+
+Upstairs is a female cat room, and these continue the trend of keeping themselves to themselves and tolerating visitors' presence. One of these very sadly has a brain injury so struggled to really understand what was going on, just spending her time sitting quietly instead.
+
+Throughout, I really appreciated the cats not being forced to interact, and just napping or peeking from a distance. One of the more curious kept diving close to us then jogging away, not quite sure of themself!
+
+With around 5-6 cats downstairs and 4-5 upstairs, they have a massive area to play in, with lots of levels and roofing beams to run around on, all clean and tidy. A few were in a cage, with the owner explaining this was due to some bickering between them! One cried a bit whilst we were there, and the owner's obvious love for them all was shown when she solved it by giving him a stroke instead of disciplining, and he settled down after this.
+
+Overall this was a wonderful, wholesome experience, with the focus on cats making it an easily justifiable cost for half hour.
+
+**[Original review (4 photos)](https://maps.app.goo.gl/TH5GJNrgUCkGBFxx5)**
+
+### Oku ★★★★★
+
+We visited here for lunch after the cat cafe next door, and had a wonderful set menu! Each course was explained by the waitress, and tasted absolutely perfect, especially the bread and butter, and sautéed pork (pictured).
+
+This definitely had similarities to various fancy French-inspired cafe back in the UK, with a relaxed coffee shop vibe combined with clearly high quality food and friendly staff. Slippers are worn throughout, with shoes left outside the front door, the toilet is quite outdated so maybe avoid that part!
+
+**[Original review (1 photo)](https://maps.app.goo.gl/o2NKVCvLyLAfg6D18)**
+
+### Hida no Sato Open Air Museum ★★★★★
+
+The highlight of Takayama! After purchasing a cheap entry ticket, you can spend a few hours walking around the village, optionally following one of the 3 routes pictured on a provided map (from quick route to visiting all 20 or so buildings).
+
+Every building is unique, and provides lots of information on specific parts of village life. The buildings themselves are transported from different places in the region, being more of a compilation of different examples than an actual village. However, this allows the museum to provide information on these different styles, such as designs to prevent snow buildup, or keep cool in summer.
+
+These buildings all require taking your shoes off, as is expected. A couple are indicated on the map as being extra notable, so make sure you visit these on your route.
+
+A few child friendly physical games are provided at the entrance, and there's toilets scattered throughout, with a rest area with drinks etc near the end. Check out all the fish on the pier too!
+
+There's a large souvenir shop at the bus stop outside, so don't worry about the lack of items inside the village. Make sure you keep an eye on bus routes, since the infrequent bus is one of the only ways to get to or from here!
+
+**[Original review (15 photos)](https://maps.app.goo.gl/fnp82ivDHAtpuTMMA)**
+
+### Center4 Hamburgers ★★★★✰
+
+Solid burgers, open late, hidden deep inside a building on an empty and dark street! The burgers are good and filling, I recommend the chilli bean burger. Fairly touristy, with an intriguing Johnny Cash / retro americana theme inside and currencies pinned up all over the bars.
+
+Photos aren't permitted here (you're meant to focus on the food!) so you may not see many. I'd recommend booking in advance, since the place can fill up for dinner (7pm and later). We had our hotel make a reservation as only phone bookings are possible.
+
+**[Original review (1 photo)](https://maps.app.goo.gl/EepjxELQ8oqQAewW8)**
 
 ## Day 3 (29th August): Shirakawago
 
