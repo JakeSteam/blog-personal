@@ -195,23 +195,77 @@ Make sure to wear comfortable shoes, there's quite a few steps!
 
 ## Day 3 (1st September): Arashiyama
 
-intro **13,279 steps (5.89 miles)**.
+A busy day, featuring a scenic train, a 2-hour river rapids ride, and a riverside meal! A total of **13,279 steps (5.89 miles)**.
 
 [![Japan 3 day 3 map](/assets/images/2025/japan3-day3-thumbnail.png)](/assets/images/2025/japan3-day3.png)
 
-### Sagano Romantic Train
+### Sagano Scenic Railway ★★★★★
 
-### Arashiyama Boat Ride
+The bumpiest and noisiest train ride I've ever been on! It's the best way of getting from Arashiyama to Kameoka (for the boat back!), but it's not necessarily worth doing by itself otherwise. Make sure you book a seat on the RIGHT (as you travel to Kameoka), facing the direction of travel, as this will provide the best views. The first 20% will be out the left window, but after that the right is far better!
 
-### Arashiyama Itsukichaya
+After waiting for your train in the spacious and clearly signposted station, you'll be instructed to stand by your train carriage, and make your way to your seat. These are quite small (and very hard!) seats, so you might consider buying an extra seat for any bags / extra space. The train will likely be full (some people join at later stations), so make sure you're sitting in the correct seat.
 
-### Enman Rice cake resto
+The train conductor was having a great time, singing along to himself, providing a commentary (almost entirely in Japanese), and helping provide an upbeat atmosphere despite the cramped conditions. Everyone on the train was a tourist, and walking towards the station from Randen-Saga you'll clearly be able to see your fellow passengers!
 
-### Bamboo Forest
+Once you get to Kameoka you'll be funnelled out of the station, and whilst there are signposts for a train, you definitely want the free & regular bus to the boat ride area (accessed via the underpass). These are scheduled around the train rides, and have plenty of capacity.
 
-### Laundry (CoCoNe For Travellers)
+**[Original review](https://maps.app.goo.gl/SUnGUH7GsTP5pSGh8)**
 
-### Yukou
+### Hozugawa River Boat ★★★★★
+
+A once in a lifetime experience, the absolute best thing we did in Kyoto!
+
+This 2-hour trip down the Hozugawa river has something for everyone, with the ride varying between long, calm sections of peaceful water and surprisingly violent but brief rapids. These are always warned about in advance, and there's never much risk, but it can be very disconcerting hearing rocks bumping against the bottom of the boat and having water splashing over the side.
+
+You're unlikely to get too wet, but if you're on the outside there's some light splashing (playfully assisted by the oarsmen!), all quickly drying during the summer. The 3 boatmen we had were genuinely funny and witty throughout, mixing clearly routine jokes with improvised ones based on guests answers. Their constant rowing and steering for 2 hours in melting heat, combined with making conversation and showing landmarks throughout, was truly unbelievable!
+
+Throughout the trip, you'll see lots of landmarks, beautiful vistas, and we even saw a large group of monkeys, some turtles, frogs, herons, and even rafts with more intrepid explorers! There's a very endearing tradition of Sagano Scenic Train passengers, Boat Ride passengers, and people rafting to all wave hello to each other along the way, with a positive atmosphere throughout.
+
+There's an opportunity towards the end to even take photos during a quiet patch, with the boatmen taking photos on your phones. Surprisingly, towards the end a food boat pulls alongside, offering freshly cooked food alongside drinks (including beer!) for cash-only purchase. This is a great end to a truly unique experience, that HAS to be part of any Kyoto trip.
+
+As a tip, when you get off the bus from the Sagano Scenic Train, there's a consistent flood of people up to the boat station. There's not really any need to rush, with regular boats. You'll end up in a queue where staff will take your basic information (such as prebooking) to speed up the final ticket exchange process. After waiting a few minutes, your boat will arrive, and you'll be fitted with lifejackets and cram yourselves into the small boats.
+
+Overall it felt exciting yet safe, with both children and the elderly included in our boat, and a unique way of viewing the area.
+
+**[Original review (25 photos, 2 videos)](https://maps.app.goo.gl/zPLxeqPFd1FM2HaU7)**
+
+### Arashiyama Itsukichaya ★★★★✰
+
+Pre-booking is required here, weeks in advance, especially for the river view. This quite expensive (for Kyoto) cash-only restaurant was undoubtedly good food (we attended on the first day of a new menu), however the atmosphere was not great.
+
+We were initially greeted with an assumption that we hadn't booked, but once the prebook was confirmed, we took our seat and received our drinks. 5 minutes later, we were asked to move over despite being fully settled, into a slightly worse seat. This was evidently to make space for a group, but still a disruptive experience. This (American) group proceeded to be quite noisy with relentless talking and walk around lots, forcing us to essentially stop our conversation due to the volume. This obviously isn't the restaurant's fault, but they could have intervened.
+
+The food itself was good, although perhaps not excellent enough to necessarily justify the price, especially as I finished all of it! For a meal like this, I would expect to be full afterwards.
+
+It's also worth noting the restaurant offers a free gift in exchange for reviews (I wrote this afterwards instead), and there is an expensive no-show fee. The entrance is down the side of another restaurant serving more casual street food.
+
+**[Original review (3 photos)](https://maps.app.goo.gl/SSrRg6zfmYhuDqf87)**
+
+### Enman Rice cake restaurant ★★★★★
+
+Came here for a quick matcha ice cream on a very hot day, it was good! There's a shaded area outside with a bin, nice and quiet away from the busy main road.
+
+**[Original review (1 photo)](https://maps.app.goo.gl/CyyDkxiNrajKHtD38)**
+
+### Arashiyama Bamboo Forest ★★★★✰
+
+A uniquely towering area of bamboo, although always completely full of tourists trying to take selfies. Worth a quick walk through if nearby!
+
+**[Original review (1 photo)](https://maps.app.goo.gl/rmRb6LUnMc5arL9Y7)**
+
+### CoCoNe Laundromat ★★★★★
+
+Very convenient as a tourist, this 2nd floor laundromat just requires asking the receptionist for a gate key then you can access the washing area. The 4 washing machines automatically add detergent, and the 8 drying machines do a good job, requiring 40 minutes (800 yen) to dry a full load. There is a coin exchange machine next to the machines, and all machines etc have English available.
+
+I visited here twice, once it was entirely empty the entire time, the other time it was completely full, so it definitely varies! There's some manga and notebooks around, and a drinks vending machine, but you're given a pass so you might as well leave and do something else whilst you wait.
+
+**[Original review (3 photos)](https://maps.app.goo.gl/LAXsbFh3eMkjpF9b8)**
+
+### Yukou ★★★★★
+
+This cosy ramen place is open very late at night, and serves simple cheap comfort food. There's often a short queue outside, with a menu provided so you can order before entering. The pork is great, and it's a very introvert-friendly restaurant with all guests just eating their meals quietly.
+
+**[Original review](https://maps.app.goo.gl/ngB9eyfS3a1fxVTaA)**
 
 ## Day 4 (2nd September): Nara
 
