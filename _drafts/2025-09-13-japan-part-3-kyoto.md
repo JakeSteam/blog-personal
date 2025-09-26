@@ -1,12 +1,12 @@
 ---
-title: 4 days in Kyoto, told via Google Maps reviews (part 3/5, X reviews)
+title: 4 days in Kyoto / Nara, told via Google Maps reviews (part 3/5, X reviews)
 image: /assets/images/banners/japan2.jpg
 tags:
   - Japan
   - Travel
   - Reviews
   - Kyoto
-  - "Google Maps"
+  - Nara
 ---
 
 intro
@@ -255,13 +255,13 @@ A uniquely towering area of bamboo, although always completely full of tourists 
 
 ### CoCoNe Laundromat ★★★★★
 
-Very convenient as a tourist, this 2nd floor laundromat just requires asking the receptionist for a gate key then you can access the washing area. The 4 washing machines automatically add detergent, and the 8 drying machines do a good job, requiring 40 minutes (800 yen) to dry a full load. There is a coin exchange machine next to the machines, and all machines etc have English available.
+Very convenient as a tourist, this 2nd floor laundromat just requires asking the receptionist for a gate key then you can access the washing area. The 4 washing machines automatically add detergent, and the 8 drying machines do a good job, requiring 40 minutes (500 yen) to dry a full load. There is a coin exchange machine next to the machines, and all machines etc have English available.
 
 I visited here twice, once it was entirely empty the entire time, the other time it was completely full, so it definitely varies! There's some manga and notebooks around, and a drinks vending machine, but you're given a pass so you might as well leave and do something else whilst you wait.
 
 **[Original review (3 photos)](https://maps.app.goo.gl/LAXsbFh3eMkjpF9b8)**
 
-### Yukou ★★★★★
+### Menya Yukou ★★★★★
 
 This cosy ramen place is open very late at night, and serves simple cheap comfort food. There's often a short queue outside, with a menu provided so you can order before entering. The pork is great, and it's a very introvert-friendly restaurant with all guests just eating their meals quietly.
 
@@ -269,18 +269,56 @@ This cosy ramen place is open very late at night, and serves simple cheap comfor
 
 ## Day 4 (2nd September): Nara
 
-intro **15,023 steps (6.52 miles)**.
+A day trip to Nara! Quite a bit of train travel, so only **15,023 steps (6.52 miles)**.
 
 [![Japan 3 day 4 map](/assets/images/2025/japan3-day4-thumbnail.png)](/assets/images/2025/japan3-day4.png)
 
 ### Kofukiji 3x: Central, Eastern, Treasure Halls
 
-### Nara Park
+### Nara Park ★★★★★
 
-### Todaiji
+A massive park with multiple high quality temples and museums, plus of course the hundreds of tame deer! The deer are very friendly, bordering on aggressive, just remember to open your hands if threatened so they can see you have no food for them.
 
-### Miyama
+Throughout the area you'll get used to seeing deer standing guard near shops, hanging out in waterways, and harassing any tourists who reveal they have crackers. They have no fear of humans, with even the young deer happily wandering over.
 
-### Y's Burger
+**[Original review (17 photos)](https://maps.app.goo.gl/XK7g7RBLudPRgbYSA)**
+
+### Tōdai-ji ★★★★★
+
+This stunningly large Buddha statue with a dedicated building is worth the entry fee, with plenty of options for blessings and related information elsewhere inside.
+
+**[Original review (2 photos)](https://maps.app.goo.gl/aYNYqgWQ8Uw5XioSA)**
+
+### Kōfuku-ji ★★★★✰
+
+A complex of 3 enterable buildings with a shared ticket: Western hall, Central hall, and the clear highlight: the treasure hall. I'd recommend just buying tickets to the treasure hall, unless you're particularly interested in more niche Buddhist statues there is limited value in the two halls.
+
+**[Original review](https://maps.app.goo.gl/g4m1qg1nUpSZz46i6)**
+
+### Kōfuku-ji Treasure Museum ★★★★★
+
+No photos are allowed within, hence the lack of any here! This rule (along with no phones / technology, no loud talking, etc) is strictly enforced by many guards inside, providing an almost silent environment to appreciate the many statues inside.
+
+Unfortunately as a non-local, an inability to speak Japanese meant around half of the exhibits were completely unexplained, and the other half had a very simple one-line description, leaving unclear what I was looking at. Regardless, the statues were very imposing, and the quiet cool atmosphere was much appreciated during a very hot day.
+
+Looking around will take around 15-25 minutes, and there is a small gift shop afterwards selling typical souvenirs.
+
+**[Original review](https://maps.app.goo.gl/xZE1F4cUm8LqethA7)**
+
+### Miyama ★★★★★
+
+This restaurant's convenient location means there's typically a small queue out front at lunchtime, however it's definitely worth the wait!
+
+Very large portions are selected from the menu whilst you wait inside, with even a small (e.g. meal no. 2) easily being enough to fill an adult. These come with instructions for eating, helpful due to the number of different bowls involved! The food is clearly high quality, and there's a lively but private atmosphere inside, with a mixture of adults, families, couples, locals, and tourists.
+
+**[Original review](https://maps.app.goo.gl/KaYZiPp1eu9xjnPM9)**
+
+### Y's Burger ★★★★★
+
+We came here for an easy comfort dinner, and were very impressed by the cream cheese wagyu burger! A unique combination of flavours, it definitely deserves more attention. The combos are good value, with a big burger, thick fries, and a drink for around 1500 yen, a good size for dinner.
+
+There's a table outside we sat at for people-watching, before realising there's actually a much more comfortable upstairs dining area that we should have used, oops. Staff were friendly, and the food arrived quickly.
+
+**[Original review](https://maps.app.goo.gl/5hJXy9urqAcHDLmM8)**
 
 ## Conclusion
