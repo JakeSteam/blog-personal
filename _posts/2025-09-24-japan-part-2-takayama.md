@@ -5,6 +5,7 @@ tags:
   - Japan
   - Travel
   - Reviews
+  - Takayama
   - "Google Maps"
 ---
 
