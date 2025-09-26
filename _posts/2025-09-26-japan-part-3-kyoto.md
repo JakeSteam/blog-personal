@@ -1,6 +1,6 @@
 ---
-title: 4 days in Kyoto / Nara, told via Google Maps reviews (part 3/5, X reviews)
-image: /assets/images/banners/japan2.jpg
+title: 4 days in Kyoto / Nara, told via Google Maps reviews (part 3/5, 34 reviews)
+image: /assets/images/banners/japan3.jpg
 tags:
   - Japan
   - Travel
@@ -9,13 +9,13 @@ tags:
   - Nara
 ---
 
-intro
+I recently went to Japan for an unbelievably excellent 3-week holiday! Here's the first half of the third location visited, Kyoto (plus Nara), told via 34 Google Maps reviews.
 
 _Note: This is a series of posts, with Tokyo [Part 1](/japan-part-1-tokyo/), Takayama [Part 2](/japan-part-2-takayama), Kyoto Part 3 (this article) and [Part 4](/japan-part-4-kyoto), and Tokyo [Part 5](/japan-part-4-tokyo/)._
 
-## Day 1 (30th August): Arrival
+## Day 1 (30th August): Arrive
 
-Our first afternoon in Kyoto, we spent most of it in Nishiki Market, with a dinner reservation booked before any other activity on our trip! A total of **12,949 steps (5.59 miles)**.
+Our first afternoon in Kyoto, we spent most of it in Nishiki Market, with a dinner reservation we'd booked before any other activity on our trip! A total of **12,949 steps (5.59 miles)**.
 
 [![Japan 3 day 1 map](/assets/images/2025/japan3-day1-thumbnail.png)](/assets/images/2025/japan3-day1.png)
 
@@ -241,7 +241,7 @@ It's also worth noting the restaurant offers a free gift in exchange for reviews
 
 **[Original review (3 photos)](https://maps.app.goo.gl/SSrRg6zfmYhuDqf87)**
 
-### Enman Rice cake restaurant ★★★★★
+### Enman Rice Cake ★★★★★
 
 Came here for a quick matcha ice cream on a very hot day, it was good! There's a shaded area outside with a bin, nice and quiet away from the busy main road.
 
@@ -272,8 +272,6 @@ This cosy ramen place is open very late at night, and serves simple cheap comfor
 A day trip to Nara! Quite a bit of train travel, so only **15,023 steps (6.52 miles)**.
 
 [![Japan 3 day 4 map](/assets/images/2025/japan3-day4-thumbnail.png)](/assets/images/2025/japan3-day4.png)
-
-### Kofukiji 3x: Central, Eastern, Treasure Halls
 
 ### Nara Park ★★★★★
 
@@ -322,3 +320,9 @@ There's a table outside we sat at for people-watching, before realising there's 
 **[Original review](https://maps.app.goo.gl/5hJXy9urqAcHDLmM8)**
 
 ## Conclusion
+
+We loved Kyoto! The mixture of shrines, temples, natural rivers and forests, animals, busy malls, and excellent food meant we always had varied and full days. It felt much more varied than Tokyo, with the outskirts having a completely different feel to the centre just a short walk away. Next up, another 4 days of Kyoto, with just as much variety...
+
+Nara was also enjoyable, although a day felt like enough to experience most of the park's contents. Another day or two could easily be spent within the city proper, but there's so many other unique places to go within Kyoto nearby that I'm happy with our decision.
+
+Overall the Hozugawa river boat ride was easily the highlight, although the many many many excellent meals and snacks come a close joint second!

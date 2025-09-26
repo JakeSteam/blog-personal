@@ -1,6 +1,6 @@
 ---
 title: 4 more days in Kyoto, told via Google Maps reviews (part 4/5, X reviews)
-image: /assets/images/banners/japan2.jpg
+image: /assets/images/banners/japan4.png
 tags:
   - Japan
   - Travel

@@ -1,6 +1,6 @@
 ---
 title: 3 more days in Tokyo, told via Google Maps reviews (part 5/5, X reviews)
-image: /assets/images/banners/japan2.jpg
+image: /assets/images/banners/japan5.png
 tags:
   - Japan
   - Travel
