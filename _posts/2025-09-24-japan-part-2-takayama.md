@@ -189,7 +189,7 @@ Next is Shirakawago, where you'll spend most of the day. There's plenty of revie
 
 Overall this was a fairly simple day trip, and ended quite early (around 4pm). However, it was an efficient way to visit all of the traditional villages in the area, whilst also learning additional information.
 
-**[Original review (23 photos)](https://www.tripadvisor.co.uk/AttractionProductReview-g298113-d25984539-Departing_from_Takayama_Regular_sightseeing_bus_World_Heritage_Sites_Shirakawago_a.html)**
+**[Original review (23 photos)](https://www.tripadvisor.co.uk/ShowUserReviews-g298113-d10230504-r1031917042-Nohi_Bus-Takayama_Gifu_Prefecture_Tokai_Chubu.html)**
 
 ### Ainokura Observation Deck ★★★★★
 

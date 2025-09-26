@@ -87,33 +87,111 @@ The atmosphere is friendly and bustling, with chefs shouting hello & goodbye to 
 
 ## Day 2 (31st August): Kawaramachi
 
-intro **24,382 steps (10.36 miles)**.
+A very busy day, with perhaps some overscheduling of walking-based activities! After the Philosopher's Path in the morning, the afternoon consisted of an equal parts terrifying and relaxing Kimono tea ceremony, followed by a walking tour of the area. In total, this resulted in **24,382 steps (10.36 miles)**, quite a lot in the heat!
 
 [![Japan 3 day 2 map](/assets/images/2025/japan3-day2-thumbnail.png)](/assets/images/2025/japan3-day2.png)
 
-### Ginkakuji
+### Ginkaku-ji ★★★★★
 
-### Honenin Temple
+A lovely zen temple, featuring a small sample of everything you'd expect in a temple! This includes manicured sand, large mossy areas, waterfalls and natural springs, and viewpoints over the surrounding area. There are plenty of opportunities for photos here, and it's hard to overstate how peaceful and beautiful it is here.
 
-### Philosopher's Path
+I highly recommend coming early before it gets too busy, the small entry fee (cash only) is well worth it. There is also a good-sized souvenir shop, water misted seating area, and drinks vending machine by the exit.
 
-### Sanmon Gate
+**[Original review (6 photos)](https://maps.app.goo.gl/EkBvsi7d4yRNp1C8A)**
 
-### Aquaduct Path https://maps.app.goo.gl/QULbjnNNJgYUrgb37
+### Approach to Ginkaku-ji ★★★★✰
 
-### Twisty tunnel https://maps.app.goo.gl/F6aKGHuK6CzgLwN37
+A direct uphill path to the Ginkaku-ji temple, full of shops selling typical tourist snacks and souvenirs. Luckily coming here on a Sunday, especially early, results in a mostly empty street!
 
-### Keage incline
+**[Original review](https://maps.app.goo.gl/Dwz64kLvHTg6z67Q7)**
 
-### Kaiten Sushi Ginza Onodera Kyoto
+### Philosopher's Path ★★★★★
 
-### Tea Ceremony (Maps & TripAdvisor)
+A beautiful riverside walk from near Ginkaku-ji all the way down to Eikando and near Nanzen-ji, with plenty of temples, shrines, and viewpoints along the way. The walk is mostly 1 or 2 paving stones wide, with a wider road nearby. It was fairly quiet when we visited on a Sunday, especially the southern half of the walk, with most people only doing the top section.
 
-### Geisha Walking Tour (Sho tour guide, Maps & TripAdvisor)
+The walk is shaded, with benches and drinks machines along the way, so definitely worth doing when in Kyoto! Various buses go from central Kyoto to the northern start of the walk, which is clearly signposted.
 
-### Yasaka Shrine
+**[Original review (4 photos)](https://maps.app.goo.gl/KE1fJvv62xCd5pYn8)**
 
-### Sannenzaka
+### Hōnenin Temple ★★★★✰
+
+An unusual Buddhist temple, with an approach from the Philosopher's Path making it hard to even work out where the temple starts and ends! Regardless, the peaceful grounds surrounded by nature are worth a walk through.
+
+**[Original review](https://maps.app.goo.gl/NyGp2L6QsPxnqfhS9)**
+
+### Nanzen-ji ★★★★✰
+
+A large and airy reward for completing the Philosopher's Path, with free scenic gardens and unique aqueduct archways alongside plenty of trees.
+
+An underrated and empty path from here is up on the aqueduct at the south end, then follow the path to the south-west, down to Keage Incline.
+
+**[Original review (2 photos)](https://maps.app.goo.gl/47JbjQjgASWBhEGv6)**
+
+### Sanmon Gate ★★★★✰
+
+An attractive gate within the Nanzen-ji complex, great for a brief rest from the heat and people-watching down the quiet avenues. It's possible to pay to climb up the historical steps, we did not.
+
+**[Original review (2 photos)](https://maps.app.goo.gl/sfAN1opuogoYVoZx7)**
+
+### 疏水分線 ★★★★★
+
+This functional aqueduct with a walkway from Nanzen-ji down to Keage incline via an old power station and park is a hidden gem of Kyoto! The path can be entered from Nanzen-ji, and the fast flowing water alongside provides a relaxing air.
+
+Careful with your footing here, since there's a few loose stones, no handrails, and nobody else around!
+
+**[Original review (1 photo)](https://maps.app.goo.gl/QFWyaTpeEHfJLvzi6)**
+
+### Nejirimampo ★★★★✰
+
+A briefly interesting tunnel with an intricate spiralling brick pattern inside. This is primarily a way to get from Keage Sosui Park to Keage Station, and not worth visiting unless on the way.
+
+**[Original review](https://maps.app.goo.gl/sgWE7Phqt2W8od6aA)**
+
+### Keage incline ★★★★✰
+
+Even without cherry blossoms, a fairly satisfying but short walk along old railway sleepers from Keage Sosui Park down to Kyoto City Zoo. The walk features irregular paving stones that can be followed, eventually running under a bridge and emerging on the busy Niomon-dori road.
+
+It's far better than walking along the road, but not worth visiting unless cherry blossoms are on display. Careful with your footing too, as even by yourself you might need to give up on the paving stones and resort to the gravel.
+
+**[Original review (1 photo)](https://maps.app.goo.gl/7FsJiE53GT9EPPmV9)**
+
+### Kaiten Sushi Onodera ★★★★★
+
+This chain sushi restaurant was a highlight during our Kyoto trip, with a simple ordering process (via a multilingual iPad at the table), fast and easy delivery process (the food zooms along a 2-tier conveyor belt to get to you), and of course tasty yet affordable sushi.
+
+Hot green tea can be self-served at the table, with each sushi item clearly being high quality. Note that the restaurant is sometimes too busy in the evening, and you may find it no longer accepting any guests.
+
+**[Original review (1 photo)](https://maps.app.goo.gl/6KPYNAbMeUjrY2Du8)**
+
+### Tea Ceremony Maikoya ★★★★★
+
+A varied experience, with the two parts of the experience (kimono & tea) feeling like totally different processes! Upon entering, you will be in a small room with other people in your group (for us, all couples). There then follows a fairly chaotic changing room process (for men at least, women go across the road) where your socks and shoes are taken off and put in a bag, your valuables in another smaller bag, then you enter the main changing room.
+
+In this room you'll undress and be provided an undershirt and undertrousers, and a professional will help you pick and fit a kimono. This is necessarily a fairly intimate experience, and it all happens in quite a whirlwind of activity! Once dressed, you'll need to find sandals that fit (my UK 11 was 3XL!), and awkwardly wait in a room next to the initial entrance room, trying not to make eye contact with the guests dressed in normal clothes. It's hard to overstate just how chaotic and confusing this process is, occasionally not quite being sure how many items of clothing you're meant to have on.
+
+Finally (if you're in a couple) your partner will appear from the other building, and you can take some photos outside in the garden. When everyone is ready, you'll enter the tea ceremony, a completely different atmosphere that converted my rating from a 3 into a 5.
+
+This ceremony contains your group (around 12 people, more than I expected) and features a detailed explanation of all the green tea paraphernalia involved, the stages of the ceremony, the meaning behind various related zen concepts, and much more. This was deeply informative, from something as simple as how to sit, to small zen concepts that genuinely changed my mindset.
+
+After these explanations, you will make your own green tea, although the proper whisking technique was beyond me and I needed help! Regardless, the final result was absolutely excellent, and convinced us to buy green tea when we returned home. There are also a couple of small sweet treats included. Overall the ceremony took around 20 minutes (far less than the real multi-hour one!), and was a completely unique experience.
+
+Once finished, there is another opportunity for photos, and an even more chaotic process of changing back into day clothes! Something must have gone wrong for our group, as we were somehow all split up and abandoned. During this, me and another guy buddied up to figure it out together, since there was no guidance on where to go or when to change! We eventually made it out with only minor confusion (what do we do with these socks..?), something of a relief!
+
+Overall it was a truly unique experience, and so long as you can handle a little confusion at the start and end, is well worth the time and cost.
+
+**[Original review](https://maps.app.goo.gl/D2CZnc9RkhNkd91D9)**
+
+### Gion Night Walking Tour ★★★★★
+
+This tour provides a great opportunity to explore the Gion district, and see the major landmarks in an efficient route. Our guide (Sho) was upbeat and informative, answering questions throughout and ensuring everyone in our ~8 person group was always able to see and hear anything relevant.
+
+We saw a Geisha (well, the head of one getting into a taxi!) during our night tour, and thankfully Sho had already explained the importance of treating them with respect and space so none of the attendees did anything rude. As well as Geisha information (including the presence of the nearby Geisha museum with actual show), the guide also provided historical and religious context on all the places visited.
+
+This included the opportunity to partake in traditional praying techniques, observe locals doing them, and overall understand a lot more about the local area. I'd definitely recommend going after sunset to avoid the crowds and embrace the otherworldly vibe.
+
+Make sure to wear comfortable shoes, there's quite a few steps!
+
+**[Original review (4 photos)](https://www.tripadvisor.co.uk/AttractionProductReview-g298564-d27493237-Kyoto_Gion_Magical_Night_Walking_Tour-Kyoto_Kyoto_Prefecture_Kinki.html)**
 
 ## Day 3 (1st September): Arashiyama
 
