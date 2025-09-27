@@ -105,15 +105,79 @@ A day trip to Hiroshima, with the long travel time (2.5-3 hours each way, made w
 
 [![Japan 3 day 7 map](/assets/images/2025/japan3-day7-thumbnail.png)](/assets/images/2025/japan3-day7.png)
 
-### Atomic Bomb Dome
+### Atomic Bomb Dome ★★★★★
 
-### Hypocenter
+The iconic landmark of Hiroshima, the bombed out remains of the Industrial Promotion Hall stand in stark contrast to the high rises behind it, showing Hiroshima (and Japan's) strong recovery since.
 
-### Peace Memorial Museum
+A must-see whilst in the area, an information board nearby has excellent images of the building's original state, and immediately after the bombing. There is a pleasant green area surrounding the dome, plus the larger memorial park across the river with a good vantage point.
 
-### Various statues / monuments in garden
+**[Original review (4 photos)](https://maps.app.goo.gl/WucjfG6rGvKJKNE18)**
 
-### Komeda's Coffee
+### Hypocenter Monument ★★★★★
+
+A completely ignored small plaque down a side street near the Atomic Dome landmark marks the actual spot underneath where the bomb exploded. There are no tourists here, and it's easy to miss the sign if you don't know it's there, but it's an essential visit for the sheer globally unique nature of it.
+
+**[Original review (1 photo)](https://maps.app.goo.gl/Wv4TJbBhqDWcmrq27)**
+
+### Children's Peace Monument ★★★★★
+
+Perhaps the most distinctive memorial in the memorial park, this statue dedicated to the lost children is surrounded by hundreds of thousands of paper cranes representing peace in intricate designs. Whilst still quiet, this area will likely have a few other people around, and contains a few small signs of information.
+
+**[Original review](https://maps.app.goo.gl/tDShmUc1fh3Tk65S7)**
+
+### Bell of Peace ★★★★✰
+
+This (loud!) bell invites visitors to ring it, as a symbolic representation of the intent of global peace. There's some sort of irony in the presence of a sign asking visitors to not be overly aggressive with the bell, and ring it gently!
+
+**[Original review (1 photo)](https://maps.app.goo.gl/1aWJyB7Ft8bKiUt66)**
+
+### Korean Victims Cenotaph ★★★★★
+
+An important recognition of the 10% of Hiroshima citizens that were Korean, a fact that is usually omitted. A plaque at the monument explains why these Koreans were there, and to acknowledge that no funerals or memorial services were given, and to hope that they experience greater recognition in the future.
+
+Whilst small, the distinctive turtle design and important message makes this a key part of the memorial park, and worth visiting.
+
+**[Original review (2 photos)](https://maps.app.goo.gl/d3zF9UDEevzmboLe6)**
+
+### Memorial Burial Mound ★★★★★
+
+A seemingly ceremonial dirt hill that gains a drastically different meaning after reading the nearby sign, mentioning the tens of thousands of victims' ashes underneath. I'm not sure of anywhere else on earth you can be so close to the actual remains of so many people at once, a sobering experience.
+
+**[Original review](https://maps.app.goo.gl/PyVZeBH9LNFVvQQ37)**
+
+### Victims Memorial Cenotaph ★★★★★
+
+An archway with views of the flame of peace, this cenotaph has frequently replaced flowers and features a tomb containing the names of every victim of the bomb. In the shallow water is a short description of the monument in 7-8 languages.
+
+**[Original review (1 photo)](https://maps.app.goo.gl/siTjponm5MV3YCYNA)**
+
+### Clock Tower of Peace ★★★★✰
+
+This distinctive clock tower rings out every morning at the time of the bomb, 8:15am. Similar to the Bell of Peace, this is with the intention of this noise symbolically ringing globally, bringing peace with it.
+
+The structure is unfortunately noticeably rusting in a few places.
+
+**[Original review](https://maps.app.goo.gl/2DtgjTVCxvbCAvQz7)**
+
+### Peace Memorial Museum ★★★★★
+
+This fairly large museum features sprawling exhibits on Hiroshima, primarily the experience during and after the bomb was dropped. This includes hundreds of items, horrific stories of how individuals and families were affected, and an entire section dedicated to one family who experienced decades of trouble (likely PTSD) as a result.
+
+The museum can be a little crowded, with the dense information necessarily meaning a slow single-file queue at times. After the main sombre and dark area, there is a palette cleansing long bright walkway with a view of the park, followed by an open area with a wider perspective on both time and location towards the end.
+
+Downstairs is a free area (also accessible after the paid area) that is arguably the most valuable part, featuring hundreds of photos from the day and subsequent periods. Many of these I hadn't seen before, although I believe this exhibition changes over time.
+
+**[Original review (1 photo)](https://maps.app.goo.gl/ahXA9nCLtQN1oPJx5)**
+
+### Komeda's Coffee ★★★★★
+
+We came here on a whim and it was super tasty! It feels like a family run restaurant, with friendly staff more than happy to navigate a conversation despite not speaking a word of each other's language, and a small welcome snack provided.
+
+I had a (very large, only half pictured!) pork cutlet sandwich that was excellent, and I kept thinking about it the following few days. My partner had spaghetti and garlic bread, with a shiro-noir dessert. We both had strong black coffees, not particularly notable.
+
+We were surprised to learn afterwards that this is a chain restaurant, and that they are well known for their giant portions. A great discovery at the end of a tiring day!
+
+**[Original review (1 photo)](https://maps.app.goo.gl/oT5aopJ54tnmqAnQA)**
 
 ## Day 8 (6th September): Shrines & Temples
 
