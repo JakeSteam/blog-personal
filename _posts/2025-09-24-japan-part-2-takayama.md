@@ -265,7 +265,7 @@ An excellent way to get through the village, with natural beauty on all sides.
 
 **[Original review (2 photos)](https://maps.app.goo.gl/Kn7S4M4CJQEcpafC9)**
 
-### Purin no le ★★★★★
+### Purin no ie ★★★★★
 
 A very busy store selling puddings, clearly with a lot of social media popularity! Regardless, it's worth the price, being an excellent custard dessert, we ended up buying 2. There is a small amount of seating outside, and a place to return your glass jars / rubbish.
 
