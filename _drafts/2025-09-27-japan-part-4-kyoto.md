@@ -63,21 +63,45 @@ A fairly typical, albeit larger than usual, shopping street. Lots of brands and 
 
 ## Day 6 (4th September): Misc
 
-intro **13,334 steps (5.88 miles)**.
+A rare peaceful and unplanned day, with only a few spontaneous events plus plenty of shopping! A relatively small **13,334 steps (5.88 miles)**.
 
 [![Japan 3 day 6 map](/assets/images/2025/japan3-day6-thumbnail.png)](/assets/images/2025/japan3-day6.png)
 
-### Gion Kagai Art Museum
+### Gion Kagai Art Museum ★★★★★
 
-### the Art Cafe
+We came here after a recommendation during a Gion walking tour, and it definitely deserves to be more popular! Upon entry, you'll need to remove your shoes and your ticket will be checked. Next, you'll spend some time in the museum before your performance, followed by a tea room and pretty garden. Overall you should expect to spend around 60-90 minutes here.
 
-### Museum of Kyoto
+The museum consists of 5-6 rooms with historical information on Geiko (Geisha) and Japanese culture, with Japanese text but a QR code to read it in English on your phone. These were very interesting, and we could have spent far longer here before being informed our booked performance time was about to start. I'd recommend coming 30 minutes before your performance time to allow enough time for the museum beforehand.
 
-### Nandattei
+Surprisingly, we had a genuine geiko (geisha) for our performance, who was introduced by museum staff and did not say a word / display any expression throughout her 15 minute performance, clearly a professional. Whilst I can't pretend to fully understand the dance's culture at all, she was obviously confident in her abilities, and it was powerful. No photos or talking are allowed during the performance, with a page of information provided beforehand.
+
+After the performance, you can pay extra to get a photo with her, or progress to the shop / tea room. We had a green tea here, which was surprisingly slow but came with small snacks so balanced out! The shop has magnets / photos of all the performers and other similar merchandise, with today's highlighted so you can easily identify them.
+
+**[Original review](https://maps.app.goo.gl/a6W6pbdsE43gxcj77)**
+
+### the Art Cafe ★★★★★
+
+A small tea room / cafe, accessible within the Gion Kagai Art Museum after watching a performance and next to the museum shop.
+
+We ordered a green tea here, and it took a surprisingly long time to prepare, but that's probably due to being made from scratch just for us (there were no other visitors), and came with small mochi snacks.
+
+There's an excellent view over a well maintained garden whilst resting here.
+
+**[Original review](https://maps.app.goo.gl/TVkAxbYbsFCb18XS8)**
+
+### Nandattei ★★★★★
+
+Unbelievably excellent tomato curry ramen. Hot temperature, hot spiciness, lively yet quiet atmosphere as everyone is busy eating apart from the chefs!
+
+The entrance can be a little hard to find, hidden down a side street opposite a burger shop, inside a sliding door. The inside is reminiscent of an izakaya, with the chefs working away in front of you inside the L-shaped eating counter. There can be a short wait, but people get through their meals pretty fast so it's acceptable.
+
+Pictured is the Number 21 (Tomato Curry Tsukemen), a very affordable (¥1150) and filling dinner.
+
+**[Original review (1 photo)](https://maps.app.goo.gl/pUaiGCuoQ85mVqRY8)**
 
 ## Day 7 (5th September): Hiroshima
 
-intro **10,039 steps (4.31 miles)**.
+A day trip to Hiroshima, with the long travel time (2.5-3 hours each way, made worse by [typhoon flooding](https://www.asahi.com/ajw/articles/16008107)) resulting in only **10,039 steps (4.31 miles)**.
 
 [![Japan 3 day 7 map](/assets/images/2025/japan3-day7-thumbnail.png)](/assets/images/2025/japan3-day7.png)
 
