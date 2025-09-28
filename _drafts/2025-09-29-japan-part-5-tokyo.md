@@ -1,14 +1,15 @@
 ---
-title: 3 more days in Tokyo, told via Google Maps reviews (part 5/5, X reviews)
+title: 3 more days in Tokyo, told via Google Maps reviews (part 5/5, 26 reviews)
 image: /assets/images/banners/japan5.png
 tags:
   - Japan
   - Travel
   - Reviews
   - "Google Maps"
+  - Tokyo
 ---
 
-I recently went to Japan for an unbelievably excellent 3-week holiday! Here's the final part of the trip, Tokyo (again), told via 23 Google Maps reviews.
+I recently went to Japan for an unbelievably excellent 3-week holiday! Here's the final part of the trip, Tokyo (again), told via 26 Google Maps reviews.
 
 _Note: This is a series of posts, with Tokyo [Part 1](/japan-part-1-tokyo/), Takayama [Part 2](/japan-part-2-takayama), Kyoto [Part 3](/japan-part-3-kyoto/) and [Part 4](/japan-part-4-kyoto), and Tokyo again (this article)._
 
@@ -30,7 +31,7 @@ The laundry situation was also unusual, with 1 unmentioned washing machine and d
 
 **[Original review (12 photos)](https://maps.app.goo.gl/janFbk8yruKsxyKy6)**
 
-### Shibuya Scramble Crossing ★★★★★
+### Shibuya Scramble ★★★★★
 
 As chaotic as you'd expect! Every few minutes, a couple of hundred people flood in from all directions, with selfie-takers trying to sprint across of the crowds for the perfect shot. It's not too bad to get across, with the regular and long crossing periods making it easy to get through.
 
@@ -124,7 +125,7 @@ A simple waving cat statue in front of SEIBU Movida (with MUJI), make sure to sa
 
 **[Original review (1 photo)](https://maps.app.goo.gl/NwdLJZdbvZGh34gF6)**
 
-### Tokyo Milk Cheese Factory ★★★★★
+### Milk Cheese Factory ★★★★★
 
 This small shop within the food hall sells extremely tasty cheese cracker snacks! The free samples given out were enough to convince us to buy 2 packs, initially intended as gifts but half-eaten before we left Japan.
 
@@ -196,7 +197,7 @@ We purchased a book with professional photography of Kyoto-based cats (ねこの
 
 **[Original review (1 photo)](https://maps.app.goo.gl/Kd1X5eKpGpk1A2fB9)**
 
-### Science and Technology Museum ★★★★★
+### Science & Tech Museum ★★★★★
 
 Despite appearing closed on the outside, it's very much open! After chatting to a friendly security guard and making our way to the ticket desk through a completely empty hallway, we purchased our tickets and made our way in.
 
@@ -239,3 +240,11 @@ Large, well-maintained free gardens with a few entrances near the Imperial Palac
 **[Original review](https://maps.app.goo.gl/pC2XoJLnYFA2DcMA9)**
 
 ## Conclusion
+
+These final 3 days were easily the least planned part of our 5-part trip, consisting of 2 booked events (teamLab & Tokyo Tower), a vague plan for Shinjuku, and a completely unplanned final day! This flexibility was a great idea, as there were a few things (especially restaurants) that didn't fit into our Tokyo part 1.
+
+As our ~20 day trip came to an end, it was simply unbelievably how many different things we'd done! As the exactly 150 reviews(!) confirm, every day was busy. This is without even considering how many "things" aren't reviewable (or aren't worth reviewing). For example, spending 2 hours exploring a park, including various statues and areas? Probably only 1 review!
+
+Similarly, it doesn't contain any of the tens of stations / stops we took trains / buses / trams / metros / Shinkansens between, with us both spending around £75 (¥15000) on day-to-day transport (and a few vending machine drinks). Some of these, especially the Shinkansen and larger stations (Tokyo, Kyoto) are easily reviewable by themselves, but 150 is enough for anyone.
+
+There'll probably be a follow-up post covering techniques for handling the heat as a westerner (Tokyo [broke consistent heat records](https://www.japantimes.co.jp/news/2025/08/27/japan/tokyo-records-10-days-of-35-degrees-or-more/) whilst we were there!), but the structured reviews are all finished for now. I think I'm also travelled-out for now too, with 3 weeks of constant mental stimulation making me crave the boring, grey, day-to-day routine back in England!
