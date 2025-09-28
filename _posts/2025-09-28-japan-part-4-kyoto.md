@@ -6,7 +6,8 @@ tags:
   - Travel
   - Reviews
   - Kyoto
-  - "Google Maps"
+  - Osaka
+  - Hiroshima
 ---
 
 I recently went to Japan for an unbelievably excellent 3-week holiday! Here's the second half of the third location visited, Kyoto (plus Osaka / Hiroshima), told via 23 Google Maps reviews.
