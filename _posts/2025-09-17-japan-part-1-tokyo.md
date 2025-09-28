@@ -12,7 +12,7 @@ maxheader: 3
 
 I recently went to Japan for an unbelievably excellent 3-week holiday! Here's the first location visited, Tokyo's Asakusa, told via 37 Google Maps reviews (well, some are TripAdvisor).
 
-_Note: This is a series of posts, with Tokyo Part 1 (this article, 22nd-27th August), Takayama [Part 2](/japan-part-2-takayama/), Kyoto [Part 3](/japan-part-3-kyoto/) and [Part 4](/japan-part-4-kyoto), and Tokyo [Part 5](/japan-part-5-tokyo/)._
+_Note: This is a series of posts, with Tokyo Part 1 (this article, 22nd-27th August), Takayama [Part 2](/japan-part-2-takayama/), Kyoto [Part 3](/japan-part-3-kyoto/) and [Part 4](/japan-part-4-kyoto), and Tokyo again [Part 5](/japan-part-5-tokyo/)._
 
 ## Day 1: Arrival & Asakusa
 

@@ -12,7 +12,7 @@ tags:
 
 I recently went to Japan for an unbelievably excellent 3-week holiday! Here's the second half of the third location visited, Kyoto (plus Osaka / Hiroshima), told via 23 Google Maps reviews.
 
-_Note: This is a series of posts, with Tokyo [Part 1](/japan-part-1-tokyo/), Takayama [Part 2](/japan-part-2-takayama), Kyoto [Part 3](/japan-part-3-kyoto) and Part 4 (this article), and finally Tokyo [Part 5](/japan-part-5-tokyo/)._
+_Note: This is a series of posts, with Tokyo [Part 1](/japan-part-1-tokyo/), Takayama [Part 2](/japan-part-2-takayama), Kyoto [Part 3](/japan-part-3-kyoto) and Part 4 (this article), and finally Tokyo again [Part 5](/japan-part-5-tokyo/)._
 
 ## Day 5 (3rd September): Osaka
 

@@ -11,7 +11,7 @@ tags:
 
 I recently went to Japan for an unbelievably excellent 3-week holiday! Here's the second location visited, Takayama, told via 30 Google Maps reviews (well, some are TripAdvisor).
 
-_Note: This is a series of posts, with Tokyo [Part 1](/japan-part-1-tokyo/), Takayama Part 2 (this article), Kyoto [Part 3](/japan-part-3-kyoto/) and [Part 4](/japan-part-4-kyoto), and Tokyo [Part 5](/japan-part-5-tokyo/)._
+_Note: This is a series of posts, with Tokyo [Part 1](/japan-part-1-tokyo/), Takayama Part 2 (this article), Kyoto [Part 3](/japan-part-3-kyoto/) and [Part 4](/japan-part-4-kyoto), and Tokyo again [Part 5](/japan-part-5-tokyo/)._
 
 ## Day 1 (27th August): Arrival
 
