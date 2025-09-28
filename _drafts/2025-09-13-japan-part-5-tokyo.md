@@ -30,6 +30,14 @@ The laundry situation was also unusual, with 1 unmentioned washing machine and d
 
 **[Original review (12 photos)](https://maps.app.goo.gl/janFbk8yruKsxyKy6)**
 
+### Shibuya Scramble Crossing ★★★★★
+
+As chaotic as you'd expect! Every few minutes, a couple of hundred people flood in from all directions, with selfie-takers trying to sprint across of the crowds for the perfect shot. It's not too bad to get across, with the regular and long crossing periods making it easy to get through.
+
+Looking from above is far less chaotic, but provides you a great overview. Try predicting which tourist will stay on the road too long and almost get run over!
+
+**[Original review (5 photos)](https://maps.app.goo.gl/JuEUzaLbq1ivW7e1A)**
+
 ### Tokyo Tower ★★★★★
 
 Absolutely stunning views of Tokyo, especially at sunset!
@@ -72,39 +80,107 @@ Overall the price was high, but we got what we paid for, clearly being the best 
 
 ## Day 2 (8th September): Shinjuku
 
-intro **19,906 steps (9.03 miles)**.
+A meandering day that eventually ended up in Shinjuku, although the busy day yesterday meant our energy reserves were a little low! Regardless, we managed yet another high step day at **19,906 steps (9.03 miles)**.
 
 [![Japan 4 day 2 map](/assets/images/2025/japan4-day2-thumbnail.png)](/assets/images/2025/japan4-day2.png)
 
-### IKEA Harajuku
+### IKEA Harajuku ★★★★✰
 
-### Nanako Sculpture
+It's hard to review this IKEA properly, since I just came in for their cheap drinks and snacks on a Monday morning! Tasty food, easy self-serve drinks, and a fairly quiet canteen.
 
-### Yoyogi Park
+**[Original review (1 photo)](https://maps.app.goo.gl/ta6B7HCU3DTvXZeG6)**
 
-### Consecrated Sake Barrels
+### Consecrated Sake Barrels ★★★★✰
 
-### Meiji Jingu
+An interesting diversion along the way to Meiji Jingu consisting of temple gifts on one side, and wines on the other side. Primarily a photo opportunity with little additional information.
 
-### NUIR
+**[Original review (1 photo)](https://maps.app.goo.gl/SsUFfBQAjL4C8seL8)**
 
-### Tokyo Milk Cheese Factory
+### Meiji Jingu ★★★✰✰
 
-### Tonkatsu Wako Metro Plaza Building
+Whilst the surrounding green space is pretty good, especially for a crowded urban area, the actual shrine itself is fairly limited with far more impressive examples elsewhere. If you like this, you'll love Kyoto!
 
-### Omoide Yokocho
+**[Original review](https://maps.app.goo.gl/wAZoKbioU5y5Bc3x7)**
 
-### 3D cat
+### Meiji Jingu Terrace ★★★★✰
 
-### Kinokuniya Shinjuku
+A small food hall selling various drinks and snacks, excellent after walking through Meiji Jingu's grounds. There's also vending machines and a smoking area here, along with plenty of indoor and outside seats and other amenities.
 
-### Godzilla road
+A little expensive, but the convenient location within the park makes it hard to complain much.
 
-### King-kong Statue
+**[Original review](https://maps.app.goo.gl/Xvugc9Rzzr1eTX528)**
 
-### Golden Gai
+### NUIR ★★★★★
 
-### Quatre, Shibuya
+Despite not being interested in vintage luxury bags whatsoever, the calm and organised nature of NUIR needs mentioning! Upstairs in an unassuming building, the secluded shop is far larger and more full of items than expected, yet still finds space for a few seats to rest on.
+
+Definitely worth a visit if interested in luxury vintage bags, and as a +1 the friendly staff and quiet atmosphere make it far preferable to other shops!
+
+**[Original review](https://maps.app.goo.gl/agzwdgS61DqtJ46r6)**
+
+### NANAKO ★★★★★
+
+A simple waving cat statue in front of SEIBU Movida (with MUJI), make sure to say hello!
+
+**[Original review (1 photo)](https://maps.app.goo.gl/NwdLJZdbvZGh34gF6)**
+
+### Tokyo Milk Cheese Factory ★★★★★
+
+This small shop within the food hall sells extremely tasty cheese cracker snacks! The free samples given out were enough to convince us to buy 2 packs, initially intended as gifts but half-eaten before we left Japan.
+
+They seem simple, just cheese within seasoned crackers, but the flavour combinations and convenient pack size make them a convenient snack to bring out, even after they crumble!
+
+**[Original review](https://maps.app.goo.gl/XkmwkVzzYCuZCmQF8)**
+
+### Tonkatsu Wako ★★★★★
+
+This restaurant's front looks quite different to the current picture! Situated outside the actual metro plaza building, almost underneath a bridge, this is a tasty and inexpensive tonkatsu eatery.
+
+We visited just after lunch, and whilst there were a few unique tonkatsu options we just went for classic pork. Served quickly and cooked fresh along with some gravy and hot tea, this was a perfect place for a quick meal.
+
+**[Original review (1 photo)](https://maps.app.goo.gl/9ZcQfrsUzwpFnAou6)**
+
+### Omoide Yokocho ★★★★✰
+
+These 2 very narrow north-south alleyways feature tens of small izakayas and stalls selling basic snack food and drinks. Whilst we weren't here at a meal time, walking down the central alleyway is highly recommended to experience the ambience!
+
+**[Original review](https://maps.app.goo.gl/XoPf1BUVbXKi4Av26)**
+
+### The Giant 3D Cat ★★★✰✰
+
+A bit of a disappointment as cat lovers! Whilst the cat does look fairly 3D at the right angle (pictured is the wrong angle!), the board is full of adverts the vast majority of the time. The large crowds in the area ensure this might be one of those things that looks best as a short video, not necessarily in person.
+
+**[Original review (1 photo)](https://maps.app.goo.gl/dTqe5wA9CWKkYj3T8)**
+
+### Kinokuniya Shinjuku ★★★★✰
+
+A large book store with multiple floors accessible via a lift. The English books section has a pretty good selection, with plenty of books from Japanese authors as well as global classics. Staff at checkout were friendly, and wrapped the book in a paper cover.
+
+**[Original review](https://maps.app.goo.gl/iZJ1ynbtMPpdMtyE8)**
+
+### Godzilla Head ★★★★✰
+
+Yep, it's a large Godzilla head at the end of a shopping road leading into a popular area of Shinjuku. Nothing to do besides take a photo of it and move on!
+
+**[Original review (1 photo)](https://maps.app.goo.gl/3SiNthgj2S9rSAH18)**
+
+### King Kong Statue ★★★✰✰
+
+A small statue you might spot on your walk, nothing to do besides take a photo and move on!
+
+**[Original review (1 photo)](https://maps.app.goo.gl/dmkqkpS68LfWJmESA)**
+
+### Golden-Gai ★★★★✰
+
+A few streets of tiny bars, even coming here during the day provides an intriguing atmosphere!
+
+**[Original review (2 photos)](https://maps.app.goo.gl/7WstBkmuuciUKSXa8)**
+
+### Quatre ★★★★✰
+
+Tasty slices of cake, convenient for taking away, but very expensive!
+
+**[Original review (1 photo)](https://maps.app.goo.gl/3DnbvQZWCE3FpcD8A)**
 
 ## Day 3 (9th September): Misc
 
