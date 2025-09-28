@@ -1,5 +1,5 @@
 ---
-title: 4 more days in Kyoto / Osaka / Hiroshima, told via Google Maps reviews (part 4/5, X reviews)
+title: 4 more days in Kyoto / Osaka / Hiroshima, told via Google Maps reviews (part 4/5, 23 reviews)
 image: /assets/images/banners/japan4.png
 tags:
   - Japan
@@ -9,7 +9,7 @@ tags:
   - "Google Maps"
 ---
 
-intro
+I recently went to Japan for an unbelievably excellent 3-week holiday! Here's the second half of the third location visited, Kyoto (plus Osaka / Hiroshima), told via 23 Google Maps reviews.
 
 _Note: This is a series of posts, with Tokyo [Part 1](/japan-part-1-tokyo/), Takayama [Part 2](/japan-part-2-takayama), Kyoto [Part 3](/japan-part-3-kyoto) and Part 4 (this article), and finally Tokyo [Part 5](/japan-part-5-tokyo/)._
 
@@ -181,16 +181,54 @@ We were surprised to learn afterwards that this is a chain restaurant, and that 
 
 ## Day 8 (6th September): Shrines & Temples
 
-intro **24,367 steps (10.03 miles)**.
+What was intended to be a relaxing final Kyoto day resulted in climbing 2 mountains (well, big hills), oops! This resulted in **24,367 steps (10.03 miles)**, half of them uphill, all of them in very hot weather.
 
 [![Japan 3 day 8 map](/assets/images/2025/japan3-day8-thumbnail.png)](/assets/images/2025/japan3-day8.png)
 
-### Fushimi Inari-taisha (and maybe places inside)
+### Fushimi Inari-taisha ★★★★✰
 
-### Sanjusangendo (1001 Kannon)
+One of the defining visuals of Kyoto, this series of hundreds of tori gates all the way up Mount Inari is a unique experience! This is an intense climb, with the relentless stairs and relatively rare rest stops making reaching the top "loop" a genuine achievement.
 
-### Kiyomizu-dera
+The hike itself will take around an hour, however it will be more tiring than you expect due to the lack of flat areas, and occasionally having to change pace due to other visitors on the route.
 
-### Tendon Makino Kyoto Teramachi
+Make sure you bring comfy shoes, and the best photos are typically of the gates themselves rather than the view you've walked so hard to earn! The lower levels of the mountain are also one giant queue at parts, keep walking up and the crowds will thin out though.
+
+**[Original review (7 photos)](https://maps.app.goo.gl/mZvu7b4ARPM6Bdai7)**
+
+### Sanjūsangendō Temple ★★★★★
+
+The unique contents of this relatively small temple are definitely worth seeing, it's almost surreal seeing hundreds of statues in perfect order. The temple's grounds are well maintained, featuring plenty of shaded seating and an aesthetic pond.
+
+Luckily, photos are not allowed within, forcing visitors to actually appreciate the statues, and engage with the temple.
+
+**[Original review (1 photo)](https://maps.app.goo.gl/rgmxUEHAnGfiJKWP8)**
+
+### Tendon Makino Teramachi ★★★★✰
+
+If you're hungry and like tempura, this is for you! Very large portions with plenty of sides, with the set menu offering a very filling (if unhealthy) meal. Soba noodles were tasty and flavourful, with the included mochi dessert being much appreciated.
+
+There's typically a bit of a queue outside, although the upstairs was not full. Orders are taken whilst waiting outside, meaning your food arrives fairly quickly once you enter.
+
+**[Original review (2 photos)](https://maps.app.goo.gl/gB5n2cyCSsP3NWEK8)**
+
+### Kiyomizu-dera ★★★★✰
+
+As one of the distinctive landmarks of Kyoto, this mountaintop temple is unsurprisingly pretty busy at the weekend! Once through the main gates, there is the distinctive ultra-heavy Spear of Benkai.
+
+Next, there is a 15-minute loop walk, with excellent views of Kyoto and other parts of the temple provided throughout. Finally, you'll exit via a side path that makes its way out skipping the incoming crowds.
+
+Overall I preferred this to Fushimi Inari-taisha, but it's a far simpler, shorter, and easier experience, focused more on views than any actual hiking. The main downside is the approach roads being unusably thick with visitors on the weekend, you'll be moving extremely slowly!
+
+**[Original review (5 photos)](https://maps.app.goo.gl/Hab8GsHszLk2TB7J6)**
 
 ## Conclusion
+
+As mentioned in [Kyoto Part 3](/japan-part-3-kyoto) article, we really enjoyed Kyoto. The second half of our time here was more subdued, with a couple of days being genuinely spontaneous instead of the usual dense plan! Whilst the day trips to Osaka and Hiroshima were valuable, I'm not sure that they were the best use of our time.
+
+Osaka was very focused on shopping, something I personally have no interest in, and food, of which infinite excellent options are already available in Kyoto. Luckily transport from Kyoto is very simple and quick, and admittedly the unusually grey weather may have influenced our enjoyment. Overall though, we struggled to find many _things_ to look at even in a single day, unlike Kyoto and Tokyo where there are far more _things_ than you can see in a week.
+
+For Osaka, [this Reddit post I viewed beforehand](https://www.reddit.com/r/JapanTravelTips/comments/1e1zro0/what_to_do_in_osaka_aside_the_obvious/) kinda summed it up. It's shopping and bars / food, of which we had plenty elsewhere. I'm sure it appeals to some people, but seeing Osaka / Kyoto / Tokyo being referred to together feels bizarre!
+
+Hiroshima was great, but we knew it was going to be a long commute, made worse by the typhoon disrupting the usually perfect Japanese trains. As such, we only had a few hours there, enough to see the bomb-related area & eat but not actually explore the city, so I'd like to come back one day.
+
+I'm happy that we got _most_ of the "must-see" locations in Kyoto, with those we didn't see being an intentional choice not a time limitation. Obviously there are many, many more things we could do there, but I'm satisfied with our choices! TripAdvisor is just _one_ source of recommendations, however we visited around 85% of their [top "Things to Do"](https://www.tripadvisor.co.uk/Attractions-g298564-Activities-oa0-Kyoto_Kyoto_Prefecture_Kinki.html), a good metric.
