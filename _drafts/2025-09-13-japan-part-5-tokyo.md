@@ -184,18 +184,58 @@ Tasty slices of cake, convenient for taking away, but very expensive!
 
 ## Day 3 (9th September): Misc
 
-intro **15,488 steps (6.12 miles)**.
+A few final stops before we fly home on the 10th, all places that didn't make it into earlier days! A healthy **15,488 steps (6.12 miles)**.
 
 [![Japan 4 day 3 map](/assets/images/2025/japan4-day3-thumbnail.png)](/assets/images/2025/japan4-day3.png)
 
-### Nyankodo
+### Nyankodo Bookstore ★★★★★
 
-### Menchirashi
+A wonderful little shop in Jimbocho near the metro station, containing hundreds of cat books and nothing else! All are in Japanese, but this isn't an issue for the many, many cat photography books.
 
-### Science and Technology Museum
+We purchased a book with professional photography of Kyoto-based cats (ねこの京都 by 岩合 光昭) after looking around for a bit, with the shop assistant letting us get on with it. Highly recommend a visit if you're in the area!
 
-### Starbucks Kokyo Gaien Wadakura Fountain
+**[Original review (1 photo)](https://maps.app.goo.gl/Kd1X5eKpGpk1A2fB9)**
 
-### Imperial Palace East National Gardens
+### Science and Technology Museum ★★★★★
+
+Despite appearing closed on the outside, it's very much open! After chatting to a friendly security guard and making our way to the ticket desk through a completely empty hallway, we purchased our tickets and made our way in.
+
+This is obviously primarily a place for Japanese children / families, but non-Japanese adults can have lots of fun here too! There are 4 floors, each with a slightly different feel, I recommend working your way top to bottom.
+
+There are hundreds of interactive exhibits scattered throughout, everything from an earthquake simulator to curling to cannons to walking pianos and optical illusions! You'll need to use Google Translate for most items, but the child-friendly Japanese means it all translates well. My personal highlights are, using the floor map, 4F (construction), 5F (optical illusions), and 5H (guitar hero-style piano).
+
+Around lunchtime you might turn a corner near 4E and suddenly discover... hundreds of Japanese school children eating their lunch! This was quite a surprise, as we'd only seen a few running around playing with the exhibits.
+
+There's a shop back on the ground floor, although mostly full of toys for kids (the museum's main audience!).
+
+**[Original review (5 photos)](https://maps.app.goo.gl/jt2ZXYQtMGsgGxww6)**
+
+### Menchirashi ★★★✰✰
+
+This extremely popular restaurant had a waiting time of around 30 minutes for lunch, so it must be great right? Well, it's fine.
+
+The signature dish is udon carbonara made with plenty of cheese, and it's OK for a one-off, too unhealthy to enjoy often though. We had some tempura too, and again, that was fine. We were seated near the entrance, meaning people hungrily waiting outside did a lot of staring throughout, not a particularly relaxing environment.
+
+Ultimately if this place had been empty and we'd just stopped in, it would be a 4/5. However the absurdly long queue makes it definitely not worth it, even though I understand that's not entirely their fault!
+
+**[Original review](https://maps.app.goo.gl/on26suuyLwd7VjLE6)**
+
+### Starbucks Fountain Park ★★★★★
+
+A well-designed Starbucks offering excellent views over the nearby fountain park, with good food and drink options. It tends to be quite busy, with people sticking around to work or just socialise on hot days.
+
+**[Original review](https://maps.app.goo.gl/bbw2ZVCC7hDnhpYp6)**
+
+### Kita-Hanebashi Gate ★★★★✰
+
+A pretty entrance into the Imperial Palace East National Gardens, security was efficient and speedy, with no queue when we visited on a weekday lunchtime.
+
+**[Original review (2 photos)](https://maps.app.goo.gl/n2ankz3NxChuQsd88)**
+
+### East National Gardens ★★★★✰
+
+Large, well-maintained free gardens with a few entrances near the Imperial Palace. There's plenty of shade, plus large open spaces, and is perfect for a very peaceful and relaxing walk during a weekday.
+
+**[Original review](https://maps.app.goo.gl/pC2XoJLnYFA2DcMA9)**
 
 ## Conclusion
