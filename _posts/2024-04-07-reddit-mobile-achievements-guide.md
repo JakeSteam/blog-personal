@@ -4,7 +4,7 @@ image: /assets/images/banners/reddit-achievements.png
 tags:
   - Reddit
   - Achievements
-last_modified_at: 2025-07-05
+last_modified_at: 2025-10-12
 ---
 
 In April 2024, Reddit added 18 achievements to the mobile app, grouped into 3 categories (and added 30+ more & outfits later). Here's all the details, and how to unlock all 59 achievements!
@@ -70,7 +70,7 @@ The streak achievements are simple loyalty rewards, requiring some sort of activ
 
 [![Reddit streak achievement tracking](/assets/images/2024/reddit-streak.png)](/assets/images/2024/reddit-streak.png)
 
-Note that a few of these achievements cannot be obtained yet, as the achievements have not been out long enough. The 500-day achievement was earned by [u/Excalibur_Playz](https://www.reddit.com/user/Excalibur_Playz) on the [27th March](https://www.reddit.com/r/Redditachievments/comments/1jlb0i5/yes_i_am_the_9th_person_in_the_world_to_get_this/?share_id=FX_aJV8xo2Oq_P6xq77RH), so the 600 day should be available early July! Reddit seems to regularly add new streak badges (or adjust existing ones), with a batch of 7 being added in February 2025 before being mostly removed in March.
+Note that one of these achievements cannot be obtained yet, with the final 730-day achievement expecting to be first unlocked in mid-November.
 
 |                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                        |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
