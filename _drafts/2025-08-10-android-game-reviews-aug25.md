@@ -80,7 +80,7 @@ Your workers are responsible for both producing and transporting your produced i
 
 This relatively simple formula of fulfilling orders and obtaining gold & spawn coins to upgrade areas & workers is not too appealing by itself. However, the game handles both prestiging and seasonal events well, making them all feel like progress towards an overall goal.
 
-When an area is fully completed (usually when all areas & workers are maximum level), it provides passive income for the rest of your time with the game, at a fairly generous rate. There appear to be 13 areas in all (I'm finishing up area 12), and every time I open the game there are a few thousand coins available, although my earlier grinding has meant money is no longer an issue.
+When an area is fully completed (usually when all areas & workers are maximum level), it provides passive income for the rest of your time with the game, at a fairly generous rate. There appear to be 13 areas in all (I'm finishing up area 12), although you can "prestige" an area which I haven't tried yet. Every time I open the game there are a few thousand coins available, although my earlier grinding has meant money is no longer an issue.
 
 Luckily, prestiging by moving to a new area does not mean you lose all your progress. You collect "cards" throughout, with upgrading each item (e.g. walk speed, or cocoa powder) being permanent and global. These benefits stack noticeably, with a highly upgraded produce item earning significantly more per item.
 
@@ -103,3 +103,4 @@ The only monetisation that is appealing is the incentivised adverts providing up
 - As mentioned, always upgrade your critical path. If an item isn't fully stocked, it needs upgrading.
 - Follow the tasks. Whilst you can upgrade anything in any order, generally you might as well follow the suggested upgrade to earn the extra gems.
 - Participate in the events. They're easy gems, and offer avatars!
+- Offline rewards for events often aren't calculated accurately until you re-enter an area. When reopening the app, briefly going into the main game and back will correctly reward the entire amount.
