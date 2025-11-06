@@ -4,10 +4,10 @@ image: /assets/images/banners/reddit-achievements.png
 tags:
   - Reddit
   - Achievements
-last_modified_at: 2025-10-12
+last_modified_at: 2025-11-06
 ---
 
-In April 2024, Reddit added 18 achievements to the mobile app, grouped into 3 categories (and added 30+ more & outfits later). Here's all the details, and how to unlock all 59 achievements!
+In April 2024, Reddit added 18 achievements to the mobile app, grouped into 3 categories (and added 30+ more & outfits later). Here's all the details, and how to unlock all 60 achievements!
 
 ## What are achievements?
 
@@ -64,13 +64,13 @@ Note the 10% achievements are _more_ common than the 25% achievements (Rare vs L
 
 <sup>1</sup>This accolade previously had the description "_Be in the top 1% of upvoted commenters or posters in a subreddit for 5 months in the last year_", and may still have the same unlock requirements.
 
-## Reddit Streak (20)
+## Reddit Streak (21)
 
 The streak achievements are simple loyalty rewards, requiring some sort of active action every day for weeks on end. This is the only achievement category to have a progress indicator at the top, in addition to the usual per-achievement progress:
 
 [![Reddit streak achievement tracking](/assets/images/2024/reddit-streak.png)](/assets/images/2024/reddit-streak.png)
 
-Note that one of these achievements cannot be obtained yet, with the final 730-day achievement expecting to be first unlocked in mid-November.
+Note that two of these achievements cannot be obtained yet, with the 730-day achievement expecting to be first unlocked in mid-November and 800-day achievement in late-January.
 
 |                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                        |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -79,7 +79,7 @@ Note that one of these achievements cannot be obtained yet, with the final 730-d
 |     [![75 day streak Reddit achievement](/assets/images/2024/reddit-75day.png)](/assets/images/2024/reddit-75day.png)<br>**75-day streak** (Common) <br> Use the Reddit app (upvote / post / comment / share) for 75 days in a row     |             [![100 day streak Reddit achievement](/assets/images/2024/reddit-100day.png)](/assets/images/2024/reddit-100day.png)<br>**100-day streak** (Rare) <br> Use the Reddit app (upvote / post / comment / share) for 100 days in a row              |   [![150 day streak Reddit achievement](/assets/images/2024/reddit-150day.png)](/assets/images/2024/reddit-150day.png)<br>**150-day streak** (Epic) <br> Use the Reddit app (upvote / post / comment / share) for 150 days in a row    |
 |   [![200 day streak Reddit achievement](/assets/images/2024/reddit-200day.png)](/assets/images/2024/reddit-200day.png)<br>**200-day streak** (Epic) <br> Use the Reddit app (upvote / post / comment / share) for 200 days in a row    |           [![300 day streak Reddit achievement](/assets/images/2024/reddit-300day.png)](/assets/images/2024/reddit-300day.png)<br>**300-day streak** (Legendary) <br> Use the Reddit app (upvote / post / comment / share) for 300 days in a row           | [![365 day streak Reddit achievement](/assets/images/2024/reddit-365day.png)](/assets/images/2024/reddit-365day.png)<br>**365-day streak** (Legendary) <br>Use the Reddit app (upvote / post / comment / share) for 365 days in a row  |
 | [![400 day streak Reddit achievement](/assets/images/2024/reddit-400day.png)](/assets/images/2024/reddit-400day.png)<br>**400-day streak** (Legendary) <br> Use the Reddit app (upvote / post / comment / share) for 400 days in a row |           [![500 day streak Reddit achievement](/assets/images/2024/reddit-500day.png)](/assets/images/2024/reddit-500day.png)<br>**500-day streak** (Legendary) <br> Use the Reddit app (upvote / post / comment / share) for 500 days in a row           | [![600 day streak Reddit achievement](/assets/images/2024/reddit-600day.png)](/assets/images/2024/reddit-600day.png)<br>**600-day streak** (Legendary) <br> Use the Reddit app (upvote / post / comment / share) for 600 days in a row |
-| [![700 day streak Reddit achievement](/assets/images/2024/reddit-700day.png)](/assets/images/2024/reddit-700day.png)<br>**700-day streak** (Legendary) <br> Use the Reddit app (upvote / post / comment / share) for 700 days in a row | [![Basement Dweller Reddit achievement](/assets/images/2024/reddit-basementdweller.png)](/assets/images/2024/reddit-basementdweller.png)<br>**Basement Dweller** (Legendary)<br>Use the Reddit app (upvote / post / comment / share) for 730 days in a row |                                                                                                                                                                                                                                        |
+| [![700 day streak Reddit achievement](/assets/images/2024/reddit-700day.png)](/assets/images/2024/reddit-700day.png)<br>**700-day streak** (Legendary) <br> Use the Reddit app (upvote / post / comment / share) for 700 days in a row | [![Basement Dweller Reddit achievement](/assets/images/2024/reddit-basementdweller.png)](/assets/images/2024/reddit-basementdweller.png)<br>**Basement Dweller** (Legendary)<br>Use the Reddit app (upvote / post / comment / share) for 730 days in a row | [![800 day streak Reddit achievement](/assets/images/2024/reddit-800day.png)](/assets/images/2024/reddit-800day.png)<br>**800-day streak** (Legendary) <br> Use the Reddit app (upvote / post / comment / share) for 800 days in a row |
 
 ## Exploration (22)
 

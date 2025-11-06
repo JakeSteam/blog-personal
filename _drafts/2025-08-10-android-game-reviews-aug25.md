@@ -86,6 +86,8 @@ Luckily, prestiging by moving to a new area does not mean you lose all your prog
 
 Similarly, whilst there are always 1-2 standalone events running for a few days, they provide benefits in the main game. This can be as simple as gems (the premium currency, you get given plenty!) for good performance, new avatars, or cards to upgrade items. These minigames vary from the very overused "mine & transport & sell" structure, to a copy of the main game set in the desert, to a beanstalk with each rung earning you rewards, and more. Whilst none of these games are complex or brand new, they provide a nice distraction from the core upgrading gameplay.
 
+I suspect these events aren't _entirely_ real players, as you'll soon notice your "competitors" seem to be slowly accumulating points at a steady rate throughout the event's duration. A real player will gain them in short bursts as they actually play! My theory is the events are populated with fake scores based on real player highscores from previous occurrences of the event, slowly increasing until the end of event. Regardless, they're still some form of multiplayer, real or not.
+
 However, that's if you find time to play them! Unlike many incremental games, you will never run out of "energy" in Idle Tribe. You may briefly not have enough coins or spawn coins, but these are rewarded with every order so you are constantly incentivised to keep playing. Many games would use this addictive "one more upgrade" trait in a more predatory way, but Idle Tribe seems content to just keep you playing, regardless of if you're spending or not.
 
 Overall, this is a time-consuming game that is excellent to mindlessly grind away at whilst on a call or waiting for something. You won't have any amazing experiences or revelations, but you will get a steady stream of dopamine!
@@ -104,3 +106,4 @@ The only monetisation that is appealing is the incentivised adverts providing up
 - Follow the tasks. Whilst you can upgrade anything in any order, generally you might as well follow the suggested upgrade to earn the extra gems.
 - Participate in the events. They're easy gems, and offer avatars!
 - Offline rewards for events often aren't calculated accurately until you re-enter an area. When reopening the app, briefly going into the main game and back will correctly reward the entire amount.
+- Many events have leaderboards based on tasks completed, whereby the first person to complete all tasks is guaranteed first. As such, rushing to full completion is worth the early effort.
