@@ -1,13 +1,13 @@
 ---
-title: "Playing and Passing Play Pass Games: hocus, Hidden Through Time"
-image: /assets/images/banners/aug-25-games.png
+title: "A few more Android games I've enjoyed: hocus, Hidden Through Time, subpar pool"
+image: /assets/images/banners/nov-25-games.png
 tags:
   - Android
   - Gaming
 maxheader: 2
 ---
 
-intro
+I've enjoyed 3 Android games lately, all in different genres and only one of them an incremental game! Here's detailed reviews of them.
 
 ## #1: [hocus.](https://play.google.com/store/apps/details?id=air.com.gamebrain.hocus)
 
@@ -54,7 +54,7 @@ I accessed hocus for free via Google Play Pass, but it looks like a one-off £1.
 
 ---
 
-## #2: [Idle Tribe: Merge Circle Town](https://play.google.com/store/apps/details?id=com.vng.circle.tribe.idle)
+## #2: [Idle Tribe](https://play.google.com/store/apps/details?id=com.vng.circle.tribe.idle)
 
 Idle Tribe isn't doing anything new. But, it's scratching the "build up a town without thinking much" incremental itch perfectly, without being too obnoxious about the monetisation!
 
@@ -107,3 +107,47 @@ The only monetisation that is appealing is the incentivised adverts providing up
 - Participate in the events. They're easy gems, and offer avatars!
 - Offline rewards for events often aren't calculated accurately until you re-enter an area. When reopening the app, briefly going into the main game and back will correctly reward the entire amount.
 - Many events have leaderboards based on tasks completed, whereby the first person to complete all tasks is guaranteed first. As such, rushing to full completion is worth the early effort.
+
+---
+
+## #3: [subpar pool](https://play.google.com/store/apps/details?id=com.grapefrukt.games.tilebreaker)
+
+I don't particularly enjoy pool, mostly because I'm not very good! However, subpar pool has really hooked me recently, with the modifiers and challenges making each run feel unique, and challenging yet possible.
+
+### Screenshots
+
+All screenshots are from version 1.0.4:
+
+|                                                  Level select                                                   |                                                  Modifier select                                                   |                                                  Gameplay                                                   |                                                  Round win                                                   |
+| :-------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
+| [![subpar pool level select](/assets/images/2025/oct-pool-1-thumbnail.jpg)](/assets/images/2025/oct-pool-1.jpg) | [![subpar pool modifier select](/assets/images/2025/oct-pool-2-thumbnail.jpg)](/assets/images/2025/oct-pool-2.jpg) | [![subpar pool gameplay](/assets/images/2025/oct-pool-3-thumbnail.jpg)](/assets/images/2025/oct-pool-3.jpg) | [![subpar pool round win](/assets/images/2025/oct-pool-4-thumbnail.jpg)](/assets/images/2025/oct-pool-4.jpg) |
+
+### Review
+
+In subpar pool, you'll be playing relatively short 5-table rounds of pool across various maps and modifiers. Why? Well, to complete challenges to unlock more maps and modifiers!
+
+Completing challenges unlocks more challenges, and these can be as simple as completing a specified table or as tricky as completing a certain number of ball pots _after dying_ in a round. Most of these challenges can be completed first or second time if you're a decent enough shot, but the real difficulty comes in:
+
+1. Trying to combine challenges for efficiency without making a round impossible.
+2. The occasional truly difficult challenges like potting 8 consecutive shots on a map with conveyor belts and extra awkward spaces added.
+
+Gameplay itself is very simple, and essentially the same as pool: At the start of each table (or if you pot the white ball), drag where on the table you want to start. Then, line up your shots (there's a "bounce line") and get the balls in the holes. Easy!
+
+Unlike real pool, the tables have impossible traits (teleports, moving holes, rotating conveyor belts), the balls are impossible (hunter balls chasing your white ball, balls that split, crystal balls that shatter), and there are plenty of extra traits available (fixed start position, extra balls to pot, fewer lives, etc).
+
+This simple loop of selecting modifier cards with challenges to unlock new cards and challenges is very satisfying, with a sense of progress after ever 3-4 minute run. New content is also regularly unlocked, and the stats page reports I've played 46 runs and completed 42/196 challenges, with nearly 3 hours of gameplay.
+
+Whilst I'm pretty confident I'll get _most_ of the way through subpar pool, I suspect there'll be some challenges later on that I'm just not good enough for! For example, one challenge requires passing through a teleport on the "gateways" map 16 times in 1 short, and I'm yet to see a map layout that allows it. Perhaps there'll be a modifier combination later on that allows it...
+
+There's no penalty for failing or abandoning the short runs, so trying experimental modifier combinations to complete as many challenges as possible is encouraged.
+
+### Monetisation
+
+I accessed subpar pool as part of Google Play Pass, otherwise it's a one-off £4.39 (~$5.99) purchase. There are no in-app purchases.
+
+### Tips
+
+- With quick restarts, if you don't make any progress towards a challenge on your first map, you might as well just restart the round.
+- Pay attention to the "also requires" part of a challenge, if the challenge isn't lit up then you don't currently have all the required maps or modifiers selected.
+- The holes are quite forgiving, so knocking a ball vaguely nearby a corner should get it in.
+- There's no penalty for potting the cue ball (excluding any challenge requirements), and it's usually a good idea since you can freely place the white ball afterwards.
