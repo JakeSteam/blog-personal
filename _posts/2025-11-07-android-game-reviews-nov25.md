@@ -1,5 +1,5 @@
 ---
-title: "A few more Android games I've enjoyed: hocus, Hidden Through Time, subpar pool"
+title: "A few more Android games I've enjoyed: hocus, Idle Tribe, subpar pool"
 image: /assets/images/banners/nov-25-games.png
 tags:
   - Android
