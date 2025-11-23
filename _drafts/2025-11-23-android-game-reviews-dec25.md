@@ -63,17 +63,36 @@ It's another GX Studio game, like the first game in this article! This time, the
 
 ### Screenshots
 
-All screenshots are from version 1.1.3:
+All screenshots are from version 1.0.4:
 
-|                                                     Early game                                                     |                                                     Late game                                                     |                                                     Permanent upgrades                                                     |                                                     Card collection                                                     |
-| :----------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
-| [![Ironpost early game](/assets/images/2025/dec-ironpost-1-thumbnail.jpg)](/assets/images/2025/dec-ironpost-1.jpg) | [![Ironpost late game](/assets/images/2025/dec-ironpost-2-thumbnail.jpg)](/assets/images/2025/dec-ironpost-2.jpg) | [![Ironpost permanent upgrades](/assets/images/2025/dec-ironpost-3-thumbnail.jpg)](/assets/images/2025/dec-ironpost-3.jpg) | [![Ironpost card collection](/assets/images/2025/dec-ironpost-4-thumbnail.jpg)](/assets/images/2025/dec-ironpost-4.jpg) |
+|                                                    Title screen                                                    |                                                    Gameplay                                                    |                                                    Perks                                                    |                                                    Upgrades                                                    |
+| :----------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
+| [![Word Run title screen](/assets/images/2025/dec-wordrun-1-thumbnail.jpg)](/assets/images/2025/dec-wordrun-1.jpg) | [![Word Run gameplay](/assets/images/2025/dec-wordrun-2-thumbnail.jpg)](/assets/images/2025/dec-wordrun-2.jpg) | [![Word Run perks](/assets/images/2025/dec-wordrun-3-thumbnail.jpg)](/assets/images/2025/dec-wordrun-3.jpg) | [![Word Run upgrades](/assets/images/2025/dec-wordrun-4-thumbnail.jpg)](/assets/images/2025/dec-wordrun-4.jpg) |
 
 ### Review
 
-Get a 4x4 grid of letters, spell the best word you can, earn enough points to complete the round before you run out of Plays. That's it!
+Get a 4x4 grid of letters, spell the best word you can (or shuffle to get new letters), earn enough points to complete the round before you run out of Plays. That's it!
 
-Looking at my statistics, I've
+As with all GX Studio games, you'll pick from perks throughout your run, and be able to buy permanent upgrades with gems earned from each run. Unfortunately the 4x4 grid makes it quite hard to actually spell decent words, especially as all letters seem to have equal likelihood, so you'll end up with no vowels, or 3 X's. Most of my words are 4-5 letters.
+
+A preview screenshot on the Play Store shows a 5x5 letter grid, which would be _much_ easier (25 letters vs 16), so it's a real shame that doesn't seem to have made it to the final design.
+
+Throughout your run, you'll have a small chance to spawn gold, heart, star, and tree tiles:
+
+- Gold tiles: Earn gold when shuffling tiles.
+- Heart: Earn 1 Play when used.
+- Star: Earn +1 to multiplier (increase score of next word) when used.
+- Tree: Tile gains 1 value every time a word is played.
+
+These are unfortunately quite simple tools with little strategy involved. Obviously with Plays being the most important part of the game, playing heart tiles is a no-brainer, with the others being rare enough that they should almost always be played.
+
+The constantly slightly moving background is somewhat distracting whilst trying to spell words, and I found it harder than usual to spell words that score well. The round-based nature of the game also means that using a good tile (e.g. a useful "s" or high-value consonant) removes it from the board, however the difficulty of spelling strong words means this doesn't end up being a concern.
+
+Higher difficulties feel hard, but the difficulty does not feel _fair_. If you are given a board with a single vowel, you simply cannot spell a good word. Whilst you can shuffle for new letters, there's no guarantee there'll be any vowels, or useful consonants.
+
+Overall this feels too simplistic for now, with little incentive to keep grinding. Each difficulty plays and looks identical, except with higher targets and more gem rewards. Despite usually being a fan of word games, and "upgrade after each run" games, Word Run just doesn't do it for me.
+
+Looking at my statistics, I've played 20 games and my best score is 421.
 
 ### Monetisation
 
@@ -82,3 +101,5 @@ Unfortunately, there are forced video ads after every run, and no incentivised a
 This is probably my least liked kind of monetisation, since it's not even possible to pay to remove the adverts. However, they are at least predictable. Additionally, with a run taking up to 10 minutes, they are infrequent.
 
 ### Tips
+
+It's just spelling words, there ares not many tips! I found Plays to be the most important element, so anything that increases those is worth buying. Then, anything that improves point earning.
