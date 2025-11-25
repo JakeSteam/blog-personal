@@ -1,5 +1,5 @@
 ---
-title: "A few more Android games I've enjoyed: "
+title: "A few more Android games I've enjoyed: Ironpost 🏰, Word Run 🔠, Puzzle Peaks EXE 💀"
 image: /assets/images/banners/dec-25-games.png
 tags:
   - Android
@@ -7,7 +7,7 @@ tags:
 maxheader: 2
 ---
 
-intro
+3 more Android games I've been playing lately, with 2 from the same developer!
 
 ## #1: [Ironpost](https://play.google.com/store/apps/details?id=com.genetix.ironpost)
 
@@ -57,7 +57,9 @@ Adverts are available for a fairly minor boost, but are not forced, overpowered,
   - Plunder: Enemies sometimes drop gems on death.
   - Supply Drop: More gold & gems in crates.
 
-## #1: [Word Run](https://play.google.com/store/apps/details?id=com.genetix.wordrun)
+---
+
+## #2: [Word Run](https://play.google.com/store/apps/details?id=com.genetix.wordrun)
 
 It's another GX Studio game, like the first game in this article! This time, the gameplay loop is spelling words instead of tower defence.
 
@@ -103,3 +105,39 @@ This is probably my least liked kind of monetisation, since it's not even possib
 ### Tips
 
 It's just spelling words, there ares not many tips! I found Plays to be the most important element, so anything that increases those is worth buying. Then, anything that improves point earning.
+
+---
+
+## #3: [Puzzle Peaks EXE](https://play.google.com/store/apps/details?id=com.appsir.puzzlingpeaksgame)
+
+A nice and simple physics-based platformer, with quick gameplay loops and plenty of levels.
+
+### Screenshots
+
+All screenshots are from version 3.5:
+
+|                                                      Level select                                                      |                                                      Level                                                      |                                                      Level                                                      |
+| :--------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: |
+| [![Puzzle Peaks EXE level select](/assets/images/2025/dec-peaks-1-thumbnail.jpg)](/assets/images/2025/dec-peaks-1.jpg) | [![Puzzle Peaks EXE level](/assets/images/2025/dec-peaks-2-thumbnail.jpg)](/assets/images/2025/dec-peaks-2.jpg) | [![Puzzle Peaks EXE level](/assets/images/2025/dec-peaks-3-thumbnail.jpg)](/assets/images/2025/dec-peaks-3.jpg) |
+
+### Review
+
+Puzzle Peaks EXE has a story. I'm not following it in the slightest, something about a virtual assistant and following their advice (or not), and "glitches"? Luckily, it isn't important!
+
+In Puzzle Peaks, you'll be solving straightforward physics puzzles with just 2 controls: rotate orange platforms left, and rotate them right. This simple control scheme makes gameplay very easy and reliable to control (tap left or right half of screen), whilst the clever level design ensures you're constantly being taught new techniques and movement strategies. Later platforms rotate the _other_ way, but in general you'll almost always be rotating orange platforms.
+
+Whilst some levels can be essentially brute forced, most require learning some sort of tactic, and combining both timing and precise movement to fling your skull towards the indicated exit. Most take an average player (me!) around 2-10 tries, although occasionally you'll get stuck on an awkward throw.
+
+The level design does an excellent job of balancing difficulty, with each level feeling instantly _solvable_, whilst still being challenging. So far, I've completed 63 out of the available 100, and I'm expecting to eventually work finish the whole thing.
+
+Unfortunately the game isn't perfect, with the virtual assistant's dialog not being subtitled, and no sound controls(!) in the game. This makes it a poor game for multitasking, yet as a simple physics puzzler you're unlikely to want sound on at all times.
+
+### Monetisation
+
+A one-off $1.99 payment, also included in Google Play Pass.
+
+### Tips
+
+- The game is [also available on Steam](https://store.steampowered.com/app/1475420/Puzzling_Peaks_EXE/), although the touch controls make it well suited for mobile.
+- Blindly flinging your skull is rarely the correct solution, it can usually be logically solved.
+- Sometimes you need to nudge your skull onto the _other_ half of a rotating platform before rotating the correct way to build up enough momentum for a fling.
