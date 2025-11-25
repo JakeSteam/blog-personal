@@ -1,5 +1,5 @@
 ---
-title: "A few more Android games I've enjoyed: Ironpost 🏰, Word Run 🔠, Puzzle Peaks EXE 💀"
+title: "Yet more Android games I've enjoyed: Ironpost 🏰, Word Run 🔠, Puzzle Peaks EXE 💀"
 image: /assets/images/banners/dec-25-games.png
 tags:
   - Android
@@ -7,7 +7,7 @@ tags:
 maxheader: 2
 ---
 
-3 more Android games I've been playing lately, with 2 from the same developer!
+Reviews of 3 more Android games I've been playing lately, with 2 from the same developer!
 
 ## #1: [Ironpost](https://play.google.com/store/apps/details?id=com.genetix.ironpost)
 
@@ -128,13 +128,13 @@ In Puzzle Peaks, you'll be solving straightforward physics puzzles with just 2 c
 
 Whilst some levels can be essentially brute forced, most require learning some sort of tactic, and combining both timing and precise movement to fling your skull towards the indicated exit. Most take an average player (me!) around 2-10 tries, although occasionally you'll get stuck on an awkward throw.
 
-The level design does an excellent job of balancing difficulty, with each level feeling instantly _solvable_, whilst still being challenging. So far, I've completed 63 out of the available 100, and I'm expecting to eventually work finish the whole thing.
+The level design does an excellent job of balancing difficulty, with each level feeling instantly _solvable_, whilst still being challenging. So far, I've completed 63 out of the available 100, and I'm expecting to eventually finish all 100.
 
 Unfortunately the game isn't perfect, with the virtual assistant's dialog not being subtitled, and no sound controls(!) in the game. This makes it a poor game for multitasking, yet as a simple physics puzzler you're unlikely to want sound on at all times.
 
 ### Monetisation
 
-A one-off $1.99 payment, also included in Google Play Pass.
+A one-off $1.99 payment unlocks the whole game, it is also included in Google Play Pass.
 
 ### Tips
 
