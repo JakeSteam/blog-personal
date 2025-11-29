@@ -41,7 +41,7 @@ Range and mage a bit trickier to use than melee, since even the best bow (ignori
 
 These items can get confusing, especially when they have multiple damage multipliers applied, making the ability to tap an item for details being super helpful.
 
-Finally, your characters will also gain XP and unlock new unique abilities as you play, although I'm yet to get further than Stage 4 after 10-12 runs!
+Finally, your characters will also gain XP and unlock new unique abilities as you play. After completing all 5 stages as a character (I managed with Baldwin's Lifesteal!), you unlock modifiers making the game a bit more difficult (e.g. extra enemy HP), unfortunately after managing to complete the game once, there's not much extra gameplay to encourage repeated playthroughs.
 
 ### Monetisation
 
@@ -54,5 +54,7 @@ Spin Hero is a one-off payment of £3.99 (~$5), or is included in Google Play Pa
 - Anything that _permanently_ stacks (e.g. max mana, damage per hit) will become essential later on, as enemy health scales up.
 - It's usually worth fighting basic enemies since you _should_ be able to kill them easily, gaining gold and stacking permanent item boosts.
 - I love lifesteal in games, and it seems super powerful in Spin Hero too!
+- The game is [also available on Steam](https://store.steampowered.com/app/2917350/Spin_Hero/) for the same price, where it has received "Mostly Positive" reviews.
+- There's a [Discord server](https://discord.com/invite/2nfp3RPwr9) for the game, with the developer being fairly active.
 
 ---
