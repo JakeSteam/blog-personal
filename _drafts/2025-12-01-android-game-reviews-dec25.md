@@ -58,3 +58,39 @@ Spin Hero is a one-off payment of £3.99 (~$5), or is included in Google Play Pa
 - There's a [Discord server](https://discord.com/invite/2nfp3RPwr9) for the game, with the developer being fairly active.
 
 ---
+
+## #1: [Prune](https://play.google.com/store/apps/details?id=com.Polyculture.Prune)
+
+Prune is a relaxing realtime puzzle game all about tactically growing a tree and reaching as much light as possible, or as the developer puts it:
+
+> Cultivate what matters. Cut away the rest.
+
+### Screenshots
+
+All screenshots are from version 1.1.7:
+
+|                                                Level select                                                 |                                                Deadly sun                                                 |                                                Blue energy                                                 |                                                Multiple obstacles                                                 |
+| :---------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: |
+| [![Prune level select](/assets/images/2025/dec-prune-1-thumbnail.jpg)](/assets/images/2025/dec-prune-1.jpg) | [![Prune deadly sun](/assets/images/2025/dec-prune-2-thumbnail.jpg)](/assets/images/2025/dec-prune-2.jpg) | [![Prune blue energy](/assets/images/2025/dec-prune-3-thumbnail.jpg)](/assets/images/2025/dec-prune-3.jpg) | [![Prune multiple obstacles](/assets/images/2025/dec-prune-3-thumbnail.jpg)](/assets/images/2025/dec-prune-4.jpg) |
+
+### Review
+
+Prune is a good example of how a single core game mechanic can carry a game with minimal additions. In this case, your tree steadily grows and you must guide it towards light sources to help it flower. How? You guessed it, by pruning.
+
+Pruning part of your growing tree lets the growth happen elsewhere, but if you run out of places to grow further you're stuck. This, plus wind, lets you grow your tree in a curved shape around obstacles or towards energy sources. There are also red suns that kill the tree part that touches them, so need to be given a wide berth.
+
+I'm on Prune's 24th level, and pretty sure I've seen _most_ of the mechanics. Failure is not a big setback, as you can grow a new tree without even restarting the level by just pruning your entire tree away. Each puzzle is well-designed, clearly being solvable even though actually solving it might require a combination of lucky growths and skill.
+
+Unbelievably, Prune is apparently 10 years old (at least the iOS original is)! It looks excellent for its age, and impressively has no text (as far as I can see) besides the credits and language select. This means anyone can pick it up easily without a lengthy tutorial, impressive for a game with a unique core mechanic.
+
+### Monetisation
+
+One-time £3.89 (~$5) purchase, included with game pass.
+
+### Tips
+
+- Cut branches early, so energy isn't wasted on them.
+- When low on energy, branches will slowly grow a tiny bit more, excellent for just squeezing into the light.
+- The dots at the top of the screen roughly indicate how many flowers need to grow, but generally you'll either solve the puzzle or not.
+
+---
