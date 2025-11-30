@@ -59,7 +59,7 @@ Spin Hero is a one-off payment of £3.99 (~$5), or is included in Google Play Pa
 
 ---
 
-## #1: [Prune](https://play.google.com/store/apps/details?id=com.Polyculture.Prune)
+## #2: [Prune](https://play.google.com/store/apps/details?id=com.Polyculture.Prune)
 
 Prune is a relaxing realtime puzzle game all about tactically growing a tree and reaching as much light as possible, or as the developer puts it:
 
@@ -94,3 +94,25 @@ One-time £3.89 (~$5) purchase, included with game pass.
 - The dots at the top of the screen roughly indicate how many flowers need to grow, but generally you'll either solve the puzzle or not.
 
 ---
+
+## #2: [Psychofunk](https://play.google.com/store/apps/details?id=com.tommysoereide.psychofunk)
+
+Psychofunk is an absurdly stylish platforming puzzler, which does an excellent job at reminding me how poor I am at these kinds of games!
+
+### Screenshots
+
+All screenshots are from version 2.1.4:
+
+|                                               Main menu                                               |                                             Level select                                              |                                                 Level                                                 |                                                 Level                                                 |
+| :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
+| [![Psychofunk](/assets/images/2025/dec-psycho-1-thumbnail.jpg)](/assets/images/2025/dec-psycho-1.jpg) | [![Psychofunk](/assets/images/2025/dec-psycho-2-thumbnail.jpg)](/assets/images/2025/dec-psycho-2.jpg) | [![Psychofunk](/assets/images/2025/dec-psycho-3-thumbnail.jpg)](/assets/images/2025/dec-psycho-3.jpg) | [![Psychofunk](/assets/images/2025/dec-psycho-4-thumbnail.jpg)](/assets/images/2025/dec-psycho-4.jpg) |
+
+### Review
+
+### Monetisation
+
+One-time £2.99 (~$4) purchase, also included in Play Pass.
+
+### Tips
+
+- You can land on the head of green block enemies to break them, I took an embarrasingly long time to realise this, making early levels far harder than they needed to be!
