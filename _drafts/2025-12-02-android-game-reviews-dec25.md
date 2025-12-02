@@ -1,5 +1,5 @@
 ---
-title: "More Android games I've enjoyed: Spin Hero 🎰"
+title: "More Android games I've enjoyed: Spin Hero 🎰, Prune 🌲, Psychofunk ▶️▶"
 image: /assets/images/banners/dec-25-games2.png
 tags:
   - Android
@@ -7,7 +7,7 @@ tags:
 maxheader: 2
 ---
 
-intro
+A slot spinning RPG, a tree pruning puzzler, and an autorunning platformer, here's 3 more Android games I've been playing lately!
 
 ## #1: [Spin Hero](https://play.google.com/store/apps/details?id=spherestudios.spinheromobile)
 
@@ -95,19 +95,27 @@ One-time £3.89 (~$5) purchase, included with game pass.
 
 ---
 
-## #2: [Psychofunk](https://play.google.com/store/apps/details?id=com.tommysoereide.psychofunk)
+## #3: [Psychofunk](https://play.google.com/store/apps/details?id=com.tommysoereide.psychofunk)
 
-Psychofunk is an absurdly stylish platforming puzzler, which does an excellent job at reminding me how poor I am at these kinds of games!
+Psychofunk is an absurdly stylish autowalking platforming puzzler, which does an excellent job at reminding me how poor I am at this kind of games!
 
 ### Screenshots
 
 All screenshots are from version 2.1.4:
 
-|                                               Main menu                                               |                                             Level select                                              |                                                 Level                                                 |                                                 Level                                                 |
+|                                               Main menu                                               |                                             Level select                                              |                                                 Level                                                 |                                                 Boss fight                                                 |
 | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
-| [![Psychofunk](/assets/images/2025/dec-psycho-1-thumbnail.jpg)](/assets/images/2025/dec-psycho-1.jpg) | [![Psychofunk](/assets/images/2025/dec-psycho-2-thumbnail.jpg)](/assets/images/2025/dec-psycho-2.jpg) | [![Psychofunk](/assets/images/2025/dec-psycho-3-thumbnail.jpg)](/assets/images/2025/dec-psycho-3.jpg) | [![Psychofunk](/assets/images/2025/dec-psycho-4-thumbnail.jpg)](/assets/images/2025/dec-psycho-4.jpg) |
+| [![Psychofunk main menu](/assets/images/2025/dec-psycho-1-thumbnail.jpg)](/assets/images/2025/dec-psycho-1.jpg) | [![Psychofunk level select](/assets/images/2025/dec-psycho-2-thumbnail.jpg)](/assets/images/2025/dec-psycho-2.jpg) | [![Psychofunk level](/assets/images/2025/dec-psycho-3-thumbnail.jpg)](/assets/images/2025/dec-psycho-3.jpg) | [![Psychofunk boss fight](/assets/images/2025/dec-psycho-4-thumbnail.jpg)](/assets/images/2025/dec-psycho-4.jpg) |
 
 ### Review
+
+Psychofunk is an unforgiving game, where you must helping your relentlessly forward walking character into the exit, ideally collecting any bonus coins. Along the way, you'll have all kinds of blocks impeding you (ice, spikes, enemies). Dying usually restarts from the level's start, with some levels featuring a single breakpoint.
+
+The early levels will seem overly simple, but even 20 levels in I'm getting a little baffled figuring out the series of actions needed to reach the exit! For example, you may be on the same level as a block that breaks under impact, so you'll need to use a "bounce" block to go up a level, then tap the toggleable block on that level to land, walk along a bit, and drop down, breaking the block. But oops, you're facving the wrong way, you should have turned around halfway through this process somehow!
+
+Stylistically, Psychofunk reminds me a bit of Google Jump, with the sketched blocks clearly having fairly generous hitboxes "under the hood", and every screen being full of little intricately designed details. A great distraction from the repeated deaths.
+
+I'm around 25 levels in, with 1 boss killed, and it's hard to fault the quick gameplay loops, even if they are somewhat infuriatingly difficult! The challenge is entirely within my own brain, with the responsive and easily understood controls (tap a block to interact, that's it) not hindering whatsoever.
 
 ### Monetisation
 
@@ -116,3 +124,4 @@ One-time £2.99 (~$4) purchase, also included in Play Pass.
 ### Tips
 
 - You can land on the head of green block enemies to break them, I took an embarrasingly long time to realise this, making early levels far harder than they needed to be!
+- There's usually 2 paths to proceed forward, so going back and replaying past levels where you missed coins will let you skip levels.
