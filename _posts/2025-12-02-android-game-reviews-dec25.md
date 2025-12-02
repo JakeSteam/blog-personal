@@ -1,5 +1,5 @@
 ---
-title: "More Android games I've enjoyed: Spin Hero 🎰, Prune 🌲, Psychofunk ▶️▶"
+title: "More Android games I've enjoyed: Spin Hero 🎰, Prune 🌲, Psychofunk ▶️"
 image: /assets/images/banners/dec-25-games2.png
 tags:
   - Android
