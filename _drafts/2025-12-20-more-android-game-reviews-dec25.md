@@ -56,3 +56,40 @@ Included in Google Play Pass, or £4.29 (~$6).
 - There is a [Discord](https://discord.com/invite/afterburn) server for the game.
 
 ---
+
+## #2: [String of Words](https://play.google.com/store/apps/details?id=com.Afterburn.Railbound)
+
+Are you a fan of 2-word phrases? Then this is the game for you!
+
+### Screenshots
+
+All screenshots are from version 1.5.9:
+
+|                                                      Level select                                                       |                                                      Mid-level                                                       |                                                      End of level                                                       |
+| :---------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
+| [![String of Words level select](/assets/images/2025/dec-string-1-thumbnail.jpg)](/assets/images/2025/dec-string-1.jpg) | [![String of Words mid level](/assets/images/2025/dec-string-2-thumbnail.jpg)](/assets/images/2025/dec-string-2.jpg) | [![String of Words end of level](/assets/images/2025/dec-string-3-thumbnail.jpg)](/assets/images/2025/dec-string-3.jpg) |
+
+### Review
+
+This is not a complex game, nor one that works particularly well either on or off Google Play Pass. You'll start with a word, and a clue, and need to guess the follow-up word. For example, "One \_", clue "Pirate's handicap", answer is "leg". Easy.
+
+"Leg" then becomes the first word for the next clue, and you'll chain these answers together until you get to the target word. That's really all there is to it.
+
+There's a "Daily Mini" where only 1 word needs to be guessed, however each puzzle won't take more than a minute or two so is pretty "mini" to begin with! The game includes 10x basic achievements for completing each "book" of puzzle, and completing 30 daily puzzles in a row or 100 total.
+
+This relatively simple game wouldn't be review-worthy if it wasn't for one thing: The sheer number of puzzles. Each puzzle (consisting of 7 clues) is bundled with 4 others into a "Chapter". There are then 40 chapters in a book, and 8 books, giving a total of... 1600 puzzles, and 12,800 clues. I can only assume these were generated somehow, since I'm not sure a human could create this many!
+
+The puzzles unfortunately suffer from being quite USA-centric in some of the references and phrases, much more so than other word games I've played, meaning I'll find around 1 answer per 2-3 puzzles that I just don't know.
+
+### Monetisation
+
+String of Words does not seem well monetised. I played it on Google Play Pass, where there's a free chest of coins (used to provide solution letters) every 30 minutes... and infinite coins by just tapping "+"! This means every puzzle can be solved by spam pressing the "Hint" button with no downside whatsoever, undermining any effort taken to solve it properly.
+
+I suspect this is due to the monetisation when _not_ playing on Play Pass, where you'll presumably need to watch adverts or pay to gain coins for hints.
+
+### Tips
+
+- You can tap the _next_ row to find out what your word will be used for next, which can be helpful.
+- As mentioned, this is a very USA-centric game, so try and consider any cultural references you've vaguely heard of!
+
+---
