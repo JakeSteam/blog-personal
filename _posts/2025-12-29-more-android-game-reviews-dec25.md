@@ -1,13 +1,13 @@
 ---
 title: "Even more Android games I've enjoyed: Railbound 🚂, String of Words 🪢, Orbia ⚽"
-image: /assets/images/banners/dec-25-games-more.png
+image: /assets/images/banners/dec-25-games-2.png
 tags:
   - Android
   - Gaming
 maxheader: 2
 ---
 
-intro
+No incremental games for once, just casual puzzlers! A bit of logic, a bit of words, a bit of timing.
 
 ## #1: [Railbound](https://play.google.com/store/apps/details?id=com.Afterburn.Railbound)
 
