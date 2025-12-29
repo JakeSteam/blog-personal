@@ -93,3 +93,40 @@ I suspect this is due to the monetisation when _not_ playing on Play Pass, where
 - As mentioned, this is a very USA-centric game, so try and consider any cultural references you've vaguely heard of!
 
 ---
+
+## #3: [Orbia](https://play.google.com/store/apps/details?id=com.joxdev.orbia)
+
+Orbia is a true single-button game. Time your tap to try and zoom through the enemies and reach the next checkpoint, that's the whole game!
+
+### Screenshots
+
+All screenshots are from version 1.108:
+
+|                                                Level select                                                 |                                                Skin select                                                 |                                                Mountains level                                                 |                                                Islands level                                                 |
+| :---------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
+| [![Orbia level select](/assets/images/2025/dec-orbia-1-thumbnail.jpg)](/assets/images/2025/dec-orbia-1.jpg) | [![Orbia skin select](/assets/images/2025/dec-orbia-2-thumbnail.jpg)](/assets/images/2025/dec-orbia-2.jpg) | [![Orbia mountains level](/assets/images/2025/dec-orbia-3-thumbnail.jpg)](/assets/images/2025/dec-orbia-3.jpg) | [![Orbia islands level](/assets/images/2025/dec-orbia-4-thumbnail.jpg)](/assets/images/2025/dec-orbia-4.jpg) |
+
+### Review
+
+Tap to go to the next checkpoint, make it through enough checkpoints without failing to permanently complete the level, repeat. That's the whole game.
+
+Okay, so there's a bit more. As you progress through each world, each with a different aesthetic and enemy style (e.g. one might have overlapping "lines" of enemies, another might have overlapping "circles" of enemies), you'll earn crystals. These crystals can be used to buy powerups or skins along the way, all of which are optional.
+
+The difficulty comes in trying to figure out the patterns formed by the enemy patterns, since multiple groups moving in different directions, with different speeds, changing direction and speed, makes it pretty tricky. It's not unusual to watch for 10-15 seconds to figure out the exact moment to tap to move. Depending on your skin chosen, you'll gain perks like shields (take a hit without failing the level), extra crystals, reduced enemy numbers, etc.
+
+With a game all about timing and pattern recognition like Orbia, screenshots really don't convey the game's feel. Enemies move predictably, yet with a somewhat "alive" flow, and despite the complete lack of story there is still a motivation to progress through the clearly malevolent enemies.
+
+There are an oddly high number of levels, with the initial world containing 2500, each consisting of 2-5 checkpoints to navigate between. Other worlds contain fewer but longer levels, increasing the consecutive successful movements required, and therefore the difficulty.
+
+Overall the UI does a good job of keeping out of the way, and letting you focus on enemies and movement time. The powerups are fairly powerful (e.g. increased movement speed, extra shields, slowing down enemies) and affordable, I'm around 10-15% through the game and haven't purchased any powerups whatsoever, preferring to spend crystals on permanent unlocks like skins.
+
+### Monetisation
+
+Included in Google Play Pass, otherwise (according to store reviews) there are adverts every few deaths, and plenty of in-app purchases.
+
+### Tips
+
+- I'd recommend saving crystals for skins, as powerups are only temporary.
+- Skins reducing the number of enemies seem the most powerful, since they open up entirely new routes when navigating.
+- Once you've successfully made it to a checkpoint within a level, a "line" appears showing the route. This makes it significantly easier next time, so every extra movement helps.
+- The dots in the top left of the screen show the visited (grey) and unvisited (white) checkpoints within the current level.
