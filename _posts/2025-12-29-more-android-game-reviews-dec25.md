@@ -57,7 +57,7 @@ Included in Google Play Pass, or £4.29 (~$6).
 
 ---
 
-## #2: [String of Words](https://play.google.com/store/apps/details?id=com.Afterburn.Railbound)
+## #2: [String of Words](https://play.google.com/store/apps/details?id=com.nickelbuddy.stringofwords)
 
 Are you a fan of 2-word phrases? Then this is the game for you!
 
