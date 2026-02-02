@@ -30,7 +30,7 @@ Rooms are small but clean, with tatami mats throughout. Shoes are always stored 
 
 Staff are helpful and very friendly, with standard laundry facilities available on the 2nd floor (plus tracking of them via the TV!). This made it a convenient place to do laundry on our trip.
 
-**[Original review (6 photos)](https://maps.app.goo.gl/C69KYKKUduAssYjdA)**
+**[Original review (1 photo)](https://maps.app.goo.gl/C69KYKKUduAssYjdA)**
 
 ### Age.3 ★★★★★
 
@@ -116,7 +116,7 @@ Our first full day in Tokyo focused on the Tsukiji / Ginza area, making our way 
 
 ### Tsukiji Outer Market ★★★★✰
 
-This chaotic market is unique, and has plenty to offer even if you have no interest in seafood. It's hard to know exactly which shops you're buying from, so you'll have to rely on instinct instead or reviews!
+This chaotic market is unique, and has plenty to offer even if you have no interest in seafood. It's hard to know exactly which shops you're buying from, so you'll have to rely on instinct instead of reviews!
 
 Whilst here we had matcha shaved ice, a custard dessert slab, and glazed fruit, all of which were great. The inner market is mostly fish, with the outer market consisting of more standard snacks and drinks. It's a BIG area, and finding a past shop can be tricky so just buy anything you like the look of!
 
