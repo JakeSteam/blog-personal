@@ -1,13 +1,13 @@
 ---
-title: "Recent Android games I've enjoyed: Droplet Idle 💧, Idle Gem ⛏️, ♾️ Energy Loops"
-image: /assets/images/banners/dec-25-games-2.png
+title: "Android game reviews: Droplet Idle 💧, Idle Gem ⛏️, ♾️ Energy Loops"
+image: /assets/images/banners/feb-26-games.png
 tags:
   - Android
   - Gaming
 maxheader: 2
 ---
 
-intro
+2 very idle games and one game with no idleness whatsoever, yet all with a vaguely similar 2D aesthetic! Here's 3 more reviews.
 
 ## #1: [Droplet Idle](https://play.google.com/store/apps/details?id=com.mhsolutions.droplet)
 
@@ -103,7 +103,7 @@ Overall Idle Gem doesn't do anything new in my opinion, and whilst it is an inte
 
 ## #3: [Energy Loops](https://play.google.com/store/apps/details?id=com.infinitygames.loopenergy)
 
-Energy Loops is yet another of those "rotate tiles to ensure all are connected" games that have been around for decades, albeit a very polished one.
+Energy Loops is yet another of those "rotate tiles to ensure all are connected" games that have been around for decades, albeit a very polished one that is heavily monetised.
 
 ### Screenshots
 
@@ -115,6 +115,33 @@ All screenshots are from version 8.10.5:
 
 ### Review
 
+Energy Loops (or "Energy: Anti Stress Loops", or "∞ ENERGY") isn't a game to love or hate. It's fine, it's good enough, it'll do.
+
+The core gameplay is pretty satisfying, as are all loop-based games, with some novel changes like a hexagonal grid and wifi blocks (connect between 2 unconnected blocks), and features some permanent progression in the form of levelling up.
+
+These levels are earned through completing levels, and unlock various cosmetics (colours, icon types, music tracks) that don't affect gameplay. Unfortunately this is muddied by "cards" (3x XP multipliers that recharge over time), incentivising frequent small sessions.
+
+All the usual habit-forming aspects are here, such as limited time events, online leaderboards, limited time discounts, daily puzzles, anything to get players opening the game. These are all very shallow, with the only gameplay being completing either a square or hexagonal grid, no matter how varied the starting layouts might be.
+
+Limited time events are baffling, with a dramatic framing (e.g. a hot air balloon race) that doesn't actually _mean_ anything. It claims to be "complete X levels first", but I easily won every single time so I can only assume it matched me with inactive players. The result is a bit of bonus XP whilst you're completing the regular levels, and nothing else.
+
+This shallowness is a running theme throughout. Whilst undeniably aesthetic, the light and ethereal theme is somewhat one-note, with all the flowy navigations getting somewhat repetitive. The end result is a game with nothing new, just various monetisation / retention tactics slapped on top of smooth but predictable gameplay. I've completed around 75 levels, and doubt I'll complete many more.
+
+Ultimately it doesn't feel like a game that has had love put into it, it feels like a cynical cash-grab for simple gameplay. Recently Google Play reviews mention the monetisation has become more aggressive, so it's possible the game used to be a better experience but changed after achieving popularity (10 million installs).
+
+If you're after a loop-based game, this is probably one of the best so long as you're able to ignore the monetisation.
+
 ### Monetisation
 
+- Adverts to play old levels, gain hints, gain XP.
+- Forced adverts if you fail a daily level, or after completing a few levels.
+- Hints can be purchased in various packs.
+- A surprisingly affordable (£2.59 / $3.50) ad-free pack that also upgrades the max rechargeable "XP boost" cards from 3 -> 4.
+- Various obnoxiously expensive purchases, such as £4.29 / $6 for a music track, or £16.49 / $22.50 for ad removal + music track + 150 hints.
+- The ridiculous "Diamond membership". £7.49 ($10) per WEEK, with various daily bonuses, no adverts, etc. It's hard to justify any subscription for a simple game that costs over $500/year.
+
+Overall the game can be paid for free with no adverts if you just play through the levels in order and ignore everything popping up, and there isn't much more to the game if you did pay anyway!
+
 ### Tips
+
+- It's just a loop solving game, no tips needed!
