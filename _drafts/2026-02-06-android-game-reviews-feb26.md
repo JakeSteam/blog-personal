@@ -72,7 +72,7 @@ All screenshots are from version 0.7.10:
 
 Okay, imagine lining up 5 random idle game mechanics, giving them a grey mining aesthetic, and putting them in a blender. What do you get? Idle Gem! This isn't necessarily a criticism, it's just the only explanation I can find for each tab in the game often being almost entirely unrelated, besides shared currencies of "soil" and "tears".
 
-The "main" screen of the game(?), the mining, is a straightforward automated income method. Your equipment will mine blocks, with timed "dps check" levels every now and again unlocking deeper depths with higher income. This all happens entirely automatically, with your input limited to simple upgrades to speed, power, earnings etc. So where does the equipment come from?
+The "main" screen of the game(?), the mining, is a straightforward automated income method. Your equipment will mine blocks, with timed "DPS check" levels every now and again unlocking deeper depths with higher income. This all happens entirely automatically, with your input limited to simple upgrades to speed, power, earnings etc. So where does the equipment come from?
 
 The equipment tab! Here you'll spawn items (pickaxe / hammer / mattock) and item enchants (extra resources / chance to teleport to target / damage surrounding blocks / etc) using chests earned idly or with soil / tears. Merging 3 of the same item or 4 of the same enchant increases the level, this process can be repeated until you run out of space to merge.
 
@@ -98,3 +98,23 @@ Overall Idle Gem doesn't do anything new in my opinion, and whilst it is an inte
 
 - Automating is the best way to spend diamonds, especially purchasing crush power and item merging.
 - There is a surprisingly full [Discord](https://discord.com/invite/YPEa8US7qD) (700+), with the developer sharing frequent updates (at time of writing, they shared information on 6 upcoming enchants a few hours ago).
+
+---
+
+## #3: [Energy Loops](https://play.google.com/store/apps/details?id=com.infinitygames.loopenergy)
+
+Energy Loops is yet another of those "rotate tiles to ensure all are connected" games that have been around for decades, albeit a very polished one.
+
+### Screenshots
+
+All screenshots are from version 8.10.5:
+
+|                                                Home screen                                                 |                                                    Simple level                                                    |                                                    Complex level                                                    |                                                    Shop                                                    |                                                    Customisation                                                    |
+| :--------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
+| [![Energy Loops home](/assets/images/2026/feb-loops-1-thumbnail.jpg)](/assets/images/2026/feb-loops-1.jpg) | [![Energy Loops simple level](/assets/images/2026/feb-loops-2-thumbnail.jpg)](/assets/images/2026/feb-loops-2.jpg) | [![Energy Loops complex level](/assets/images/2026/feb-loops-3-thumbnail.jpg)](/assets/images/2026/feb-loops-3.jpg) | [![Energy Loops shop](/assets/images/2026/feb-loops-4-thumbnail.jpg)](/assets/images/2026/feb-loops-4.jpg) | [![Energy Loops customisation](/assets/images/2026/feb-loops-5-thumbnail.jpg)](/assets/images/2026/feb-loops-5.jpg) |
+
+### Review
+
+### Monetisation
+
+### Tips
