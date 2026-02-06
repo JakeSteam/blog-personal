@@ -53,3 +53,48 @@ These options are suitably varied, and I haven't felt pressured whatsoever to bu
 - Moving to a new location resets your prestige bonuses but not talents, so make sure you have purchased as many talents as reasonably possible before moving.
 - Offline progress is fairly limited in both time and impact even after quite a few upgrades, so if possible it's a good "keep open and swipe occasionally" game.
 - The game [has a website](https://dropletidle.com/), but no Discord / subreddit.
+
+---
+
+## #2: [Idle Gem](https://play.google.com/store/apps/details?id=com.idlesystem.IdleCube)
+
+Idle Gem is a somewhat confusing idle mining game, where I'm not _fully_ sure what's going on even after over 10 hours of gameplay! I originally found it via r/incremental_games, in one of the "what are you playing" threads.
+
+### Screenshots
+
+All screenshots are from version 0.7.10:
+
+|                                                Mining                                                |                                                Merging                                                |                                                Combat                                                |                                                Automation                                                |                                                Prestiging                                                |
+| :--------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
+| [![Idle Gem mining](/assets/images/2026/feb-gem-1-thumbnail.jpg)](/assets/images/2026/feb-gem-1.jpg) | [![Idle Gem merging](/assets/images/2026/feb-gem-2-thumbnail.jpg)](/assets/images/2026/feb-gem-2.jpg) | [![Idle Gem combat](/assets/images/2026/feb-gem-3-thumbnail.jpg)](/assets/images/2026/feb-gem-3.jpg) | [![Idle Gem automation](/assets/images/2026/feb-gem-4-thumbnail.jpg)](/assets/images/2026/feb-gem-4.jpg) | [![Idle Gem prestiging](/assets/images/2026/feb-gem-5-thumbnail.jpg)](/assets/images/2026/feb-gem-5.jpg) |
+
+### Review
+
+Okay, imagine lining up 5 random idle game mechanics, giving them a grey mining aesthetic, and putting them in a blender. What do you get? Idle Gem! This isn't necessarily a criticism, it's just the only explanation I can find for each tab in the game often being almost entirely unrelated, besides shared currencies of "soil" and "tears".
+
+The "main" screen of the game(?), the mining, is a straightforward automated income method. Your equipment will mine blocks, with timed "dps check" levels every now and again unlocking deeper depths with higher income. This all happens entirely automatically, with your input limited to simple upgrades to speed, power, earnings etc. So where does the equipment come from?
+
+The equipment tab! Here you'll spawn items (pickaxe / hammer / mattock) and item enchants (extra resources / chance to teleport to target / damage surrounding blocks / etc) using chests earned idly or with soil / tears. Merging 3 of the same item or 4 of the same enchant increases the level, this process can be repeated until you run out of space to merge.
+
+This merging process has unusual mechanics like the ability to convert all items / enchants to another type, a slightly awkward deletion process for unwanted items, and a manual moving process that only sometimes works. I found merging to be quite painful, with tool & enchant automerging being my top priority for automation upgrades.
+
+Alongside this idle mining game is an idle combat screen that baffles me. Your last prestige's equipment automatically fights ghosts and other simple enemies, earning... powerup cans(?) that increase various stats. There are a few areas to battle in, although it's rare that you'll open the screen at the right time to pick. Reaching various milestones in an area will earn you some sort of... sentient flame(?) icon, that can be used to improve the equipment spawned for merging.
+
+None of these mechanics are particularly _strange_, I just don't really have a clue what's going on? Numbers go up, equipment gets better, prestige bonuses apply, upgrade purchasing gets automated but it's all slightly mysterious. This could just be user error, yet each screen / component feels like an isolated feature with no real plan.
+
+As another example, occasionally floating chests with wings will appear on a tab, and tapping them earns you chests for the equipment spawning. This isn't a simple mechanic, but why are they spawning? Did I do something? Is it random? No idea.
+
+I noticed on the [Discord](https://discord.com/invite/YPEa8US7qD) that the developer is Japanese, so that may partially explain the difference in user experience (e.g. Japanese websites are designed drastically differently to Western sites, and I don't play many / any Japanese games).
+
+Overall Idle Gem doesn't do anything new in my opinion, and whilst it is an interesting combination of various idle game mechanics, it lacks a cohesive vision / story to draw me back in. That being said, I've put 10 hours of active gameplay in (I find merging in general addictive...) so it clearly has something going on! Perhaps worth a try to see if the aesthetic is for you.
+
+### Monetisation
+
+- Adverts can be watched for various temporary boosts / items, such as doubled income when resuming gameplay, or double prestige bonuses.
+- An ad removal pack is available (which I purchased), offering all the advert-based perks and speeding up progress.
+- A booster pack is also available, permanently applying the advert-based power / attack / time potion boosts, however this can almost be done with the advert removal pack.
+
+### Tips
+
+- Automating is the best way to spend diamonds, especially purchasing crush power and item merging.
+- There is a surprisingly full [Discord](https://discord.com/invite/YPEa8US7qD) (700+), with the developer sharing frequent updates (at time of writing, they shared information on 6 upcoming enchants a few hours ago).
