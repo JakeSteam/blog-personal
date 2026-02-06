@@ -25,7 +25,7 @@ All screenshots are from version 1.1.8:
 
 Droplet Idle starts undeniably slow. After ~5 minutes I actually closed the game and was pretty ready to uninstall, as it seemed to just consist of swiping the screen to collect the slowly spawning water drops, upgrading drop value etc, and repeat.
 
-Luckily, I gave it another go, and it's got a lot more going on! Once the momentum of droplet spawning & auto-collecting & auto-upgrading picks up, the game reveals itself to be worth putting time into. Alongside the typical ugprades (droplet value, spawn rate, offline time, etc) are longer term prestige mechanics. Whilst these aren't dissimilar, they are powerful enough (e.g. double income) to be immediately felt.
+Luckily, I gave it another go, and it's got a lot more going on! Once the momentum of droplet spawning & auto-collecting & auto-upgrading picks up, the game reveals itself to be worth putting time into. Alongside the typical upgrades (droplet value, spawn rate, offline time, etc) are longer term prestige mechanics. Whilst these aren't dissimilar, they are powerful enough (e.g. double income) to be immediately felt.
 
 Interestingly, these prestige upgrades _aren't_ entirely permanent. Instead, they will reset on the very rare occasion that you change location, something I've only managed to do once so far (but can afford the next movement). Persisting through these are a truly permanent upgrade mechanic: prestige talents. Split into active, passive, and utility, these abilities let you customise your bonuses based on playstyle, and can be redistributed at any time for free.
 
@@ -42,7 +42,7 @@ Regardless, it's a solid candidate for your next "check occasionally" game, and 
 ### Monetisation
 
 - There are banner adverts, but they can be disabled in exchange for losing 15% of income. This is a great trade-off, and lets users who would uninstall (me!) continue playing at a reduced speed.
-- Adverts can be watched for a 20 minute 2x multiplier, a reasonable rate. Additionally, due to the achievment tiers, watching more adverts actually increases the per advert benefit, with 200 advert watches in the bonus becoming permanent!
+- Adverts can be watched for a 20 minute 2x multiplier, a reasonable rate. Additionally, due to the achievement tiers, watching more adverts actually increases the per advert benefit, with 200 advert watches in the bonus becoming permanent!
 - All adverts can also be removed for £3.49 (~$5).
 
 These options are suitably varied, and I haven't felt pressured whatsoever to buy them yet (primarily since all adverts are optional). Personally I'd appreciate an additional in-app payment to permanently increase income or similar, as an extra incentive to spend some money, an action I'm currently unlikely to take due to lack of incentive.
