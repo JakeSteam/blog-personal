@@ -30,13 +30,13 @@ Rooms are small but clean, with tatami mats throughout. Shoes are always stored 
 
 Staff are helpful and very friendly, with standard laundry facilities available on the 2nd floor (plus tracking of them via the TV!). This made it a convenient place to do laundry on our trip.
 
-**[Original review (1 photo)](https://maps.app.goo.gl/C69KYKKUduAssYjdA)**
+**[Original review (6 photos)](https://maps.app.goo.gl/C69KYKKUduAssYjdA)**
 
 ### Age.3 ★★★★★
 
 Age.3 is a strange innovation on sandwiches, with their sweet ones ending up something like cream-filled waffles. Worth a visit if nearby, although I'd recommend sharing 1 since they're pretty sweet!
 
-**[Original review (6 photos)](https://maps.app.goo.gl/KE9M1WpWBL8iZsAp6)**
+**[Original review (1 photo)](https://maps.app.goo.gl/KE9M1WpWBL8iZsAp6)**
 
 ### Sensō-ji Hozomon Gate ★★★★✰
 
