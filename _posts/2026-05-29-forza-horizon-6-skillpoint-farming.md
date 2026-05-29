@@ -1,6 +1,6 @@
 ---
 title: The complete guide to efficient skill point & Wheelspin farming in Forza Horizon 6
-image: /assets/images/banners/
+image: /assets/images/banners/fh6-wheelspins.jpg
 tags:
   - Forza Horizon 6
   - Gaming
@@ -104,7 +104,7 @@ As such, **my strong recommendation is the Subaru**, unless you have nothing lef
 
 ### Purchasing masteries
 
-This is probably the least pleasant part of the whole process. You need to buy your target car, then purchase masteries on it, then repeat this until you're out of points.
+This is probably the least pleasant part of the whole process. You need to buy your target car, then purchase masteries on it, then repeat this until you're out of skill points.
 
 Assuming you're starting from the pause menu:
 
@@ -126,9 +126,9 @@ Tip: You may find it slightly easier to left bumper to Toyota then D-Pad left to
 
 Following the process above, we can spend 30 skill points every 49 seconds (for 1 Super Wheelspin AKA 3 Wheelspins). This equates to 36.7 skill points spent per minute or **2,204 skill points spent per hour**.
 
-Using our earlier time of 47 seconds per 10 skill points earned, we can calculate a time of 141 seconds to _earn_ a Super Wheelspin, and 49 seconds to _spend and spin_ a Super Wheelspin, for a total of 190 seconds or **3 minutes 10 seconds per complete Super Wheelspin process**. Around **19 per hour**.
+Using our earlier time of 47 seconds per 10 skill points earned, we can calculate a time of 141 seconds to _earn_ a Super Wheelspin, and 49 seconds to _spend and spin_ a Super Wheelspin, for a total of 190 seconds or **3 minutes 10 seconds per complete Super Wheelspin process**. Around **19 per hour**. Finally, you'll also receive 6000XP per process, for a total of **114,000XP per hour**.
 
-Again using the optimistic 79,762 credits per Wheelspin figure from earlier estimates[^wheelspin-estimates], this would be very approximately **1.5m credits per hour**. Obviously with Wheelspins the rare cars are the priority, but it's some nice bonus change!
+Again using the optimistic 79,762 credits per Wheelspin figure from earlier estimates[^wheelspin-estimates], this would be very approximately **1.5m credits per hour**. Obviously with Wheelspins the rare cars are the priority, but it's some nice bonus credits!
 
 Note that if we had chosen to use the Lambo, the time taken would be slightly more, but we'd only need to buy halve as many cars. However, given the bottleneck is clearly in _earning_ credits, not _spending_ them, this seems a foolish optimisation that is far too expensive.
 
