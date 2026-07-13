@@ -4,6 +4,7 @@ image: /assets/images/banners/fh6-wheelspins.jpg
 tags:
   - Forza Horizon 6
   - Gaming
+last_modified_at: 2027-07-13
 ---
 
 Forza Horizon 6's Wheelspins are an essential way of unlocking rare cars (and earning money), with a total of 46 exclusive cars. To farm them, you'll need a lot of skill points, here's how to get them!
