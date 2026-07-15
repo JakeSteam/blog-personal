@@ -4,12 +4,12 @@ image: /assets/images/banners/fh6-wheelspins.jpg
 tags:
   - Forza Horizon 6
   - Gaming
-last_modified_at: 2027-07-13
+last_modified_at: 2026-07-13
 ---
 
 Forza Horizon 6's Wheelspins are an essential way of unlocking rare cars (and earning money), with a total of 46 exclusive cars. To farm them, you'll need a lot of skill points, here's how to get them!
 
-**WARNING: Changes on 13th July 2027 made this article no longer accurate. Specifically, skill point farming in EventLabs is no longer possible (capped at 1 point), and the Subaru 22B costs 5x more, making the Lambo the better purchase. The previous content is included for reference.**
+**WARNING: Changes on 13th July 2026 made this article no longer accurate. Specifically, skill point farming in EventLabs is no longer possible (capped at 1 point), and the Subaru 22B costs 5x more, making the Lambo the better purchase. The previous content is included for reference.**
 
 ## Overview
 
@@ -19,7 +19,7 @@ Super straightforward, the only complexity is optimising the approach.
 
 ## Earning skill points
 
-**WARNING: Changes on 13th July 2027 made this article no longer accurate. Specifically, skill point farming in EventLabs is no longer possible (capped at 1 point), and the Subaru 22B costs 5x more, making the Lambo the better purchase. The previous content is included for reference.**
+**WARNING: Changes on 13th July 2026 made this article no longer accurate. Specifically, skill point farming in EventLabs is no longer possible (capped at 1 point), and the Subaru 22B costs 5x more, making the Lambo the better purchase. The previous content is included for reference.**
 
 Skill points, earned through (unsurprisingly) completing skills, reward different points depending on complexity. Additionally, they are not earned at a fixed rate per skill, and are instead affected significantly by your car's unlocked masteries, meaning choosing the right car is as important as what activity you do.
 
@@ -86,7 +86,7 @@ That gives us 10 skill points per 47 seconds = 12.76 per minute = **766 skill po
 
 ## Spending skill points
 
-**WARNING: Changes on 13th July 2027 made this article no longer accurate. Specifically, skill point farming in EventLabs is no longer possible (capped at 1 point), and the Subaru 22B costs 5x more, making the Lambo the better purchase. The previous content is included for reference.**
+**WARNING: Changes on 13th July 2026 made this article no longer accurate. Specifically, skill point farming in EventLabs is no longer possible (capped at 1 point), and the Subaru 22B costs 5x more, making the Lambo the better purchase. The previous content is included for reference.**
 
 To convert these points into Wheelspins, we'll be buying Autoshow cars with Super Wheelspins in their skill mastery. For a list of cars that can be won from these Wheelspins, see [u/KillerSpectre21's rare cars Google Sheet](https://docs.google.com/spreadsheets/u/0/d/1anCEWRN_SrteKIznuJLe8TrGXpVF-8vAUrNlb6nAFnM/htmlview#gid=1485355139).
 
@@ -131,7 +131,7 @@ Tip: You may find it slightly easier to left bumper to Toyota then D-Pad left to
 
 ### Totals
 
-**WARNING: Changes on 13th July 2027 made this article no longer accurate. Specifically, skill point farming in EventLabs is no longer possible (capped at 1 point), and the Subaru 22B costs 5x more, making the Lambo the better purchase. The previous content is included for reference.**
+**WARNING: Changes on 13th July 2026 made this article no longer accurate. Specifically, skill point farming in EventLabs is no longer possible (capped at 1 point), and the Subaru 22B costs 5x more, making the Lambo the better purchase. The previous content is included for reference.**
 
 Following the process above, we can spend 30 skill points every 49 seconds (for 1 Super Wheelspin AKA 3 Wheelspins). This equates to 36.7 skill points spent per minute or **2,204 skill points spent per hour**.
 
