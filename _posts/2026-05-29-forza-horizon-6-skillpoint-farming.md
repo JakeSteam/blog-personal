@@ -1,11 +1,13 @@
 ---
-title: The complete guide to efficient skill point & Wheelspin farming in Forza Horizon 6
+title: The [OUTDATED] guide to efficient skill point & Wheelspin farming in Forza Horizon 6
 image: /assets/images/banners/fh6-wheelspins.jpg
 tags:
   - Forza Horizon 6
   - Gaming
-last_modified_at: 2026-07-13
+last_modified_at: 2026-07-23
 ---
+
+# OUTDATED: This guide is no longer valid, [this article](https://www.reddit.com/r/ForzaHorizon6/comments/1v3xtz0/updated_skill_point_farming_method_infinite_money/) has an updated method.
 
 Forza Horizon 6's Wheelspins are an essential way of unlocking rare cars (and earning money), with a total of 46 exclusive cars. To farm them, you'll need a lot of skill points, here's how to get them!
 
